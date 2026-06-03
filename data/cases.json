@@ -1,5 +1,70 @@
 [
   {
+    "id": "c205f429-f5e7-442b-bdd0-c26965f47fc7",
+    "title": "FW: Borrador notificación de cambio de comercializador.",
+    "description": "Ricardo Rabell confirma a Ricardo C. que preparará el borrador de notificación para el cambio de comercializador (Gascorp).\nObjeto: Validar fechas para que el cambio aplique el 1 de agosto (notificación tope 30 de junio).",
+    "source": "Correo: Ricardo Rabell",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-06-30T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T19:06:00.000Z",
+    "createdAt": "2026-06-03T21:00:40.826Z",
+    "updatedAt": "2026-06-03T21:00:40.830Z"
+  },
+  {
+    "id": "731ec6cb-4aca-4603-ad6d-4578897c181a",
+    "title": "FW: LICITACION COMPRA EQUIPO MRU",
+    "description": "David Resendiz envía invitación a reunión sobre LICITACION COMPRA EQUIPO MRU para el viernes 5 de junio a las 12:00 PM.\nObjeto: Sesión en Teams para revisar la licitación del equipo.",
+    "source": "Correo: David Resendiz",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-05T18:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T19:29:00.000Z",
+    "createdAt": "2026-06-03T21:00:40.830Z",
+    "updatedAt": "2026-06-03T21:00:40.830Z"
+  },
+  {
+    "id": "9aa5a109-3bb7-4b31-a93a-d95b9fe1bc05",
+    "title": "FW: One on one Ricardo C.",
+    "description": "Taracena rechaza la sesión de 1-on-1 original (viernes 11:30) y pide reagendarla a las 12:30 PM.\nObjeto: Ajustar el horario de la reunión en el calendario.",
+    "source": "Correo: Taracena",
+    "owner": "Ricardo",
+    "status": "importante",
+    "dueDate": "2026-06-05T18:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T19:45:00.000Z",
+    "createdAt": "2026-06-03T21:00:40.830Z",
+    "updatedAt": "2026-06-03T21:00:40.830Z"
+  },
+  {
+    "id": "ca1af519-4ee2-4fcf-aefc-848e17201cb0",
+    "title": "FW: Comprobación de viáticos - Viaje Marzo CDMX SENER VW Biometano",
+    "description": "Taracena responde 'ok de acuerdo' autorizando la comprobación de viáticos del viaje a Toluca/CDMX de marzo.\nObjeto: Proceder con la captura de facturas en el portal.",
+    "source": "Correo: Taracena",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T19:50:00.000Z",
+    "createdAt": "2026-06-03T21:00:40.830Z",
+    "updatedAt": "2026-06-03T21:00:40.830Z"
+  },
+  {
+    "id": "129c3f04-74c6-4801-81ea-f1c5d3671382",
+    "title": "FW: Secure link to log in to Claude.ai",
+    "description": "Correo automático de Anthropic con enlace mágico de inicio de sesión para Claude.ai.\nObjeto: Archivo / inicio de sesión rutinario.",
+    "source": "Correo: Anthropic",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T19:54:00.000Z",
+    "createdAt": "2026-06-03T21:00:40.830Z",
+    "updatedAt": "2026-06-03T21:00:40.830Z"
+  },
+  {
     "id": "b2a647d8-f80c-493a-9e3d-a590f77ea006",
     "title": "FW: Cuando los gigantes se unen: Siemens, Schneider, Rockwell y Fortinet en una misma mesa | OT Security Summit 2026",
     "description": "Fortinet comparte las grabaciones del evento OT Security Summit 2026 sobre ciberseguridad industrial y convergencia de TI/OT.\nObjeto: Correo informativo/newsletter con material on-demand para consulta técnica en seguridad industrial.",
@@ -18,12 +83,12 @@
     "description": "Berenice Miranda Cruz (Fénix Energía) envía a Ricardo y al equipo de Natgas las facturas de Suministro Eléctrico correspondientes al periodo de mayo 2026.\nObjeto: Revisar y validar los importes cargados por estación para coordinar su debida programación de pago.",
     "source": "Correo: Berenice Miranda",
     "owner": "Ricardo",
-    "status": "importante",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-06-03T17:08:00.000Z",
     "createdAt": "2026-06-03T19:07:44.953Z",
-    "updatedAt": "2026-06-03T19:07:44.953Z"
+    "updatedAt": "2026-06-03T19:39:19.744Z"
   },
   {
     "id": "a7e2b83a-493a-4f2a-b6e8-5dc7f494f002",
@@ -31,12 +96,12 @@
     "description": "Emma Torres Hernández (ASEA) convoca a Ricardo y al grupo de trabajo a la Novena sesión ordinaria del Anteproyecto de NOM el próximo miércoles 10 de junio.\nObjeto: Analizar la minuta y la matriz de comentarios (MRC) adjuntas sobre condiciones de seguridad para recipientes en semirremolques.",
     "source": "Correo: Emma Torres (ASEA)",
     "owner": "Ricardo",
-    "status": "importante",
-    "dueDate": null,
+    "status": "seguimiento",
+    "dueDate": "2026-06-10T13:29:00.000Z",
     "unansweredDays": 0,
     "receivedAt": "2026-06-03T17:05:00.000Z",
     "createdAt": "2026-06-03T19:07:44.953Z",
-    "updatedAt": "2026-06-03T19:07:44.953Z"
+    "updatedAt": "2026-06-03T19:39:44.221Z"
   },
   {
     "id": "c5e648f8-3e9a-4db2-9b6e-dc5c310df003",
@@ -44,12 +109,12 @@
     "description": "Javier Escobedo (Operaciones) da seguimiento con Alonso Samperio y Karina Vielma sobre las visitas de calibración espejo en estaciones.\nObjeto: Validar si el proveedor acudió a realizar la revisión técnica (ej. EDS UNI) o si se cancelan y reagendan los permisos de trabajo correspondientes.",
     "source": "Correo: Javier Escobedo",
     "owner": "Ricardo",
-    "status": "importante",
-    "dueDate": null,
+    "status": "seguimiento",
+    "dueDate": "2026-06-04T20:01:33.967Z",
     "unansweredDays": 0,
     "receivedAt": "2026-06-03T15:49:00.000Z",
     "createdAt": "2026-06-03T19:07:44.953Z",
-    "updatedAt": "2026-06-03T19:07:44.953Z"
+    "updatedAt": "2026-06-03T20:01:18.070Z"
   },
   {
     "id": "e4a2b9f8-b6e8-40b2-9a3d-a590f494f004",
@@ -167,11 +232,11 @@
     "description": "El área de administración/seguros comparte a Ricardo la póliza y estatus de la cobertura de asistencia vial de la flotilla.\nObjeto: Validar la vigencia del servicio y asegurar el soporte ante emergencias de los vehículos operativos.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "notsure",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T13:00:31.633Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T19:19:25.449Z"
   },
   {
     "id": "44c94eaa-437d-43e0-abba-a705eb6d6b9a",
@@ -323,11 +388,11 @@
     "description": "Gascorp hace llegar a Ricardo una propuesta comercial de suministro de gas natural para Querétaro vinculada al índice Waha.\nObjeto: Analizar la competitividad de la oferta de tarifas y comenzar el análisis financiero para la toma de decisiones.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "importante",
-    "dueDate": null,
+    "status": "seguimiento",
+    "dueDate": "2026-06-04T19:39:24.306Z",
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:01:10.368Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T19:39:08.508Z"
   },
   {
     "id": "7abd5a6b-429c-4d70-bbd2-0af4cb25a0ee",
