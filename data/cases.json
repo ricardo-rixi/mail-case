@@ -2,38 +2,38 @@
   {
     "id": "e981d7b9-385c-4dad-90d9-dd3a310d58ea",
     "title": "LIN-Consumo de agua 01062026",
-    "description": "Consumo de agua",
+    "description": "El proveedor/sistema envía a Ricardo el reporte mensual de consumo de agua de la estación Linda Vista (LIN).\nObjeto: Revisar y validar el gasto registrado contra la operación para su control presupuestal.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T17:00:21.710Z",
-    "updatedAt": "2026-06-03T17:00:21.717Z"
+    "updatedAt": "2026-06-03T18:57:28.596Z"
   },
   {
     "id": "0669603b-12b6-4c1f-bf44-f33afd43c70f",
     "title": "COBERTURA AUXILIO VIAL PARA AUTOS DE FLOTILLA NATGAS",
-    "description": "Cobertura auxilio vial autos",
+    "description": "El área de administración/seguros comparte a Ricardo la póliza y estatus de la cobertura de asistencia vial de la flotilla.\nObjeto: Validar la vigencia del servicio y asegurar el soporte ante emergencias de los vehículos operativos.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T17:00:21.717Z",
-    "updatedAt": "2026-06-03T17:00:21.717Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "8acf1193-0697-4d58-b410-2e17aa8bb272",
     "title": "DIFERENCIA EN LECTURAS DE ERM EDS JMC",
-    "description": "Lecturas ERM EDS JMC. Validar con equipo.",
+    "description": "David Martínez y Sergio Landeros reportan a Ricardo y Alonso Samperio una discrepancia en las lecturas de la ERM de la estación JMC.\nObjeto: Solicitar una inspección técnica urgente para corregir la diferencia y evitar desbalances en el balance de gas.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T17:00:21.717Z",
-    "updatedAt": "2026-06-03T17:00:21.717Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "182efc9e-2c78-454e-8428-4bf1fc733bd9",
@@ -50,14 +50,14 @@
   {
     "id": "16daa602-e71b-45c2-a644-dc27defee162",
     "title": "Descripción de Puesto - Coordinador Técnico",
-    "description": "Descripción de Puesto",
+    "description": "Adriana Ávila (RRHH) envía a Ricardo y Juan Carlos Pineda la propuesta de perfil del Coordinador Técnico.\nObjeto: Revisar las responsabilidades y autorizar la nómina/presupuesto asociado para proceder con la vacante.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T17:00:21.717Z",
-    "updatedAt": "2026-06-03T17:00:21.717Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "7e9a179e-4b9c-413c-a4d7-4876c9839025",
@@ -74,38 +74,38 @@
   {
     "id": "a0c5d51a-7eca-480f-9121-28679189c0d1",
     "title": "LIN-Consumo de agua 01062026",
-    "description": "Consumo de agua",
+    "description": "El proveedor/sistema envía a Ricardo el reporte mensual de consumo de agua de la estación Linda Vista (LIN).\nObjeto: Revisar y validar el gasto registrado contra la operación para su control presupuestal.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T13:00:31.626Z",
-    "updatedAt": "2026-06-03T13:00:31.633Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "d38d859d-4c3f-4da0-8ffe-1083259d1914",
     "title": "COBERTURA AUXILIO VIAL PARA AUTOS DE FLOTILLA NATGAS",
-    "description": "Cobertura auxilio vial autos",
+    "description": "El área de administración/seguros comparte a Ricardo la póliza y estatus de la cobertura de asistencia vial de la flotilla.\nObjeto: Validar la vigencia del servicio y asegurar el soporte ante emergencias de los vehículos operativos.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T13:00:31.633Z",
-    "updatedAt": "2026-06-03T13:00:31.633Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "44c94eaa-437d-43e0-abba-a705eb6d6b9a",
     "title": "DIFERENCIA EN LECTURAS DE ERM EDS JMC",
-    "description": "Sergio Alberto Landeros, Alonso Samperio, David Martinez. Reportes de desbalances en estación.",
+    "description": "David Martínez y Sergio Landeros reportan a Ricardo y Alonso Samperio una discrepancia en las lecturas de la ERM de la estación JMC.\nObjeto: Solicitar una inspección técnica urgente para corregir la diferencia y evitar desbalances en el balance de gas.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:00:57.738Z",
-    "updatedAt": "2026-06-03T01:01:08.931Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "5eec4d6a-a6bc-4957-a7d3-8af59f62b030",
@@ -122,14 +122,14 @@
   {
     "id": "f1109d5d-3309-4f06-bf48-e9dacdb18774",
     "title": "Descripción de Puesto - Coordinador Técnico",
-    "description": "Juan Carlos Pineda, Adriana Avila sobre presupuesto de nómina y trainee.",
+    "description": "Adriana Ávila (RRHH) envía a Ricardo y Juan Carlos Pineda la propuesta de perfil del Coordinador Técnico.\nObjeto: Revisar las responsabilidades y autorizar la nómina/presupuesto asociado para proceder con la vacante.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:00:57.738Z",
-    "updatedAt": "2026-06-03T01:01:05.377Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "446cd9f1-e5dc-4718-8e22-16a5e332b39a",
@@ -158,50 +158,50 @@
   {
     "id": "199b50d2-30e5-4ac6-a2fe-7ef4dd4ec313",
     "title": "Solicitud de Modificación/Adecuación PRS-500 BioNatgas (VWS)",
-    "description": "Gabriel Morales (E3) respondió sobre capacidades/requisitos. Fábrica pregunta si Natgas preparará cotización de ingeniería. Pendiente revisar con Isaac.",
+    "description": "Gabriel Morales (E3) solicita a Ricardo confirmación sobre las capacidades del proyecto de adecuación PRS-500.\nObjeto: Definir si Natgas elaborará la cotización de ingeniería técnica, pendiente de validar con Isaac.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T01:01:00.635Z",
-    "updatedAt": "2026-06-03T01:01:00.635Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "524cd07b-8a5e-4f70-a8a9-ca8eeb0a96ef",
     "title": "FW: OC3047755 / 3047756 - IMW COLOMBIA -SURTIDOR TIPO FILL POST",
-    "description": "Procesado FW: OC3047755 / 3047756 - IMW COLOMBIA -SURTIDOR TIPO FILL POST",
+    "description": "Compras/Logística envía a Ricardo las órdenes de compra de surtidores Fill Post fabricados por IMW en Colombia.\nObjeto: Dar seguimiento al estatus de fabricación, logística y tiempos de entrega de los equipos de llenado.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:01:10.368Z",
-    "updatedAt": "2026-06-02T17:01:10.368Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "366c6a11-f85d-4560-8310-48d7f494f138",
     "title": "FW: Pinto de contacto Nstgas - Naturgy",
-    "description": "Procesado FW: Pinto de contacto Nstgas - Naturgy",
+    "description": "La contraparte comercial de Naturgy envía a Ricardo la lista de contactos actualizados de su equipo.\nObjeto: Establecer el canal de comunicación formal para coordinar el suministro de gas natural y temas operativos.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:01:10.368Z",
-    "updatedAt": "2026-06-02T17:01:10.368Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "c3d2672e-3422-4c77-b8d5-4c545339dd04",
     "title": "FW: Pinto de contacto Natgas - Naturgy",
-    "description": "Procesado FW: Pinto de contacto Natgas - Naturgy",
+    "description": "La contraparte comercial de Naturgy envía a Ricardo la lista de contactos actualizados de su equipo.\nObjeto: Establecer el canal de comunicación formal para coordinar el suministro de gas natural y temas operativos.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:01:10.368Z",
-    "updatedAt": "2026-06-02T17:01:10.368Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "13dbb9d9-4790-4834-a75b-190d350eb661",
@@ -242,14 +242,14 @@
   {
     "id": "706116cc-98aa-460a-9324-d1d65170cb71",
     "title": "FW: [GASCORP] Oferta de Gas natural Querétaro - Índice Waha (para fines de discusión)",
-    "description": "Procesado FW: [GASCORP] Oferta de Gas natural Querétaro - Índice Waha (para fines de discusión)",
+    "description": "Gascorp hace llegar a Ricardo una propuesta comercial de suministro de gas natural para Querétaro vinculada al índice Waha.\nObjeto: Analizar la competitividad de la oferta de tarifas y comenzar el análisis financiero para la toma de decisiones.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:01:10.368Z",
-    "updatedAt": "2026-06-03T01:01:24.379Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "7abd5a6b-429c-4d70-bbd2-0af4cb25a0ee",
@@ -302,14 +302,14 @@
   {
     "id": "8df654d1-e224-4bab-aba9-4fa92fa7d9ec",
     "title": "Seguimiento NOM 022",
-    "description": "Pendiente de seguir el tema de la NOM 022 con Taracena.",
+    "description": "Taracena solicita a Ricardo el estatus de las tareas de cumplimiento relacionadas con la NOM-022.\nObjeto: Dar seguimiento puntual a las adecuaciones y documentación de seguridad requeridas por la normatividad.",
     "source": "Correo: Taracena",
     "owner": "Ricardo",
     "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-05-30T08:20:56.994Z",
-    "updatedAt": "2026-05-30T08:24:16.994Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "8545eece-5c7f-404b-a4e3-4a2be7bff1db",
@@ -326,14 +326,14 @@
   {
     "id": "5602b896-e119-4afd-9e4e-72dd17ed1b3c",
     "title": "Revisión Apodaca",
-    "description": "Revisión pendiente del proyecto/sitio Apodaca.",
+    "description": "El equipo técnico de proyectos solicita a Ricardo la validación del estado actual de la obra y trámites en el sitio Apodaca.\nObjeto: Revisar los pendientes físicos y de diseño del proyecto para liberar el plan de trabajo de la siguiente fase.",
     "source": "Correo",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-05-30T08:17:36.994Z",
-    "updatedAt": "2026-05-30T08:24:16.994Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "689eed69-977c-4256-b229-bb379c18e5ea",
@@ -350,14 +350,14 @@
   {
     "id": "ebf5dbd9-e027-43dd-bef4-877bbcbb6114",
     "title": "Informe diario del proyecto - Tareas vencidas",
-    "description": "Informe automatizado. Trae tareas abiertas y vencidas asignadas a ti.",
+    "description": "El sistema Teamwork envía a Ricardo el informe automatizado de actividades y pendientes de la plataforma.\nObjeto: Informar sobre el listado de tareas abiertas y vencidas asignadas a su usuario para coordinar su ejecución inmediata.",
     "source": "Correo: Teamwork",
     "owner": "Ricardo",
     "status": "importante",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-05-30T08:14:16.994Z",
-    "updatedAt": "2026-05-30T08:24:16.994Z"
+    "updatedAt": "2026-06-03T18:57:28.597Z"
   },
   {
     "id": "0e7f5cbc-8cf1-450c-b335-0e3a2e0f33da",
