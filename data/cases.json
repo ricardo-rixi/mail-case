@@ -1,5 +1,83 @@
 [
   {
+    "id": "b2a647d8-f80c-493a-9e3d-a590f77ea006",
+    "title": "FW: Cuando los gigantes se unen: Siemens, Schneider, Rockwell y Fortinet en una misma mesa | OT Security Summit 2026",
+    "description": "Fortinet comparte las grabaciones del evento OT Security Summit 2026 sobre ciberseguridad industrial y convergencia de TI/OT.\nObjeto: Correo informativo/newsletter con material on-demand para consulta técnica en seguridad industrial.",
+    "source": "Correo: Fortinet",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-02T22:02:00.000Z",
+    "createdAt": "2026-06-03T19:07:58.689Z",
+    "updatedAt": "2026-06-03T19:07:58.689Z"
+  },
+  {
+    "id": "f83a48e8-b80c-4040-9a3d-a590f77ea001",
+    "title": "FW: Facturas suministro eléctrico Natgas 1-22 mayo 2026",
+    "description": "Berenice Miranda Cruz (Fénix Energía) envía a Ricardo y al equipo de Natgas las facturas de Suministro Eléctrico correspondientes al periodo de mayo 2026.\nObjeto: Revisar y validar los importes cargados por estación para coordinar su debida programación de pago.",
+    "source": "Correo: Berenice Miranda",
+    "owner": "Ricardo",
+    "status": "importante",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T17:08:00.000Z",
+    "createdAt": "2026-06-03T19:07:44.953Z",
+    "updatedAt": "2026-06-03T19:07:44.953Z"
+  },
+  {
+    "id": "a7e2b83a-493a-4f2a-b6e8-5dc7f494f002",
+    "title": "FW: 8a sesión ordinaria GT CONASEA / / Anteproyecto de NOM de Transporte y Distribución de GNC",
+    "description": "Emma Torres Hernández (ASEA) convoca a Ricardo y al grupo de trabajo a la Novena sesión ordinaria del Anteproyecto de NOM el próximo miércoles 10 de junio.\nObjeto: Analizar la minuta y la matriz de comentarios (MRC) adjuntas sobre condiciones de seguridad para recipientes en semirremolques.",
+    "source": "Correo: Emma Torres (ASEA)",
+    "owner": "Ricardo",
+    "status": "importante",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T17:05:00.000Z",
+    "createdAt": "2026-06-03T19:07:44.953Z",
+    "updatedAt": "2026-06-03T19:07:44.953Z"
+  },
+  {
+    "id": "c5e648f8-3e9a-4db2-9b6e-dc5c310df003",
+    "title": "FW: Solicitud de Permisos de Trabajo, revisión espejo 2026",
+    "description": "Javier Escobedo (Operaciones) da seguimiento con Alonso Samperio y Karina Vielma sobre las visitas de calibración espejo en estaciones.\nObjeto: Validar si el proveedor acudió a realizar la revisión técnica (ej. EDS UNI) o si se cancelan y reagendan los permisos de trabajo correspondientes.",
+    "source": "Correo: Javier Escobedo",
+    "owner": "Ricardo",
+    "status": "importante",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T15:49:00.000Z",
+    "createdAt": "2026-06-03T19:07:44.953Z",
+    "updatedAt": "2026-06-03T19:07:44.953Z"
+  },
+  {
+    "id": "e4a2b9f8-b6e8-40b2-9a3d-a590f494f004",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 03 Jun 2026)",
+    "description": "El sistema Teamwork envía a Ricardo el reporte automatizado de tareas diarias de la plataforma.\nObjeto: Monitorear el avance y pendientes de las obras y trámites regulatorios en las estaciones de servicio para su coordinación interna.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T14:00:00.000Z",
+    "createdAt": "2026-06-03T19:07:44.953Z",
+    "updatedAt": "2026-06-03T19:07:44.953Z"
+  },
+  {
+    "id": "d4c849f8-b6e8-42f2-9a3d-a5c7f494f005",
+    "title": "FW: Informe de mercado de hoy: 02 de junio 📈",
+    "description": "Naturgy México comparte con Ricardo el informe de mercado con índices de precios y tendencias de gas natural.\nObjeto: Analizar el comportamiento de mercado e indicadores para la planeación comercial y costos operativos de Natgas.",
+    "source": "Correo: Naturgy",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-02T23:00:00.000Z",
+    "createdAt": "2026-06-03T19:07:44.953Z",
+    "updatedAt": "2026-06-03T19:07:44.953Z"
+  },
+  {
     "id": "e981d7b9-385c-4dad-90d9-dd3a310d58ea",
     "title": "LIN-Consumo de agua 01062026",
     "description": "El proveedor/sistema envía a Ricardo el reporte mensual de consumo de agua de la estación Linda Vista (LIN).\nObjeto: Revisar y validar el gasto registrado contra la operación para su control presupuestal.",
@@ -305,11 +383,11 @@
     "description": "Taracena solicita a Ricardo el estatus de las tareas de cumplimiento relacionadas con la NOM-022.\nObjeto: Dar seguimiento puntual a las adecuaciones y documentación de seguridad requeridas por la normatividad.",
     "source": "Correo: Taracena",
     "owner": "Ricardo",
-    "status": "urgente",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-05-30T08:20:56.994Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T19:04:13.917Z"
   },
   {
     "id": "8545eece-5c7f-404b-a4e3-4a2be7bff1db",

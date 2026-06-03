@@ -36,17 +36,30 @@ function createCard(item) {
     badgeHtml = `<span class="bg-slate-700 text-slate-300 text-[10px] px-2 py-0.5 rounded border border-slate-600">Agendado: ${new Date(item.dueDate).toLocaleDateString()}</span>`;
   }
 
+  // Format reception date/time (item.receivedAt) on the right
+  const receivedDate = item.receivedAt ? new Date(item.receivedAt) : new Date(item.createdAt);
+  const formattedReceived = receivedDate.toLocaleString('es-MX', {
+    day: '2-digit',
+    month: 'short',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false
+  });
+
   return `
     <div class="bg-slate-800 rounded-lg p-3 flex flex-col shadow-md border ${borderClass} transition-all group">
       <div class="flex justify-between items-start cursor-pointer w-full" onclick="toggleDetails('${item.id}')">
         <div class="flex flex-col w-full pr-2">
-          <span class="text-sm text-slate-100 font-medium break-words">${item.title}</span>
-          <div class="flex items-center gap-2 mt-1">
-            <span class="text-[11px] text-slate-400">${timeAgo(item.updatedAt)}</span>
+          <div class="flex justify-between items-start gap-2 w-full">
+            <span class="text-sm text-slate-100 font-medium break-words">${item.title}</span>
+            <span class="text-[10px] text-slate-400 shrink-0 font-medium bg-slate-900/50 px-1.5 py-0.5 rounded border border-slate-700/50">${formattedReceived}</span>
+          </div>
+          <div class="flex items-center gap-2 mt-2">
+            <span class="text-[11px] text-slate-500">Cargado: ${timeAgo(item.createdAt)}</span>
             ${badgeHtml}
           </div>
         </div>
-        <span class="material-symbols-outlined text-slate-500 transition-transform" id="icon-${item.id}">expand_more</span>
+        <span class="material-symbols-outlined text-slate-500 transition-transform self-center" id="icon-${item.id}">expand_more</span>
       </div>
 
       <div id="details-${item.id}" class="hidden flex-col mt-3 pt-3 border-t border-slate-700 w-full">
