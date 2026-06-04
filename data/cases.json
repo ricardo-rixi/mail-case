@@ -1,5 +1,18 @@
 [
   {
+    "id": "88e65756-244f-4180-a3e5-89a59922c0a8",
+    "title": "FW: One on one Ricardo C.",
+    "description": "José Enrique Taracena Sanz aceptó la reunión One on one Ricardo C. para el viernes 5 de junio a las 12:30 PM.\nObjeto: Confirmación de reunión por Microsoft Teams.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-05T18:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-03T22:06:00.000Z",
+    "createdAt": "2026-06-04T00:00:45.612Z",
+    "updatedAt": "2026-06-04T00:00:45.623Z"
+  },
+  {
     "id": "c205f429-f5e7-442b-bdd0-c26965f47fc7",
     "title": "FW: Borrador notificación de cambio de comercializador.",
     "description": "Ricardo Rabell confirma a Ricardo C. que preparará el borrador de notificación para el cambio de comercializador (Gascorp).\nObjeto: Validar fechas para que el cambio aplique el 1 de agosto (notificación tope 30 de junio).",
@@ -31,12 +44,12 @@
     "description": "Taracena rechaza la sesión de 1-on-1 original (viernes 11:30) y pide reagendarla a las 12:30 PM.\nObjeto: Ajustar el horario de la reunión en el calendario.",
     "source": "Correo: Taracena",
     "owner": "Ricardo",
-    "status": "importante",
-    "dueDate": "2026-06-05T18:30:00.000Z",
+    "status": "evento",
+    "dueDate": "2026-06-04T21:56:24.472Z",
     "unansweredDays": 0,
     "receivedAt": "2026-06-03T19:45:00.000Z",
     "createdAt": "2026-06-03T21:00:40.830Z",
-    "updatedAt": "2026-06-03T21:00:40.830Z"
+    "updatedAt": "2026-06-03T21:56:24.479Z"
   },
   {
     "id": "ca1af519-4ee2-4fcf-aefc-848e17201cb0",
@@ -172,11 +185,11 @@
     "description": "David Martínez y Sergio Landeros reportan a Ricardo y Alonso Samperio una discrepancia en las lecturas de la ERM de la estación JMC.\nObjeto: Solicitar una inspección técnica urgente para corregir la diferencia y evitar desbalances en el balance de gas.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "importante",
-    "dueDate": null,
+    "status": "seguimiento",
+    "dueDate": "2026-06-04T21:57:28.936Z",
     "unansweredDays": 0,
     "createdAt": "2026-06-03T17:00:21.717Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T21:57:28.946Z"
   },
   {
     "id": "182efc9e-2c78-454e-8428-4bf1fc733bd9",
@@ -196,11 +209,11 @@
     "description": "Adriana Ávila (RRHH) envía a Ricardo y Juan Carlos Pineda la propuesta de perfil del Coordinador Técnico.\nObjeto: Revisar las responsabilidades y autorizar la nómina/presupuesto asociado para proceder con la vacante.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "importante",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T17:00:21.717Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T21:57:45.065Z"
   },
   {
     "id": "7e9a179e-4b9c-413c-a4d7-4876c9839025",
@@ -244,11 +257,11 @@
     "description": "David Martínez y Sergio Landeros reportan a Ricardo y Alonso Samperio una discrepancia en las lecturas de la ERM de la estación JMC.\nObjeto: Solicitar una inspección técnica urgente para corregir la diferencia y evitar desbalances en el balance de gas.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "importante",
-    "dueDate": null,
+    "status": "seguimiento",
+    "dueDate": "2026-06-04T21:57:53.366Z",
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:00:57.738Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T21:57:53.369Z"
   },
   {
     "id": "5eec4d6a-a6bc-4957-a7d3-8af59f62b030",
@@ -268,11 +281,11 @@
     "description": "Adriana Ávila (RRHH) envía a Ricardo y Juan Carlos Pineda la propuesta de perfil del Coordinador Técnico.\nObjeto: Revisar las responsabilidades y autorizar la nómina/presupuesto asociado para proceder con la vacante.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "importante",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:00:57.738Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T21:57:03.594Z"
   },
   {
     "id": "446cd9f1-e5dc-4718-8e22-16a5e332b39a",
@@ -304,11 +317,11 @@
     "description": "Gabriel Morales (E3) solicita a Ricardo confirmación sobre las capacidades del proyecto de adecuación PRS-500.\nObjeto: Definir si Natgas elaborará la cotización de ingeniería técnica, pendiente de validar con Isaac.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "importante",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-03T01:01:00.635Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-06-03T21:57:07.487Z"
   },
   {
     "id": "524cd07b-8a5e-4f70-a8a9-ca8eeb0a96ef",
@@ -532,11 +545,11 @@
     "description": "Agendar o asistir a la reunión con Valerio.",
     "source": "Calendario / Correo",
     "owner": "Ricardo",
-    "status": "evento",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-05-30T08:09:16.994Z",
-    "updatedAt": "2026-05-30T08:24:16.994Z"
+    "updatedAt": "2026-06-03T21:55:48.311Z"
   },
   {
     "id": "2547e8bf-5ca6-4a1f-869c-82ca1504fe65",
