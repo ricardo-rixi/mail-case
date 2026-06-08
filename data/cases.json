@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4560-1780952440110",
+    "title": "FW: CONSUMO CFE MAYO",
+    "description": "Lluvia Hernández confirma a Julio Rojas y equipo que la información de los recibos de CFE de mayo ya se cargó a los archivos de Power BI.\nObjeto: Confirmación de carga de datos de consumo eléctrico al sistema de Inteligencia de Negocios.",
+    "source": "Correo: Lluvia Hernández",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T20:09:00.000Z",
+    "createdAt": "2026-06-08T21:00:40.110Z",
+    "updatedAt": "2026-06-08T21:00:40.110Z"
+  },
+  {
+    "id": "email-4561-1780952440111",
+    "title": "FW: Facturas suministro eléctrico Natgas 1-22 mayo 2026",
+    "description": "Lluvia Hernández notifica al equipo que se han cargado los subtotales de las facturas de suministro eléctrico de Fénix Energía (1-22 mayo).\nObjeto: Confirmación de carga de datos de facturación eléctrica.",
+    "source": "Correo: Lluvia Hernández",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T20:22:00.000Z",
+    "createdAt": "2026-06-08T21:00:40.110Z",
+    "updatedAt": "2026-06-08T21:00:40.110Z"
+  },
+  {
     "id": "email-4559-1780948866868",
     "title": "FW: Tienes una actualización en tu solicitud de Vacaciones",
     "description": "Humand notifica la aprobación y actualización de la solicitud de vacaciones de Ricardo.\nObjeto: Informar la confirmación de vacaciones programadas del 18 de junio al 2 de julio de 2026.",
