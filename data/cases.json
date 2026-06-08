@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4559-1780948866868",
+    "title": "FW: Tienes una actualización en tu solicitud de Vacaciones",
+    "description": "Humand notifica la aprobación y actualización de la solicitud de vacaciones de Ricardo.\nObjeto: Informar la confirmación de vacaciones programadas del 18 de junio al 2 de julio de 2026.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T19:24:00.000Z",
+    "createdAt": "2026-06-08T20:00:00.000Z",
+    "updatedAt": "2026-06-08T20:00:00.000Z"
+  },
+  {
+    "id": "email-4558-1780948866870",
+    "title": "FW: Solicitud de Modificación/Adecuación PRS-500 BioNatgas (VWS)",
+    "description": "Isaac Reynoso solicita a Gabriel Morales (E3) la cotización y filosofía de operación para la adecuación de la descompresora PRS-500.\nObjeto: Validar técnica y financieramente las modificaciones al equipo para el proyecto de Volkswagen.",
+    "source": "Correo: Isaac Eli Reynoso Ortega",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T18:13:00.000Z",
+    "createdAt": "2026-06-08T20:00:00.000Z",
+    "updatedAt": "2026-06-08T20:00:00.000Z"
+  },
+  {
+    "id": "email-4557-1780948866871",
+    "title": "FW: REVISION CONTRATO COMPRA SKID",
+    "description": "Ricardo Rabell solicita a David Resendiz cargar la revisión del contrato en el SharePoint de Legal.\nObjeto: Completar el proceso de revisión legal del contrato de compra de SKIDs a través de Forms/SharePoint.",
+    "source": "Correo: Ricardo Rabell",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T18:06:00.000Z",
+    "createdAt": "2026-06-08T20:00:00.000Z",
+    "updatedAt": "2026-06-08T20:00:00.000Z"
+  },
+  {
+    "id": "email-4556-1780948866872",
+    "title": "FW: SEGUIMIENTO: Cromatografía Naturgy mayo 2026 - GRUPO NATGAS",
+    "description": "Abraham Benegasi (Naturgy) envía a Alonso Samperio las cromatografías del mes de mayo 2026.\nObjeto: Recibir y revisar los reportes de calidad de gas natural para distintas zonas de operación.",
+    "source": "Correo: Abraham Benegasi",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T18:00:00.000Z",
+    "createdAt": "2026-06-08T20:00:00.000Z",
+    "updatedAt": "2026-06-08T20:00:00.000Z"
+  },
+  {
     "id": "email-4546-1780941684336",
     "title": "FW: REPORTE MAYO 2026 - PAQUETERIA",
     "description": "Envío del reporte mensual de paquetería correspondiente a mayo de 2026.\nObjeto: Revisión de consumos y envíos del área operativa.",
