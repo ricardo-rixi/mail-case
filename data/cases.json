@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4562-1781031600000",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Humand (Comunicación Interna) notifica a Ricardo sobre una dinámica recreativa: la 'Quiniela Mundialista de Natgas'.\nObjeto: Informar sobre una nueva publicación y fomentar la participación en actividades internas de la empresa.\nInterpretación: Correo informativo general automático sin requerimientos técnicos ni operativos urgentes.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T21:34:00.000Z",
+    "createdAt": "2026-06-08T22:00:30.000Z",
+    "updatedAt": "2026-06-08T22:00:30.000Z"
+  },
+  {
+    "id": "email-4553-1781031600001",
+    "title": "FW: Cromatografía Mexicana de Gas mayo 2026",
+    "description": "Alonso Samperio solicita a Alberto Reyes (Diavaz) compartir las cromatografías de mayo para las estaciones Apodaca y Universidad.\nObjeto: Obtener los reportes de calidad de gas del mes anterior para ambas estaciones.\nInterpretación: Solicitud técnica de rutina en la cual Ricardo se encuentra copiado para conocimiento y seguimiento de calidad.",
+    "source": "Correo: Alonso Samperio",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T17:57:00.000Z",
+    "createdAt": "2026-06-08T22:00:30.000Z",
+    "updatedAt": "2026-06-08T22:00:30.000Z"
+  },
+  {
     "id": "email-4560-1780952440110",
     "title": "FW: CONSUMO CFE MAYO",
     "description": "Lluvia Hernández confirma a Julio Rojas y equipo que la información de los recibos de CFE de mayo ya se cargó a los archivos de Power BI.\nObjeto: Confirmación de carga de datos de consumo eléctrico al sistema de Inteligencia de Negocios.",
