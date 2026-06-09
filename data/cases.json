@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4565-1780963253641",
+    "title": "FW: Solicitud de Permisos de Trabajo, revisión espejo 2026",
+    "description": "Javier Escobedo confirma a Karina Vielma y al equipo operativo que el permiso de trabajo ha sido marcado como cancelado.\nObjeto: Cerrar formalmente el folio del permiso que no fue ejecutado.\nInterpretación: Notificación de cancelación operativa rutinaria, cerrando el seguimiento de esta visita en campo.",
+    "source": "Correo: Javier Escobedo",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T23:52:29.000Z",
+    "createdAt": "2026-06-09T00:00:53.641Z",
+    "updatedAt": "2026-06-09T00:00:53.871Z"
+  },
+  {
+    "id": "email-4564-1780963253871",
+    "title": "FW: Borrador de Contrato - Descompresora Javhi",
+    "description": "Samuel Torres (Gas Natural Servicios) envía a Ricardo información complementaria y solicita confirmar si los gastos de flete y aduana deben sumarse al costo de la PRU en la facturación final.\nObjeto: Validar el desglose financiero en la factura del contrato de compraventa.\nInterpretación: El proveedor requiere aprobación explícita de Ricardo sobre la estructura de la facturación para proceder con la emisión.",
+    "source": "Correo: Samuel Torres",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T23:38:58.000Z",
+    "createdAt": "2026-06-09T00:00:53.872Z",
+    "updatedAt": "2026-06-09T00:00:53.872Z"
+  },
+  {
+    "id": "email-4563-1780963253872",
+    "title": "FW: Solicitud de Permisos de Trabajo, revisión espejo 2026",
+    "description": "Karina Vielma informa a Javier Escobedo y Alonso Samperio que el trabajo de revisión espejo en la estación EDS Universidad aún no se ha realizado.\nObjeto: Reportar el incumplimiento de la visita programada del proveedor.\nInterpretación: Aviso operativo que motivó la posterior cancelación del permiso correspondiente.",
+    "source": "Correo: Karina Vielma",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T22:29:11.000Z",
+    "createdAt": "2026-06-09T00:00:53.872Z",
+    "updatedAt": "2026-06-09T00:00:53.872Z"
+  },
+  {
     "id": "email-4562-1781031600000",
     "title": "FW: Comunicación Interna publicó una novedad importante",
     "description": "Humand (Comunicación Interna) notifica a Ricardo sobre una dinámica recreativa: la 'Quiniela Mundialista de Natgas'.\nObjeto: Informar sobre una nueva publicación y fomentar la participación en actividades internas de la empresa.\nInterpretación: Correo informativo general automático sin requerimientos técnicos ni operativos urgentes.",
