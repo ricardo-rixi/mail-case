@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4570-1780977702585",
+    "title": "Nuevos ajustes de privacidad para los servicios de la Búsqueda",
+    "description": "Google notifica a Ricardo Carmona sobre actualizaciones en los ajustes de privacidad e historial de búsqueda.\nObjeto: Informar a los usuarios sobre el control del historial y las recomendaciones.\nInterpretación: Notificación general de actualización de políticas y términos de servicio; no requiere acción inmediata.",
+    "source": "Correo: Google",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T20:34:00.000Z",
+    "createdAt": "2026-06-09T04:01:42.585Z",
+    "updatedAt": "2026-06-09T04:01:42.589Z"
+  },
+  {
+    "id": "email-4569-1780977702590",
+    "title": "FW: REVISION CONTRATO COMPRA SKID",
+    "description": "David Resendiz informa a Ricardo Rabell, Luis Alberto Carvajal y Rosa Martha Manjarrez que la solicitud de revisión del contrato fue enviada.\nObjeto: Confirmar la carga del contrato en el SharePoint legal.\nInterpretación: Seguimiento administrativo informando que el trámite para validar la compra de SKIDs avanza en el área legal.",
+    "source": "Correo: David Resendiz Rojo",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T01:37:00.000Z",
+    "createdAt": "2026-06-09T04:01:42.589Z",
+    "updatedAt": "2026-06-09T04:01:42.589Z"
+  },
+  {
+    "id": "email-4545-1780977702591",
+    "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
+    "description": "Sergio Alberto Landeros solicita a Alonso Samperio la revisión de diferencias negativas continuas en las lecturas de la EDS JMC desde el 05/06/2026.\nObjeto: Reportar y validar una discrepancia de volumen en la ERM.\nInterpretación: Reporte operativo por desbalance de gas, esperando revisión técnica del coordinador.",
+    "source": "Correo: Sergio Alberto Landeros Guerrero",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T17:10:00.000Z",
+    "createdAt": "2026-06-09T04:01:42.589Z",
+    "updatedAt": "2026-06-09T04:01:42.589Z"
+  },
+  {
+    "id": "email-4544-1780977702592",
+    "title": "FW: Your Power BI digest: Top picks and favorites",
+    "description": "Microsoft Power BI envía a Ricardo Carmona un resumen automático de la actividad reciente en los tableros de inteligencia de negocios.\nObjeto: Presentar métricas y reportes frecuentes (ventas, balances de gas).\nInterpretación: Correo informativo automático generado por la plataforma sobre el uso de dashboards.",
+    "source": "Correo: Microsoft Power BI",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-08T17:10:00.000Z",
+    "createdAt": "2026-06-09T04:01:42.589Z",
+    "updatedAt": "2026-06-09T04:01:42.589Z"
+  },
+  {
     "id": "email-4565-1780963253641",
     "title": "FW: Solicitud de Permisos de Trabajo, revisión espejo 2026",
     "description": "Javier Escobedo confirma a Karina Vielma y al equipo operativo que el permiso de trabajo ha sido marcado como cancelado.\nObjeto: Cerrar formalmente el folio del permiso que no fue ejecutado.\nInterpretación: Notificación de cancelación operativa rutinaria, cerrando el seguimiento de esta visita en campo.",
