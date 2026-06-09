@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4568-1781100000001",
+    "title": "FW: Visita Maxxgas",
+    "description": "José Enrique Taracena Sanz convoca a Ricardo y al equipo a la reunión 'Visita Maxxgas'.\nObjeto: Sesión de trabajo presencial/Teams el miércoles 10 de junio a las 10:30 AM.\nInterpretación: Invitación a evento de agenda para coordinar seguimiento con el proveedor/cliente Maxxgas.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-10T17:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T00:17:00.000Z",
+    "createdAt": "2026-06-09T13:01:10.188Z",
+    "updatedAt": "2026-06-09T13:01:10.196Z"
+  },
+  {
+    "id": "email-4566-1781100000002",
+    "title": "FW: Solicitud Calidad GN / Querétaro - SLP",
+    "description": "Fabio Ardila solicita a Ricardo las cromatografías del gas despachado en Querétaro y SLP.\nObjeto: Proveer la información de calidad de gas para que un cliente optimice el rendimiento de los motores de sus tractocamiones.\nInterpretación: Solicitud técnica comercial directa; requiere recopilar y enviar los reportes actualizados.",
+    "source": "Correo: Fabio Giovanny Ardila Castro",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-06-11T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T00:15:00.000Z",
+    "createdAt": "2026-06-09T13:01:10.196Z",
+    "updatedAt": "2026-06-09T13:01:10.196Z"
+  },
+  {
     "id": "email-4570-1780977702585",
     "title": "Nuevos ajustes de privacidad para los servicios de la Búsqueda",
     "description": "Google notifica a Ricardo Carmona sobre actualizaciones en los ajustes de privacidad e historial de búsqueda.\nObjeto: Informar a los usuarios sobre el control del historial y las recomendaciones.\nInterpretación: Notificación general de actualización de políticas y términos de servicio; no requiere acción inmediata.",
