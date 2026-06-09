@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4583-1781038171000",
+    "title": "FW: Favor de revisar y confirmar de enterado el documento POL-TYC-001.aspx",
+    "description": "Microsoft Power Automate (Sistema de Gestión de Calidad) solicita a Ricardo confirmar de enterado el documento POL-TYC-001.aspx.\nObjeto: Completar el flujo de lectura y aceptación de la política.\nInterpretación: Trámite interno de cumplimiento; requiere ingresar al portal y aprobar.",
+    "source": "Correo: Microsoft Power Automate",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T20:49:00.000Z",
+    "createdAt": "2026-06-09T21:00:42.434Z",
+    "updatedAt": "2026-06-09T21:00:42.434Z"
+  },
+  {
     "id": "email-4582-1781031840000",
     "title": "FW: NATGAS | Palo Alto - MEXCOM - Propuestas de Inversión de EDS",
     "description": "Sabrina Reismann (ENGIE) confirma a Ricardo Carmona el acuerdo de conexión para la estación Palo Alto con las condiciones solicitadas.\nObjeto: Informar que el contrato modificado será enviado la próxima semana tras validación legal.\nInterpretación: Confirmación de avance comercial; Ricardo debe esperar el borrador del contrato para su revisión final.",
