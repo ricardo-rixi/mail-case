@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4580-1781024400000",
+    "title": "FW: Folio: 1162 Re: REVISION CONTRATO COMPRA SKID",
+    "description": "Ricardo Rabell comparte con David Resendiz el contrato de compra de 5 SKIDs (Sinoma) ya con el sello legal correspondiente para firma.\nObjeto: Adjuntar el documento validado para continuar con el proceso de firmas mediante DocuSign.\nInterpretación: Avance del trámite legal y administrativo para la adquisición de equipos.",
+    "source": "Correo: Ricardo Rabell Velázquez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T16:02:32.000Z",
+    "createdAt": "2026-06-09T17:01:00.000Z",
+    "updatedAt": "2026-06-09T17:01:00.000Z"
+  },
+  {
+    "id": "email-4571-1781013606000",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Tuesday 09 Jun 2026)",
+    "description": "Teamwork envía a Ricardo el informe automatizado de actividades y pendientes (Colón MTY, Comercialización, Descompresión CKR+JAV, Resinueva, etc.).\nObjeto: Presentar el resumen de tareas asignadas y vencidas para revisión diaria.\nInterpretación: Correo de estatus de sistema; no requiere respuesta directa, solo revisión interna.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T14:00:06.000Z",
+    "createdAt": "2026-06-09T17:01:00.000Z",
+    "updatedAt": "2026-06-09T17:01:00.000Z"
+  },
+  {
     "id": "email-4579-1781020888324",
     "title": "FW: Comprobante Fiscal OO00035767",
     "description": "GDF SUEZ MEXICO (ENGIE) envía los comprobantes fiscales digitales (PDF y XML) de la factura OO00035767 a Natgas Querétaro.\nObjeto: Envío automático de facturación para su procesamiento contable.\nInterpretación: Documentación fiscal recibida; requiere envío al área de finanzas o resguardo para conciliación.",
