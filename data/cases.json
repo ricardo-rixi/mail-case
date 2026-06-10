@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4593-1781096453084",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 10 Jun 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencidas.\nObjeto: Revisar el avance y fechas límite de proyectos activos (Colón MTY, Comercialización, etc.).\nInterpretación: Notificación automática del sistema para control y seguimiento interno; no requiere respuesta directa.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T14:00:00.000Z",
+    "createdAt": "2026-06-10T14:00:00.000Z",
+    "updatedAt": "2026-06-10T14:00:00.000Z"
+  },
+  {
     "id": "email-4592-1781096453083",
     "title": "FW: REPORTE MAYO 2026 - PAQUETERIA",
     "description": "Gabriel Juarez Gudiño comparte con Mariana Hernández y el equipo la EM correspondiente a los envíos de paquetería de mayo.\nObjeto: Completar el reporte de gastos de mensajería solicitado a las áreas.\nInterpretación: Seguimiento administrativo interno; Ricardo se encuentra en copia para conocimiento de los gastos reportados.",
