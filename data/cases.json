@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4588-1781053270952",
+    "title": "FW: SGC: Seguimiento a aprobaciones",
+    "description": "Hector Hernandez Rangel solicita a Ricardo Carmona y otros responsables la aprobación pendiente del procedimiento PRO-PYC-003.\nObjeto: Revisar y autorizar el documento 'Inicio, control y cierre de obras de construcción' en el SGC.\nInterpretación: Trámite interno de cumplimiento; requiere acción directa de Ricardo antes del 21/06/2026.",
+    "source": "Correo: Hector Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-06-21T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T00:32:25.000Z",
+    "createdAt": "2026-06-10T01:01:10.952Z",
+    "updatedAt": "2026-06-10T01:01:10.953Z"
+  },
+  {
     "id": "email-4587-1781049980723",
     "title": "FW: Solicitud de Compra - Medidores Másicos Intermedios - PNT y CEC",
     "description": "Carlos Fernando Gonzalez Ramirez informa a Neyda Gonzalez, Ricardo Carmona y Paola Hernandez los números de activo fijo creados (CONS34504 y CONS34505) para los medidores másicos.\nObjeto: Confirmar la creación de activos fijos solicitada para proceder con la compra.\nInterpretación: Notificación administrativa de avance en el trámite de compra; no requiere acción técnica inmediata.",
