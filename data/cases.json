@@ -1909,5 +1909,31 @@
     "unansweredDays": 0,
     "createdAt": "2026-05-28T18:00:00.000Z",
     "updatedAt": "2026-05-30T01:00:00.000Z"
+  },
+  {
+    "id": "email-4490-1781128922132",
+    "title": "FW: Adeudo Natgas - NXT",
+    "description": "Nueva solicitud/correo recibido.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T19:22:00.000Z",
+    "createdAt": "2026-06-10T22:02:02.132Z",
+    "updatedAt": "2026-06-10T22:02:02.132Z"
+  },
+  {
+    "id": "email-4489-1781128923737",
+    "title": "FW: Rosa Martha  Manjarrez Trejo envió un mensaje",
+    "description": "Nueva solicitud/correo recibido.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T18:48:00.000Z",
+    "createdAt": "2026-06-10T22:02:03.737Z",
+    "updatedAt": "2026-06-10T22:02:03.737Z"
   }
 ]
