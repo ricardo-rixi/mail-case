@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4498-1781064000000",
+    "title": "FW: Certifica como líder ágil y destaca tu perfil",
+    "description": "Ruby Sada de Expert PM Solutions invita a Ricardo Carmona al entrenamiento 'Liderazgo ágil y bases de agilidad empresarial' (con certificación Agile Leader).\nObjeto: Promocionar un curso de capacitación directiva para fines de semana en junio.\nInterpretación: Correo publicitario o promocional; no requiere acción operativa a menos que Ricardo decida tomar el curso.",
+    "source": "Correo: ruby.sada@expert-pms.com",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T21:48:00.000Z",
+    "createdAt": "2026-06-10T11:00:00.000Z",
+    "updatedAt": "2026-06-10T11:00:00.000Z"
+  },
+  {
+    "id": "email-4497-1781064000001",
+    "title": "FW: OC 3048692 Plan de vigilancias Natgas Revisión 4",
+    "description": "Grupo Isea confirma a Ricardo Carmona y Alonso Samperio que las visitas del plan de vigilancias (medición espejo) fueron realizadas en mayo y adjunta una liga de WeTransfer con los archivos.\nObjeto: Entregar las evidencias y reportes técnicos de las estaciones visitadas.\nInterpretación: Confirmación del proveedor sobre el servicio ejecutado; requiere descargar los archivos antes de que caduque el enlace y validar la ejecución técnica.",
+    "source": "Correo: cotizaciones@grupoisea.com",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-06-07T21:36:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T21:36:43.000Z",
+    "createdAt": "2026-06-10T11:00:00.000Z",
+    "updatedAt": "2026-06-10T11:00:00.000Z"
+  },
+  {
     "id": "email-4598-1781110000002",
     "title": "FW: Cromatografía Mexicana de Gas mayo 2026",
     "description": "Alberto Reyes (Mexicana de Gas) comparte con Alonso Samperio los reportes de cromatografía del mes de mayo para las estaciones Apodaca y Universidad.\nObjeto: Proveer los análisis de calidad de gas solicitados mediante archivos adjuntos.\nInterpretación: Solicitud completada por el proveedor; no requiere acción adicional más que resguardar y procesar los datos.",
