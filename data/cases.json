@@ -1935,5 +1935,44 @@
     "receivedAt": "2026-06-04T18:48:00.000Z",
     "createdAt": "2026-06-10T22:02:03.737Z",
     "updatedAt": "2026-06-10T22:02:03.737Z"
+  },
+  {
+    "id": "email-4603-1781128935893",
+    "title": "🦺 The key to staying on schedule",
+    "description": "John de TeamGantt envía newsletter sobre seguimiento de proyectos. Objeto: Plan Up method. Interpretación: Correo promocional/informativo.",
+    "source": "Correo: John @ TeamGantt",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T21:41:00Z",
+    "createdAt": "2026-06-10T22:02:15.893Z",
+    "updatedAt": "2026-06-10T22:02:15.893Z"
+  },
+  {
+    "id": "email-4496-1781128935893",
+    "title": "FW: Tu tiempo de estudio en mayo",
+    "description": "UBITS reporta tiempo de estudio. Objeto: Cero progreso en formación. Interpretación: Correo informativo.",
+    "source": "Correo: Sistema UBITS",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T21:31:00Z",
+    "createdAt": "2026-06-10T22:02:15.893Z",
+    "updatedAt": "2026-06-10T22:02:15.893Z"
+  },
+  {
+    "id": "email-4495-1781128935893",
+    "title": "FW: PRO-PYC-004 Control de cambios a proyectos",
+    "description": "Power Automate solicita aprobación para control de cambios. Objeto: Aprobar/rechazar en portal. Interpretación: Requiere acción en SGC.",
+    "source": "Correo: Microsoft Power Automate",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T21:05:00Z",
+    "createdAt": "2026-06-10T22:02:15.893Z",
+    "updatedAt": "2026-06-10T22:02:15.893Z"
   }
 ]
