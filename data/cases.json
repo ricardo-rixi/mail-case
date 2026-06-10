@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4590-1781056955294",
+    "title": "FW: 9a sesión ordinaria GT CONASEA / / Anteproyecto de NOM de Transporte y Distribución de GNC",
+    "description": "Emma Torres Hernández (ASEA) convoca a Ricardo y al grupo de trabajo a la 9a sesión ordinaria del GT CONASEA el miércoles 10 de junio.\nObjeto: Sesión virtual para discutir el Anteproyecto de NOM sobre recipientes de GNC; se solicita confirmación de asistencia.\nInterpretación: Convocatoria oficial de la ASEA para sesión de grupo de trabajo; requiere confirmación y asistencia de Ricardo.",
+    "source": "Correo: Emma Torres Hernández (ASEA)",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-10T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T01:14:00.000Z",
+    "createdAt": "2026-06-10T02:00:00.000Z",
+    "updatedAt": "2026-06-10T02:00:00.000Z"
+  },
+  {
+    "id": "email-4589-1781056955295",
+    "title": "FW: Facturas ENGIE MAYO",
+    "description": "ENGIE (GDF SUEZ MEXICO COMERCIALIZADORA) hace llegar a Natgas Querétaro las facturas correspondientes a compraventa y transporte de gas de mayo.\nObjeto: Envío de comprobantes fiscales digitales (XML y PDF) para su gestión.\nInterpretación: Documentación fiscal recibida; requiere envío al área de finanzas o administración para su procesamiento contable.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano (FW ENGIE)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T01:12:00.000Z",
+    "createdAt": "2026-06-10T02:00:00.000Z",
+    "updatedAt": "2026-06-10T02:00:00.000Z"
+  },
+  {
     "id": "email-4588-1781053270952",
     "title": "FW: SGC: Seguimiento a aprobaciones",
     "description": "Hector Hernandez Rangel solicita a Ricardo Carmona y otros responsables la aprobación pendiente del procedimiento PRO-PYC-003.\nObjeto: Revisar y autorizar el documento 'Inicio, control y cierre de obras de construcción' en el SGC.\nInterpretación: Trámite interno de cumplimiento; requiere acción directa de Ricardo antes del 21/06/2026.",
