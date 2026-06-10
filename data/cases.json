@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4587-1781049980723",
+    "title": "FW: Solicitud de Compra - Medidores Másicos Intermedios - PNT y CEC",
+    "description": "Carlos Fernando Gonzalez Ramirez informa a Neyda Gonzalez, Ricardo Carmona y Paola Hernandez los números de activo fijo creados (CONS34504 y CONS34505) para los medidores másicos.\nObjeto: Confirmar la creación de activos fijos solicitada para proceder con la compra.\nInterpretación: Notificación administrativa de avance en el trámite de compra; no requiere acción técnica inmediata.",
+    "source": "Correo: Carlos Fernando Gonzalez Ramirez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T23:44:00.000Z",
+    "createdAt": "2026-06-10T00:06:20.723Z",
+    "updatedAt": "2026-06-10T00:06:20.723Z"
+  },
+  {
+    "id": "email-4586-1781049980724",
+    "title": "FW: Solicitud de Compra - Medidores Másicos Intermedios - PNT y CEC",
+    "description": "Neyda Yudith Gonzalez Silva solicita a Carlos Fernando Gonzalez Ramirez su apoyo para dar de alta los activos fijos (medidores másicos) de PNT y CEC.\nObjeto: Gestionar el alta administrativa de los equipos para continuar con su compra.\nInterpretación: Solicitud administrativa interna entre áreas; Ricardo se encuentra en copia para seguimiento.",
+    "source": "Correo: Neyda Yudith Gonzalez Silva",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T23:36:00.000Z",
+    "createdAt": "2026-06-10T00:06:20.723Z",
+    "updatedAt": "2026-06-10T00:06:20.723Z"
+  },
+  {
+    "id": "email-4585-1781049980725",
+    "title": "FW: Informe de mercado de hoy: 09 de junio 📈",
+    "description": "Naturgy México comparte con Ricardo Carmona el informe diario de mercado de gas natural correspondiente al 09 de junio.\nObjeto: Proveer indicadores de precios y tendencias del sector energético.\nInterpretación: Correo informativo automático; solo para revisión y conocimiento general.",
+    "source": "Correo: Naturgy México",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-09T22:55:00.000Z",
+    "createdAt": "2026-06-10T00:06:20.723Z",
+    "updatedAt": "2026-06-10T00:06:20.723Z"
+  },
+  {
     "id": "email-4584-1781042220000",
     "title": "FW: [GASCORP] Oferta de Gas natural Querétaro - Índice Waha (para fines de discusión)",
     "description": "José Enrique Taracena aclara a Ricardo Carmona y equipo que la nota de crédito de Gascorp aplica para restar la cuenta por pagar de transporte y comercialización.\nObjeto: Corregir la interpretación sobre la aplicación de saldos negativos del índice Waha.\nInterpretación: Aclaración ejecutiva interna; Ricardo debe considerarlo para la reunión con Gascorp.",
