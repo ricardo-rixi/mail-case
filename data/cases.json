@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4599-1781121640393",
+    "title": "FW: Facturas 2da Quincena Mayo",
+    "description": "Julio Cesar Rojas Rangel solicita a Nurit Samaniego de DIAVAZ el envío de las facturas correspondientes a la segunda quincena de mayo.\nObjeto: Requerir la documentación fiscal pendiente para procesamiento de pagos.\nInterpretación: Trámite administrativo en seguimiento; se espera la respuesta del proveedor.",
+    "source": "Correo: Julio Cesar Rojas Rangel",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T18:51:38.000Z",
+    "createdAt": "2026-06-10T20:00:40.392Z",
+    "updatedAt": "2026-06-10T20:00:40.392Z"
+  },
+  {
+    "id": "email-4600-1781121640394",
+    "title": "FW: Facturas 2da Quincena Mayo",
+    "description": "Nurit Samaniego de DIAVAZ envía a Julio Cesar Rojas Rangel y equipo las facturas de la segunda quincena de mayo en respuesta a la solicitud.\nObjeto: Entregar los comprobantes fiscales requeridos.\nInterpretación: Solicitud completada por el proveedor; los documentos deben ser resguardados y enviados a finanzas para su pago.",
+    "source": "Correo: Nurit Samaniego",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T19:18:31.000Z",
+    "createdAt": "2026-06-10T20:00:40.392Z",
+    "updatedAt": "2026-06-10T20:00:40.392Z"
+  },
+  {
+    "id": "email-4601-1781121640395",
+    "title": "FW: Alerta de seguridad",
+    "description": "Google notifica a Ricardo Carmona sobre un nuevo acceso a su cuenta desde un dispositivo Windows.\nObjeto: Alerta de seguridad automatizada para prevención de accesos no autorizados.\nInterpretación: Correo informativo de seguridad; revisar actividad solo si el acceso es desconocido.",
+    "source": "Correo: Google",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T19:41:05.000Z",
+    "createdAt": "2026-06-10T20:00:40.392Z",
+    "updatedAt": "2026-06-10T20:00:40.392Z"
+  },
+  {
     "id": "email-4498-1781064000000",
     "title": "FW: Certifica como líder ágil y destaca tu perfil",
     "description": "Ruby Sada de Expert PM Solutions invita a Ricardo Carmona al entrenamiento 'Liderazgo ágil y bases de agilidad empresarial' (con certificación Agile Leader).\nObjeto: Promocionar un curso de capacitación directiva para fines de semana en junio.\nInterpretación: Correo publicitario o promocional; no requiere acción operativa a menos que Ricardo decida tomar el curso.",
