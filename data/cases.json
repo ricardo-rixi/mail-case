@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4598-1781110000002",
+    "title": "FW: Cromatografía Mexicana de Gas mayo 2026",
+    "description": "Alberto Reyes (Mexicana de Gas) comparte con Alonso Samperio los reportes de cromatografía del mes de mayo para las estaciones Apodaca y Universidad.\nObjeto: Proveer los análisis de calidad de gas solicitados mediante archivos adjuntos.\nInterpretación: Solicitud completada por el proveedor; no requiere acción adicional más que resguardar y procesar los datos.",
+    "source": "Correo: Alberto Reyes",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T16:49:00.000Z",
+    "createdAt": "2026-06-10T17:00:00.000Z",
+    "updatedAt": "2026-06-10T17:00:00.000Z"
+  },
+  {
+    "id": "email-4597-1781110000001",
+    "title": "FW: Borrador de Contrato - Descompresora Javhi",
+    "description": "Samuel Torres (Gas Natural Servicios) envía a Ricardo la información técnica solicitada del Poste de Descarga, adjuntando la ficha técnica respectiva.\nObjeto: Proveer parámetros de diseño y operación requeridos para integrar el contrato de compraventa y continuar su trámite ante la CNE.\nInterpretación: Trámite en avance; el equipo de Natgas debe validar los datos y terminar de rellenar el contrato para su firma.",
+    "source": "Correo: Samuel Torres García",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T16:41:00.000Z",
+    "createdAt": "2026-06-10T17:00:00.000Z",
+    "updatedAt": "2026-06-10T17:00:00.000Z"
+  },
+  {
     "id": "email-4596-1781107247680",
     "title": "FW: Solicitud de Compra - Medidores Másicos Intermedios - PNT y CEC",
     "description": "Neyda Gonzalez comparte las solicitudes de compra (SOC 1026287 y 1026288) de medidores másicos a Marlet Chavez para generar las OC.\nObjeto: Solicitar las Órdenes de Compra para los medidores de PNT y CEC.\nInterpretación: Marlet redirecciona la atención a David Resendiz por ser de DTE; trámite interno de compras en avance. Ricardo en copia para seguimiento.",
