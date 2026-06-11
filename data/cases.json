@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4606-1781136110938256",
+    "title": "FW: CONTRATO CARTA DE CREDITO STANDBY (Actualización)",
+    "description": "Manuel Alejandro Gómez (Natgas) solicita a José Carlos Niño (Santander) una copia firmada de la carta de crédito standby por parte de FENIX.\nObjeto: Obtener el documento formalizado del contrato bancario.\nInterpretación: Trámite administrativo-financiero para cierre documental de la línea de crédito.",
+    "source": "Correo: Manuel Alejandro Gómez Velazquez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T23:50:13.000Z",
+    "createdAt": "2026-06-11T00:01:50.938Z",
+    "updatedAt": "2026-06-11T00:01:50.938Z"
+  },
+  {
+    "id": "email-4604-1781136100399918",
+    "title": "FW: Consumo  5- minutal facturas suministro eléctrico Natgas 1-22 mayo 2026",
+    "description": "Berenice Miranda Cruz (Fénix Energía) envía al equipo de Natgas el reporte de consumo eléctrico 5-minutal correspondiente del 1 al 22 de mayo de 2026.\nObjeto: Compartir archivo adjunto (.zip) con los cálculos de consumo y pérdidas de suministro eléctrico.\nInterpretación: Recepción de datos técnicos de consumo energético; requiere guardarse o compartirse con el área de control/balances.",
+    "source": "Correo: Berenice Miranda Cruz (Fénix Energía)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T23:19:04.000Z",
+    "createdAt": "2026-06-11T00:01:40.399Z",
+    "updatedAt": "2026-06-11T00:01:40.399Z"
+  },
+  {
+    "id": "email-4605-1781136100399119",
+    "title": "FW: OC- EQUIPO DESCOMPRESION PRS 500 BIONATGAS",
+    "description": "Jaime Alarcon Jimeno (Energetica E3) notifica a Compras/Proyectos (Natgas) que están a la espera del requerimiento para el pago final del 10% y la logística del equipo PRS 500.\nObjeto: Coordinar el pago restante y el envío del equipo.\nInterpretación: Seguimiento de compra y logística; requiere que el área de compras/proyectos proceda con los pagos para liberar el equipo.",
+    "source": "Correo: Jaime Alarcon Jimeno (Energetica E3)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T23:48:39.000Z",
+    "createdAt": "2026-06-11T00:01:40.399Z",
+    "updatedAt": "2026-06-11T00:01:40.399Z"
+  },
+  {
     "id": "email-4602-1781123194000",
     "title": "FW: Tu equipo aprendiendo con UBITS | Reporte junio",
     "description": "UBITS envía el reporte mensual de junio sobre el avance y actividad de capacitación del equipo a cargo de Ricardo Carmona.\nObjeto: Proveer métricas de uso y participación (100% de ingreso) en la plataforma UBITS Learn.\nInterpretación: Correo informativo y administrativo sobre la capacitación del equipo; no requiere acción técnica.",
