@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4611-202606111600",
+    "title": "FW: Cambio medidor de agua EDS LINCOLN",
+    "description": "Bruno Bravo (Administrador EDS Lincoln) notifica a Alonso Samperio y Ricardo Carmona sobre un cambio de medidor de agua realizado sin previo aviso.\nObjeto: Informar la incidencia operativa en la estación Lincoln con fotografías adjuntas.\nInterpretación: Reporte operativo de la estación; requiere conocimiento del área técnica, sin acción inmediata urgente para Ricardo.",
+    "source": "Correo: Bruno Ismael Bravo Arzola",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-11T14:09:46.000Z",
+    "createdAt": "2026-06-11T16:00:00.000Z",
+    "updatedAt": "2026-06-11T16:00:00.000Z"
+  },
+  {
+    "id": "email-4610-202606111600",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Thursday 11 Jun 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencidas.\nObjeto: Resumir el avance de proyectos (Colón MTY, Comercialización, Descompresión CKR+JAV, Resinueva, etc.).\nInterpretación: Notificación automática del sistema para control interno; no requiere respuesta, solo revisión en plataforma.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-11T14:00:05.000Z",
+    "createdAt": "2026-06-11T16:00:00.000Z",
+    "updatedAt": "2026-06-11T16:00:00.000Z"
+  },
+  {
     "id": "email-4609-1781186471465",
     "title": "FW: PepsiCo Mexico CNG",
     "description": "Michael Burnside (PepsiCo) solicita a Ricardo Carmona un draft de contrato con los clausulados y condiciones comerciales de las soluciones ofrecidas (en español e inglés).\nObjeto: Evaluar de forma no vinculante las condiciones comerciales para proyectos de autoconsumo (GNC/BioGNC).\nInterpretación: Requerimiento comercial de un cliente potencial clave; requiere redactar y enviar la propuesta de contrato.",
