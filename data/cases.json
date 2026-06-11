@@ -2091,5 +2091,31 @@
     "receivedAt": "2026-06-04T21:05:00Z",
     "createdAt": "2026-06-10T22:02:15.893Z",
     "updatedAt": "2026-06-10T22:02:15.893Z"
+  },
+  {
+    "id": "email-4502-1781150478697",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico (LATMX-Notificacion Operativa) envía a Ricardo Carmona el reporte del Índice Bidweek (HSCH) y Tipo de Cambio.\nObjeto: Compartir las variaciones de los índices mensuales de mercado para junio 2026.\nInterpretación: Documento informativo comercial y financiero; requiere archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T21:51:22.000Z",
+    "createdAt": "2026-06-11T04:01:18.697Z",
+    "updatedAt": "2026-06-11T04:01:18.700Z"
+  },
+  {
+    "id": "email-4493-1781150478701",
+    "title": "FW: OC3047755 / 3047756 - IMW COLOMBIA -SURTIDOR TIPO FILL POST",
+    "description": "David Resendiz solicita a Jaime Alarcon (Energetica E3) confirmar la fecha de entrega de los surtidores Fill Post.\nObjeto: Dar seguimiento al avance del equipo para los proyectos tras los anticipos pagados.\nInterpretación: Seguimiento logístico; Ricardo está en copia para conocimiento.",
+    "source": "Correo: David Resendiz Rojo",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T20:50:13.000Z",
+    "createdAt": "2026-06-11T04:01:18.700Z",
+    "updatedAt": "2026-06-11T04:01:18.700Z"
   }
 ]
