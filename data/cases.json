@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4487-202606041226",
+    "title": "FW: FIRMA DE PLANOS SKID SINOMA",
+    "description": "David Resendiz solicita a Luis Alberto Carvajal, Carlos Geovani Nicasio y equipo la revisión y firma de los planos de los SKIDS SINOMA para iniciar fabricación.\nObjeto: Aprobar la ingeniería para proceder con la manufactura.\nInterpretación: Trámite interno de aprobación técnica; requiere revisión y confirmación sobre los conectores a utilizar.",
+    "source": "Correo: David Resendiz Rojo",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T18:26:00.000Z",
+    "createdAt": "2026-06-11T22:01:43.811Z",
+    "updatedAt": "2026-06-11T22:01:43.811Z"
+  },
+  {
+    "id": "email-4488-202606041233",
+    "title": "FW: REVISION CONTRATO COMPRA SKID",
+    "description": "David Resendiz solicita a Ricardo Rabell y Luis Alberto Carvajal la revisión, visto bueno y llenado del contrato de compra de 5 SKIDS.\nObjeto: Avanzar en la firma del contrato mediante DocuSign.\nInterpretación: Trámite legal y comercial; requiere validación interna para concretar la adquisición.",
+    "source": "Correo: David Resendiz Rojo",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T18:33:00.000Z",
+    "createdAt": "2026-06-11T22:01:43.811Z",
+    "updatedAt": "2026-06-11T22:01:43.811Z"
+  },
+  {
+    "id": "email-4491-202606041342",
+    "title": "FW: Descripción de Puesto - Coordinador Técnico",
+    "description": "Adriana Avila de Recursos Humanos informa a Juan Carlos Pineda y Ricardo Carmona que el salario presupuestado para la posición de Coordinador Técnico es de $18,000.00.\nObjeto: Aclarar el presupuesto asignado a la vacante solicitada.\nInterpretación: Confirmación administrativa de presupuesto; permite avanzar con el proceso de contratación.",
+    "source": "Correo: Adriana Avila Hernandez",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T19:42:00.000Z",
+    "createdAt": "2026-06-11T22:01:43.811Z",
+    "updatedAt": "2026-06-11T22:01:43.811Z"
+  },
+  {
+    "id": "email-4492-202606041436",
+    "title": "FW: OC3047755 / 3047756 - IMW COLOMBIA -SURTIDOR TIPO FILL POST",
+    "description": "Jaime Alarcon de Energetica E3 confirma a David Resendiz que las fechas de entrega de los surtidores Fill Post se mantienen según el cronograma (Project Charter).\nObjeto: Dar seguimiento al estatus de fabricación tras confirmarse los pagos de anticipo.\nInterpretación: Seguimiento logístico y comercial de proveedores; información clave para la planeación de la obra.",
+    "source": "Correo: Jaime Alarcon Jimeno",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T20:36:00.000Z",
+    "createdAt": "2026-06-11T22:01:43.811Z",
+    "updatedAt": "2026-06-11T22:01:43.811Z"
+  },
+  {
     "id": "email-4612-1781200853838",
     "title": "FW: FIRMA DE PLANOS SKID SINOMA",
     "description": "Isaac Eli Reynoso comparte con el equipo directivo y técnico los planos ya firmados y aprobados para construcción de los SKIDS SINOMA.\nObjeto: Proveer la documentación técnica validada para poder proceder con la fabricación de los equipos.\nInterpretación: Avance crítico completado en la fase de ingeniería; permite detonar la fabricación física de los SKIDS.",
