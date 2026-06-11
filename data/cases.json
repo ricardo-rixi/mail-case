@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4607-1781136240000",
+    "title": "FW: 9a sesión ordinaria GT CONASEA / / Anteproyecto de NOM de Transporte y Distribución de GNC",
+    "description": "Emma Torres Hernández (ASEA) convoca al Grupo de Trabajo a la novena sesión ordinaria del GT CONASEA sobre el Anteproyecto de NOM de Transporte y Distribución de GNC.\nObjeto: Realizar la sesión virtual por Teams el 10 de junio para discutir comentarios y aprobar acuerdos.\nInterpretación: Invitación/convocatoria oficial a sesión de trabajo; requiere confirmación de asistencia y participación de Ricardo.",
+    "source": "Correo: Emma Torres Hernández (ASEA)",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-10T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-11T00:04:00.000Z",
+    "createdAt": "2026-06-11T13:05:00.000Z",
+    "updatedAt": "2026-06-11T13:05:00.000Z"
+  },
+  {
+    "id": "email-4603-1781127660000",
+    "title": "🦺 The key to staying on schedule",
+    "description": "TeamGantt envía recomendaciones y mejores prácticas sobre planificación y seguimiento de proyectos.\nObjeto: Boletín promocional e informativo (Track & Adjust).\nInterpretación: Newsletter comercial de plataforma; no requiere acción técnica ni operativa.",
+    "source": "Correo: John @ TeamGantt",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-10T21:41:00.000Z",
+    "createdAt": "2026-06-11T13:05:00.000Z",
+    "updatedAt": "2026-06-11T13:05:00.000Z"
+  },
+  {
     "id": "email-4485-1781128950000",
     "title": "Your meetings just got easier",
     "description": "Notion Team notifica sobre nuevas funcionalidades para la gestión de reuniones en su plataforma.\nObjeto: Informar sobre mejoras en las herramientas de calendario y toma de notas.\nInterpretación: Correo informativo y promocional; no requiere ninguna acción operativa.",
