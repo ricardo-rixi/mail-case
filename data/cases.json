@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4628-202606121654",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Michael Burnside (PepsiCo) pregunta a Ricardo Carmona si Natgas solo puede ofrecer el proyecto en Celaya o también en otras ubicaciones para estimar volúmenes por sitio.\nObjeto: Evaluar el alcance geográfico de la propuesta comercial de GNC.\nInterpretación: Requerimiento de cliente potencial que exige una respuesta sobre la cobertura de servicios de Natgas.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T16:54:38.000Z",
+    "createdAt": "2026-06-12T17:01:01.937Z",
+    "updatedAt": "2026-06-12T17:01:01.937Z"
+  },
+  {
+    "id": "email-4627-202606121650",
+    "title": "FW: CIERRE SEGUIMIENTO: Factibilidad Aumento José María Chávez - AGS - NATGAS - BN20161102GNS",
+    "description": "Abraham Benegasi (Naturgy) confirma a Alonso Samperio y Ricardo Carmona que no es necesario realizar inversiones adicionales para el aumento de capacidad en la EDS José María Chávez.\nObjeto: Notificar la factibilidad técnica y cerrar el seguimiento de la solicitud.\nInterpretación: Respuesta técnica favorable del distribuidor; permite avanzar operativamente sin costo adicional.",
+    "source": "Correo: Abraham Benegasi Alarcon (Naturgy)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T16:50:58.000Z",
+    "createdAt": "2026-06-12T17:01:01.937Z",
+    "updatedAt": "2026-06-12T17:01:01.937Z"
+  },
+  {
+    "id": "email-4626-202606121604",
+    "title": "FW: Descubre soluciones de datos autónomas: webinar de agentes de datos de Google Cloud",
+    "description": "Google Cloud invita a Ricardo Carmona a un webinar sobre soluciones de datos autónomas e IA.\nObjeto: Promocionar contenido de capacitación y novedades tecnológicas.\nInterpretación: Correo promocional/informativo; no requiere acción operativa por parte de Ricardo.",
+    "source": "Correo: Google Cloud",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T16:04:23.000Z",
+    "createdAt": "2026-06-12T17:01:01.937Z",
+    "updatedAt": "2026-06-12T17:01:01.937Z"
+  },
+  {
     "id": "email-4625-202606121548",
     "title": "FW: [GASCORP] Oferta de Gas natural Querétaro - Índice Waha (para fines de discusión)",
     "description": "Adrian Gonzalez de Gascorp recuerda a Ricardo que tienen confirmada la visita a sus oficinas en Guadalajara el próximo martes 16 de junio a las 12:00 pm.\nObjeto: Confirmar cita y coordinar visita presencial.\nInterpretación: Confirmación de reunión importante de carácter comercial; requiere agendar y asistir.",
