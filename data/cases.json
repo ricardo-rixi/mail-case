@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4613-202606112358",
+    "title": "FW: Facturas ENGIE MAYO",
+    "description": "Lluvia Hernández confirma a Julio Rojas y al equipo que los datos de las facturas de ENGIE y Naturgy de mayo han sido cargados exitosamente al archivo que alimenta Power BI.\nObjeto: Confirmar la disponibilidad de la información financiera en los tableros de inteligencia de negocios.\nInterpretación: Notificación administrativa interna de rutina; no requiere acción operativa por parte de Ricardo.",
+    "source": "Correo: Lluvia Iridianne Hernández Molina",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-11T23:58:37.000Z",
+    "createdAt": "2026-06-12T00:01:16.963Z",
+    "updatedAt": "2026-06-12T00:01:16.965Z"
+  },
+  {
     "id": "email-4487-202606041226",
     "title": "FW: FIRMA DE PLANOS SKID SINOMA",
     "description": "David Resendiz solicita a Luis Alberto Carvajal, Carlos Geovani Nicasio y equipo la revisión y firma de los planos de los SKIDS SINOMA para iniciar fabricación.\nObjeto: Aprobar la ingeniería para proceder con la manufactura.\nInterpretación: Trámite interno de aprobación técnica; requiere revisión y confirmación sobre los conectores a utilizar.",
