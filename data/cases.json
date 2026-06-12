@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4629-202606121731",
+    "title": "FW: [GASCORP] Oferta de Gas natural Querétaro - Índice Waha (para fines de discusión)",
+    "description": "Adrian Gonzalez de Gascorp confirma de enterado el mensaje de Ricardo Carmona asegurando su asistencia a la reunión del 16 de junio en Guadalajara.\nObjeto: Acuse de recibo sobre la confirmación de la cita presencial.\nInterpretación: Cierre de la coordinación de agenda para la visita comercial; no requiere acción adicional.",
+    "source": "Correo: Adrian Gonzalez (Gascorp)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T17:31:00.000Z",
+    "createdAt": "2026-06-12T18:01:47.405Z",
+    "updatedAt": "2026-06-12T18:01:47.405Z"
+  },
+  {
+    "id": "email-4615-202606121400",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 12 Jun 2026)",
+    "description": "Teamwork envía a Ricardo el reporte automatizado de tareas diarias pendientes y vencidas.\nObjeto: Resumir el estatus y fechas límite de las actividades de los proyectos activos.\nInterpretación: Notificación automática del sistema para control y seguimiento interno; solo requiere revisión en la plataforma.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T14:00:00.000Z",
+    "createdAt": "2026-06-12T18:01:47.405Z",
+    "updatedAt": "2026-06-12T18:01:47.405Z"
+  },
+  {
     "id": "email-4628-202606121654",
     "title": "FW: PepsiCo Mexico CNG",
     "description": "Michael Burnside (PepsiCo) pregunta a Ricardo Carmona si Natgas solo puede ofrecer el proyecto en Celaya o también en otras ubicaciones para estimar volúmenes por sitio.\nObjeto: Evaluar el alcance geográfico de la propuesta comercial de GNC.\nInterpretación: Requerimiento de cliente potencial que exige una respuesta sobre la cobertura de servicios de Natgas.",
