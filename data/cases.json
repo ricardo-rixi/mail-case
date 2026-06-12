@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4480-202606040600",
+    "title": "FW: Descripción de Puesto - Coordinador Técnico",
+    "description": "Juan Carlos Pineda Adaya da seguimiento con Adriana Avila y Ricardo Carmona sobre el presupuesto salarial asignado a la vacante de la Dirección Técnica.\nObjeto: Solicitar respuesta sobre el tabulador salarial para la contratación.\nInterpretación: Trámite interno de RRHH pendiente; requiere que Adriana confirme el presupuesto para avanzar.",
+    "source": "Correo: Juan Carlos Pineda Adaya",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T06:00:00.000Z",
+    "createdAt": "2026-06-12T22:00:00.000Z",
+    "updatedAt": "2026-06-12T22:00:00.000Z"
+  },
+  {
+    "id": "email-4039-202605111746",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente (Fe de erratas)",
+    "description": "ENGIE Mexico notifica a Natgas (Zapopan) las variaciones de los índices mensuales de mercado (HSCH) actualizados con el tipo de cambio de mayo.\nObjeto: Compartir el documento en PDF con la corrección del tipo de cambio que impacta la facturación.\nInterpretación: Notificación comercial y administrativa oficial; requiere enviar o resguardar para conciliaciones financieras y cálculos de tarifas.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-05-11T17:46:00.000Z",
+    "createdAt": "2026-06-12T22:00:00.000Z",
+    "updatedAt": "2026-06-12T22:00:00.000Z"
+  },
+  {
     "id": "email-4632-202606121858",
     "title": "FW: PepsiCo Mexico CNG",
     "description": "Ricardo Rabell confirma a José Enrique Taracena y Ricardo Carmona que cuenta con un formato de contrato de suministro y trabajará en la traducción al inglés para PepsiCo.\nObjeto: Proveer un borrador de contrato de suministro (GNC/BioGNC) en español e inglés.\nInterpretación: Tarea en progreso por parte del área legal; Ricardo Carmona debe esperar el borrador para enviarlo al cliente.",
