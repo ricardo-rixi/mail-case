@@ -1,29 +1,68 @@
 [
   {
-    "id": "email-4480-202606040600",
-    "title": "FW: Descripción de Puesto - Coordinador Técnico",
-    "description": "Juan Carlos Pineda Adaya da seguimiento con Adriana Avila y Ricardo Carmona sobre el presupuesto salarial asignado a la vacante de la Dirección Técnica.\nObjeto: Solicitar respuesta sobre el tabulador salarial para la contratación.\nInterpretación: Trámite interno de RRHH pendiente; requiere que Adriana confirme el presupuesto para avanzar.",
-    "source": "Correo: Juan Carlos Pineda Adaya",
+    "id": "email-4637-202606122055",
+    "title": "FW: Convocatoria Grupo Biometano AMGN",
+    "description": "La AMGN comparte propuesta de especificaciones de calidad para biometano y convoca a revisión y reunión presencial.\nObjeto: Recibir comentarios sobre la norma (límite 16 de junio) y confirmar un asistente a la sesión del 17 de junio.\nInterpretación: Requerimiento regulatorio clave; exige revisar la norma de calidad y asegurar la representación de Natgas.",
+    "source": "Correo: AMGN",
     "owner": "Ricardo",
-    "status": "seguimiento",
-    "dueDate": null,
+    "status": "evento",
+    "dueDate": "2026-06-16T12:00:00.000Z",
     "unansweredDays": 0,
-    "receivedAt": "2026-06-04T06:00:00.000Z",
-    "createdAt": "2026-06-12T22:00:00.000Z",
-    "updatedAt": "2026-06-12T22:00:00.000Z"
+    "receivedAt": "2026-06-12T20:55:58.000Z",
+    "createdAt": "2026-06-12T21:00:00.000Z",
+    "updatedAt": "2026-06-12T21:00:00.000Z"
   },
   {
-    "id": "email-4039-202605111746",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente (Fe de erratas)",
-    "description": "ENGIE Mexico notifica a Natgas (Zapopan) las variaciones de los índices mensuales de mercado (HSCH) actualizados con el tipo de cambio de mayo.\nObjeto: Compartir el documento en PDF con la corrección del tipo de cambio que impacta la facturación.\nInterpretación: Notificación comercial y administrativa oficial; requiere enviar o resguardar para conciliaciones financieras y cálculos de tarifas.",
-    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "id": "email-4636-202606122022",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Humand notifica de forma automática sobre una nueva publicación de Comunicación Interna referente a la Copa Mundialista UBITS 2026.\nObjeto: Anunciar eventos y dinámicas internas para el personal.\nInterpretación: Notificación automática general de la empresa; sin impacto operativo directo.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T20:22:21.000Z",
+    "createdAt": "2026-06-12T21:00:00.000Z",
+    "updatedAt": "2026-06-12T21:00:00.000Z"
+  },
+  {
+    "id": "email-4635-202606122003",
+    "title": "FW: Informe de mercado de hoy: 12 de junio 📈",
+    "description": "Naturgy México envía el boletín informativo automatizado con el informe de mercado de gas del día.\nObjeto: Proveer actualización diaria sobre las condiciones del mercado energético.\nInterpretación: Boletín informativo estándar; solo requiere lectura si se desea conocer los datos del día.",
+    "source": "Correo: Naturgy México",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T20:03:43.000Z",
+    "createdAt": "2026-06-12T21:00:00.000Z",
+    "updatedAt": "2026-06-12T21:00:00.000Z"
+  },
+  {
+    "id": "email-4634-202606121915",
+    "title": "FW: REPORTE MAYO 2026 - PAQUETERIA",
+    "description": "José Antonio Hernández envía a Mariana Hernández la Entrada de Mercancías (EM) correspondiente a los envíos de paquetería de mayo.\nObjeto: Cumplir con la solicitud de envío de EMs para el control de gastos de paquetería.\nInterpretación: Correo de carácter administrativo en copia; no requiere acción por parte de Ricardo.",
+    "source": "Correo: Jose Antonio Hernandez Cruz",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T19:15:05.000Z",
+    "createdAt": "2026-06-12T21:00:00.000Z",
+    "updatedAt": "2026-06-12T21:00:00.000Z"
+  },
+  {
+    "id": "email-4633-202606121905",
+    "title": "FW: Borrador de Contrato - Descompresora Javhi",
+    "description": "Ricardo Rabell notifica a Ricardo Carmona que los documentos del contrato de compraventa de la descompresora Javhi ya están listos para la firma del representante legal.\nObjeto: Confirmar la preparación del documento legal requerido para la CNE.\nInterpretación: Avance crítico en el proyecto Javhi; requiere seguimiento de firmas para proceder con el ingreso.",
+    "source": "Correo: Ricardo Rabell Velázquez",
     "owner": "Ricardo",
     "status": "seguimiento",
     "dueDate": null,
     "unansweredDays": 0,
-    "receivedAt": "2026-05-11T17:46:00.000Z",
-    "createdAt": "2026-06-12T22:00:00.000Z",
-    "updatedAt": "2026-06-12T22:00:00.000Z"
+    "receivedAt": "2026-06-12T19:05:42.000Z",
+    "createdAt": "2026-06-12T21:00:00.000Z",
+    "updatedAt": "2026-06-12T21:00:00.000Z"
   },
   {
     "id": "email-4632-202606121858",
@@ -52,69 +91,17 @@
     "updatedAt": "2026-06-12T21:00:00.000Z"
   },
   {
-    "id": "email-4633-202606121905",
-    "title": "FW: Borrador de Contrato - Descompresora Javhi",
-    "description": "Ricardo Rabell notifica a Ricardo Carmona que los documentos del contrato de compraventa de la descompresora Javhi ya están listos para la firma del representante legal.\nObjeto: Confirmar la preparación del documento legal requerido para la CNE.\nInterpretación: Avance crítico en el proyecto Javhi; requiere seguimiento de firmas para proceder con el ingreso.",
-    "source": "Correo: Ricardo Rabell Velázquez",
+    "id": "email-4630-202606121828",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "José Enrique Taracena pregunta a Ricardo Rabell si cuenta con un borrador de contrato de suministro para enviarlo a PepsiCo.\nObjeto: Coordinar internamente la obtención del borrador de contrato solicitado por el cliente.\nInterpretación: Gestión interna en curso; se espera que legal (Rabell) provea el documento para continuar la gestión comercial.",
+    "source": "Correo: José Enrique Taracena Sanz",
     "owner": "Ricardo",
     "status": "seguimiento",
     "dueDate": null,
     "unansweredDays": 0,
-    "receivedAt": "2026-06-12T19:05:42.000Z",
-    "createdAt": "2026-06-12T21:00:00.000Z",
-    "updatedAt": "2026-06-12T21:00:00.000Z"
-  },
-  {
-    "id": "email-4634-202606121915",
-    "title": "FW: REPORTE MAYO 2026 - PAQUETERIA",
-    "description": "José Antonio Hernández envía a Mariana Hernández la Entrada de Mercancías (EM) correspondiente a los envíos de paquetería de mayo.\nObjeto: Cumplir con la solicitud de envío de EMs para el control de gastos de paquetería.\nInterpretación: Correo de carácter administrativo en copia; no requiere acción por parte de Ricardo.",
-    "source": "Correo: Jose Antonio Hernandez Cruz",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-06-12T19:15:05.000Z",
-    "createdAt": "2026-06-12T21:00:00.000Z",
-    "updatedAt": "2026-06-12T21:00:00.000Z"
-  },
-  {
-    "id": "email-4635-202606122003",
-    "title": "FW: Informe de mercado de hoy: 12 de junio 📈",
-    "description": "Naturgy México envía el boletín informativo automatizado con el informe de mercado de gas del día.\nObjeto: Proveer actualización diaria sobre las condiciones del mercado energético.\nInterpretación: Boletín informativo estándar; solo requiere lectura si se desea conocer los datos del día.",
-    "source": "Correo: Naturgy México",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-06-12T20:03:43.000Z",
-    "createdAt": "2026-06-12T21:00:00.000Z",
-    "updatedAt": "2026-06-12T21:00:00.000Z"
-  },
-  {
-    "id": "email-4636-202606122022",
-    "title": "FW: Comunicación Interna publicó una novedad importante",
-    "description": "Humand notifica de forma automática sobre una nueva publicación de Comunicación Interna referente a la Copa Mundialista UBITS 2026.\nObjeto: Anunciar eventos y dinámicas internas para el personal.\nInterpretación: Notificación automática general de la empresa; sin impacto operativo directo.",
-    "source": "Correo: Humand",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-06-12T20:22:21.000Z",
-    "createdAt": "2026-06-12T21:00:00.000Z",
-    "updatedAt": "2026-06-12T21:00:00.000Z"
-  },
-  {
-    "id": "email-4637-202606122055",
-    "title": "FW: Convocatoria Grupo Biometano AMGN",
-    "description": "La AMGN comparte propuesta de especificaciones de calidad para biometano y convoca a revisión y reunión presencial.\nObjeto: Recibir comentarios sobre la norma (límite 16 de junio) y confirmar un asistente a la sesión del 17 de junio.\nInterpretación: Requerimiento regulatorio clave; exige revisar la norma de calidad y asegurar la representación de Natgas.",
-    "source": "Correo: AMGN",
-    "owner": "Ricardo",
-    "status": "evento",
-    "dueDate": "2026-06-16T12:00:00.000Z",
-    "unansweredDays": 0,
-    "receivedAt": "2026-06-12T20:55:58.000Z",
-    "createdAt": "2026-06-12T21:00:00.000Z",
-    "updatedAt": "2026-06-12T21:00:00.000Z"
+    "receivedAt": "2026-06-12T18:28:00.000Z",
+    "createdAt": "2026-06-13T01:00:38.052Z",
+    "updatedAt": "2026-06-13T01:00:38.061Z"
   },
   {
     "id": "email-4629-202606121731",
@@ -126,19 +113,6 @@
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-06-12T17:31:00.000Z",
-    "createdAt": "2026-06-12T18:01:47.405Z",
-    "updatedAt": "2026-06-12T18:01:47.405Z"
-  },
-  {
-    "id": "email-4615-202606121400",
-    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 12 Jun 2026)",
-    "description": "Teamwork envía a Ricardo el reporte automatizado de tareas diarias pendientes y vencidas.\nObjeto: Resumir el estatus y fechas límite de las actividades de los proyectos activos.\nInterpretación: Notificación automática del sistema para control y seguimiento interno; solo requiere revisión en la plataforma.",
-    "source": "Correo: Teamwork",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-06-12T14:00:00.000Z",
     "createdAt": "2026-06-12T18:01:47.405Z",
     "updatedAt": "2026-06-12T18:01:47.405Z"
   },
@@ -310,6 +284,19 @@
     "receivedAt": "2026-06-12T14:32:29.000Z",
     "createdAt": "2026-06-12T16:01:59.755Z",
     "updatedAt": "2026-06-12T16:01:59.755Z"
+  },
+  {
+    "id": "email-4615-202606121400",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 12 Jun 2026)",
+    "description": "Teamwork envía a Ricardo el reporte automatizado de tareas diarias pendientes y vencidas.\nObjeto: Resumir el estatus y fechas límite de las actividades de los proyectos activos.\nInterpretación: Notificación automática del sistema para control y seguimiento interno; solo requiere revisión en la plataforma.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-12T14:00:00.000Z",
+    "createdAt": "2026-06-12T18:01:47.405Z",
+    "updatedAt": "2026-06-12T18:01:47.405Z"
   },
   {
     "id": "email-4614-202606120803",
@@ -1612,6 +1599,19 @@
     "updatedAt": "2026-06-11T02:02:47.349Z"
   },
   {
+    "id": "email-4480-202606040600",
+    "title": "FW: Descripción de Puesto - Coordinador Técnico",
+    "description": "Juan Carlos Pineda Adaya da seguimiento con Adriana Avila y Ricardo Carmona sobre el presupuesto salarial asignado a la vacante de la Dirección Técnica.\nObjeto: Solicitar respuesta sobre el tabulador salarial para la contratación.\nInterpretación: Trámite interno de RRHH pendiente; requiere que Adriana confirme el presupuesto para avanzar.",
+    "source": "Correo: Juan Carlos Pineda Adaya",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-04T06:00:00.000Z",
+    "createdAt": "2026-06-12T22:00:00.000Z",
+    "updatedAt": "2026-06-12T22:00:00.000Z"
+  },
+  {
     "id": "00b71d9a-6aa7-4ef0-96d8-b080e059e044",
     "title": "FW: [GASCORP] Oferta de Gas natural Querétaro - Índice Waha (para fines de discusión)",
     "description": "Gascorp hace llegar propuesta comercial de suministro de gas natural para Querétaro vinculada al índice Waha.",
@@ -2637,5 +2637,18 @@
     "receivedAt": "2026-06-04T18:48:00.000Z",
     "createdAt": "2026-06-10T22:02:03.737Z",
     "updatedAt": "2026-06-10T22:02:03.737Z"
+  },
+  {
+    "id": "email-4039-202605111746",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente (Fe de erratas)",
+    "description": "ENGIE Mexico notifica a Natgas (Zapopan) las variaciones de los índices mensuales de mercado (HSCH) actualizados con el tipo de cambio de mayo.\nObjeto: Compartir el documento en PDF con la corrección del tipo de cambio que impacta la facturación.\nInterpretación: Notificación comercial y administrativa oficial; requiere enviar o resguardar para conciliaciones financieras y cálculos de tarifas.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-05-11T17:46:00.000Z",
+    "createdAt": "2026-06-12T22:00:00.000Z",
+    "updatedAt": "2026-06-12T22:00:00.000Z"
   }
 ]
