@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4000-1772545000000",
+    "title": "¡Hola! Queremos hacerte una pregunta 🤔",
+    "description": "Canva envía un correo informativo a Ricardo.\nObjeto: ¡Hola! Queremos hacerte una pregunta 🤔\nInterpretación: Correo comercial automatizado para actualizar el perfil del usuario; no requiere atención operativa ni seguimiento.",
+    "source": "Correo: Canva",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-03-02T23:31:00.000Z",
+    "createdAt": "2026-06-14T04:00:58.229Z",
+    "updatedAt": "2026-06-14T04:00:58.232Z"
+  },
+  {
+    "id": "email-3999-1772535000000",
+    "title": "🤹 5 minutes to better manage lead times",
+    "description": "John from TeamGantt envía un correo informativo a Ricardo.\nObjeto: 🤹 5 minutes to better manage lead times\nInterpretación: Boletín comercial o automatizado sobre gestión de proyectos; no requiere atención operativa.",
+    "source": "Correo: John from TeamGantt",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-03-02T20:42:00.000Z",
+    "createdAt": "2026-06-14T04:00:58.232Z",
+    "updatedAt": "2026-06-14T04:00:58.232Z"
+  },
+  {
     "id": "email-4001-1772643480000",
     "title": "Mission 300, Lagos State Government and HYDRO-LINK host boardrooms at PAS 2026",
     "description": "Powering Africa Summit envía comunicación a Ricardo.\nObjeto: Mission 300, Lagos State Government and HYDRO-LINK host boardrooms at PAS 2026\nInterpretación: Correo que requiere revisión o atención para posible seguimiento.",
