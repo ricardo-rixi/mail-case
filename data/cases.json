@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4644-202606150200",
+    "title": "FW: Nueva encuesta",
+    "description": "Evaluaciones Bienestar solicita completar la encuesta obligatoria de la NOM-035-STPS-2018 sobre factores de riesgo psicosocial en el trabajo.\nObjeto: Requerimiento de cumplimiento normativo de Recursos Humanos.\nInterpretación: Tarea obligatoria; Ricardo debe ingresar al enlace y contestar el cuestionario.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T02:00:00.000Z",
+    "createdAt": "2026-06-15T02:01:24.889Z",
+    "updatedAt": "2026-06-15T02:01:24.891Z"
+  },
+  {
+    "id": "email-3988-202601312330",
+    "title": "¡Hola! Queremos hacerte una pregunta 🤔",
+    "description": "Canva envía una invitación a Ricardo para personalizar su experiencia y actualizar su perfil en la plataforma.\nObjeto: Promover la interacción y recopilar preferencias del usuario.\nInterpretación: Correo promocional automatizado; no requiere atención ni seguimiento operativo.",
+    "source": "Correo: Canva",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-01-31T23:30:00.000Z",
+    "createdAt": "2026-06-15T02:01:24.891Z",
+    "updatedAt": "2026-06-15T02:01:24.891Z"
+  },
+  {
     "id": "email-4643-202606141815",
     "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
     "description": "Sergio Alberto Landeros solicita a Alonso Samperio la revisión de una diferencia de -3.8% reflejada el 13/06/2026 en el tablero inteligente de la EDS JMC.\nObjeto: Reportar y validar una discrepancia de volumen en la ERM.\nInterpretación: Reporte operativo urgente por desbalance de gas; requiere revisión y seguimiento del coordinador técnico.",
