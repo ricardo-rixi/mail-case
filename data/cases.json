@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4658",
+    "title": "FW: Relación volumétrica mayo 2026",
+    "description": "Lluvia Hernández confirma a Alonso Samperio y al equipo que se cargó la información volumétrica de mayo.\nObjeto: Acuse de recibo y confirmación de carga de datos en los sistemas.\nInterpretación: Notificación administrativa interna; el proceso fue completado y no requiere acción adicional.",
+    "source": "Correo: Lluvia Iridianne Hernández Molina",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T19:59:00.000Z",
+    "createdAt": "2026-06-15T20:01:27.977Z",
+    "updatedAt": "2026-06-15T20:01:27.977Z"
+  },
+  {
+    "id": "email-4657",
+    "title": "FW: Solicitud de temas para la Tercera Sesión Ordinaria del Grupo Multidisciplinario",
+    "description": "Andrea Gómez Medina solicita al equipo compartir temas, avances y hallazgos para integrar la minuta y orden del día de la Tercera Sesión Ordinaria.\nObjeto: Recopilar información y puntos a tratar en la próxima reunión del Grupo Multidisciplinario.\nInterpretación: Solicitud administrativa interna; requiere que Ricardo o su equipo envíen los temas a tratar a la brevedad.",
+    "source": "Correo: Andrea Gomez Medina",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T18:13:00.000Z",
+    "createdAt": "2026-06-15T20:01:27.977Z",
+    "updatedAt": "2026-06-15T20:01:27.977Z"
+  },
+  {
+    "id": "email-4656",
+    "title": "FW: Grupo Multidisciplinario tercera sesión ordinaria",
+    "description": "Andrea Gómez Medina convoca al equipo a la Tercera Sesión Ordinaria del Grupo Multidisciplinario mediante Microsoft Teams.\nObjeto: Agendar la reunión virtual programada para el 23 de junio de 2026 a la 1:00 PM.\nInterpretación: Evento de agenda oficial; Ricardo debe confirmar su asistencia y conectarse en la fecha indicada.",
+    "source": "Correo: Andrea Gomez Medina",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-23T19:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T18:10:00.000Z",
+    "createdAt": "2026-06-15T20:01:27.977Z",
+    "updatedAt": "2026-06-15T20:01:27.977Z"
+  },
+  {
+    "id": "email-4655",
+    "title": "FW: Introducción y Seguimiento",
+    "description": "Frank Cardona de WEH Technologies se presenta como el nuevo punto de contacto y da seguimiento ofreciendo tarifas más competitivas.\nObjeto: Buscar reactivar la relación comercial y cotizar posibles nuevos proyectos o requerimientos.\nInterpretación: Correo comercial de proveedor; se puede evaluar si existen proyectos en puerta para solicitar cotización.",
+    "source": "Correo: Frank Cardona (WEH Technologies)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T18:08:00.000Z",
+    "createdAt": "2026-06-15T20:01:27.977Z",
+    "updatedAt": "2026-06-15T20:01:27.977Z"
+  },
+  {
     "id": "email-4654",
     "title": "FW: Variación de litros EDS ELM",
     "description": "Jesús Abraham Díaz reporta a Alonso Samperio y Jorge Suárez variaciones inusuales de litros en la EDS ELM durante el 10 y 11 de junio.\nObjeto: Solicitar revisión técnica tras ajustes recientes en el surtidor Fill Post.\nInterpretación: Posible desbalance volumétrico; el coordinador instruye validar la suma de totales vendidos antes de intervenir.",
