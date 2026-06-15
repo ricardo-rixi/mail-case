@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4660",
+    "title": "FW: Convocatoria Grupo Biometano AMGN",
+    "description": "Victor Cervantes de Firm Energy comunica a la AMGN su confirmación de asistencia y comparte observaciones técnicas sobre la propuesta normativa.\nObjeto: Formalizar comentarios sobre mecanismos de exención y límites técnicos del biometano.\nInterpretación: Información gremial de referencia; sirve para comparar la postura técnica de Natgas frente a otros miembros.",
+    "source": "Correo: Victor Cervantes (Firm Energy)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T21:13:04.000Z",
+    "createdAt": "2026-06-15T22:01:36.256Z",
+    "updatedAt": "2026-06-15T22:01:36.256Z"
+  },
+  {
+    "id": "email-4659",
+    "title": "FW: Convocatoria Grupo Biometano AMGN",
+    "description": "La AMGN solicita a los miembros del Grupo de Trabajo confirmar su asistencia para la reunión del 17 de junio y enviar comentarios sobre el documento.\nObjeto: Gestionar la participación y recopilar observaciones de la propuesta de especificaciones del biometano.\nInterpretación: Requerimiento de asociación gremial; exige confirmar asistencia y preparar comentarios antes de la fecha límite.",
+    "source": "Correo: AMGN",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-16T12:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T20:59:58.000Z",
+    "createdAt": "2026-06-15T22:01:36.256Z",
+    "updatedAt": "2026-06-15T22:01:36.256Z"
+  },
+  {
     "id": "email-4658",
     "title": "FW: Relación volumétrica mayo 2026",
     "description": "Lluvia Hernández confirma a Alonso Samperio y al equipo que se cargó la información volumétrica de mayo.\nObjeto: Acuse de recibo y confirmación de carga de datos en los sistemas.\nInterpretación: Notificación administrativa interna; el proceso fue completado y no requiere acción adicional.",
