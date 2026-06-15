@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4654",
+    "title": "FW: Variación de litros EDS ELM",
+    "description": "Jesús Abraham Díaz reporta a Alonso Samperio y Jorge Suárez variaciones inusuales de litros en la EDS ELM durante el 10 y 11 de junio.\nObjeto: Solicitar revisión técnica tras ajustes recientes en el surtidor Fill Post.\nInterpretación: Posible desbalance volumétrico; el coordinador instruye validar la suma de totales vendidos antes de intervenir.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T17:55:00.000Z",
+    "createdAt": "2026-06-15T18:02:30.959Z",
+    "updatedAt": "2026-06-15T18:02:30.960Z"
+  },
+  {
+    "id": "email-4653",
+    "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
+    "description": "Sergio Landeros informa a Alonso Samperio y David Martínez de un continuo desbalance negativo en las lecturas de la ERM de EDS JMC, alcanzando -4.3% el 14 de junio.\nObjeto: Requerir validación técnica para determinar si el equipo se mantiene en el rango permitido.\nInterpretación: Desviación operativa en evaluación; la coordinación técnica decide prolongar el monitoreo dado que el balance quincenal promedio sigue dentro de norma (-1.50%).",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T17:51:00.000Z",
+    "createdAt": "2026-06-15T18:02:30.960Z",
+    "updatedAt": "2026-06-15T18:02:30.960Z"
+  },
+  {
+    "id": "email-4651",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "El sistema Humand notifica a Ricardo Carmona sobre una nueva publicación de Comunicación Interna acerca de la NOM-035-STPS-2018.\nObjeto: Difundir material infográfico relacionado con la identificación y prevención de riesgos psicosociales en el trabajo.\nInterpretación: Boletín corporativo automatizado de concientización; no requiere acción operativa directa por parte del destinatario.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T17:20:00.000Z",
+    "createdAt": "2026-06-15T18:02:30.960Z",
+    "updatedAt": "2026-06-15T18:02:30.960Z"
+  },
+  {
     "id": "email-4650-202606151601",
     "title": "FW: Relación volumétrica mayo 2026 ",
     "description": "Alonso Samperio comparte con el equipo operativo y directivo la relación volumétrica del gas de mayo 2026 por zona.\nObjeto: Difundir los factores de conversión (PC) actualizados del mes anterior.\nInterpretación: Información técnica de rutina; requiere archivo sin acción directa de negocio.",
