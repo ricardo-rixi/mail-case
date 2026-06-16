@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4664",
+    "title": "FW: Aram Figueroa envió un mensaje",
+    "description": "Aram Figueroa notifica en el grupo de Teams 'Expedientes Federales' que por el momento está asignado a otras tareas y no tiene oportunidad de participar.\nObjeto: Notificar la indisponibilidad de tiempo para asignación de tareas.\nInterpretación: Alerta de mensaje en plataforma corporativa; Ricardo debe revisar el chat en Teams si requiere dar seguimiento a las asignaciones de Carlos/Aram.",
+    "source": "Correo: Aram Figueroa en Teams",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-16T00:01:49.000Z",
+    "createdAt": "2026-06-16T01:00:47.750Z",
+    "updatedAt": "2026-06-16T01:00:47.751Z"
+  },
+  {
     "id": "email-4663",
     "title": "FW: Convocatoria Grupo Biometano AMGN",
     "description": "Rafael Gonzalez Dominguez (Igasamex) confirma a la AMGN su participación remota al Grupo de Trabajo de Biometano.\nObjeto: Confirmación de asistencia a la reunión del 17 de junio sobre especificaciones de biometano.\nInterpretación: Notificación administrativa de participación gremial por parte de un miembro externo; requiere archivo sin acción directa de Ricardo.",
