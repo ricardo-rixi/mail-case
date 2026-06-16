@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4666",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Tuesday 16 Jun 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencimientos.\nObjeto: Presentar el resumen de la plataforma para revisión de actividades en los diversos proyectos.\nInterpretación: Notificación automática de estatus; no requiere respuesta directa, solo revisión interna.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-16T14:00:00.000Z",
+    "createdAt": "2026-06-16T14:00:00.000Z",
+    "updatedAt": "2026-06-16T14:00:00.000Z"
+  },
+  {
     "id": "email-4665",
     "title": "Watch aef and YES! live on ENN!",
     "description": "Africa Energy Forum envía información sobre las transmisiones en vivo del foro y ceremonias de apertura en Ciudad del Cabo.\nObjeto: Promocionar la visualización de los eventos del aef y YES! a través de la red ENN.\nInterpretación: Correo informativo y publicitario de un evento externo; no requiere acción operativa por parte de Ricardo.",
