@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4663",
+    "title": "FW: Convocatoria Grupo Biometano AMGN",
+    "description": "Rafael Gonzalez Dominguez (Igasamex) confirma a la AMGN su participación remota al Grupo de Trabajo de Biometano.\nObjeto: Confirmación de asistencia a la reunión del 17 de junio sobre especificaciones de biometano.\nInterpretación: Notificación administrativa de participación gremial por parte de un miembro externo; requiere archivo sin acción directa de Ricardo.",
+    "source": "Correo: Rafael Gonzalez Dominguez (Igasamex)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T22:38:43.000Z",
+    "createdAt": "2026-06-16T00:00:00.000Z",
+    "updatedAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "email-4662",
+    "title": "FW: Convocatoria Grupo Biometano AMGN",
+    "description": "La AMGN acusa recibo a Rosa Martha Manjarrez de la confirmación de asistencia de Natgas e informa que enviará los datos de conexión para la sesión virtual.\nObjeto: Confirmar recepción de los datos de los asistentes a la sesión de biometano.\nInterpretación: Mensaje administrativo de confirmación logística; Ricardo debe estar a la espera del enlace para conectarse a la sesión.",
+    "source": "Correo: AMGN",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T22:31:22.000Z",
+    "createdAt": "2026-06-16T00:00:00.000Z",
+    "updatedAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "email-4661",
+    "title": "FW: Convocatoria Grupo Biometano AMGN",
+    "description": "Rosa Martha Manjarrez Trejo (Natgas) notifica a la AMGN la participación remota de Ricardo Carmona, Paola Ledesma y de ella misma en la reunión del 17 de junio.\nObjeto: Solicitar el acceso remoto para los representantes de Natgas a la sesión sobre especificaciones de biometano.\nInterpretación: Gestión interna completada; se asegura la participación oficial de Ricardo en el foro regulatorio.",
+    "source": "Correo: Rosa Martha Manjarrez Trejo",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-15T22:22:47.000Z",
+    "createdAt": "2026-06-16T00:00:00.000Z",
+    "updatedAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
     "id": "email-4660",
     "title": "FW: Convocatoria Grupo Biometano AMGN",
     "description": "Victor Cervantes de Firm Energy comunica a la AMGN su confirmación de asistencia y comparte observaciones técnicas sobre la propuesta normativa.\nObjeto: Formalizar comentarios sobre mecanismos de exención y límites técnicos del biometano.\nInterpretación: Información gremial de referencia; sirve para comparar la postura técnica de Natgas frente a otros miembros.",
