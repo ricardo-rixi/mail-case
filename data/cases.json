@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4677",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Michael Burnside (PepsiCo) confirma a Ricardo Carmona su disposición para compartir información técnica y notifica que enviará un NDA (Non-Disclosure Agreement) a la brevedad.\nObjeto: Establecer un acuerdo de confidencialidad para avanzar con la propuesta de suministro de GNC.\nInterpretación: Avance comercial estratégico; Ricardo debe aguardar el formato del NDA para canalizarlo a revisión legal.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-16T21:55:00.000Z",
+    "createdAt": "2026-06-16T22:01:07.964Z",
+    "updatedAt": "2026-06-16T22:01:07.965Z"
+  },
+  {
+    "id": "email-4676",
+    "title": "FW: 2da Sesión Sicenergy",
+    "description": "Ricardo Puga Treto convoca a Ricardo Carmona y al resto del equipo a la '2da Sesión Sicenergy' mediante Microsoft Teams para el 17 de junio de 2026.\nObjeto: Agendar y coordinar la reunión virtual de seguimiento del proyecto o iniciativa Sicenergy.\nInterpretación: Evento de agenda corporativa; Ricardo debe programar su asistencia a la sesión en la fecha y hora indicadas.",
+    "source": "Correo: Ricardo Puga Treto",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-17T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-16T21:03:00.000Z",
+    "createdAt": "2026-06-16T22:01:07.965Z",
+    "updatedAt": "2026-06-16T22:01:07.965Z"
+  },
+  {
     "id": "email-4675",
     "title": "FW: Certificado de calibración de fabricante Rabo G400",
     "description": "Sensotek informa a Alonso Samperio que no compran medidores Rabo G400 dañados para reciclaje, aunque algunos clientes los venden como chatarra.\nObjeto: Dar respuesta a la consulta sobre la posible disposición final y reciclaje de equipos de medición en desuso.\nInterpretación: Cierre de consulta técnica a proveedor; la información sirve para definir qué hacer con los equipos dañados. Ricardo está en copia.",
