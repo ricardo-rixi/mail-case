@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4696",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "Alonso Samperio solicita a Paola Ledesma apoyo para membretar, firmar y digitalizar la documentación requerida para el cambio de suministrador calificado en Nuevo León.\nObjeto: Gestionar la firma de los formatos de solicitud y notificación de acreditación.\nInterpretación: Trámite administrativo y regulatorio en curso; requiere la firma del representante legal para avanzar con el contrato de conexión.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-17T21:50:00.000Z",
+    "createdAt": "2026-06-17T22:00:00.000Z",
+    "updatedAt": "2026-06-17T22:00:00.000Z"
+  },
+  {
+    "id": "email-4695",
+    "title": "FW: Nueva encuesta",
+    "description": "Evaluaciones Bienestar solicita a Ricardo Carmona completar la encuesta obligatoria correspondiente a la NOM-035-STPS-2018.\nObjeto: Recopilar información sobre factores de riesgo psicosocial en el trabajo.\nInterpretación: Requerimiento normativo y de Recursos Humanos que exige la participación personal e indelegable de Ricardo.",
+    "source": "Correo: Evaluaciones Bienestar",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-17T21:40:00.000Z",
+    "createdAt": "2026-06-17T22:00:00.000Z",
+    "updatedAt": "2026-06-17T22:00:00.000Z"
+  },
+  {
     "id": "email-4694",
     "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
     "description": "María Luisa Torrijos (Grupo Cox) envía a Alonso Samperio los formatos de solicitud para firma y el diagrama de Gantt de avances.\nObjeto: Solicitar firmas para iniciar el contrato de conexión en plataforma SIASIC y adjuntar avances del proyecto.\nInterpretación: Tarea operativa de firmas pendiente; Ricardo está en copia para conocimiento del estatus.",
