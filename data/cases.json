@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4692",
+    "title": "FW: Santa Anita",
+    "description": "CBRE Guadalajara envía a Ricardo una oportunidad de venta de una propiedad industrial en Santa Anita.\nObjeto: Promocionar la adquisición de un inmueble logístico en Guadalajara.\nInterpretación: Correo promocional inmobiliario; archivar a menos que haya un interés activo de expansión.",
+    "source": "Correo: CBRE Guadalajara",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-17T15:31:48.000Z",
+    "createdAt": "2026-06-17T16:00:00.000Z",
+    "updatedAt": "2026-06-17T16:00:00.000Z"
+  },
+  {
+    "id": "email-4691",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "Maria Luisa Torrijos (Grupo Cox) confirma a Alonso Samperio la recepción del permiso de la CRE para la estación de Apodaca.\nObjeto: Avanzar en la gestión de cambio de suministrador calificado y proveer los formatos necesarios.\nInterpretación: Avance operativo en trámite; el equipo técnico está atendiendo y Ricardo está en copia para seguimiento.",
+    "source": "Correo: María Luisa Torrijos Herrerias (Grupo Cox)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-17T15:15:51.000Z",
+    "createdAt": "2026-06-17T16:00:00.000Z",
+    "updatedAt": "2026-06-17T16:00:00.000Z"
+  },
+  {
     "id": "email-4689",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 17 Jun 2026)",
     "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes.\nObjeto: Resumen de avance de proyectos (Colón MTY, Comercialización, etc.).\nInterpretación: Notificación automática de estatus; no requiere respuesta directa, solo revisión interna.",
