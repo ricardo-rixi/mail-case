@@ -2,6 +2,32 @@
   {
     "id": "email-4687",
     "title": "FW: 10a sesión ordinaria GT CONASEA / / Anteproyecto de NOM de Transporte y Distribución de GNC",
+    "description": "Emma Torres Hernández (ASEA) convoca al Grupo de Trabajo a la décima sesión ordinaria sobre el Anteproyecto de NOM de Transporte y Distribución de GNC.\nObjeto: Sesión virtual por Teams el 23 de junio para discutir comentarios sobre la norma y revisar acuerdos.\nInterpretación: Convocatoria oficial de la autoridad (ASEA); requiere confirmar asistencia y participación activa de Ricardo.",
+    "source": "Correo: Emma Torres Hernández (ASEA)",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-23T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-17T00:08:31.000Z",
+    "createdAt": "2026-06-17T02:01:56.260Z",
+    "updatedAt": "2026-06-17T02:01:56.262Z"
+  },
+  {
+    "id": "email-4686",
+    "title": "FW: Convocatoria Grupo Biometano AMGN",
+    "description": "Victor Cervantes (Firm Energy) comparte a la AMGN comentarios adicionales argumentando inconsistencias técnicas en la norma de biometano respecto al límite de inertes y el Índice de Wobbe.\nObjeto: Reforzar la necesidad de un mecanismo de exención para los proyectos de biometano.\nInterpretación: Postura técnica clave de otro participante del sector; requiere ser evaluada por Ricardo para definir la estrategia de Natgas en la sesión.",
+    "source": "Correo: Victor Cervantes (Firm Energy)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-16T23:47:18.000Z",
+    "createdAt": "2026-06-17T02:01:56.262Z",
+    "updatedAt": "2026-06-17T02:01:56.262Z"
+  },
+  {
+    "id": "email-4687",
+    "title": "FW: 10a sesión ordinaria GT CONASEA / / Anteproyecto de NOM de Transporte y Distribución de GNC",
     "description": "Emma Torres Hernández (ASEA) convoca al Grupo de Trabajo a la décima sesión ordinaria para discutir el Anteproyecto de NOM sobre transporte de GNC.\nObjeto: Realizar la sesión virtual por Teams el 23 de junio para revisar comentarios y acuerdos pendientes.\nInterpretación: Evento normativo oficial; requiere confirmación de asistencia y participación de Ricardo.",
     "source": "Correo: Emma Torres Hernández (ASEA)",
     "owner": "Ricardo",
