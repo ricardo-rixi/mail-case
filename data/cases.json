@@ -26,6 +26,19 @@
     "updatedAt": "2026-06-17T16:00:00.000Z"
   },
   {
+    "id": "email-4690",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "Alonso Samperio comparte a María Luisa Torrijos y Eduardo Bernal el Título de Permiso de la CRE confirmando el CP 66613.\nObjeto: Proveer el comprobante de domicilio solicitado y requerir el cronograma de los siguientes pasos.\nInterpretación: Avance en la gestión técnica del cambio de suministrador; Ricardo está en copia para su conocimiento.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-17T15:12:40.000Z",
+    "createdAt": "2026-06-17T17:00:00.000Z",
+    "updatedAt": "2026-06-17T17:00:00.000Z"
+  },
+  {
     "id": "email-4689",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 17 Jun 2026)",
     "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes.\nObjeto: Resumen de avance de proyectos (Colón MTY, Comercialización, etc.).\nInterpretación: Notificación automática de estatus; no requiere respuesta directa, solo revisión interna.",
