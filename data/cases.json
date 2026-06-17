@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4694",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "María Luisa Torrijos (Grupo Cox) envía a Alonso Samperio los formatos de solicitud para firma y el diagrama de Gantt de avances.\nObjeto: Solicitar firmas para iniciar el contrato de conexión en plataforma SIASIC y adjuntar avances del proyecto.\nInterpretación: Tarea operativa de firmas pendiente; Ricardo está en copia para conocimiento del estatus.",
+    "source": "Correo: María Luisa Torrijos Herrerias (Grupo Cox)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-17T20:14:00.000Z",
+    "createdAt": "2026-06-17T21:00:30.353Z",
+    "updatedAt": "2026-06-17T21:00:30.354Z"
+  },
+  {
     "id": "email-4693",
     "title": "FW: Informe de mercado de hoy: 17 de junio 📈",
     "description": "Naturgy México envía un boletín a Ricardo Carmona (reenviado a su cuenta de Gmail).\nObjeto: Compartir el enlace para descargar el reporte del mercado de gas del día 17 de junio.\nInterpretación: Correo informativo automático y recurrente; requiere archivo rutinario.",
