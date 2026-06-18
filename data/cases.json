@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4708",
+    "title": "FW: SGC: Seguimiento a aprobaciones",
+    "description": "Héctor Hernández Rangel solicita a Ricardo Carmona y otros responsables la aprobación del procedimiento PRO-PYC-003.\nObjeto: Revisar y autorizar el documento sobre obras de construcción antes de su vencimiento el 21/06/2026.\nInterpretación: Trámite interno de cumplimiento documental; requiere que Ricardo apruebe o comente el documento en la plataforma.",
+    "source": "Correo: Hector Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-06-21T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T01:26:00.000Z",
+    "createdAt": "2026-06-18T02:01:13.083Z",
+    "updatedAt": "2026-06-18T02:01:13.083Z"
+  },
+  {
+    "id": "email-4707",
+    "title": "FW: Día de la SST: Refuerzo de Servicio Legendario",
+    "description": "Jocelyn García Hernández cancela la sesión 'Día de la SST' programada para el 18 de junio, informando a los directores que ahora serán invitados opcionales.\nObjeto: Notificar la cancelación del evento y el cambio de modalidad de participación.\nInterpretación: Cambio de agenda corporativa; Ricardo ya no necesita asistir a la sesión original y podrá unirse a otras según su disponibilidad.",
+    "source": "Correo: Jocelyn García Hernández",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T01:02:00.000Z",
+    "createdAt": "2026-06-18T02:01:13.083Z",
+    "updatedAt": "2026-06-18T02:01:13.083Z"
+  },
+  {
     "id": "email-4706",
     "title": "FW: Ricardo Puga Treto envió un mensaje",
     "description": "Ricardo Puga Treto y otra persona enviaron mensajes en el chat de Teams 'Expedientes Federales'.\nObjeto: Notificar la recepción de mensajes nuevos en la plataforma corporativa.\nInterpretación: Alerta de mensaje en Microsoft Teams; requiere revisar el chat en la aplicación, no por correo.",
