@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4729",
+    "title": "FW: Isaac Eli Reynoso Ortega envió un mensaje",
+    "description": "Isaac Eli Reynoso Ortega reporta al equipo a través de Teams una incongruencia detectada con el nombre del proyecto JAVIH tras validar la información contra el ARSH.\nObjeto: Notificar una discrepancia documental en la nomenclatura del proyecto JAVIH.\nInterpretación: Alerta operativa y de control documental; requiere validación y unificación del nombre del proyecto en los expedientes.",
+    "source": "Correo: Isaac Eli Reynoso Ortega en Teams",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T21:01:18.000Z",
+    "createdAt": "2026-06-18T22:00:00.000Z",
+    "updatedAt": "2026-06-18T22:00:00.000Z"
+  },
+  {
     "id": "email-4728",
     "title": "FW: Variación de litros EDS ELM",
     "description": "Jesús Abraham Díaz informa a Alonso Samperio que ya quedó solucionado el tema de variaciones de litros en la EDS ELM.\nObjeto: Confirmar la resolución de la discrepancia operativa reportada previamente.\nInterpretación: Cierre de incidencia técnica; no requiere acción adicional por parte de Ricardo.",
