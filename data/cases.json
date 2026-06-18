@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4709",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Thursday 18 Jun 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencimientos en varios proyectos (Colón MTY, Comercialización, etc.).\nObjeto: Notificar el estatus de actividades y compromisos en plataforma.\nInterpretación: Notificación automática del sistema para control interno; no requiere respuesta directa, solo revisión.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T14:00:07.000Z",
+    "createdAt": "2026-06-18T14:00:00.000Z",
+    "updatedAt": "2026-06-18T14:00:00.000Z"
+  },
+  {
     "id": "email-4708",
     "title": "FW: SGC: Seguimiento a aprobaciones",
     "description": "Héctor Hernández Rangel solicita a Ricardo Carmona y otros responsables la aprobación del procedimiento PRO-PYC-003.\nObjeto: Revisar y autorizar el documento sobre obras de construcción antes de su vencimiento el 21/06/2026.\nInterpretación: Trámite interno de cumplimiento documental; requiere que Ricardo apruebe o comente el documento en la plataforma.",
