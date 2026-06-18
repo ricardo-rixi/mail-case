@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4728",
+    "title": "FW: Variación de litros EDS ELM",
+    "description": "Jesús Abraham Díaz informa a Alonso Samperio que ya quedó solucionado el tema de variaciones de litros en la EDS ELM.\nObjeto: Confirmar la resolución de la discrepancia operativa reportada previamente.\nInterpretación: Cierre de incidencia técnica; no requiere acción adicional por parte de Ricardo.",
+    "source": "Correo: Jesus Abraham Díaz Valdez",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T20:48:00.000Z",
+    "createdAt": "2026-06-18T21:00:26.598Z",
+    "updatedAt": "2026-06-18T21:00:26.598Z"
+  },
+  {
     "id": "email-4727",
     "title": "FW: Tiene 1 mensaje, 1 mención",
     "description": "Gelsica Berenice Infante Jimenez solicita al equipo revisión y comentarios del documento 'Anexo 03. ARSH JAVIH...'. Además, Tania Mosqueda notifica sobre el módulo Programación de Turnos.\nObjeto: Solicitar revisión de anexo y notificar actualización de módulo en Teams.\nInterpretación: Alertas de seguimiento de proyectos en Teams; requiere que Ricardo o el equipo revisen los mensajes en la plataforma.",
