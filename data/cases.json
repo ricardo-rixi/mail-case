@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4738",
+    "title": "Your monthly newsletter | June 2026 | Special Edition at aef",
+    "description": "Energy News Network envía a Ricardo Carmona su boletín mensual de noticias del sector energético.\nObjeto: Compartir resúmenes de proyectos y novedades del mercado, como avances en Mission 300 y energía renovable.\nInterpretación: Newsletter informativo automatizado; no requiere atención operativa ni seguimiento de negocio.",
+    "source": "Correo: Energy News Network",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T13:41:00.000Z",
+    "createdAt": "2026-06-19T14:00:00.000Z",
+    "updatedAt": "2026-06-19T14:00:00.000Z"
+  },
+  {
     "id": "email-4736",
     "title": "FW: Reaction Daily Digest - Thursday, June 18, 2026",
     "description": "Outlook notifica a Ricardo Carmona que Ricardo Rabell Velázquez reaccionó ('like') a su mensaje sobre el contrato de PepsiCo Mexico CNG.\nObjeto: Notificar la reacción de un compañero a un correo enviado previamente.\nInterpretación: Notificación automática del sistema de correo; no requiere acción operativa directa ya que el seguimiento se lleva en el hilo original.",
