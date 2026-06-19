@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4735",
+    "title": "FW: Gelsica Berenice Infante Jimenez envió un mensaje",
+    "description": "Gelsica Berenice Infante Jimenez notifica en el grupo de Teams 'Expedientes Federales' que actualizó la documentación (planos y memorias).\nObjeto: Informar la carga de documentos de proyecto en el repositorio.\nInterpretación: Notificación automatizada de plataforma; requiere archivo o revisión de los planos si hay dependencias.",
+    "source": "Correo: Gelsica Berenice Infante Jimenez en Teams",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T00:38:00.000Z",
+    "createdAt": "2026-06-19T01:00:33.020Z",
+    "updatedAt": "2026-06-19T01:00:33.020Z"
+  },
+  {
+    "id": "email-4731",
+    "title": "FW: Día de la SST: Servicio Legendario",
+    "description": "Jocelyn García Hernández convoca a Ricardo y al equipo directivo al 'Día de la Seguridad y Salud en el Trabajo' el 30 de junio.\nObjeto: Evento presencial con enfoque lúdico sobre antecedentes operativos.\nInterpretación: Evento corporativo de agenda; requiere agendar o confirmar asistencia.",
+    "source": "Correo: Jocelyn García Hernández",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-06-30T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T22:30:00.000Z",
+    "createdAt": "2026-06-19T01:00:33.020Z",
+    "updatedAt": "2026-06-19T01:00:33.020Z"
+  },
+  {
+    "id": "email-4730",
+    "title": "FW: Día de la SST: Servicio Legendario",
+    "description": "Jocelyn García Hernández convoca al equipo al 'Día de la Seguridad y Salud en el Trabajo' para el 1 de julio.\nObjeto: Sesión presencial de concientización y prevención de riesgos.\nInterpretación: Evento corporativo; confirmar asistencia según disponibilidad.",
+    "source": "Correo: Jocelyn García Hernández",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-01T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T22:27:00.000Z",
+    "createdAt": "2026-06-19T01:00:33.020Z",
+    "updatedAt": "2026-06-19T01:00:33.020Z"
+  },
+  {
     "id": "email-4734",
     "title": "FW: (DESCOMPRESIÓN) Re: Tarea: Solicitud de Permiso CRE (CEICKOR - Terminal de Descarga)",
     "description": "Sandra Castro informa al equipo y a Ricardo Carmona que la modificación de descompresión por la incorporación de CKR ha sido ingresada a la CRE.\nObjeto: Notificar el avance regulatorio y compartir el acuse de recibo correspondiente.\nInterpretación: Avance regulatorio crítico favorable; el acuse debe resguardarse en los expedientes legales del proyecto.",
