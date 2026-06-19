@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4740",
+    "title": "FW: PILA MP 0.25K Genset 4 (19/Jun 08:00am a 11:30am)",
+    "description": "Javier Escobedo solicita a Marisol Cedillo registrar el ingreso del proveedor para el mantenimiento preventivo del Genset 4 en la estación PILA y asegurar la firma de documentos, mientras que Marcos Ríos coordina la actividad técnica.\nObjeto: Dar seguimiento al mantenimiento preventivo programado (0.25K hrs) y coordinar el ingreso y documentación del proveedor.\nInterpretación: Coordinación operativa de mantenimiento en sitio; Ricardo está en copia para conocimiento general del estado del equipo.",
+    "source": "Correo: Javier Eduardo Hernandez Escobedo",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T14:58:25.000Z",
+    "createdAt": "2026-06-19T16:01:15.488Z",
+    "updatedAt": "2026-06-19T16:01:15.489Z"
+  },
+  {
+    "id": "email-4739",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 19 Jun 2026)",
+    "description": "El sistema Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencidas.\nObjeto: Presentar el resumen diario de proyectos como Colón MTY, Comercialización, Descompresión CKR+JAV, entre otros.\nInterpretación: Notificación automática del sistema para control interno; no requiere respuesta directa, solo revisión en la plataforma.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T14:00:05.000Z",
+    "createdAt": "2026-06-19T16:01:15.489Z",
+    "updatedAt": "2026-06-19T16:01:15.489Z"
+  },
+  {
     "id": "email-4738",
     "title": "Your monthly newsletter | June 2026 | Special Edition at aef",
     "description": "Energy News Network envía a Ricardo Carmona su boletín mensual de noticias del sector energético.\nObjeto: Compartir resúmenes de proyectos y novedades del mercado, como avances en Mission 300 y energía renovable.\nInterpretación: Newsletter informativo automatizado; no requiere atención operativa ni seguimiento de negocio.",
