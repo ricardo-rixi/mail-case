@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4736",
+    "title": "FW: Reaction Daily Digest - Thursday, June 18, 2026",
+    "description": "Outlook notifica a Ricardo Carmona que Ricardo Rabell Velázquez reaccionó ('like') a su mensaje sobre el contrato de PepsiCo Mexico CNG.\nObjeto: Notificar la reacción de un compañero a un correo enviado previamente.\nInterpretación: Notificación automática del sistema de correo; no requiere acción operativa directa ya que el seguimiento se lleva en el hilo original.",
+    "source": "Correo: Outlook (Reaction Daily Digest)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T04:36:00.000Z",
+    "createdAt": "2026-06-19T13:01:03.627Z",
+    "updatedAt": "2026-06-19T13:01:03.627Z"
+  },
+  {
+    "id": "email-4737",
+    "title": "EE.UU. e Irán firman la paz, la dura derrota de Topuria, el \"boicot\" de los profesores en Catalunya y más...",
+    "description": "La Vanguardia envía un boletín informativo con noticias internacionales, nacionales y deportivas a Ricardo.\nObjeto: Informar sobre actualidad noticiosa y promover la suscripción de pago.\nInterpretación: Boletín de noticias automatizado; archivar al no requerir seguimiento de negocio.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T08:02:00.000Z",
+    "createdAt": "2026-06-19T13:01:03.626Z",
+    "updatedAt": "2026-06-19T13:01:03.627Z"
+  },
+  {
     "id": "email-3963",
     "title": "New login to X from ChromeDesktop on Windows",
     "description": "X notifica a Ricardo Carmona sobre un nuevo inicio de sesión en su cuenta desde Chrome en Windows en Querétaro.\nObjeto: Alertar por seguridad sobre el acceso desde un nuevo navegador web.\nInterpretación: Alerta de seguridad estándar; ignorar si el inicio de sesión es legítimo.",
