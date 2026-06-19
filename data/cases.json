@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4734",
+    "title": "FW: (DESCOMPRESIÓN) Re: Tarea: Solicitud de Permiso CRE (CEICKOR - Terminal de Descarga)",
+    "description": "Sandra Castro informa al equipo y a Ricardo Carmona que la modificación de descompresión por la incorporación de CKR ha sido ingresada a la CRE.\nObjeto: Notificar el avance regulatorio y compartir el acuse de recibo correspondiente.\nInterpretación: Avance regulatorio crítico favorable; el acuse debe resguardarse en los expedientes legales del proyecto.",
+    "source": "Correo: Sandra Castro (Teamwork)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T23:40:00.000Z",
+    "createdAt": "2026-06-19T00:01:20.372Z",
+    "updatedAt": "2026-06-19T00:01:20.374Z"
+  },
+  {
+    "id": "email-4733",
+    "title": "FW: Notificación NATGAS - carta notificación de terminación",
+    "description": "Aleida Martinez (ENGIE) confirma de recibida la carta de terminación de contrato enviada por el Área Legal de Natgas y solicita conocer el motivo de la decisión.\nObjeto: Acuse de recibo de la terminación formal de la relación comercial y solicitud de retroalimentación.\nInterpretación: Trámite administrativo en curso; requiere que el equipo legal o comercial envíe una respuesta de cortesía para cerrar el proceso.",
+    "source": "Correo: Aleida Martinez (ENGIE)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T22:54:00.000Z",
+    "createdAt": "2026-06-19T00:01:20.374Z",
+    "updatedAt": "2026-06-19T00:01:20.374Z"
+  },
+  {
+    "id": "email-4732",
+    "title": "FW: Día SST: Servicio legendario",
+    "description": "Jocelyn García convoca a Ricardo Carmona y al equipo directivo al 'Día de la Seguridad y Salud en el Trabajo' con enfoque lúdico en la sala Gobierno.\nObjeto: Agendar sesiones de integración y concientización sobre eventos operativos (múltiples invitaciones para 30 jun, 1 jul y 2 jul).\nInterpretación: Evento de agenda interna; Ricardo debe confirmar asistencia a la sesión que mejor se ajuste a su calendario.",
+    "source": "Correo: Jocelyn García Hernández",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-02T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-18T22:34:00.000Z",
+    "createdAt": "2026-06-19T00:01:20.374Z",
+    "updatedAt": "2026-06-19T00:01:20.374Z"
+  },
+  {
     "id": "email-4729",
     "title": "FW: Isaac Eli Reynoso Ortega envió un mensaje",
     "description": "Isaac Eli Reynoso Ortega reporta al equipo a través de Teams una incongruencia detectada con el nombre del proyecto JAVIH tras validar la información contra el ARSH.\nObjeto: Notificar una discrepancia documental en la nomenclatura del proyecto JAVIH.\nInterpretación: Alerta operativa y de control documental; requiere validación y unificación del nombre del proyecto en los expedientes.",
