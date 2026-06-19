@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4744-202606191723",
+    "title": "FW: PNT -  medidor CFE con falla",
+    "description": "Abraham Gonzalez informa a Alonso Samperio y Carlos Ruiz que el medidor de CFE en la estación PNT sigue mostrando error y ofrece acudir a las oficinas de CFE con evidencia en video.\nObjeto: Dar seguimiento a la falla del medidor y coordinar el reclamo presencial ante CFE.\nInterpretación: Falla operativa en infraestructura de medición externa; el equipo de estación y técnico mantienen el escalamiento del reporte.",
+    "source": "Correo: Abraham Gonzalez Enriquez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T17:23:08.000Z",
+    "createdAt": "2026-06-19T18:01:09.337638Z",
+    "updatedAt": "2026-06-19T18:01:09.338357Z"
+  },
+  {
     "id": "email-4741",
     "title": "FW: Hablemos sobre tendencias de IA…",
     "description": "Google Cloud envía un informe sobre las 5 principales tendencias de agentes de IA para 2026.\nObjeto: Promocionar la descarga de un reporte sobre el futuro de la IA y su impacto empresarial.\nInterpretación: Correo publicitario automatizado de Google; archivar al no requerir seguimiento de negocio.",
