@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4755",
+    "title": "FW: REPORTE MAYO 2026 - PAQUETERIA",
+    "description": "Mariana Hernandez Rangel adjunta a Ana Paola Hernandez la Orden de Compra para el servicio de paquetería y solicita generar la Entrada de Mercancías.\nObjeto: Gestionar la Entrada de Mercancías para el pago de los servicios de mensajería del mes de mayo.\nInterpretación: Trámite administrativo rutinario de compras; Ricardo se encuentra en copia para seguimiento.",
+    "source": "Correo: Mariana Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T23:45:00.000Z",
+    "createdAt": "2026-06-20T16:02:06.922Z",
+    "updatedAt": "2026-06-20T16:02:06.923Z"
+  },
+  {
+    "id": "email-4754",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica (BALANCE DE ENERGIA ELECTRICA)",
+    "description": "José Enrique Taracena Sanz informa a Luis Carvajal y Héctor Ramírez sobre el incremento atípico y el sobrecosto de $211,000 MXN en el consumo de energía eléctrica de mayo.\nObjeto: Solicitar acciones correctivas para prevenir que el sobreconsumo se repita en junio en las estaciones afectadas.\nInterpretación: Alerta operativa crítica sobre desbalance de consumo eléctrico que requiere la intervención inmediata del área técnica.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "urgente",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T23:23:00.000Z",
+    "createdAt": "2026-06-20T16:02:06.923Z",
+    "updatedAt": "2026-06-20T16:02:06.923Z"
+  },
+  {
+    "id": "email-4749",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "María Luisa Torrijos (Grupo Cox) confirma a Alonso Samperio que es posible firmar los documentos digitalmente, recomendando el uso de tinta azul.\nObjeto: Aclarar dudas sobre el formato de firma aceptado para continuar el proceso de cambio de suministrador calificado.\nInterpretación: Respuesta administrativa de proveedor; permite avanzar con la firma del contrato y acreditación en Nuevo León.",
+    "source": "Correo: María Luisa Torrijos Herrerias",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T18:55:00.000Z",
+    "createdAt": "2026-06-20T16:02:06.923Z",
+    "updatedAt": "2026-06-20T16:02:06.923Z"
+  },
+  {
     "id": "email-4754",
     "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica (BALANCE DE ENERGIA ELECTRICA)",
     "description": "José Enrique Taracena alerta a Luis Alberto Carvajal y Héctor Fabio Ramírez sobre un grave incremento (sobrecosto de ~$211,000) en el consumo de energía eléctrica durante mayo en nueve estaciones.\nObjeto: Solicitar acciones correctivas y preventivas para evitar que el sobreconsumo se repita en junio.\nInterpretación: Notificación ejecutiva urgente sobre desviación operativa y financiera; exige intervención técnica inmediata y plan de acción.",
