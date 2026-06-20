@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4755",
+    "title": "FW: REPORTE MAYO 2026 - PAQUETERIA",
+    "description": "Mariana Hernandez Rangel solicita a Ana Paola Hernandez generar la Entrada de Mercancías (EM) por el servicio de paquetería de mayo.\nObjeto: Completar el trámite administrativo con la Orden de Compra adjunta.\nInterpretación: Solicitud administrativa interna de compras; requiere acción de Ana Paola. Ricardo en copia para seguimiento.",
+    "source": "Correo: Mariana Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T23:45:00.000Z",
+    "createdAt": "2026-06-20T00:00:00.000Z",
+    "updatedAt": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "id": "email-4754",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica (BALANCE DE ENERGIA ELECTRICA)",
+    "description": "José Enrique Taracena señala a Luis Alberto Carvajal y Héctor Fabio Ramirez un grave incremento en el consumo de energía eléctrica durante mayo, solicitando acciones correctivas.\nObjeto: Reclamar el sobrecosto de más de $211,000.00 y exigir un plan de contención para junio.\nInterpretación: Requerimiento directivo urgente por desviación en costos operativos; requiere respuesta y plan de acción inmediato por parte del equipo técnico.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "urgente",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T23:23:00.000Z",
+    "createdAt": "2026-06-20T00:00:00.000Z",
+    "updatedAt": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "id": "email-4753",
+    "title": "FW: Proxima baja de Power BI y Erelis",
+    "description": "José Enrique Taracena comunica a los líderes la próxima baja de Power BI y Erelis a partir del 30 de junio para centralizar información en Natgas IQ.\nObjeto: Informar el cambio de plataforma y solicitar la transición de reportes al nuevo sistema.\nInterpretación: Notificación directiva de cambio de herramientas; exige asegurar que el equipo adopte Natgas IQ y se apoye en Luis Andrés Pi de ser necesario.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "importante",
+    "dueDate": "2026-06-30T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T22:53:00.000Z",
+    "createdAt": "2026-06-20T00:00:00.000Z",
+    "updatedAt": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "id": "email-4752",
+    "title": "FW: [Webinar OT] Cinco principales predicciones y tendencias en 2026",
+    "description": "Fortinet invita a Ricardo a un webinar sobre las principales predicciones y tendencias en ciberseguridad OT para 2026.\nObjeto: Promocionar contenido educativo y de marketing sobre seguridad en tecnología operativa.\nInterpretación: Correo promocional/informativo externo; archivar, no requiere acción operativa.",
+    "source": "Correo: Fortinet",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-19T22:00:00.000Z",
+    "createdAt": "2026-06-20T00:00:00.000Z",
+    "updatedAt": "2026-06-20T00:00:00.000Z"
+  },
+  {
     "id": "email-4751",
     "title": "FW: Comunicación Interna publicó una novedad importante",
     "description": "Comunicación Interna invita a los colaboradores de Natgas a participar en la dinámica 'Mi mejor enseñanza de papá' para celebrar el Día del Padre.\nObjeto: Promover una actividad de integración interna compartiendo fotografías y anécdotas sobre los padres.\nInterpretación: Notificación corporativa orientada al bienestar organizacional; no requiere acción operativa, puede archivarse.",
