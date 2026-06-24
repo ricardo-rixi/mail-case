@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4826",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "María Luisa Torrijos (Grupo Cox) solicita a Alonso Samperio seguir los pasos anexos para la solicitud de contrato de conexión en SIASIC.\nObjeto: Continuar el proceso de cambio de suministrador calificado en Nuevo León.\nInterpretación: Gestión administrativa y operativa; requiere que el equipo técnico proceda con el trámite en el portal.",
+    "source": "Correo: María Luisa Torrijos Herrerias",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T20:27:00.000Z",
+    "createdAt": "2026-06-24T21:00:00.000Z",
+    "updatedAt": "2026-06-24T21:00:00.000Z"
+  },
+  {
+    "id": "email-4825",
+    "title": "FW: Notas de Crédito - Waha negativo abril 2026",
+    "description": "Josue Meza (Natgas) informa a Erika Huerta (ENGIE) que revisarán internamente la postura fiscal de ENGIE sobre el uso de la clave de compensación y darán respuesta.\nObjeto: Pausar la discusión para validación interna de la clave fiscal aplicable a las notas de crédito.\nInterpretación: Trámite fiscal/contable en revisión interna; detiene temporalmente la resolución del conflicto y pagos.",
+    "source": "Correo: Josue Meza Jimenez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T20:09:00.000Z",
+    "createdAt": "2026-06-24T21:00:00.000Z",
+    "updatedAt": "2026-06-24T21:00:00.000Z"
+  },
+  {
     "id": "email-4819",
     "title": "FW: Nueva encuesta",
     "description": "Evaluaciones Bienestar solicita a Ricardo Carmona responder el cuestionario obligatorio de la NOM-035.\nObjeto: Cumplir con la normativa oficial sobre factores de riesgo psicosocial.\nInterpretación: Encuesta de cumplimiento regulatorio y RRHH; requiere respuesta personal.",
