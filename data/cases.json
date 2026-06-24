@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-3962",
+    "title": "Cambios en el funcionamiento de la configuración de privacidad en Play",
+    "description": "Google Play notifica a Ricardo sobre cambios en los ajustes de personalización y el historial de actividad.\nObjeto: Informar sobre actualizaciones en la configuración de privacidad y el control de datos.\nInterpretación: Correo informativo automatizado de plataforma; no requiere acción operativa directa.",
+    "source": "Correo: Google Play",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-01-09T04:52:00.000Z",
+    "createdAt": "2026-06-24T02:02:01.052Z",
+    "updatedAt": "2026-06-24T02:02:01.052Z"
+  },
+  {
+    "id": "email-3961",
+    "title": "Ricardo, todo el año por solo 12€",
+    "description": "La Vanguardia envía a Ricardo una oferta comercial para suscribirse a sus noticias durante todo el año 2026 por 12€.\nObjeto: Promocionar planes de suscripción de noticias con descuento.\nInterpretación: Correo publicitario y promocional directo; no requiere ninguna acción de negocio.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-01-04T06:04:00.000Z",
+    "createdAt": "2026-06-24T02:02:01.052Z",
+    "updatedAt": "2026-06-24T02:02:01.052Z"
+  },
+  {
     "id": "email-4814",
     "title": "FW: Informe de mercado de hoy: 23 de junio 📈",
     "description": "Naturgy México envía el boletín informativo automatizado con el informe de mercado de gas del día 23 de junio.\nObjeto: Proveer actualización diaria sobre las condiciones del mercado energético.\nInterpretación: Boletín informativo estándar; solo requiere lectura si se desea conocer los datos del día.",
