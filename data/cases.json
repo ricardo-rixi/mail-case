@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4815",
+    "title": "FW: INDICADORES ESG Abril 2026",
+    "description": "Elsa Sanchez Garcia informa a Alonso Samperio y Tania Mosqueda sobre su salida de Natgas, copiando a Ricardo.\nObjeto: Notificar que Tania Mosqueda tomará el control del seguimiento de los Objetivos e Indicadores ESG y del tablero automatizado.\nInterpretación: Transición operativa y cambio de responsable en un proyecto interno clave.",
+    "source": "Correo: Elsa Sanchez Garcia",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T02:04:00.000Z",
+    "createdAt": "2026-06-24T04:01:30.062Z",
+    "updatedAt": "2026-06-24T04:01:30.062Z"
+  },
+  {
+    "id": "email-3956",
+    "title": "New login to X from 11.49.1 on Android",
+    "description": "X notifica a Ricardo sobre un nuevo inicio de sesión en su cuenta desde un dispositivo Android en Querétaro.\nObjeto: Enviar alerta de seguridad por detección de nuevo dispositivo.\nInterpretación: Aviso automatizado de seguridad personal; no requiere acción si el inicio de sesión es legítimo.",
+    "source": "Correo: X",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-12-23T18:18:00.000Z",
+    "createdAt": "2026-06-24T04:01:30.062Z",
+    "updatedAt": "2026-06-24T04:01:30.062Z"
+  },
+  {
+    "id": "email-3960",
+    "title": "¡Hola! Queremos hacerte una pregunta 🤔",
+    "description": "Canva invita a Ricardo a actualizar su perfil y preferencias de uso en la plataforma.\nObjeto: Solicitar información para personalizar recomendaciones de diseño.\nInterpretación: Correo masivo de marketing; irrelevante para la operación del negocio, archivar.",
+    "source": "Correo: Canva",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-01-01T23:32:00.000Z",
+    "createdAt": "2026-06-24T04:01:30.062Z",
+    "updatedAt": "2026-06-24T04:01:30.062Z"
+  },
+  {
     "id": "email-3962",
     "title": "Cambios en el funcionamiento de la configuración de privacidad en Play",
     "description": "Google Play notifica a Ricardo sobre cambios en los ajustes de personalización y el historial de actividad.\nObjeto: Informar sobre actualizaciones en la configuración de privacidad y el control de datos.\nInterpretación: Correo informativo automatizado de plataforma; no requiere acción operativa directa.",
