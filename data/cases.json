@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4816",
+    "title": "19,90€. 2 años. ¡Último día!",
+    "description": "La Vanguardia envía a Ricardo una oferta comercial de último día para una suscripción digital de 2 años por 19,90€.\nObjeto: Promocionar suscripción de noticias con descuento.\nInterpretación: Correo publicitario y promocional directo; no requiere acción de negocio, archivar.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T05:04:00.000Z",
+    "createdAt": "2026-06-24T13:00:00.000Z",
+    "updatedAt": "2026-06-24T13:00:00.000Z"
+  },
+  {
     "id": "email-4815",
     "title": "FW: INDICADORES ESG Abril 2026",
     "description": "Elsa Sanchez Garcia informa a Alonso Samperio y Tania Mosqueda sobre su salida de Natgas, copiando a Ricardo.\nObjeto: Notificar que Tania Mosqueda tomará el control del seguimiento de los Objetivos e Indicadores ESG y del tablero automatizado.\nInterpretación: Transición operativa y cambio de responsable en un proyecto interno clave.",
