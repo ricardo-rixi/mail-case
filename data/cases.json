@@ -2,6 +2,32 @@
   {
     "id": "email-4818",
     "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Humand notifica a Ricardo Carmona sobre una nueva publicación de Comunicación Interna referente a la Reforestación de Querétaro.\nObjeto: Invitar al personal a registrarse en la actividad de responsabilidad social y sustentabilidad.\nInterpretación: Boletín corporativo automatizado de concientización; no requiere acción operativa directa por parte del destinatario.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T16:27:00.000Z",
+    "createdAt": "2026-06-24T18:00:44.201Z",
+    "updatedAt": "2026-06-24T18:00:44.202Z"
+  },
+  {
+    "id": "email-4817",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 24 Jun 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencimientos en diversos proyectos.\nObjeto: Presentar el resumen de la plataforma para revisión de actividades operativas y de proyectos.\nInterpretación: Notificación automática de estatus; no requiere respuesta directa, solo revisión interna.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T14:00:00.000Z",
+    "createdAt": "2026-06-24T18:00:44.202Z",
+    "updatedAt": "2026-06-24T18:00:44.202Z"
+  },
+  {
+    "id": "email-4818",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
     "description": "Comunicación Interna (Humand) invita a Ricardo Carmona y colaboradores a registrarse en la campaña de Reforestación de Querétaro.\nObjeto: Promover la participación voluntaria en la reforestación local.\nInterpretación: Actividad corporativa y de integración; no requiere acción directa de negocio, archivar.",
     "source": "Correo: Humand",
     "owner": "Ricardo",
