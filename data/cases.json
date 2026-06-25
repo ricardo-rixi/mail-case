@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4843",
+    "title": "FW: Facturas ENGIE MAYO",
+    "description": "Mariana Hernandez Rangel comparte la relación de órdenes de compra (OC) para los proveedores DIAVAZ, NATURGY y ENGIE a Julio Cesar Rojas y equipo.\nObjeto: Proveer la relación de Órdenes de Compra para las facturas de gas del mes de mayo.\nInterpretación: Gestión administrativa de compras en curso; facilita la conciliación de pagos. Ricardo en copia para seguimiento.",
+    "source": "Correo: Mariana Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-25T17:45:00.000Z",
+    "createdAt": "2026-06-25T18:01:00.533Z",
+    "updatedAt": "2026-06-25T18:01:00.534Z"
+  },
+  {
+    "id": "email-4842",
+    "title": "FW: What High-Performing Operations Do Differently",
+    "description": "Emerson envía a Ricardo Carmona un correo promocional invitando a descargar un e-book gratuito con casos de estudio sobre excelencia operativa.\nObjeto: Promocionar contenido sobre optimización de operaciones e instrumentación industrial.\nInterpretación: Correo comercial e informativo; no requiere acción operativa por parte de Ricardo.",
+    "source": "Correo: Emerson",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-25T17:03:00.000Z",
+    "createdAt": "2026-06-25T18:01:00.534Z",
+    "updatedAt": "2026-06-25T18:01:00.534Z"
+  },
+  {
+    "id": "email-4841",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "Raúl Alberto Espejel instruye a Alonso Samperio subir los documentos a Docusign para aplicar su firma electrónica requerida por CENACE.\nObjeto: Completar la firma del representante legal para el trámite de contratos de conexión en Nuevo León.\nInterpretación: Avance crítico en el proceso regulatorio; el equipo técnico debe cargar los archivos para no retrasar el trámite.",
+    "source": "Correo: Raúl Alberto Espejel Lozoya",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-25T16:59:46.000Z",
+    "createdAt": "2026-06-25T18:01:00.534Z",
+    "updatedAt": "2026-06-25T18:01:00.534Z"
+  },
+  {
     "id": "email-4840",
     "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
     "description": "Alonso Samperio solicita a Raúl Espejel su firma electrónica (FIEL) para completar el envío de solicitudes de los contratos de conexión al CENACE.\nObjeto: Requerir la firma del representante legal para el trámite ante CENACE.\nInterpretación: Paso final del trámite a cargo del representante legal; requiere que Raúl ejecute la firma.",
