@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4834",
+    "title": "FW: 3 formas de sacar más partido a Copilot en el trabajo",
+    "description": "Microsoft 365 Copilot envía un boletín con sugerencias y comandos para mejorar la productividad en las tareas diarias.\nObjeto: Promover las funcionalidades de la herramienta de inteligencia artificial de Microsoft.\nInterpretación: Correo automatizado y promocional; irrelevante para la operación inmediata, se archiva.",
+    "source": "Correo: Microsoft 365 Copilot",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-25T14:53:58.000Z",
+    "createdAt": "2026-06-25T16:01:03.378Z",
+    "updatedAt": "2026-06-25T16:01:03.378Z"
+  },
+  {
+    "id": "email-4835",
+    "title": "FW: OC  3048692 Plan de vigilancias Natgas Revisión 4",
+    "description": "Alonso Samperio solicita a Misael (Grupo Isea) soluciones técnicas para las estaciones alarmadas o con medición incorrecta tras las visitas de vigilancia de mayo.\nObjeto: Requerir soporte técnico y calibración de sensores de medición a proveedor externo.\nInterpretación: Incidencia técnica y de mantenimiento en infraestructura de medición; requiere seguimiento para asegurar su correcta operación.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-25T15:48:34.000Z",
+    "createdAt": "2026-06-25T16:01:03.378Z",
+    "updatedAt": "2026-06-25T16:01:03.378Z"
+  },
+  {
     "id": "email-4833",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Thursday 25 Jun 2026)",
     "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencimientos en diversos proyectos.\nObjeto: Presentar el resumen de la plataforma para revisión de actividades operativas.\nInterpretación: Notificación automática de estatus; no requiere respuesta directa, solo revisión interna.",
