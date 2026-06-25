@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4830",
+    "title": "FW: CARTA (BORRADOR) - PERMISOS GNC DE CNE",
+    "description": "AMGN solicita a Natgas y otros miembros revisar y proponer cambios al borrador de la carta sobre permisos GNC de CNE a más tardar el viernes 26 a las 12:00 hrs.\nObjeto: Realizar propuestas al borrador de la carta para la autoridad.\nInterpretación: Gestión regulatoria urgente; requiere revisión técnica y comentarios del equipo antes de la fecha límite.",
+    "source": "Correo: AMGN",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-06-26T12:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T23:20:00.000Z",
+    "createdAt": "2026-06-25T00:00:00.000Z",
+    "updatedAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "email-4829",
+    "title": "FW: Plan Quinquenal SISTRANGAS 2026-2030",
+    "description": "José Enrique Taracena Sanz comparte con Ricardo y el equipo el Plan Quinquenal de SISTRANGAS 2026-2030.\nObjeto: Proveer información técnica y estratégica de utilidad para la empresa.\nInterpretación: Recepción de documento clave del sector; requiere resguardo y revisión interna para alinear estrategias.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T23:01:00.000Z",
+    "createdAt": "2026-06-25T00:00:00.000Z",
+    "updatedAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "email-4828",
+    "title": "FW: Fortinet lo espera en AWS Summit Ciudad de México 2026",
+    "description": "Fortinet invita a Ricardo al AWS Summit en Ciudad de México el 12 de agosto de 2026.\nObjeto: Promover la participación en el evento sobre seguridad en la nube y entornos AWS.\nInterpretación: Correo promocional e informativo de evento; no requiere acción operativa inmediata.",
+    "source": "Correo: Fortinet",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-24T22:01:00.000Z",
+    "createdAt": "2026-06-25T00:00:00.000Z",
+    "updatedAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
     "id": "email-4827",
     "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
     "description": "Alonso Samperio Gayosso envía a Ricardo Rabell Velázquez el archivo Word con las indicaciones a seguir para el envío de las solicitudes a Cenace.\nObjeto: Compartir el documento con los pasos para la solicitud de SIASIC para continuar el proceso de contrato de conexión.\nInterpretación: Avance en el trámite de cambio de suministrador; requiere acción del área legal/regulatoria para enviar las solicitudes.",
