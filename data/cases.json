@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4863",
+    "title": "FW: Alto consumo de agua ABA y PNT semana del 15 al 22 de junio 2026",
+    "description": "Alonso Samperio Gayosso solicita a Carlos Rafael Ruiz Carrasco y equipo una revisión urgente por altos consumos inusuales de agua detectados en ABA y PNT.\nObjeto: Solicitar revisión técnica por posible fuga de agua en estaciones.\nInterpretación: Incidencia operativa que requiere atención técnica a la brevedad.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T17:59:00.000Z",
+    "createdAt": "2026-06-26T18:00:53.331309Z",
+    "updatedAt": "2026-06-26T18:00:53.332098Z"
+  },
+  {
+    "id": "email-4862",
+    "title": "FW: Facturas ENGIE MAYO",
+    "description": "Julio Cesar Rojas Rangel confirma a Mariana Hernandez Rangel y al equipo que las facturas de gas (ENGIE y NATURGY) de mayo ya fueron cargadas exitosamente en el portal.\nObjeto: Notificar la carga exitosa de facturas de proveedores.\nInterpretación: Trámite administrativo completado; no requiere acción adicional, se archiva.",
+    "source": "Correo: Julio Cesar Rojas Rangel",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T17:57:00.000Z",
+    "createdAt": "2026-06-26T18:00:53.332123Z",
+    "updatedAt": "2026-06-26T18:00:53.332138Z"
+  },
+  {
     "id": "email-4861",
     "title": "FW: Juan Carlos Pineda Adaya publicó una novedad importante",
     "description": "Juan Carlos Pineda Adaya comparte un comunicado interno de solidaridad por el reciente terremoto en Venezuela, brindando opciones de apoyo desde México para el personal afectado.\nObjeto: Comunicado corporativo de solidaridad y opciones de apoyo social.\nInterpretación: Comunicación interna de recursos humanos; informativo, archivar sin acción de negocio.",
