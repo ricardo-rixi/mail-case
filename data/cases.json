@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4857",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 26 Jun 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencimientos.\nObjeto: Presentar el resumen diario de proyectos activos (Colón MTY, Comercialización, etc.) para revisión de actividades.\nInterpretación: Notificación automática del sistema para control interno; no requiere respuesta, solo revisión en la plataforma.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T14:00:00.000Z",
+    "createdAt": "2026-06-26T14:00:00.000Z",
+    "updatedAt": "2026-06-26T14:00:00.000Z"
+  },
+  {
     "id": "email-4856",
     "title": "El terremoto de Venezuela, las claves de la ola de calor en España, las cuentas de la Selección en el Mundial y mucho más...",
     "description": "La Vanguardia envía un boletín de noticias destacando los recientes sismos en Venezuela y olas de calor en España.\nObjeto: Compartir resumen de noticias internacionales.\nInterpretación: Boletín informativo y publicitario; no requiere acción de negocio y se archiva.",
