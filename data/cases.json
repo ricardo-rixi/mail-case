@@ -7551,5 +7551,18 @@
     "receivedAt": "2026-05-11T17:46:00.000Z",
     "createdAt": "2026-06-12T22:00:00.000Z",
     "updatedAt": "2026-06-12T22:00:00.000Z"
+  },
+  {
+    "id": "email-4858",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Emily Glasgow (PepsiCo) solicita a Ricardo Carmona organizar una visita presencial en julio para su directivo (Thiago) y stakeholders.\nObjeto: Conocer en la práctica una operación de GNC de autoconsumo (ej. CEMEX).\nInterpretación: Avance comercial estratégico; requiere coordinar con clientes actuales y agendar la visita en sitio.",
+    "source": "Correo: Emily Glasgow (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T15:07:00.000Z",
+    "createdAt": "2026-06-26T16:01:07.605Z",
+    "updatedAt": "2026-06-26T16:01:07.610Z"
   }
 ]
