@@ -7642,5 +7642,70 @@
     "receivedAt": "2026-06-26T15:07:00.000Z",
     "createdAt": "2026-06-26T16:01:07.605Z",
     "updatedAt": "2026-06-26T16:01:07.610Z"
+  },
+  {
+    "id": "email-4868",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "Alonso Samperio acusa de recibido y agradece a Raúl Alberto Espejel la confirmación de la firma electrónica para las solicitudes al CENACE.\nObjeto: Cerrar la comunicación sobre la gestión de firmas del contrato de conexión.\nInterpretación: Confirmación administrativa de rutina; marca el cierre de la solicitud interna y la continuación del proceso con la autoridad correspondiente.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T19:23:00.000Z",
+    "createdAt": "2026-06-26T20:01:33.987Z",
+    "updatedAt": "2026-06-26T20:01:33.989Z"
+  },
+  {
+    "id": "email-4867",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "Raúl Alberto Espejel Lozoya confirma a Alonso Samperio y Mariana Sanchez (\"Listo\") que ha completado el proceso requerido con su firma electrónica.\nObjeto: Finalizar la firma de las solicitudes de los contratos de conexión al CENACE para el cambio de suministrador calificado en Nuevo León.\nInterpretación: Avance crítico completado en un trámite regulatorio/comercial, permitiendo que el equipo técnico continúe con el envío oficial al CENACE.",
+    "source": "Correo: Raúl Alberto Espejel Lozoya",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T19:20:00.000Z",
+    "createdAt": "2026-06-26T20:01:33.989Z",
+    "updatedAt": "2026-06-26T20:01:33.989Z"
+  },
+  {
+    "id": "email-4866",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Consumo de Agua (BALANCE DE AGUA)",
+    "description": "Alonso Samperio envía al equipo el reporte de Consumo de Agua Semanal de las EDS correspondiente al periodo del 15 al 22 de junio de 2026.\nObjeto: Documentar el comportamiento del consumo hídrico, analizar resultados y listar acciones a seguir para la corrección de desviaciones.\nInterpretación: Entrega de informe periódico de control de servicios; útil para el seguimiento de la eficiencia operativa y detección de posibles fugas.",
+    "source": "Correo: Alonso Samperio",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T18:50:00.000Z",
+    "createdAt": "2026-06-26T20:01:33.989Z",
+    "updatedAt": "2026-06-26T20:01:33.989Z"
+  },
+  {
+    "id": "email-4865",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Balance de Energía Eléctrica (BALANCE DE ENERGIA ELECTRICA)",
+    "description": "Alonso Samperio distribuye al equipo el Informe Semanal de Monitoreo de Consumo Eléctrico de las EDS para la semana del 15 al 22 de junio de 2026.\nObjeto: Presentar el comportamiento de cada estación, análisis de resultados y acciones correctivas identificadas.\nInterpretación: Reporte de monitoreo de consumo energético interno; su propósito es el control y optimización operativa sin requerir intervención directa inmediata de Ricardo.",
+    "source": "Correo: Alonso Samperio",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T18:49:00.000Z",
+    "createdAt": "2026-06-26T20:01:33.989Z",
+    "updatedAt": "2026-06-26T20:01:33.989Z"
+  },
+  {
+    "id": "email-4864",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Balance de Gas (BALANCE DE GAS)",
+    "description": "Alonso Samperio comparte con el equipo de NATGAS el reporte semanal del Balance de Gas correspondiente a la semana del 15 al 22 de junio de 2026.\nObjeto: Informar sobre los desbalances identificados (ej. +2.37% en CEC) y el seguimiento con Engie para la revisión de medición.\nInterpretación: Reporte técnico operativo rutinario para monitoreo de desbalances; requiere que el equipo valide y dé seguimiento a las correcciones solicitadas al proveedor.",
+    "source": "Correo: Alonso Samperio",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T18:48:00.000Z",
+    "createdAt": "2026-06-26T20:01:33.989Z",
+    "updatedAt": "2026-06-26T20:01:33.989Z"
   }
 ]
