@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4861",
+    "title": "FW: Juan Carlos Pineda Adaya publicó una novedad importante",
+    "description": "Juan Carlos Pineda Adaya comparte un comunicado interno de solidaridad por el reciente terremoto en Venezuela, brindando opciones de apoyo desde México para el personal afectado.\nObjeto: Comunicado corporativo de solidaridad y opciones de apoyo social.\nInterpretación: Comunicación interna de recursos humanos; informativo, archivar sin acción de negocio.",
+    "source": "Correo: Humand / Juan Carlos Pineda Adaya",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T16:56:00.000Z",
+    "createdAt": "2026-06-26T17:00:00.000Z",
+    "updatedAt": "2026-06-26T17:00:00.000Z"
+  },
+  {
+    "id": "email-4860",
+    "title": "FW: SC_Flete Open Gate a Ojocaliente",
+    "description": "Carlos Fernando González confirma el traspaso contable de los surtidores a la nueva EDS OCA, generando nuevos números de activo fijo, tras la validación de Neyda González.\nObjeto: Informar el registro contable y nuevos activos fijos para los equipos trasladados a OCA.\nInterpretación: Trámite contable y administrativo completado; no requiere acción directa de Ricardo.",
+    "source": "Correo: Neyda Yudith Gonzalez Silva / Carlos Fernando Gonzalez Ramirez",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T16:48:00.000Z",
+    "createdAt": "2026-06-26T17:00:00.000Z",
+    "updatedAt": "2026-06-26T17:00:00.000Z"
+  },
+  {
+    "id": "email-4859",
+    "title": "FW: Notas de Crédito - Waha negativo abril 2026",
+    "description": "Josue Meza (Natgas) informa a ENGIE que por urgencia aceptarán la emisión de los CFDI como compensación, pero solicita agendar una reunión futura para consensuar el criterio de llenado fiscal.\nObjeto: Aceptar temporalmente la emisión de notas de crédito como compensación y solicitar reunión.\nInterpretación: Trámite administrativo/fiscal cerrado temporalmente por urgencia; requiere agendar sesión para definir criterio futuro de facturación.",
+    "source": "Correo: Josue Meza Jimenez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T16:33:00.000Z",
+    "createdAt": "2026-06-26T17:00:00.000Z",
+    "updatedAt": "2026-06-26T17:00:00.000Z"
+  },
+  {
+    "id": "email-4858",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Emily Glasgow y Michael Burnside (PepsiCo) solicitan organizar una visita presencial en México para su mánager y equipo con el fin de conocer la operación práctica de GNC en instalaciones de clientes como CEMEX.\nObjeto: Organizar visita comercial de líderes de PepsiCo para ver instalaciones de GNC.\nInterpretación: Oportunidad comercial de alta importancia en progreso; requiere que Ricardo confirme la visita y coordine la logística en julio.",
+    "source": "Correo: Emily Glasgow / Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-07-25T00:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-26T15:07:00.000Z",
+    "createdAt": "2026-06-26T17:00:00.000Z",
+    "updatedAt": "2026-06-26T17:00:00.000Z"
+  },
+  {
     "id": "email-4857",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 26 Jun 2026)",
     "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias pendientes y vencimientos.\nObjeto: Presentar el resumen diario de proyectos activos (Colón MTY, Comercialización, etc.) para revisión de actividades.\nInterpretación: Notificación automática del sistema para control interno; no requiere respuesta, solo revisión en la plataforma.",
