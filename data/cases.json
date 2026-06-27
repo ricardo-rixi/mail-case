@@ -8058,5 +8058,18 @@
     "receivedAt": "2026-06-26T18:48:00.000Z",
     "createdAt": "2026-06-26T20:01:33.989Z",
     "updatedAt": "2026-06-26T20:01:33.989Z"
+  },
+  {
+    "id": "email-4873",
+    "title": "Obtén más información sobre nuestros Términos del Servicio actualizados",
+    "description": "Google notifica a Ricardo sobre actualizaciones a sus Términos del Servicio, efectivas el 30 de julio de 2026.\nObjeto: Informar sobre cambios legales en el uso de los servicios de Google.\nInterpretación: Notificación automatizada administrativa; archivar, no requiere acción de negocio.",
+    "source": "Correo: Google",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-27T20:30:00.000Z",
+    "createdAt": "2026-06-27T21:00:00.000Z",
+    "updatedAt": "2026-06-27T21:00:00.000Z"
   }
 ]
