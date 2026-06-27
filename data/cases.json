@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4872",
+    "title": "FW: DIFERENCIA EN LECTURAS TABLERO INTELIGENTE NACOZARI",
+    "description": "Sergio Alberto Landeros reporta a Alonso Samperio una diferencia de 2.4% en las lecturas del tablero inteligente de la EDS NACOZARI el día 26/06/2026.\nObjeto: Solicitar revisión técnica para confirmar si el equipo sigue dentro del rango de operación autorizado.\nInterpretación: Reporte operativo por desbalance de lecturas; requiere revisión técnica por parte de la coordinación.",
+    "source": "Correo: Sergio Alberto Landeros Guerrero",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-27T15:47:00.000Z",
+    "createdAt": "2026-06-27T16:00:00.000Z",
+    "updatedAt": "2026-06-27T16:00:00.000Z"
+  },
+  {
     "id": "email-4871",
     "title": "FW: We're updating our Privacy Policy",
     "description": "Anthropic Team notifica a Ricardo Carmona sobre las actualizaciones recientes a su Política de Privacidad para cuentas de consumo (Claude Free, Pro y Max).\nObjeto: Informar los cambios sobre el manejo de datos en tareas de múltiples pasos, aplicaciones conectadas y verificación de identidad.\nInterpretación: Notificación administrativa y legal automatizada; no requiere acción operativa directa por parte del usuario, solo para conocimiento.",
