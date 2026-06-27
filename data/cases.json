@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-3936",
+    "title": "Notificación para ti: 1 notificación nueva",
+    "description": "Facebook envía a Ricardo Carmona una alerta automática sobre nueva actividad o mensajes pendientes en la plataforma.\nObjeto: Alerta automática de redes sociales.\nInterpretación: Notificación personal automatizada de baja prioridad; no requiere ninguna acción operativa directa por parte del negocio.",
+    "source": "Correo: Facebook",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-11-28T00:52:00.000Z",
+    "createdAt": "2026-06-27T20:01:29.064Z",
+    "updatedAt": "2026-06-27T20:01:29.064Z"
+  },
+  {
+    "id": "email-3935",
+    "title": "1 año por 9,90€ ¡solo por Black Friday!",
+    "description": "La Vanguardia envía a Ricardo Carmona una promoción comercial por el Black Friday ofreciendo un año de suscripción por 9,90€.\nObjeto: Promocionar planes de suscripción de noticias con descuento especial.\nInterpretación: Correo publicitario y comercial en frío; no requiere atención ni seguimiento y se recomienda archivar.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-11-27T08:02:00.000Z",
+    "createdAt": "2026-06-27T20:01:29.064Z",
+    "updatedAt": "2026-06-27T20:01:29.064Z"
+  },
+  {
+    "id": "email-3932",
+    "title": "¡Un nuevo Miembro se ha unido a tu equipo!",
+    "description": "Canva notifica a Ricardo Carmona que el usuario Editores Riximedia se ha unido a su equipo de diseño en la plataforma.\nObjeto: Confirmar la integración de un nuevo colaborador a la cuenta de equipo corporativo.\nInterpretación: Notificación administrativa de alta de usuario; solo requiere validación si la incorporación no fue autorizada.",
+    "source": "Correo: Canva",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-11-26T00:49:00.000Z",
+    "createdAt": "2026-06-27T20:01:29.064Z",
+    "updatedAt": "2026-06-27T20:01:29.064Z"
+  },
+  {
     "id": "email-3937-1782583314148",
     "title": "🏃 5 minutes to better task momentum",
     "description": "John de TeamGantt envía un boletín informativo sobre mejores prácticas y gestión de proyectos.\nObjeto: 🏃 5 minutes to better task momentum.\nInterpretación: Newsletter comercial y educativo; no requiere seguimiento operativo.",
