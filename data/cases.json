@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-3921",
+    "title": "Alerta de seguridad",
+    "description": "Google notifica a Ricardo Carmona sobre un nuevo inicio de sesión en un dispositivo Galaxy S23 Ultra.\nObjeto: Alerta de seguridad para proteger la cuenta y verificar si el acceso fue autorizado.\nInterpretación: Notificación automática de seguridad; requiere verificación por parte del usuario si desconoce el dispositivo.",
+    "source": "Correo: Google",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-11-17T04:02:00.000Z",
+    "createdAt": "2026-06-28T02:01:08.886Z",
+    "updatedAt": "2026-06-28T02:01:08.889Z"
+  },
+  {
     "id": "email-4873",
     "title": "Obtén más información sobre nuestros Términos del Servicio actualizados",
     "description": "Google notifica a Ricardo sobre las actualizaciones a sus Términos del Servicio que entrarán en vigor el 30 de julio de 2026.\nObjeto: Informar sobre cambios en políticas de privacidad, manejo de datos y uso de servicios.\nInterpretación: Notificación legal automatizada; no requiere acción operativa y puede ser archivada.",
