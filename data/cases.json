@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4948",
+    "title": "FW: VARIACION DE LITROS SIGLO XXI 01_07_2026",
+    "description": "Laura Patricia Gamboa reporta a Alonso Samperio una variación y descuadre de litros en el Tablero Inteligente de la estación Siglo XXI.\nObjeto: Solicitar revisión técnica y validación de las lecturas y litraje de la estación.\nInterpretación: Incidencia operativa en estación de servicio; requiere revisión por parte de la coordinación, Ricardo en copia para seguimiento.",
+    "source": "Correo: Laura Patricia Gamboa Adame",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T20:35:28.000Z",
+    "createdAt": "2026-07-01T21:00:00.000Z",
+    "updatedAt": "2026-07-01T21:00:00.000Z"
+  },
+  {
+    "id": "email-4947",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Comunicación Interna (Humand) anuncia que Natgas duplicará las aportaciones voluntarias de los colaboradores para apoyar a las comunidades afectadas en Venezuela mediante la Cruz Roja Mexicana.\nObjeto: Promover la participación del personal en la campaña de solidaridad y donación.\nInterpretación: Boletín corporativo de responsabilidad social; informativo y de participación voluntaria, no requiere acción obligatoria.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T20:10:36.000Z",
+    "createdAt": "2026-07-01T21:00:00.000Z",
+    "updatedAt": "2026-07-01T21:00:00.000Z"
+  },
+  {
+    "id": "email-4946",
+    "title": "FW: ⚠️ Aviso de seguridad para nuestros clientes",
+    "description": "Kuatro Modulares advierte sobre un incidente de seguridad en sus cuentas de facturación, mediante las cuales terceros solicitan pagos a cuentas bancarias falsas.\nObjeto: Alertar sobre correos fraudulentos y pedir que no se realicen pagos a cuentas no habituales sin verificación.\nInterpretación: Alerta crítica de seguridad de proveedor; requiere notificar a finanzas/cuentas por pagar para prevenir un fraude.",
+    "source": "Correo: Kuatro Modulares",
+    "owner": "Ricardo",
+    "status": "importante",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T19:44:24.000Z",
+    "createdAt": "2026-07-01T21:00:00.000Z",
+    "updatedAt": "2026-07-01T21:00:00.000Z"
+  },
+  {
     "id": "email-4945",
     "title": "FW: 18 de septiembre - Cambios en tarifas eléctricas",
     "description": "Enrique Vera de Energyby5 notifica a Ricardo sobre los nuevos Lineamientos para la Migración Expedita de permisos de Autoabastecimiento.\nObjeto: Recomendar la revisión de la estrategia de suministro eléctrico antes de la fecha límite del 18 de septiembre para evitar incrementos tarifarios.\nInterpretación: Alerta regulatoria comercial; requiere análisis interno para determinar si Natgas debe registrar su Manifestación de Interés.",
