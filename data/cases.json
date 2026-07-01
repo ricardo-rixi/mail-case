@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-4943",
+    "title": "FW: Valerio Manta envió un mensaje",
+    "description": "Valerio Manta notificó a Ricardo Andrés Carmona Marcano mediante un mensaje en el grupo de Teams 'Expedientes Federales'.\nObjeto: Aviso de nuevo mensaje en la plataforma corporativa de Microsoft Teams.\nInterpretación: Notificación automática del sistema; Ricardo debe acceder a Teams para revisar el contenido del chat sobre expedientes federales.",
+    "source": "Correo: Valerio Manta en Teams",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T17:38:09.000Z",
+    "createdAt": "2026-07-01T18:00:39.307Z",
+    "updatedAt": "2026-07-01T18:00:39.307Z"
+  },
+  {
     "id": "email-4942",
     "title": "FW: 10a sesión ordinaria GT CONASEA / / Anteproyecto de NOM de Transporte y Distribución de GNC",
     "description": "Emma Torres Hernández (ASEA) envía a los miembros del GT CONASEA el Anteproyecto de NOM actualizado tras revisión.\nObjeto: Solicitar comentarios sobre el Procedimiento de Evaluación de la Conformidad a más tardar el 14 de julio.\nInterpretación: Requerimiento normativo oficial; requiere análisis técnico y respuesta dentro del plazo establecido.",
