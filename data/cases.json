@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4951",
+    "title": "FW: Localización de válvula de acometida natgas la solana",
+    "description": "Enrique Vázquez (ENGIE) comparte con Alonso Samperio los nombres de los trabajadores y propone horario (9:00 am).\nObjeto: Coordinar el acceso a la EDS La Solana para relocalizar una válvula de seguridad.\nInterpretación: Gestión de mantenimiento de proveedor en curso; requiere confirmar horario y generar Permiso de Trabajo. Ricardo en copia.",
+    "source": "Correo: Enrique Vázquez (ENGIE)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T21:54:29.000Z",
+    "createdAt": "2026-07-01T22:01:00.000Z",
+    "updatedAt": "2026-07-01T22:01:00.000Z"
+  },
+  {
+    "id": "email-4949",
+    "title": "FW: VARIACION DE LITROS SIGLO XXI 01_07_2026",
+    "description": "Alonso Samperio informa a Laura Patricia Gamboa que el balance de junio está en -0.89%, descartando problemas de medición.\nObjeto: Aclarar reporte de variación de litros en el Tablero Inteligente de la EDS XXI.\nInterpretación: Consulta operativa resuelta por el coordinador técnico; no requiere acción adicional. Ricardo en copia.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T21:28:29.000Z",
+    "createdAt": "2026-07-01T22:01:00.000Z",
+    "updatedAt": "2026-07-01T22:01:00.000Z"
+  },
+  {
     "id": "email-4948",
     "title": "FW: VARIACION DE LITROS SIGLO XXI 01_07_2026",
     "description": "Laura Patricia Gamboa reporta a Alonso Samperio una variación y descuadre de litros en el Tablero Inteligente de la estación Siglo XXI.\nObjeto: Solicitar revisión técnica y validación de las lecturas y litraje de la estación.\nInterpretación: Incidencia operativa en estación de servicio; requiere revisión por parte de la coordinación, Ricardo en copia para seguimiento.",
