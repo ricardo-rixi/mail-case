@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4960",
+    "title": "FW: Tu Nueva Tarjeta está lista para que viajes",
+    "description": "Aeroméxico Promociones notifica a Ricardo sobre la disponibilidad de una nueva tarjeta de crédito para viajes.\nObjeto: Ofrecer una tarjeta con beneficios como 2x1 en vuelos y acceso a Salones Premier.\nInterpretación: Correo promocional y publicitario; no requiere seguimiento operativo y puede archivarse.",
+    "source": "Correo: Aeroméxico Promociones",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T12:13:22.000Z",
+    "createdAt": "2026-07-02T13:03:06.412Z",
+    "updatedAt": "2026-07-02T13:03:06.415Z"
+  },
+  {
+    "id": "email-4959",
+    "title": "FW: 🟥 Did USMNT get screwed?",
+    "description": "Bleacher Report envía a Ricardo un boletín con noticias y actualizaciones deportivas.\nObjeto: Informar sobre eventos deportivos recientes, incluyendo partidos de futbol y encuestas.\nInterpretación: Correo informativo de entretenimiento deportivo; no requiere atención y debe ser archivado.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T12:07:10.000Z",
+    "createdAt": "2026-07-02T13:03:06.415Z",
+    "updatedAt": "2026-07-02T13:03:06.415Z"
+  },
+  {
+    "id": "email-4958",
+    "title": "FW: New Horizons report: A structural shift in Henry Hub & what it means for global LNG economics?",
+    "description": "Wood Mackenzie envía a Ricardo su reporte 'Horizons' sobre cambios estructurales en el Henry Hub y su impacto en el mercado global de LNG.\nObjeto: Compartir análisis del mercado de gas natural e invitar a un webinar.\nInterpretación: Boletín informativo y reporte técnico de la industria; archivar para conocimiento general o futura referencia.",
+    "source": "Correo: Wood Mackenzie",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T11:10:22.000Z",
+    "createdAt": "2026-07-02T13:03:06.415Z",
+    "updatedAt": "2026-07-02T13:03:06.415Z"
+  },
+  {
+    "id": "email-4957",
+    "title": "FW: Impuestos en la Venta de Inmuebles",
+    "description": "Cargas Fiscales invita a Ricardo a un curso en línea sobre los impuestos aplicables en la renta y venta de inmuebles.\nObjeto: Promocionar un programa de capacitación sobre normativa fiscal y estrategias de cumplimiento.\nInterpretación: Correo publicitario de capacitación externa; no requiere acción operativa directa y puede ser archivado.",
+    "source": "Correo: Cargas Fiscales",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T06:01:04.000Z",
+    "createdAt": "2026-07-02T13:03:06.415Z",
+    "updatedAt": "2026-07-02T13:03:06.415Z"
+  },
+  {
     "id": "email-4956",
     "title": "FW: One on one Ricardo C.",
     "description": "José Enrique Taracena Sanz solicita mover la reunión 'One on one Ricardo C.' programada para el 2 de julio de 11:30 am a 1:00 pm.\nObjeto: Reagendar sesión de seguimiento uno a uno por Microsoft Teams.\nInterpretación: Coordinación de agenda directiva; requiere aceptar o declinar el nuevo horario propuesto.",
