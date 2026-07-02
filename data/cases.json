@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4979-202607022200",
+    "title": "FW: Seguniento Natgas Pepsico",
+    "description": "Michael Burnside de PepsiCo envía una invitación a Ricardo y equipo para una reunión de seguimiento sobre Natgas Pepsico el 9 de julio de 2026.\nObjeto: Agendar una reunión por Microsoft Teams para el seguimiento del proyecto en conjunto.\nInterpretación: Invitación a evento comercial y de seguimiento; requiere confirmar asistencia e incorporar la sesión a la agenda.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-09T12:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T21:37:00.000Z",
+    "createdAt": "2026-07-02T22:00:41.358Z",
+    "updatedAt": "2026-07-02T22:00:41.358Z"
+  },
+  {
+    "id": "email-4980-202607022200",
+    "title": "🦺 Stop setting impossible deadlines",
+    "description": "John de TeamGantt envía a Ricardo un boletín con recomendaciones sobre la planificación realista de proyectos y cómo evitar plazos imposibles.\nObjeto: Compartir buenas prácticas de gestión de proyectos y promover el uso de su plataforma.\nInterpretación: Boletín informativo y promocional; no requiere atención operativa y debe archivarse.",
+    "source": "Correo: John @ TeamGantt",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T21:51:00.000Z",
+    "createdAt": "2026-07-02T22:00:41.358Z",
+    "updatedAt": "2026-07-02T22:00:41.358Z"
+  },
+  {
     "id": "email-4978-202607021922",
     "title": "FW: Coberturas GN NATGAS QUERETARO",
     "description": "Ara Plascencia de Diavaz invita a Ricardo y al equipo de cuentas por pagar a explorar soluciones de cobertura de Gas Natural ante la volatilidad del mercado.\nObjeto: Coordinar una reunión presencial o llamada para presentar estrategias financieras de protección de costos.\nInterpretación: Propuesta comercial y financiera; requiere que Ricardo comparta disponibilidad si hay interés en adquirir estas coberturas.",
