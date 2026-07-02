@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4955",
+    "title": "FW: Consulta técnica sobre actualización de factibilidad de interconexión y condiciones de presión para proyecto de distribución de gas natural",
+    "description": "Ricardo Puga Treto consulta formalmente al CENAGAS sobre la actualización de la factibilidad de interconexión de un proyecto.\nObjeto: Aclarar la viabilidad jurídica y técnica de modificar las condiciones de presión de entrega (21 o 40 kg/m2) para una City Gate.\nInterpretación: Gestión regulatoria técnica crítica; se espera respuesta de la autoridad para definir parámetros de diseño del proyecto.",
+    "source": "Correo: Ricardo Puga Treto",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T22:28:53.000Z",
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "email-4954",
+    "title": "FW: 🚨 76ERS TRADING FOR JAYLEN BROWN",
+    "description": "Bleacher Report envía a Ricardo una alerta de noticias sobre traspasos en la NBA.\nObjeto: Informar sobre el intercambio de jugadores (Jaylen Brown y Paul George).\nInterpretación: Boletín deportivo de entretenimiento; no requiere acción operativa directa y puede archivarse.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T22:24:14.000Z",
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "email-4953",
+    "title": "FW: Solicitud de Permiso de Trabajo (Relocalización de válvula de seguridad engie) Juriquilla",
+    "description": "Alonso Samperio solicita a Javier Hernández la elaboración del Permiso de Trabajo (PT) para los trabajos de Engie.\nObjeto: Gestionar el PT para la relocalización de la válvula de seguridad en Juriquilla el 6 de julio.\nInterpretación: Trámite interno de seguridad industrial; requiere que Javier procese el permiso para la actividad programada.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T22:18:04.000Z",
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "email-4952",
+    "title": "FW: Localización de válvula de acometida natgas la solana",
+    "description": "Alonso Samperio confirma a Enrique Vázquez (ENGIE) la disponibilidad de la estación para el horario sugerido.\nObjeto: Acordar el horario (9:00 am del 6 de julio) para los trabajos de relocalización de la válvula de seguridad.\nInterpretación: Coordinación operativa completada; proveedor confirmado para el mantenimiento programado.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-01T22:12:50.000Z",
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
     "id": "email-4951",
     "title": "FW: Localización de válvula de acometida natgas la solana",
     "description": "Enrique Vázquez (ENGIE) comparte con Alonso Samperio los nombres de los trabajadores y propone horario (9:00 am).\nObjeto: Coordinar el acceso a la EDS La Solana para relocalizar una válvula de seguridad.\nInterpretación: Gestión de mantenimiento de proveedor en curso; requiere confirmar horario y generar Permiso de Trabajo. Ricardo en copia.",
