@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4962",
+    "title": "FW: Reunion Pepsico - Natgas",
+    "description": "Michael Burnside de PepsiCo invita a Ricardo a una reunión por Microsoft Teams programada para el viernes 17 de julio de 2026.\nObjeto: Coordinar sesión de trabajo entre PepsiCo y Natgas.\nInterpretación: Invitación a reunión comercial estratégica; requiere confirmar asistencia en la agenda.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-07-17T12:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T13:57:00.000Z",
+    "createdAt": "2026-07-02T14:01:24.449Z",
+    "updatedAt": "2026-07-02T14:01:24.449Z"
+  },
+  {
+    "id": "email-4961",
+    "title": "FW: Reunion Pepsico - Natgas",
+    "description": "Michael Burnside de PepsiCo invita a Ricardo a una reunión por Microsoft Teams programada para el miércoles 8 de julio de 2026.\nObjeto: Coordinar sesión de trabajo inicial entre PepsiCo y Natgas.\nInterpretación: Invitación a reunión comercial estratégica; requiere confirmar asistencia en la agenda.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-07-08T10:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T13:08:00.000Z",
+    "createdAt": "2026-07-02T14:01:24.449Z",
+    "updatedAt": "2026-07-02T14:01:24.449Z"
+  },
+  {
     "id": "email-4960",
     "title": "FW: Tu Nueva Tarjeta está lista para que viajes",
     "description": "Aeroméxico Promociones notifica a Ricardo sobre la disponibilidad de una nueva tarjeta de crédito para viajes.\nObjeto: Ofrecer una tarjeta con beneficios como 2x1 en vuelos y acceso a Salones Premier.\nInterpretación: Correo promocional y publicitario; no requiere seguimiento operativo y puede archivarse.",
