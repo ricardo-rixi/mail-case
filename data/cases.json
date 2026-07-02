@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4975-202607021647",
+    "title": "FW: AMGN - .00 - CALIDAD DE BIOCOMBUSTIBLES",
+    "description": "AMGN convoca a Ricardo y miembros del gremio a una reunión el 17 de julio y solicita comentarios sobre el anteproyecto de NOM de biocombustibles.\nObjeto: Revisar especificaciones de calidad de biocombustibles y participar en subgrupos de trabajo.\nInterpretación: Gestión regulatoria y técnica gremial; requiere enviar comentarios antes del 15 de julio y asistir a la sesión agendada.",
+    "source": "Correo: AMGN",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-15T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T16:47:00.000Z",
+    "createdAt": "2026-07-02T17:00:00.000Z",
+    "updatedAt": "2026-07-02T17:00:00.000Z"
+  },
+  {
+    "id": "email-4974-202607021644",
+    "title": "FW: Smarter PM planning with MaintainX",
+    "description": "Nick de MaintainX envía a Ricardo información sobre una nueva función de planificación de mantenimiento preventivo (PM).\nObjeto: Promocionar la nueva característica 'Maintenance Plans' del software y ofrecer una demostración.\nInterpretación: Correo comercial y promocional de proveedor de software; archivar, no requiere acción.",
+    "source": "Correo: MaintainX",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T16:44:00.000Z",
+    "createdAt": "2026-07-02T17:00:00.000Z",
+    "updatedAt": "2026-07-02T17:00:00.000Z"
+  },
+  {
+    "id": "email-4973-202607021638",
+    "title": "FW: Notas de Crédito - Waha negativo abril 2026",
+    "description": "Erika Huerta (ENGIE) informa a Ricardo y al equipo que las notas de crédito están demoradas por el cierre fiscal y actualizaciones del sistema requeridas para la clave de compensación.\nObjeto: Justificar el retraso en la emisión de notas de crédito y prometer la entrega entre el 2 y 3 de julio.\nInterpretación: Respuesta del proveedor sobre trámite administrativo escalado; el equipo contable debe esperar la recepción de los documentos.",
+    "source": "Correo: Erika Nayelli Huerta Cano (ENGIE)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T16:38:00.000Z",
+    "createdAt": "2026-07-02T17:00:00.000Z",
+    "updatedAt": "2026-07-02T17:00:00.000Z"
+  },
+  {
+    "id": "email-4972-202607021601",
+    "title": "FW: Sobrevivir a una crisis no es lo mismo que reconstruirte",
+    "description": "Dani de Terapify envía a Ricardo un boletín promocionando su nuevo episodio de podcast sobre resiliencia.\nObjeto: Difundir contenido multimedia sobre salud mental y resiliencia en YouTube y Spotify.\nInterpretación: Boletín publicitario y de contenido general; no requiere atención y debe archivarse.",
+    "source": "Correo: Terapify",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T16:01:00.000Z",
+    "createdAt": "2026-07-02T17:00:00.000Z",
+    "updatedAt": "2026-07-02T17:00:00.000Z"
+  },
+  {
     "id": "email-4971-202607021546",
     "title": "FW: Register for Teamwork.com's Product Roadmap Webinar ➡️",
     "description": "Helen de Teamwork envía una invitación a Ricardo para registrarse en el webinar de Product Roadmap.\nObjeto: Promoción de evento virtual sobre actualizaciones de la plataforma.\nInterpretación: Correo promocional/informativo; no requiere acción operativa.",
