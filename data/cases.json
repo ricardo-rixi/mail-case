@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5006-202607031959",
+    "title": "FW: One on One Ricardo-ET",
+    "description": "José Enrique Taracena Sanz envía una invitación a Ricardo para una reunión One on One vía Microsoft Teams programada para el 6 de julio de 2026.\nObjeto: Agendar espacio de seguimiento y alineación.\nInterpretación: Evento de agenda; requiere que Ricardo asista a la sesión.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-06T18:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03T19:59:00.000Z",
+    "createdAt": "2026-07-03T20:00:00.000Z",
+    "updatedAt": "2026-07-03T20:00:00.000Z"
+  },
+  {
+    "id": "email-5005-202607031948",
+    "title": "FW: Solicitud de Compra Equipo de Descompresión VWS",
+    "description": "Isaac Eli Reynoso solicita a Carlos Geovani la generación de la Orden de Compra para el equipo de descompresión VWS (Bionatgas), y pide a David y Manuel apoyo con el proceso y la documentación para la NOM-015-ASEA-2023.\nObjeto: Coordinar la compra y dictamen normativo del nuevo equipo que sustituirá al PRS-500.\nInterpretación: Trámite interno crítico de compras y normatividad; requiere atención y seguimiento del equipo.",
+    "source": "Correo: Isaac Eli Reynoso Ortega",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03T19:48:00.000Z",
+    "createdAt": "2026-07-03T20:00:00.000Z",
+    "updatedAt": "2026-07-03T20:00:00.000Z"
+  },
+  {
     "id": "email-5004-20260703",
     "title": "FW: Informe de recepción de equipos Segundo Poste de Carga Obrera",
     "description": "Alonso Samperio comparte con Ricardo Carmona y equipo el informe de recepción del Poste de Carga.\nObjeto: Informe de recepción de equipos Segundo Poste de Carga Obrera.\nInterpretación: Informe técnico operativo para control y archivo.",
