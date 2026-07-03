@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-4984-202607030005",
+    "title": "FW: Prestación de servicios UVX,",
+    "description": "Yair Naum Pintado Romero de UVX envía una invitación a Ricardo y equipo para una reunión de Teams el 7 de julio de 2026 a las 10:00 AM.\nObjeto: Coordinar y dar seguimiento a la prestación de servicios por parte de UVX.\nInterpretación: Invitación a junta operativa de servicios; requiere confirmación de asistencia en agenda.",
+    "source": "Correo: Yair Naum Pintado Romero (UVX)",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-07T10:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03T00:05:00.000Z",
+    "createdAt": "2026-07-03T01:00:59.590Z",
+    "updatedAt": "2026-07-03T01:00:59.592Z"
+  },
+  {
+    "id": "email-4983-202607022338",
+    "title": "FW: Sandra Noemi Castro Tostado le mencionó en su chat",
+    "description": "Sandra Noemi Castro Tostado (vía Microsoft Teams) notifica a Ricardo de una mención en el chat 'PERMISO DE COMERCIALIZACIÓN - Llenado de Requisitos'.\nObjeto: Solicitar el apoyo particular de Ricardo en la plataforma Teams.\nInterpretación: Alerta del sistema sobre una solicitud interna; Ricardo debe revisar el chat para atender el requerimiento.",
+    "source": "Correo: Teams (Sandra Noemi Castro Tostado)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T23:38:00.000Z",
+    "createdAt": "2026-07-03T01:00:59.592Z",
+    "updatedAt": "2026-07-03T01:00:59.592Z"
+  },
+  {
+    "id": "email-4982-202607022257",
+    "title": "FW: Informe de mercado de hoy: 02 de julio 📈",
+    "description": "Naturgy México envía el boletín automatizado con el informe de mercado de gas correspondiente al 02 de julio.\nObjeto: Proveer actualización diaria sobre las condiciones del mercado.\nInterpretación: Boletín informativo estándar; archivar, no requiere acción directa.",
+    "source": "Correo: Naturgy México",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T22:57:00.000Z",
+    "createdAt": "2026-07-03T01:00:59.592Z",
+    "updatedAt": "2026-07-03T01:00:59.592Z"
+  },
+  {
+    "id": "email-4981-202607022200",
+    "title": "FW: ⚽ México vs Inglaterra: Vive la Experiencia Mundialista en La Mariskeña",
+    "description": "La Mariskeña envía a Ricardo un correo promocional invitando a ver el partido México vs Inglaterra en sus sucursales de León.\nObjeto: Ofrecer reservaciones y promocionar la experiencia en el restaurante el 5 de julio.\nInterpretación: Correo publicitario externo; archivar, no requiere atención de negocio.",
+    "source": "Correo: LA MARISKEÑA",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-02T22:00:00.000Z",
+    "createdAt": "2026-07-03T01:00:59.592Z",
+    "updatedAt": "2026-07-03T01:00:59.592Z"
+  },
+  {
     "id": "email-4979-202607022200",
     "title": "FW: Seguniento Natgas Pepsico",
     "description": "Michael Burnside de PepsiCo envía una invitación a Ricardo y equipo para una reunión de seguimiento sobre Natgas Pepsico el 9 de julio de 2026.\nObjeto: Agendar una reunión por Microsoft Teams para el seguimiento del proyecto en conjunto.\nInterpretación: Invitación a evento comercial y de seguimiento; requiere confirmar asistencia e incorporar la sesión a la agenda.",
