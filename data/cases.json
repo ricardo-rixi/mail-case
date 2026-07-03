@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5008-202607032059",
+    "title": "FW: Resultados Auditorias Internas Torre 57 2026",
+    "description": "Héctor Hernández Rangel notifica a las áreas sobre hallazgos pendientes de la Auditoría Interna 2026 (DT tiene 6 NC).\nObjeto: Solicitar envío de evidencias pendientes para cerrar las No Conformidades a más tardar el 13 de julio.\nInterpretación: Requerimiento crítico de cumplimiento normativo (ISO); requiere acción prioritaria del equipo técnico.",
+    "source": "Correo: Hector Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "urgente",
+    "dueDate": "2026-07-13T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03T20:59:00.000Z",
+    "createdAt": "2026-07-03T21:00:00.000Z",
+    "updatedAt": "2026-07-03T21:00:00.000Z"
+  },
+  {
+    "id": "email-5007-202607032007",
+    "title": "FW: Localización de válvula de acometida natgas la solana",
+    "description": "Enrique Vazquez (ENGIE) informa a Alonso Samperio que el horario de trabajos se reprogramará a las 12:00 horas del 6 de julio.\nObjeto: Notificar cambio de horario en la ejecución de la relocalización de válvula en campo.\nInterpretación: Aviso operativo de proveedor; requiere que el equipo ajuste su logística para recibir al personal.",
+    "source": "Correo: Enrique Vazquez (ENGIE)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-07-06T12:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03T20:07:00.000Z",
+    "createdAt": "2026-07-03T21:00:00.000Z",
+    "updatedAt": "2026-07-03T21:00:00.000Z"
+  },
+  {
     "id": "email-5006-202607031959",
     "title": "FW: One on One Ricardo-ET",
     "description": "José Enrique Taracena Sanz envía una invitación a Ricardo para una reunión One on One vía Microsoft Teams programada para el 6 de julio de 2026.\nObjeto: Agendar espacio de seguimiento y alineación.\nInterpretación: Evento de agenda; requiere que Ricardo asista a la sesión.",
