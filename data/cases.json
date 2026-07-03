@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-4996-202607031647",
+    "title": "FW: Localización de válvula de acometida natgas la solana",
+    "description": "Laura Patricia Campa informa a Alonso Samperio y equipo de ENGIE que aún no reciben el listado de actividades para la válvula de acometida.\nObjeto: Solicitar el formato de actividades para evitar retrasos en los trabajos programados en La Solana.\nInterpretación: Seguimiento operativo urgente; requiere enviar el listado solicitado para autorizar la ejecución. Ricardo está copiado.",
+    "source": "Correo: Laura Patricia Aide Campa Reyes",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03T16:47:00.000Z",
+    "createdAt": "2026-07-03T17:01:00.000Z",
+    "updatedAt": "2026-07-03T17:01:00.000Z"
+  },
+  {
+    "id": "email-4995-202607031617",
+    "title": "FW: 🚨 Hasta 30% de descuento en unidades seminuevas",
+    "description": "Kuatro envía a Ricardo publicidad sobre hasta un 30% de descuento en unidades seminuevas.\nObjeto: Ofrecer equipamiento y soluciones con descuento.\nInterpretación: Correo publicitario y promocional; no requiere atención operativa y debe archivarse.",
+    "source": "Correo: Kuatro",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03T16:17:00.000Z",
+    "createdAt": "2026-07-03T17:01:00.000Z",
+    "updatedAt": "2026-07-03T17:01:00.000Z"
+  },
+  {
     "id": "email-4994-202607031531",
     "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
     "description": "Sergio Alberto Landeros reporta a Alonso Samperio una diferencia de -2.5% en las lecturas de la EDS JMC correspondiente al 02 de julio.\nObjeto: Solicitar validación técnica para saber si la estación sigue dentro del rango operativo autorizado.\nInterpretación: Incidencia operativa por desbalance de gas; requiere revisión por parte de la coordinación. Ricardo está copiado para seguimiento.",
