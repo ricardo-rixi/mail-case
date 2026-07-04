@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-4894-202606291859",
+    "title": "FW: Volúmenes conducidos CNE- 2026",
+    "description": "Sandra Noemi Castro Tostado solicita a Ricardo Carmona y Alonso Samperio los datos de volúmenes conducidos del primer semestre de 2026 (36 permisos) para reporte ante CNE.\nObjeto: Completar los archivos Excel adjuntos a más tardar el 3 de julio para cumplimiento regulatorio.\nInterpretación: Solicitud regulatoria crítica con fecha límite; requiere recolectar datos operativos y llenar los formatos a la brevedad.",
+    "source": "Correo: Sandra Noemi Castro Tostado",
+    "owner": "Ricardo",
+    "status": "importante",
+    "dueDate": "2026-07-03T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-29T18:59:43.000Z",
+    "createdAt": "2026-07-04T04:01:08.757Z",
+    "updatedAt": "2026-07-04T04:01:08.757Z"
+  },
+  {
+    "id": "email-4893-202606291827",
+    "title": "FW: Localización de válvula de acometida natgas la solana",
+    "description": "Patricia García Lanuza y Enrique Vazquez (ENGIE) solicitan a Alonso Samperio y Ricardo Carmona coordinar la relocalización de una válvula de seguridad cubierta por una jardinera en el proyecto La Solana.\nObjeto: Evaluar si los trabajos descritos por ENGIE (remoción y renivelación de registro) requieren un permiso de trabajo formal.\nInterpretación: Coordinación operativa con el proveedor de gas; requiere que el equipo técnico valide el alcance y libere el permiso para los trabajos.",
+    "source": "Correo: Patricia Victoria García Lanuza / Enrique Vazquez (ENGIE)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-29T18:27:23.000Z",
+    "createdAt": "2026-07-04T04:01:08.757Z",
+    "updatedAt": "2026-07-04T04:01:08.758Z"
+  },
+  {
+    "id": "email-4892-202606291821",
+    "title": "FW: Alto consumo de agua ABA y PNT semana del 15 al 22 de junio 2026",
+    "description": "Carlos Rafael Ruiz Carrasco justifica ante Alonso Samperio el alto consumo de agua reportado en las estaciones ABA y PNT (falla en cisterna reparada y mal uso por clientes, respectivamente).\nObjeto: Informar sobre las acciones correctivas tomadas, incluyendo el cierre temporal del autolavado en ABA.\nInterpretación: Confirmación operativa interna sobre la resolución de fugas o mal uso de servicios; Ricardo en copia para conocimiento, sin acción adicional.",
+    "source": "Correo: Carlos Rafael Ruiz Carrasco",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-06-29T18:21:45.000Z",
+    "createdAt": "2026-07-04T04:01:08.758Z",
+    "updatedAt": "2026-07-04T04:01:08.758Z"
+  },
+  {
     "id": "email-5025-202607040005",
     "title": "FW: (DESCOMPRESIÓN) Re: Tarea: Solicitud de Permiso CRE (CEICKOR - Terminal de Descarga)",
     "description": "Sandra Castro notifica mediante Teamwork que se dio respuesta al requerimiento para admitir a trámite la modificación de descompresión.\nObjeto: Reportar avance en la gestión del permiso CRE para la Terminal CEICKOR.\nInterpretación: Trámite regulatorio en proceso; archivar reporte de avance.",
