@@ -10023,56 +10023,6 @@
     "updatedAt": "2026-06-12T22:00:00.000Z"
   },
   {
-    "id": "5024",
-    "description": "Sandra Castro requests Ricardo Carmona for a task update regarding the Modificación CNE (increase of 2 dispensers) at Ojocaliente AGS. This appears to be a notification from Teamwork.",
-    "receivedAt": "2026-07-03 23:51+00:00"
-  },
-  {
-    "id": "5023",
-    "description": "Sandra Castro requests Ricardo Carmona for a task update on the Permiso de Compresión CRE for Fill Post Periférico Norte. It is a notification from the Teamwork platform.",
-    "receivedAt": "2026-07-03 23:43+00:00"
-  },
-  {
-    "id": "5022",
-    "description": "Sandra Castro requests Ricardo Carmona for an update on the Modificación Expendio CRE task for Fill Post Periférico Norte, generated via Teamwork.",
-    "receivedAt": "2026-07-03 23:39+00:00"
-  },
-  {
-    "id": "5021",
-    "description": "Raúl Alberto Espejel Lozoya writes to Hector Hernandez Rangel, Ricardo Carmona, and others to follow up on pending SGC (Quality Management System) approvals.",
-    "receivedAt": "2026-07-03 23:28+00:00"
-  },
-  {
-    "id": "5020",
-    "description": "Raúl Alberto Espejel Lozoya follows up with José Enrique Taracena Sanz, Hector Hernandez, and Ricardo Carmona regarding pending SGC approvals.",
-    "receivedAt": "2026-07-03 23:23+00:00"
-  },
-  {
-    "id": "5019",
-    "description": "Alonso Samperio updates Ricardo Carmona regarding the weekly task for the Water Consumption Report (Balance de Agua). Notification sent via Teamwork.",
-    "receivedAt": "2026-07-03 22:54+00:00"
-  },
-  {
-    "id": "5018",
-    "description": "Alonso Samperio sends an update to Ricardo Carmona on the weekly Electrical Energy Balance report task. Notification sent via Teamwork.",
-    "receivedAt": "2026-07-03 22:54+00:00"
-  },
-  {
-    "id": "5017",
-    "description": "Alonso Samperio updates Ricardo Carmona regarding the weekly Gas Balance report task. Notification sent via Teamwork.",
-    "receivedAt": "2026-07-03 22:53+00:00"
-  },
-  {
-    "id": "5016",
-    "description": "Mariana Hernandez Rangel communicates with Alonso Samperio, Alicia Guadalupe Lugo, and others regarding volumetric controls from the supplier CADO.",
-    "receivedAt": "2026-07-03 22:08+00:00"
-  },
-  {
-    "id": "5015",
-    "description": "Partnerships Gold Data contacts Ricardo Carmona regarding oil and gas operations on AMX, introducing their services for the sector.",
-    "receivedAt": "2026-07-03 22:02+00:00"
-  },
-  {
     "id": "5025",
     "title": "FW: (DESCOMPRESIÓN) Re: Tarea: Solicitud de Permiso CRE (CEICKOR - Terminal de Descarga)",
     "description": "Sandra Castro envía actualización de tarea en Teamwork a Ricardo Carmona y equipo sobre la Solicitud de Permiso CRE para CEICKOR (Terminal de Descarga).\nObjeto: Informar que se dio respuesta al requerimiento para admitir a trámite la modificación de descompresión por incorporar al punto CKR.\nInterpretación: Seguimiento regulatorio de permisos; se incluye el acuse (20260703-OPE - Acuse V-084646-DESC CKR-AR.pdf) como evidencia del avance del trámite.",
@@ -10084,5 +10034,122 @@
     "receivedAt": "2026-07-04 00:05+00:00",
     "createdAt": "2026-07-04T01:00:42.852Z",
     "updatedAt": "2026-07-04T01:00:42.854Z"
+  },
+  {
+    "id": "5024",
+    "title": "FW: (OCA - Ojocaliente AGS) Re: Tarea: Modificación CNE (INCREMENTO DE 2 SURTIDORES)",
+    "description": "Ricardo Andrés Carmona Marcano notifica la actualización de una tarea regulatoria en Teamwork.\nObjeto: Informar sobre modificaciones o permisos de estaciones.\nInterpretación: Seguimiento de trámites; revisar plataforma para acciones pendientes.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 23:51+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5023",
+    "title": "FW: (FP PNT - Fill Post Periférico Norte) Re: Tarea: Permiso de Compresión CRE (MODIFICACIÓN POR POSTE DE COMPRESIÓN)",
+    "description": "Ricardo Andrés Carmona Marcano notifica la actualización de una tarea regulatoria en Teamwork.\nObjeto: Informar sobre modificaciones o permisos de estaciones.\nInterpretación: Seguimiento de trámites; revisar plataforma para acciones pendientes.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 23:43+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5022",
+    "title": "FW: (FP PNT - Fill Post Periférico Norte) Re: Tarea: Modificación Expendio CRE (MODIFICACIÓN POR POSTE DE COMPRESIÓN)",
+    "description": "Ricardo Andrés Carmona Marcano notifica la actualización de una tarea regulatoria en Teamwork.\nObjeto: Informar sobre modificaciones o permisos de estaciones.\nInterpretación: Seguimiento de trámites; revisar plataforma para acciones pendientes.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 23:39+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5021",
+    "title": "FW: SGC: Seguimiento a aprobaciones",
+    "description": "Ricardo Andrés Carmona Marcano da seguimiento a las aprobaciones pendientes del SGC.\nObjeto: Revisar el estatus de los documentos del Sistema de Gestión de Calidad.\nInterpretación: Trámite interno; requiere validación de aprobaciones pendientes.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 23:28+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5020",
+    "title": "FW: SGC: Seguimiento a aprobaciones",
+    "description": "Ricardo Andrés Carmona Marcano da seguimiento a las aprobaciones pendientes del SGC.\nObjeto: Revisar el estatus de los documentos del Sistema de Gestión de Calidad.\nInterpretación: Trámite interno; requiere validación de aprobaciones pendientes.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 23:23+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5019",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Consumo de Agua (BALANCE DE AGUA)",
+    "description": "Ricardo Andrés Carmona Marcano comparte el reporte semanal de Balance (Gas, Agua o Energía).\nObjeto: Presentar métricas operativas de la semana para control.\nInterpretación: Reporte informativo periódico; requiere revisión de desviaciones.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 22:54+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5018",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Balance de Energía Eléctrica (BALANCE DE ENERGIA ELECTRICA)",
+    "description": "Ricardo Andrés Carmona Marcano comparte el reporte semanal de Balance (Gas, Agua o Energía).\nObjeto: Presentar métricas operativas de la semana para control.\nInterpretación: Reporte informativo periódico; requiere revisión de desviaciones.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 22:54+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5017",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Balance de Gas (BALANCE DE GAS)",
+    "description": "Ricardo Andrés Carmona Marcano comparte el reporte semanal de Balance (Gas, Agua o Energía).\nObjeto: Presentar métricas operativas de la semana para control.\nInterpretación: Reporte informativo periódico; requiere revisión de desviaciones.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 22:53+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
+  },
+  {
+    "id": "5016",
+    "title": "FW: CONTROLES VOLUMÉTRICOS PROVEEDOR CADO",
+    "description": "Ricardo Andrés Carmona Marcano envía información sobre los controles volumétricos del proveedor CADO.\nObjeto: Recepción y archivo de datos operativos volumétricos.\nInterpretación: Control interno; resguardar para conciliaciones operativas.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-03 22:08+00:00",
+    "createdAt": "2026-07-04T02:03:21.706Z",
+    "updatedAt": "2026-07-04T02:03:21.706Z"
   }
 ]
