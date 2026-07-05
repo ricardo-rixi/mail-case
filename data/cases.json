@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5026-202607050512",
+    "title": "¡Último día! Suscríbete 1 año por 9,90€",
+    "description": "La Vanguardia envía a Ricardo una oferta de último día para suscripción anual.\nObjeto: Oferta comercial o newsletter informativo.\nInterpretación: Correo publicitario y comercial; no requiere atención y debe ser archivado.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-05T05:12:00.000Z",
+    "createdAt": "2026-07-05T13:05:00.000Z",
+    "updatedAt": "2026-07-05T13:05:00.000Z"
+  },
+  {
     "id": "email-3897",
     "title": "Te recomendamos Contenido Mágico: Texto a Video",
     "description": "Canva envía a Ricardo recomendaciones y novedades sobre sus herramientas de diseño.\nObjeto: Promocionar nuevas funcionalidades.\nInterpretación: Correo publicitario o newsletter automático; no requiere ninguna acción operativa.",
