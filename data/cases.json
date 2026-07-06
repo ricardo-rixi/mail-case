@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5036",
+    "title": "FW: DIFERENCIA EN COMPARATIVA DE LECTURAS ERM NACOZARI",
+    "description": "David Martinez Yañez notifica a Alonso Samperio (con copia a Ricardo) sobre tres desbalances fuera de rango durante el fin de semana en la ERM NACOZARI.\nObjeto: Solicitar la revisión del tablero y confirmar la variación de lecturas.\nInterpretación: Reporte operativo urgente sobre desbalance de gas; requiere revisión técnica.",
+    "source": "Correo: David Martinez Yañez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T17:02:00.000Z",
+    "createdAt": "2026-07-06T18:01:17.264Z",
+    "updatedAt": "2026-07-06T18:01:17.264Z"
+  },
+  {
+    "id": "email-5037",
+    "title": "FW: VARIACION DE LITROS SIGLO XXI 05_07_2026",
+    "description": "Alonso Samperio Gayosso responde a Laura Patricia Gamboa Adame confirmando que el balance de la estación SIGLO XXI es normal (+0.18%).\nObjeto: Aclarar dudas operativas sobre la supuesta variación de litros.\nInterpretación: Confirmación técnica de normalidad en la estación; no requiere acción adicional de Ricardo.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T17:05:00.000Z",
+    "createdAt": "2026-07-06T18:01:17.264Z",
+    "updatedAt": "2026-07-06T18:01:17.264Z"
+  },
+  {
+    "id": "email-5038",
+    "title": "FW: DIFERENCIA EN COMPARATIVA DE LECTURAS ERM NACOZARI",
+    "description": "Alonso Samperio Gayosso responde a David Martinez Yañez aclarando que los desbalances en la ERM NACOZARI se compensan, quedando el balance en -0.65%.\nObjeto: Aclarar la situación técnica reportada previamente sobre lecturas de gas.\nInterpretación: Cierre de reporte operativo confirmando que la estación está en parámetros; Ricardo en copia para seguimiento.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T17:12:00.000Z",
+    "createdAt": "2026-07-06T18:01:17.264Z",
+    "updatedAt": "2026-07-06T18:01:17.264Z"
+  },
+  {
     "id": "email-5034-1783357259632-1",
     "title": "FW: VARIACION DE LITROS SIGLO XXI 05_07_2026",
     "description": "Laura Patricia Gamboa Adame reporta a Alonso Samperio una variación en el litraje del tablero inteligente de la estación Siglo XXI del día 5 de julio, adjuntando el archivo Excel.\nObjeto: Solicitar revisión técnica por descuadre de lecturas.\nInterpretación: Incidencia operativa por desbalance de gas; requiere revisión de la coordinación. Ricardo se encuentra copiado.",
