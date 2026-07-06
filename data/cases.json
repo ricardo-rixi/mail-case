@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5033-1783353673178-1",
+    "title": "FW: Ricardo Puga Treto envió un mensaje",
+    "description": "Microsoft Teams notifica a Ricardo sobre un mensaje enviado por Ricardo Puga Treto a Isaac Eli Reynoso Ortega consultando sobre el dictamen para JAVIH.\nObjeto: Alerta de mensaje en plataforma Teams.\nInterpretación: Notificación automática; la consulta no está dirigida a Ricardo pero es relevante para seguimiento.",
+    "source": "Correo: Microsoft Teams",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T15:50:00.000Z",
+    "createdAt": "2026-07-06T16:01:13.178Z",
+    "updatedAt": "2026-07-06T16:01:13.179Z"
+  },
+  {
+    "id": "email-5032-1783353673179-2",
+    "title": "FW: Leading the Way at InfoComm 2026",
+    "description": "OnSign comparte con Ricardo novedades y logros presentados en la conferencia InfoComm 2026.\nObjeto: Promoción comercial de características de OnSign Pro.\nInterpretación: Newsletter comercial e informativo; no requiere seguimiento operativo.",
+    "source": "Correo: OnSign",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T15:42:00.000Z",
+    "createdAt": "2026-07-06T16:01:13.179Z",
+    "updatedAt": "2026-07-06T16:01:13.179Z"
+  },
+  {
+    "id": "email-5031-1783353673179-3",
+    "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
+    "description": "Sergio Alberto Landeros Guerrero solicita a Alonso Samperio Gayosso la revisión de diferencias de lecturas en ERM EDS JMC presentadas del 3 al 5 de julio.\nObjeto: Reportar y validar discrepancias de volumen en el tablero inteligente.\nInterpretación: Reporte operativo por desbalance; Ricardo se encuentra copiado para conocimiento y seguimiento.",
+    "source": "Correo: Sergio Alberto Landeros Guerrero",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T15:16:00.000Z",
+    "createdAt": "2026-07-06T16:01:13.179Z",
+    "updatedAt": "2026-07-06T16:01:13.179Z"
+  },
+  {
+    "id": "email-5030-1783353673179-4",
+    "title": "FW: Your MaintainX sidebar has a new layout",
+    "description": "Nick de MaintainX notifica a Ricardo sobre un nuevo diseño en la barra lateral de la plataforma para organizar el flujo de trabajo.\nObjeto: Informar actualizaciones en la interfaz de usuario.\nInterpretación: Correo informativo automatizado; no requiere acción técnica ni operativa.",
+    "source": "Correo: MaintainX",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T14:26:00.000Z",
+    "createdAt": "2026-07-06T16:01:13.179Z",
+    "updatedAt": "2026-07-06T16:01:13.179Z"
+  },
+  {
     "id": "email-5029-1783346889389",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Monday 06 Jul 2026)",
     "description": "Teamwork envía a Ricardo el informe automatizado de actividades y tareas pendientes para los proyectos activos (Colón MTY, Comercialización, Descompresión CKR+JAV, entre otros).\nObjeto: Presentar el resumen diario de compromisos, fechas de vencimiento y estatus de las actividades asignadas para su gestión.\nInterpretación: Notificación del sistema de control de proyectos; no requiere respuesta directa, solo revisión interna y seguimiento de vencimientos.",
