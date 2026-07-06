@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5029-1783346889389",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Monday 06 Jul 2026)",
+    "description": "Teamwork envía a Ricardo el informe automatizado de actividades y tareas pendientes para los proyectos activos (Colón MTY, Comercialización, Descompresión CKR+JAV, entre otros).\nObjeto: Presentar el resumen diario de compromisos, fechas de vencimiento y estatus de las actividades asignadas para su gestión.\nInterpretación: Notificación del sistema de control de proyectos; no requiere respuesta directa, solo revisión interna y seguimiento de vencimientos.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T14:00:04.000Z",
+    "createdAt": "2026-07-06T14:08:09.000Z",
+    "updatedAt": "2026-07-06T14:08:09.000Z"
+  },
+  {
     "id": "email-5026-1783342858140",
     "title": "¡Último día! Suscríbete 1 año por 9,90€",
     "description": "La Vanguardia envía una oferta promocional de suscripción a Ricardo.\nObjeto: Promocionar suscripción anual por 9,90€.\nInterpretación: Correo publicitario automático; no requiere acción de negocio y debe ser archivado.",
