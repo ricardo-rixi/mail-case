@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5026-1783342858140",
+    "title": "¡Último día! Suscríbete 1 año por 9,90€",
+    "description": "La Vanguardia envía una oferta promocional de suscripción a Ricardo.\nObjeto: Promocionar suscripción anual por 9,90€.\nInterpretación: Correo publicitario automático; no requiere acción de negocio y debe ser archivado.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-05T05:12:00.000Z",
+    "createdAt": "2026-07-06T13:00:58.140Z",
+    "updatedAt": "2026-07-06T13:00:58.140Z"
+  },
+  {
+    "id": "email-5027-1783342858140",
+    "title": "FW: Power Shifts: Energy Strategies Enter a New Phase",
+    "description": "EnergyNews envía un boletín a Ricardo sobre tendencias globales y estrategias en la industria energética.\nObjeto: Compartir noticias de transición energética, hidrógeno y energía nuclear.\nInterpretación: Newsletter informativo; no requiere acción operativa.",
+    "source": "Correo: EnergyNews",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T07:26:00.000Z",
+    "createdAt": "2026-07-06T13:00:58.140Z",
+    "updatedAt": "2026-07-06T13:00:58.140Z"
+  },
+  {
+    "id": "email-5028-1783342858140",
+    "title": "FW: 🤬 Belgium is PISSED at FIFA",
+    "description": "Bleacher Report envía a Ricardo un resumen de noticias deportivas y resultados del Mundial.\nObjeto: Informar sobre el partido USMNT vs Belgium y otros resultados.\nInterpretación: Newsletter deportivo personal; irrelevante para el negocio, archivar.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T12:11:00.000Z",
+    "createdAt": "2026-07-06T13:00:58.140Z",
+    "updatedAt": "2026-07-06T13:00:58.140Z"
+  },
+  {
     "id": "email-1783296077828-9",
     "title": "¡Último día! Solo 12€ para 1 año de suscripción",
     "description": "La Vanguardia notifica a Ricardo sobre el último día de su promoción.\nObjeto: Oferta de suscripción al medio por 12€.\nInterpretación: Correo comercial publicitario; archivar directamente.",
