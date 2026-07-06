@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5034-1783357259632-1",
+    "title": "FW: VARIACION DE LITROS SIGLO XXI 05_07_2026",
+    "description": "Laura Patricia Gamboa Adame reporta a Alonso Samperio una variación en el litraje del tablero inteligente de la estación Siglo XXI del día 5 de julio, adjuntando el archivo Excel.\nObjeto: Solicitar revisión técnica por descuadre de lecturas.\nInterpretación: Incidencia operativa por desbalance de gas; requiere revisión de la coordinación. Ricardo se encuentra copiado.",
+    "source": "Correo: Laura Patricia Gamboa Adame",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T16:42:16.000Z",
+    "createdAt": "2026-07-06T17:00:59.632Z",
+    "updatedAt": "2026-07-06T17:00:59.632Z"
+  },
+  {
+    "id": "email-5035-1783357259632",
+    "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
+    "description": "Alonso Samperio Gayosso le indica a Sergio Alberto Landeros y equipo que observarán el desbalance en los próximos días antes de solicitar revisión al proveedor.\nObjeto: Dar respuesta al seguimiento por desbalance en el tablero inteligente.\nInterpretación: Seguimiento técnico operativo; Alonso toma control y Ricardo está copiado para conocimiento.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T16:50:46.000Z",
+    "createdAt": "2026-07-06T17:00:59.632Z",
+    "updatedAt": "2026-07-06T17:00:59.632Z"
+  },
+  {
     "id": "email-5033-1783353673178-1",
     "title": "FW: Ricardo Puga Treto envió un mensaje",
     "description": "Microsoft Teams notifica a Ricardo sobre un mensaje enviado por Ricardo Puga Treto a Isaac Eli Reynoso Ortega consultando sobre el dictamen para JAVIH.\nObjeto: Alerta de mensaje en plataforma Teams.\nInterpretación: Notificación automática; la consulta no está dirigida a Ricardo pero es relevante para seguimiento.",
