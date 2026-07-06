@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5042",
+    "title": "FW: RECORDATORIO - INCRIPCIÓN - SUBGRUPOS DE TRABAJO -  NOM BIOCOMBUSTIBLES",
+    "description": "AMGN envía un recordatorio a sus afiliados para remitir los formatos de inscripción a los subgrupos de trabajo de la NOM de Biocombustibles ante la SENER.\nObjeto: Formalizar la participación en las mesas de regulación técnica (Biogás, Biodiésel, etc.).\nInterpretación: Requerimiento institucional con fecha límite; requiere enviar el formato correspondiente si se desea integrar los grupos.",
+    "source": "Correo: AMGN",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": "2026-07-06T10:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T19:14:00.000Z",
+    "createdAt": "2026-07-06T20:01:06.360Z",
+    "updatedAt": "2026-07-06T20:01:06.361Z"
+  },
+  {
+    "id": "email-5039",
+    "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro",
+    "description": "Ricardo Rabell comparte con Adrián González (Gascorp) y Ricardo Carmona los documentos legales (poder e identificación) de Raúl Espejel para la firma de la Confirmación de Transacción.\nObjeto: Entregar la documentación jurídica requerida por el nuevo comercializador para la Estación Corregidora.\nInterpretación: Avance del trámite legal y comercial; no requiere acción técnica inmediata por parte de Ricardo.",
+    "source": "Correo: Ricardo Rabell Velázquez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T18:37:00.000Z",
+    "createdAt": "2026-07-06T20:01:06.361Z",
+    "updatedAt": "2026-07-06T20:01:06.361Z"
+  },
+  {
     "id": "email-5036",
     "title": "FW: DIFERENCIA EN COMPARATIVA DE LECTURAS ERM NACOZARI",
     "description": "David Martinez Yañez notifica a Alonso Samperio (con copia a Ricardo) sobre tres desbalances fuera de rango durante el fin de semana en la ERM NACOZARI.\nObjeto: Solicitar la revisión del tablero y confirmar la variación de lecturas.\nInterpretación: Reporte operativo urgente sobre desbalance de gas; requiere revisión técnica.",
