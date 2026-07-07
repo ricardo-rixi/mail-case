@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5054",
+    "title": "FW: Curso ejecutivo Gestión de Riesgos",
+    "description": "Comercio Internacional envía a Ricardo Carmona una invitación a un curso ejecutivo virtual sobre gestión de riesgos.\nObjeto: Promoción de capacitación en comercio exterior y aduanas.\nInterpretación: Correo promocional externo; no requiere acción operativa directa, se archiva.",
+    "source": "Correo: Comercio Internacional",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T22:30:00.000Z",
+    "createdAt": "2026-07-07T00:01:25.763Z",
+    "updatedAt": "2026-07-07T00:01:25.796Z"
+  },
+  {
+    "id": "email-5053",
+    "title": "FW: Seguniento Natgas Pepsico",
+    "description": "Michael Burnside (PepsiCo) convoca a Ricardo Carmona y al equipo a una reunión de seguimiento.\nObjeto: Sesión virtual por Microsoft Teams programada para el 10 de julio a las 10:00 AM.\nInterpretación: Invitación a evento de agenda para coordinar seguimiento comercial/operativo con el cliente.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-10T10:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T22:14:00.000Z",
+    "createdAt": "2026-07-07T00:01:25.796Z",
+    "updatedAt": "2026-07-07T00:01:25.796Z"
+  },
+  {
+    "id": "email-5052",
+    "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro (Respuesta Adrián)",
+    "description": "Adrian Gonzalez (Gascorp) notifica a Ricardo Rabell y Ricardo Carmona la confirmación sobre el proceso de firma de contrato.\nObjeto: Informar que enviarán la confirmación de transacción (TC) para firma en breve.\nInterpretación: Avance en la gestión comercial; a la espera del documento final para continuar el proceso interno.",
+    "source": "Correo: Adrian Gonzalez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T22:06:00.000Z",
+    "createdAt": "2026-07-07T00:01:25.796Z",
+    "updatedAt": "2026-07-07T00:01:25.796Z"
+  },
+  {
+    "id": "email-5051",
+    "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro (Respuesta Rabell)",
+    "description": "Ricardo Rabell comunica a Adrian Gonzalez (Gascorp) la preferencia de uso de DocuSign y el requisito del sello legal interno.\nObjeto: Coordinar la logística de validación y firma del documento de transacción con el representante legal Raúl.\nInterpretación: Seguimiento legal interno; se encuentra en espera de la versión final del contrato para aplicar los sellos.",
+    "source": "Correo: Ricardo Rabell Velázquez",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T22:02:00.000Z",
+    "createdAt": "2026-07-07T00:01:25.796Z",
+    "updatedAt": "2026-07-07T00:01:25.796Z"
+  },
+  {
     "id": "email-5050",
     "title": "FW: Comunicación Interna publicó una novedad importante",
     "description": "Comunicación Interna (Humand) anuncia los resultados de la jornada de reforestación del 3 y 4 de julio con colaboradores de Natgas Querétaro.\nObjeto: Compartir noticias de responsabilidad social y participación corporativa.\nInterpretación: Boletín corporativo interno; informativo, no requiere acción directa.",
