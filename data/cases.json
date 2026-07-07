@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5061-1783389600000",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Tuesday 07 Jul 2026)",
+    "description": "Teamwork envía a Ricardo el informe diario automatizado de tareas asignadas y pendientes de los proyectos (Colón MTY, Comercialización, Descompresión, etc.).\nObjeto: Presentar el estatus actualizado de las tareas operativas y regulatorias.\nInterpretación: Correo de control interno y seguimiento de proyectos; revisión sugerida para gestión del tiempo.",
+    "source": "Correo: Teamwork (NATGAS QUERETARO SAPI DE CV Reports)",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T14:00:04.000Z",
+    "createdAt": "2026-07-07T14:01:24.395Z",
+    "updatedAt": "2026-07-07T14:01:24.396Z"
+  },
+  {
+    "id": "email-5060-1783388453000",
+    "title": "FW: Horizons Live invitation - Why US Henry Hub natural gas prices are set to rise?",
+    "description": "Wood Mackenzie invita a Ricardo al webinar 'Horizons Live' sobre la tendencia al alza de los precios del gas natural en el Henry Hub.\nObjeto: Promover la participación en la sesión virtual programada para el 15 de julio de 2026.\nInterpretación: Invitación a evento informativo de la industria; archivar a menos que Ricardo desee asistir.",
+    "source": "Correo: Wood Mackenzie",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T13:41:00.000Z",
+    "createdAt": "2026-07-07T14:01:24.396Z",
+    "updatedAt": "2026-07-07T14:01:24.397Z"
+  },
+  {
     "id": "email-5059",
     "title": "FW: 😔 USMNT goes out sad",
     "description": "Bleacher Report envía a Ricardo un boletín con noticias y resultados deportivos.\nObjeto: Informar sobre el partido de USMNT contra Bélgica y otras novedades deportivas.\nInterpretación: Newsletter deportivo de entretenimiento; no requiere acción de negocio y debe archivarse.",
