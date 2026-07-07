@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5092-202607072159",
+    "title": "FW: CONTROLES VOLUMÉTRICOS PROVEEDOR CAPEX",
+    "description": "Mariana Hernandez Rangel envía una invitación de reunión a Ricardo Carmona y el equipo relacionada con controles volumétricos del proveedor CAPEX.\nObjeto: Sesión de trabajo programada para el miércoles 8 de julio de 2026 a las 4:30 PM vía Microsoft Teams.\nInterpretación: Evento de agenda; Ricardo debe asistir para coordinar temas de proveeduría.",
+    "source": "Correo: Mariana Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-08T22:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T21:59:00.000Z",
+    "createdAt": "2026-07-07T22:00:00.000Z",
+    "updatedAt": "2026-07-07T22:00:00.000Z"
+  },
+  {
+    "id": "email-5091-202607072103",
+    "title": "FW: Reunión de Seguimiento de APERTURAS + Proyectos en DESARROLLO",
+    "description": "Ernesto Sanchez García convoca a Ricardo Carmona y otros a una reunión recurrente sobre aperturas y proyectos en desarrollo.\nObjeto: Sesiones de seguimiento semanales (miércoles a las 10:00 AM) a partir del 8 de julio de 2026, vía Microsoft Teams.\nInterpretación: Evento de agenda recurrente; requiere asistencia de Ricardo para mantener la coordinación de los proyectos.",
+    "source": "Correo: Ernesto Sanchez García",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-08T16:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T21:03:00.000Z",
+    "createdAt": "2026-07-07T22:00:00.000Z",
+    "updatedAt": "2026-07-07T22:00:00.000Z"
+  },
+  {
     "id": "email-5090",
     "title": "FW: Comentarios para Respuesta a Trámite Permiso Comercialización",
     "description": "Sandra Castro (Asuntos Regulatorios) confirma a Ricardo la revisión y actualización de las cartas para el trámite del Permiso de Comercialización (añadiendo nota aclaratoria sobre volúmenes).\nObjeto: Avanzar en la gestión y cumplimiento del trámite regulatorio ante la autoridad.\nInterpretación: Confirmación de ajuste documental interno; el trámite sigue su curso.",
