@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5068",
+    "title": "FW: [Invitación] Webinar - ¿Por qué el verano puede desencadenar depresión?",
+    "description": "Dani de Terapify envía una invitación repetida para el webinar gratuito sobre salud mental estacional y estrategias emocionales para el verano.\nObjeto: Promocionar evento online del 8 de julio de 2026.\nInterpretación: Correo promocional y boletín informativo; archivar sin acción.",
+    "source": "Correo: Dani de Terapify",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T16:01:00.000Z",
+    "createdAt": "2026-07-07T17:00:54.451Z",
+    "updatedAt": "2026-07-07T17:00:54.451Z"
+  },
+  {
+    "id": "email-5069",
+    "title": "FW: Controles Volumétricos Proveedor HIPERSUR",
+    "description": "Mariana Hernandez Rangel notifica la cancelación de la reunión sobre controles volumétricos del proveedor HIPERSUR, originalmente programada para el 8 de julio de 2026.\nObjeto: Aviso de cancelación de evento en agenda.\nInterpretación: Actualización de calendario; Ricardo debe liberar el espacio previamente asignado en su agenda.",
+    "source": "Correo: Mariana Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T16:35:00.000Z",
+    "createdAt": "2026-07-07T17:00:54.451Z",
+    "updatedAt": "2026-07-07T17:00:54.451Z"
+  },
+  {
+    "id": "email-5070",
+    "title": "FW: Presentación y Revisión de Layout - ARCO 57 (A57)",
+    "description": "Ernesto Sanchez García invita al equipo a una sesión en Teams para presentar y revisar el layout del proyecto Arco 57 en sus diferentes etapas.\nObjeto: Sesión crítica de diseño programada para el lunes 13 de julio de 2026.\nInterpretación: Evento clave de proyecto; requiere asistencia de Ricardo ya que los diseños resultantes se usarán para trámites federales.",
+    "source": "Correo: Ernesto Sanchez García",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-13T17:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T16:37:00.000Z",
+    "createdAt": "2026-07-07T17:00:54.451Z",
+    "updatedAt": "2026-07-07T17:00:54.451Z"
+  },
+  {
     "id": "email-5066",
     "title": "FW: ¡Early access! LFCR, LRX3 y CUW2: las nuevas soluciones que necesitas conocer",
     "description": "Current Highlights (Current Lighting Solutions) envía a Ricardo Carmona un correo promocional sobre sus nuevas soluciones de iluminación (LFCR, LRX3 y CUW2).\nObjeto: Promocionar nuevos productos de iluminación comercial e industrial.\nInterpretación: Correo publicitario automatizado; no requiere atención operativa ni seguimiento.",
