@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5059",
+    "title": "FW: 😔 USMNT goes out sad",
+    "description": "Bleacher Report envía a Ricardo un boletín con noticias y resultados deportivos.\nObjeto: Informar sobre el partido de USMNT contra Bélgica y otras novedades deportivas.\nInterpretación: Newsletter deportivo de entretenimiento; no requiere acción de negocio y debe archivarse.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T12:06:46.000Z",
+    "createdAt": "2026-07-07T13:01:00.000Z",
+    "updatedAt": "2026-07-07T13:01:00.000Z"
+  },
+  {
     "id": "email-5058",
     "title": "FW: PILA MP 0.5K Genset 4 (14/Jul 08:00am a 10:00am)",
     "description": "Marcos Fernando Ríos Ferrer solicita a Jocelyn, Javier y al equipo de operaciones la entrega de AST y la notificación a clientes sobre el mantenimiento preventivo del Genset 4 en EDSM PILA.\nObjeto: Coordinar la parada de equipo programada para el 14 de julio sin cierre de la estación.\nInterpretación: Requerimiento operativo de mantenimiento; Ricardo debe estar al tanto para asegurar la divulgación a clientes y cumplimiento de seguridad.",
