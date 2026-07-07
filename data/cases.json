@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5057",
+    "title": "FW: Seguniento Natgas Pepsico",
+    "description": "Michael Burnside de PepsiCo convoca a Ricardo y al equipo a una nueva reunión de seguimiento del proyecto.\nObjeto: Sesión virtual de trabajo por Microsoft Teams agendada para el viernes 10 de julio a las 2:00 PM.\nInterpretación: Invitación a evento comercial de seguimiento; requiere confirmar asistencia e incluir en la agenda de Ricardo.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "evento",
+    "dueDate": "2026-07-10T14:30:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T23:43:00.000Z",
+    "createdAt": "2026-07-07T01:00:00.000Z",
+    "updatedAt": "2026-07-07T01:00:00.000Z"
+  },
+  {
+    "id": "email-5056",
+    "title": "FW: Tu tiempo de estudio en junio",
+    "description": "El sistema UBITS envía a Ricardo su reporte mensual de progreso de estudio correspondiente al mes de junio, mostrando cero minutos.\nObjeto: Notificar el estado actual del plan de formación.\nInterpretación: Reporte automatizado de plataforma educativa; no requiere acción de negocio, se archiva.",
+    "source": "Correo: Sistema UBITS",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T23:42:00.000Z",
+    "createdAt": "2026-07-07T01:00:00.000Z",
+    "updatedAt": "2026-07-07T01:00:00.000Z"
+  },
+  {
+    "id": "email-5055",
+    "title": "FW: Kick-off Proyecto Arco 57 - Etapa de definición y evaluación de alternativas de implementación",
+    "description": "Valerio Manta invita al kick-off de la etapa de definición del proyecto Arco 57, solicitando soporte al equipo.\nObjeto: Definir tareas para el desarrollo de la ingeniería conceptual y caso de negocio; a Ricardo se le asigna gestionar presión con CENAGAS y confirmar condiciones de odorización.\nInterpretación: Asignación de tareas clave para nuevo proyecto; requiere seguimiento y gestiones técnicas con CENAGAS.",
+    "source": "Correo: Valerio Manta",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-06T23:23:00.000Z",
+    "createdAt": "2026-07-07T01:00:00.000Z",
+    "updatedAt": "2026-07-07T01:00:00.000Z"
+  },
+  {
     "id": "email-5054",
     "title": "FW: Curso ejecutivo Gestión de Riesgos",
     "description": "Comercio Internacional envía a Ricardo Carmona una invitación a un curso ejecutivo virtual sobre gestión de riesgos.\nObjeto: Promoción de capacitación en comercio exterior y aduanas.\nInterpretación: Correo promocional externo; no requiere acción operativa directa, se archiva.",
