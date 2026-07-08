@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5095-202607072348",
+    "title": "FW: Hacemos equipo con la industria y la selección nacional",
+    "description": "Ricardo Carmona reenvía un boletín informativo corporativo de la empresa Cox, destacando temas de transición energética e iniciativas sociales.\nObjeto: Compartir noticias, eventos deportivos organizados y actualizaciones sobre políticas de transparencia.\nInterpretación: Boletín informativo de interés general; no requiere acción operativa o seguimiento, procede su archivo.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T23:48:00.000Z",
+    "createdAt": "2026-07-08T00:00:00.000Z",
+    "updatedAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "email-5094-202607072319",
+    "title": "FW: CFE consumo junio",
+    "description": "Ricardo Carmona reenvía el comprobante fiscal (CFDI) y estado de cuenta emitido por la Comisión Federal de Electricidad (CFE) correspondiente al mes de junio.\nObjeto: Notificar la facturación por consumo de energía eléctrica de la estación en San Juan del Río.\nInterpretación: Documentación fiscal recibida de proveedor de servicios básicos; requiere canalización a Cuentas por Pagar.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T23:19:00.000Z",
+    "createdAt": "2026-07-08T00:00:00.000Z",
+    "updatedAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "email-5093-202607072254",
+    "title": "FW: Cromatografía Jalisco junio 2026",
+    "description": "Luis Wario de ENGIE envía a Alonso Samperio la cromatografía de gas correspondiente al mes de junio de 2026 para la región de Jalisco.\nObjeto: Atender la solicitud previa de envío del reporte de calidad del gas.\nInterpretación: Documentación técnica operativa entregada; Ricardo se encuentra copiado para conocimiento y control documental.",
+    "source": "Correo: Luis E. Wario Vázquez (ENGIE)",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-07T22:54:00.000Z",
+    "createdAt": "2026-07-08T00:00:00.000Z",
+    "updatedAt": "2026-07-08T00:00:00.000Z"
+  },
+  {
     "id": "email-5092-202607072159",
     "title": "FW: CONTROLES VOLUMÉTRICOS PROVEEDOR CAPEX",
     "description": "Mariana Hernandez Rangel envía una invitación de reunión a Ricardo Carmona y el equipo relacionada con controles volumétricos del proveedor CAPEX.\nObjeto: Sesión de trabajo programada para el miércoles 8 de julio de 2026 a las 4:30 PM vía Microsoft Teams.\nInterpretación: Evento de agenda; Ricardo debe asistir para coordinar temas de proveeduría.",
