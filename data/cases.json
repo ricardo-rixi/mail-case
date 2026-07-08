@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5103",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Michael Burnside (PepsiCo) solicita a Ricardo Carmona (Natgas):\nObjeto: Firma de NDA, modelo de contrato y estructura de costos para modalidades fijas y móviles.\nInterpretación: Requerimiento comercial ejecutivo; Ricardo debe proveer la documentación solicitada para avanzar con la alianza.",
+    "source": "Correo: MICHAEL.BURNSIDE@pepsico.com",
+    "owner": "Ricardo",
+    "status": "seguimiento",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-08T13:37:00.000Z",
+    "createdAt": "2026-07-08T14:00:00.000Z",
+    "updatedAt": "2026-07-08T14:00:00.000Z"
+  },
+  {
+    "id": "email-5102",
+    "title": "Missed a Copy? Read the ENN Daily Newspapers from the Africa Energy Forum 2026",
+    "description": "Energy News Network envía a Ricardo las ediciones digitales de sus periódicos diarios del Africa Energy Forum 2026.\nObjeto: Promocionar noticias, anuncios y entrevistas del sector energético en África.\nInterpretación: Boletín informativo y comercial; no requiere ninguna acción operativa.",
+    "source": "Correo: Energy News Network",
+    "owner": "Ricardo",
+    "status": "archivado",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-08T13:09:00.000Z",
+    "createdAt": "2026-07-08T14:00:00.000Z",
+    "updatedAt": "2026-07-08T14:00:00.000Z"
+  },
+  {
     "id": "email-5101",
     "title": "FW: Transform Your Apps with High Quality Generative Media",
     "description": "Google Cloud invita a Ricardo a un webinar sobre herramientas de Generative Media (Gemini Image, Veo, etc.).\nObjeto: Promocionar soluciones y herramientas de inteligencia artificial de Google Cloud.\nInterpretación: Correo publicitario y comercial; archivar, no requiere acción operativa.",
