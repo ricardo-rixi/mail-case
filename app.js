@@ -1,5 +1,7 @@
 let currentModalTarget = null;
 let currentModalAction = null;
+let allCases = [];
+let activeView = 'home';
 
 async function api(path, options = {}) {
   const response = await fetch(path, {
@@ -101,8 +103,28 @@ window.toggleDetails = function(id) {
 };
 
 window.changeStatus = async function(id, status, dueDate = null) {
-  await api('/api/cases/' + id, { method: 'PATCH', body: JSON.stringify({ status, dueDate }) });
-  render();
+  // Optimistic UI update: update local state instantly
+  allCases = allCases.map(c => {
+    if (c.id === id) {
+      return { ...c, status, dueDate, updatedAt: new Date().toISOString() };
+    }
+    return c;
+  });
+  
+  // Render instantly
+  renderLocal();
+
+  // Perform API call in background
+  try {
+    const updated = await api('/api/cases/' + id, { 
+      method: 'PATCH', 
+      body: JSON.stringify({ status, dueDate }) 
+    });
+    // Update with authoritative server state
+    allCases = allCases.map(c => c.id === id ? updated : c);
+  } catch (err) {
+    console.error("Failed to update status on server:", err);
+  }
 };
 
 window.openModal = function(id, action) {
@@ -140,6 +162,8 @@ window.submitModal = function(timing) {
 };
 
 window.switchView = function(viewId) {
+  activeView = viewId;
+  
   ['home', 'porenviar', 'evento', 'seguimiento', 'archivado'].forEach(v => {
     document.getElementById(`view-${v}`).classList.add('hidden-view');
     const btn = document.getElementById(`nav-${v}`);
@@ -159,23 +183,36 @@ window.switchView = function(viewId) {
     'evento': 'Eventos', 'seguimiento': 'Seguimiento', 'archivado': 'Archivados'
   };
   document.getElementById('header-title').textContent = titles[viewId];
+  
+  // Render active view immediately on switch
+  renderLocal();
 };
 
-async function render() {
-  const cases = await api('/api/cases');
+function renderLocal() {
+  let sectionsToRender = [];
+  if (activeView === 'home') {
+    sectionsToRender = ['urgente', 'importante', 'notsure'];
+  } else {
+    sectionsToRender = [activeView];
+  }
   
-  const sections = ['urgente', 'importante', 'notsure', 'porenviar', 'evento', 'seguimiento', 'archivado'];
-  
-  sections.forEach(status => {
+  sectionsToRender.forEach(status => {
     const section = document.getElementById(`section-${status}`);
     if (!section) return;
     const list = section.querySelector('.list-container');
-    const filtered = cases.filter(c => c.status === status);
+    const filtered = allCases.filter(c => c.status === status);
     
     list.innerHTML = filtered.length > 0 
       ? filtered.map(createCard).join('') 
       : '<div class="p-3 text-center text-slate-500 text-[11px]">Lista vacía</div>';
   });
+}
+
+async function render(forceFetch = false) {
+  if (allCases.length === 0 || forceFetch) {
+    allCases = await api('/api/cases');
+  }
+  renderLocal();
 }
 
 render();
