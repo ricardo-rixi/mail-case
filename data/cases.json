@@ -5,12 +5,12 @@
     "description": "Enrique Esquivel (Grupo NXT) reporta y coordina visita técnica por sitio incomunicado (Héroes de Nacozari).\nObjeto: Coordinar visita de personal técnico a la estación.\nInterpretación: Solicitud de soporte operativo técnico; requiere seguimiento conjunto para restablecer la comunicación.",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T20:47:00.000Z",
     "createdAt": "2026-07-08T21:01:22.132Z",
-    "updatedAt": "2026-07-08T21:01:22.132Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5122-1783544482132",
@@ -18,12 +18,12 @@
     "description": "Notificación automática del portal de proveedores para autorización de factura.\nObjeto: Solicitar autorización de pago.\nInterpretación: Trámite administrativo rutinario que requiere validación en sistema.",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T20:44:00.000Z",
     "createdAt": "2026-07-08T21:01:22.132Z",
-    "updatedAt": "2026-07-08T21:01:22.132Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5121-1783544482132",
@@ -31,12 +31,12 @@
     "description": "Notificación automática del portal de proveedores para autorización de factura.\nObjeto: Solicitar autorización de pago.\nInterpretación: Trámite administrativo rutinario que requiere validación en sistema.",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T20:43:00.000Z",
     "createdAt": "2026-07-08T21:01:22.132Z",
-    "updatedAt": "2026-07-08T21:01:22.132Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5120-1783544482132",
@@ -44,12 +44,12 @@
     "description": "Notificación automática del portal de proveedores para autorización de factura.\nObjeto: Solicitar autorización de pago.\nInterpretación: Trámite administrativo rutinario que requiere validación en sistema.",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T20:41:00.000Z",
     "createdAt": "2026-07-08T21:01:22.132Z",
-    "updatedAt": "2026-07-08T21:01:22.132Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5119-1783544482132",
@@ -96,12 +96,12 @@
     "description": "Enrique Esquivel (Grupo NXT) reporta y coordina visita técnica por sitio incomunicado (Héroes de Nacozari).\nObjeto: Coordinar visita de personal técnico a la estación.\nInterpretación: Solicitud de soporte operativo técnico; requiere seguimiento conjunto para restablecer la comunicación.",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T19:18:00.000Z",
     "createdAt": "2026-07-08T21:01:22.132Z",
-    "updatedAt": "2026-07-08T21:01:22.132Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5115-1783544482132",
@@ -109,12 +109,12 @@
     "description": "Enrique Esquivel (Grupo NXT) reporta y coordina visita técnica por sitio incomunicado (Héroes de Nacozari).\nObjeto: Coordinar visita de personal técnico a la estación.\nInterpretación: Solicitud de soporte operativo técnico; requiere seguimiento conjunto para restablecer la comunicación.",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T19:08:00.000Z",
     "createdAt": "2026-07-08T21:01:22.132Z",
-    "updatedAt": "2026-07-08T21:01:22.132Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5114-1783544482132",
@@ -161,12 +161,12 @@
     "description": "Alonso Samperio informa a Enrique Esquivel (Grupo NXT) que el área de TI podrá revisar la incomunicación de la estación hasta el martes 14.\nObjeto: Dar estatus a la solicitud de soporte técnico en sitio.\nInterpretación: Seguimiento operativo/técnico; Ricardo copiado para conocimiento del retraso en el restablecimiento del sitio.",
     "source": "Correo: Alonso Samperio Gayosso",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": "2026-07-14T23:59:00+00:00",
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T19:18:00+00:00",
     "createdAt": "2026-07-08T20:00:56.547Z",
-    "updatedAt": "2026-07-08T20:00:56.547Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5114-202607081810",
@@ -213,12 +213,12 @@
     "description": "Enrique Esquivel Gomez (Grupo NXT) solicita apoyo para coordinar una visita técnica a un sitio incomunicado. Alonso Samperio confirma que pueden acudir registrandose.\nObjeto: Restablecer la comunicación entre el equipo y los medidores en la estación Heroes de Nacozari.\nInterpretación: Coordinación técnica operativa; Alonso ya dio respuesta, por lo que Ricardo solo debe estar enterado.",
     "source": "Correo: Enrique Esquivel Gomez / Alonso Samperio",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T15:45:00.000Z",
     "createdAt": "2026-07-08T18:01:52.116Z",
-    "updatedAt": "2026-07-08T18:01:52.116Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5107-1783533712116",
@@ -278,12 +278,12 @@
     "description": "David Resendiz solicita a los proveedores de IMW/E3 (Dessire Colina y Mauricio Gonzalez) mejorar el tiempo de entrega de los equipos Fill Post.\nObjeto: Adelantar la entrega para la primera semana de agosto a peticion de Direccion General.\nInterpretacion: Seguimiento critico de proveeduria; requiere monitoreo para asegurar el cumplimiento del cronograma.",
     "source": "Correo: David Resendiz Rojo",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T16:35:00.000Z",
     "createdAt": "2026-07-08T17:00:00.000Z",
-    "updatedAt": "2026-07-08T17:00:00.000Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5111",
@@ -304,12 +304,12 @@
     "description": "Julio Cesar Rojas comparte con el equipo el recibo restante (LYL) de la facturacion electrica de CFE de junio.\nObjeto: Complementar el envio previo de la documentacion fiscal del consumo de energia.\nInterpretacion: Documentacion operativa y contable; requiere que finanzas procese el pago.",
     "source": "Correo: Julio Cesar Rojas Rangel",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T16:01:00.000Z",
     "createdAt": "2026-07-08T17:00:00.000Z",
-    "updatedAt": "2026-07-08T17:00:00.000Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5109",
@@ -330,12 +330,12 @@
     "description": "Alonso Samperio informa a Enrique Esquivel (Grupo NXT) que pueden acudir a la estación Héroes de Nacozari.\nObjeto: Coordinar visita técnica para restablecer comunicación con los medidores.\nInterpretación: Seguimiento operativo y técnico de un sitio incomunicado; autoriza el acceso a contratistas/personal de sistemas.",
     "source": "Correo: Alonso Samperio Gayosso",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T15:45:00.000Z",
     "createdAt": "2026-07-08T16:00:00.000Z",
-    "updatedAt": "2026-07-08T16:00:00.000Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-5107",
@@ -460,12 +460,12 @@
     "description": "Ricardo Andrés Carmona Marcano reenvía una alerta de sitio incomunicado (Héroes de Nacozari) a Ricardo.\nObjeto: Reportar la pérdida de comunicación con la estación.\nInterpretación: Alerta operativa técnica; requiere revisión y seguimiento para restablecer comunicación.",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "urgente",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-08T02:25:00.000Z",
     "createdAt": "2026-07-08T04:02:06.695Z",
-    "updatedAt": "2026-07-08T04:02:06.695Z"
+    "updatedAt": "2026-07-08T21:09:17.893Z"
   },
   {
     "id": "email-3830-1",
@@ -2150,12 +2150,12 @@
     "description": "José Enrique Taracena presiona al equipo para revisar y aprobar documentos del SGC pendientes.\nObjeto: Instar a los responsables a aprobar la documentación urgente para la auditoría externa.\nInterpretación: Llamado de atención directivo; requiere que Ricardo atienda sus aprobaciones pendientes inmediatamente.",
     "source": "Correo: José Enrique Taracena Sanz",
     "owner": "Ricardo",
-    "status": "urgente",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-03T21:58:42.000Z",
     "createdAt": "2026-07-05T01:01:16.598Z",
-    "updatedAt": "2026-07-05T01:01:16.598Z"
+    "updatedAt": "2026-07-08T21:07:29.402Z"
   },
   {
     "id": "email-5009-202607032120",
@@ -2163,12 +2163,12 @@
     "description": "José Enrique Taracena Sanz presiona al equipo directivo para que revisen y aprueben los documentos pendientes del SASISOPA.\nObjeto: Urgir la aprobación de los procedimientos pendientes en el SGC.\nInterpretación: Recordatorio ejecutivo urgente; refuerza la necesidad de que Ricardo atienda sus aprobaciones en el sistema.",
     "source": "Correo: José Enrique Taracena Sanz",
     "owner": "Ricardo",
-    "status": "urgente",
-    "dueDate": "2026-07-13T23:59:00.000Z",
+    "status": "archivado",
+    "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-03T21:58:42.000Z",
     "createdAt": "2026-07-03T22:00:38.308Z",
-    "updatedAt": "2026-07-03T22:00:38.308Z"
+    "updatedAt": "2026-07-08T21:08:51.304Z"
   },
   {
     "id": "email-5014-202607032158",
@@ -10913,11 +10913,11 @@
     "description": "Adriana Ávila (RRHH) envía a Ricardo y Juan Carlos Pineda la propuesta de perfil del Coordinador Técnico.\nObjeto: Revisar las responsabilidades y autorizar la nómina/presupuesto asociado para proceder con la vacante.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "urgente",
-    "dueDate": null,
+    "status": "porenviar",
+    "dueDate": "2026-07-15T21:07:05.931Z",
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:00:57.738Z",
-    "updatedAt": "2026-06-03T21:57:03.594Z"
+    "updatedAt": "2026-07-08T21:07:05.964Z"
   },
   {
     "id": "446cd9f1-e5dc-4718-8e22-16a5e332b39a",
@@ -10949,11 +10949,11 @@
     "description": "Gabriel Morales (E3) solicita a Ricardo confirmación sobre las capacidades del proyecto de adecuación PRS-500.\nObjeto: Definir si Natgas elaborará la cotización de ingeniería técnica, pendiente de validar con Isaac.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "urgente",
-    "dueDate": null,
+    "status": "seguimiento",
+    "dueDate": "2026-07-09T21:06:37.640Z",
     "unansweredDays": 0,
     "createdAt": "2026-06-03T01:01:00.635Z",
-    "updatedAt": "2026-06-03T21:57:07.487Z"
+    "updatedAt": "2026-07-08T21:06:37.668Z"
   },
   {
     "id": "524cd07b-8a5e-4f70-a8a9-ca8eeb0a96ef",
@@ -10985,11 +10985,11 @@
     "description": "La contraparte comercial de Naturgy envía a Ricardo la lista de contactos actualizados de su equipo.\nObjeto: Establecer el canal de comunicación formal para coordinar el suministro de gas natural y temas operativos.",
     "source": "Correo",
     "owner": "Ricardo",
-    "status": "notsure",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "createdAt": "2026-06-02T17:01:10.368Z",
-    "updatedAt": "2026-06-03T18:57:28.597Z"
+    "updatedAt": "2026-07-08T21:07:44.449Z"
   },
   {
     "id": "13dbb9d9-4790-4834-a75b-190d350eb661",
