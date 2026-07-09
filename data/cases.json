@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5143",
+    "title": "FW: PROYECTOS +IA (Copia)",
+    "description": "Plexarian Cloud envía a Ricardo una invitación al webinar 'Proyectos bajo Control: Gestiona y Organiza tus Equipos con Inteligencia Artificial' sobre Gemini.\nObjeto: Promocionar un evento online gratuito agendado para el jueves 16 de julio de 2026.\nInterpretación: Correo promocional automatizado sobre capacitaciones de IA; no requiere seguimiento operativo, solo archivar o asistir voluntariamente.",
+    "source": "Correo: Plexarian Cloud",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-09T00:05:00.000Z",
+    "createdAt": "2026-07-09T01:00:31.728Z",
+    "updatedAt": "2026-07-09T01:00:31.729Z"
+  },
+  {
     "id": "email-5142",
     "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro",
     "description": "Adrian Gonzalez (Gascorp) envía a Ricardo Rabell y Ricardo Carmona la versión final de la Confirmación de Transacción (TC) lista para firma y consulta sobre la Capacidad Máxima Diaria.\nObjeto: Compartir el contrato de distribución para su firma.\nInterpretación: Documentación legal crítica para el suministro; requiere revisión técnica de la capacidad y firma de representación legal.",
