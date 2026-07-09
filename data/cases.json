@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5167",
+    "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro",
+    "description": "Adrian Gonzalez (Gascorp) responde a Ricardo sobre el ajuste de CMD y confirma reunión.\nObjeto: Coordinar reunión para ajuste de capacidad máxima diaria con el distribuidor.\nInterpretación: Gestión comercial y regulatoria; requiere asistencia a la reunión agendada.",
+    "source": "Correo: Adrian Gonzalez (Gascorp)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-09T18:31:50.000Z",
+    "createdAt": "2026-07-09T20:02:00.000Z",
+    "updatedAt": "2026-07-09T20:02:00.000Z"
+  },
+  {
+    "id": "email-5166",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Michael Burnside (PepsiCo) aclara a Ricardo que el NDA está protegido para la revisión del equipo legal.\nObjeto: Solicitar firma del NDA en su formato actual para revisión interna en PepsiCo.\nInterpretación: Requerimiento legal y comercial; requiere proceder con la firma del documento.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-09T18:07:31.000Z",
+    "createdAt": "2026-07-09T20:02:00.000Z",
+    "updatedAt": "2026-07-09T20:02:00.000Z"
+  },
+  {
+    "id": "email-5165",
+    "title": "FW: Cromatografía Querétaro junio 2026",
+    "description": "Eduardo Aguilar (ENGIE) comparte a Alonso Samperio (con copia a Ricardo) la cromatografía de junio.\nObjeto: Entregar los reportes de calidad de gas para la zona de Querétaro.\nInterpretación: Recepción de documentación técnica operativa; requiere resguardo y archivo.",
+    "source": "Correo: Eduardo Aguilar (ENGIE)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-09T18:04:01.000Z",
+    "createdAt": "2026-07-09T20:02:00.000Z",
+    "updatedAt": "2026-07-09T20:02:00.000Z"
+  },
+  {
     "id": "email-5164-1783620095163",
     "title": "FW: Cromatografía México junio 2026",
     "description": "Erika Huerta (ENGIE) envía a Alonso Samperio (con copia a Ricardo) la información solicitada.\nObjeto: Compartir la cromatografía de la zona México del mes de junio.\nInterpretación: Recepción de documentación técnica de calidad de gas; requiere revisión y archivo.",
