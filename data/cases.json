@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5122-1783562498673",
+    "title": "FW: 27785.Factura por autorizar",
+    "description": "Cuentas Por Pagar notifica a Ricardo Carmona la asignación de la factura 27785 (Grupo JGJ-LUAN) para su revisión y autorización.\nObjeto: Revisar y autorizar pago de factura de combustible.\nInterpretación: Trámite administrativo automático del portal de proveedores; requiere ingresar al sistema para autorizar.",
+    "source": "Correo: Cuentas Por pagar",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-08T20:44:00.000Z",
+    "createdAt": "2026-07-09T02:01:38.673Z",
+    "updatedAt": "2026-07-09T02:01:38.673Z"
+  },
+  {
+    "id": "email-5121-1783562498673",
+    "title": "FW: 27784.Factura por autorizar",
+    "description": "Cuentas Por Pagar notifica a Ricardo Carmona la asignación de la factura 27784 (La Estancia Gaucha) para su revisión y autorización.\nObjeto: Revisar y autorizar pago de factura de consumo de alimentos.\nInterpretación: Trámite administrativo automático del portal de proveedores; requiere ingresar al sistema para autorizar.",
+    "source": "Correo: Cuentas Por pagar",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-08T20:43:00.000Z",
+    "createdAt": "2026-07-09T02:01:38.673Z",
+    "updatedAt": "2026-07-09T02:01:38.673Z"
+  },
+  {
+    "id": "email-5120-1783562498673",
+    "title": "FW: 27783.Factura por autorizar",
+    "description": "Cuentas Por Pagar notifica a Ricardo Carmona la asignación de la factura 27783 (Mega Gasolineras) para su revisión y autorización.\nObjeto: Revisar y autorizar pago de factura de combustible.\nInterpretación: Trámite administrativo automático del portal de proveedores; requiere ingresar al sistema para autorizar.",
+    "source": "Correo: Cuentas Por pagar",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-08T20:41:00.000Z",
+    "createdAt": "2026-07-09T02:01:38.673Z",
+    "updatedAt": "2026-07-09T02:01:38.673Z"
+  },
+  {
+    "id": "email-5119-1783562498673",
+    "title": "FW: Cuando una empresa descubrió que su operación estaba secuestrada por los operadores",
+    "description": "Jacobo Lisbona comparte un caso de estudio sobre la falta de control en operadores y su impacto en la administración de flotillas.\nObjeto: Promocionar soluciones de seguridad y control operativo (Directed empresas).\nInterpretación: Newsletter comercial y de ventas; no requiere acción operativa por parte de Ricardo.",
+    "source": "Correo: Jacobo Lisbona",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-08T20:06:00.000Z",
+    "createdAt": "2026-07-09T02:01:38.673Z",
+    "updatedAt": "2026-07-09T02:01:38.673Z"
+  },
+  {
     "id": "email-5143",
     "title": "FW: PROYECTOS +IA (Copia)",
     "description": "Plexarian Cloud envía a Ricardo una invitación al webinar 'Proyectos bajo Control: Gestiona y Organiza tus Equipos con Inteligencia Artificial' sobre Gemini.\nObjeto: Promocionar un evento online gratuito agendado para el jueves 16 de julio de 2026.\nInterpretación: Correo promocional automatizado sobre capacitaciones de IA; no requiere seguimiento operativo, solo archivar o asistir voluntariamente.",
