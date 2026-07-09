@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5149-20260709",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Thursday 09 Jul 2026)",
+    "description": "El sistema Teamwork envía a Ricardo el informe automatizado de proyectos de NATGAS QUERETARO SAPI DE CV.\nObjeto: Notificar tareas pendientes y vencidas en proyectos como descompresión Femsa, Nitri-Cal, Proan y Siemens.\nInterpretación: Resumen rutinario de actividades del sistema de gestión; no requiere respuesta directa, solo revisión interna.",
+    "source": "Correo: NATGAS QUERETARO SAPI DE CV Reports",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-09T14:00:05.000Z",
+    "createdAt": "2026-07-09T14:00:05.000Z",
+    "updatedAt": "2026-07-09T14:00:05.000Z"
+  },
+  {
     "id": "email-5148",
     "title": "FW: Calibración de tanques y sondas",
     "description": "Juan Garza de Gasoline envía a Ricardo una propuesta de servicios de calibración volumétrica de tanques, sondas y pruebas de penetración.\nObjeto: Venta de servicios técnicos para cumplimiento normativo.\nInterpretación: Correo comercial de proveedores externos; resguardar para futura referencia si se requiere el servicio.",
