@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5183",
+    "title": "FW: The Crosser Platform is now part of CONNECT",
+    "description": "Martin Thunman (Crosser) notifica a Ricardo sobre la integración de The Crosser Platform a la plataforma CONNECT de AVEVA.\nObjeto: Informar cambio de marca a \"Flows\" y transición operativa hacia AVEVA.\nInterpretación: Correo informativo comercial corporativo; no requiere acción operativa directa, procede archivar.",
+    "source": "Correo: Martin Thunman (Crosser)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T13:43:00.000Z",
+    "createdAt": "2026-07-10T14:00:00.000Z",
+    "updatedAt": "2026-07-10T14:00:00.000Z"
+  },
+  {
+    "id": "email-5182",
+    "title": "FW: [Webinar] Migração na velocidade da IA: a guide to cloud evolution",
+    "description": "Google Cloud invita a Ricardo a un webinar sobre la aceleración de la migración y modernización en la nube utilizando inteligencia artificial.\nObjeto: Promocionar herramientas de automatización e infraestructura en la nube de Google Cloud.\nInterpretación: Correo publicitario e invitación a evento externo; no requiere acción a menos que desee asistir.",
+    "source": "Correo: Google Cloud",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T13:08:00.000Z",
+    "createdAt": "2026-07-10T14:00:00.000Z",
+    "updatedAt": "2026-07-10T14:00:00.000Z"
+  },
+  {
     "id": "email-5181",
     "title": "FW: Explore AEW 2026 Technical Hubs - Where Technical Excellence Meets Commercial Opportunities",
     "description": "African Energy Week (AEW) envía a Ricardo un boletín sobre los Technical Hubs 2026.\nObjeto: Promocionar conferencias y eventos sobre energía en África.\nInterpretación: Correo promocional y newsletter comercial; archivar.",
