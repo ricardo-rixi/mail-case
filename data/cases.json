@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5195-1783706442159",
+    "title": "FW: Comprobante Fiscal OO00036802",
+    "description": "GDF SUEZ MEXICO COMERCIALIZADORA envía los comprobantes fiscales digitales (XML y PDF) correspondientes a la factura OO00036802 para NATGAS QUERETARO.\nObjeto: Recepción automática de facturación.\nInterpretación: Documento fiscal recibido que debe ser canalizado al área de finanzas o resguardado para conciliación contable.",
+    "source": "Correo: noreply@timbrado.engie.mx",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T17:19:00.000Z",
+    "createdAt": "2026-07-10T18:00:42.157Z",
+    "updatedAt": "2026-07-10T18:00:42.157Z"
+  },
+  {
+    "id": "email-5194-1783706442160",
+    "title": "FW: Obén la certificación como líder ágil en proyectos",
+    "description": "Valeria Torres de Expert PM Solutions invita a Ricardo a participar en entrenamientos virtuales de Dirección de Proyectos y Liderazgo Ágil durante agosto y septiembre.\nObjeto: Promoción de certificaciones profesionales.\nInterpretación: Correo promocional y de capacitación; Ricardo puede evaluar si le interesa tomar los cursos.",
+    "source": "Correo: valeria.torres@expert-pms.com",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T17:10:00.000Z",
+    "createdAt": "2026-07-10T18:00:42.157Z",
+    "updatedAt": "2026-07-10T18:00:42.157Z"
+  },
+  {
+    "id": "email-5193-1783706442161",
+    "title": "FW: Confirmación entrega de factura - Gas Natural",
+    "description": "Julio Cesar Rojas Rangel solicita a Susana Quintero (ENGIE) que reenvíe las facturas de consumo de gas natural de junio para varias estaciones (LAZ, ABA, PNT, PSU, CEC, TPL) que no llegaron.\nObjeto: Reclamar facturas faltantes de consumo de gas.\nInterpretación: Gestión administrativa y operativa en la que Ricardo está en copia para dar seguimiento a la recepción de las facturas.",
+    "source": "Correo: Julio Cesar Rojas Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T17:08:00.000Z",
+    "createdAt": "2026-07-10T18:00:42.157Z",
+    "updatedAt": "2026-07-10T18:00:42.157Z"
+  },
+  {
     "id": "email-5192",
     "title": "FW: Kick-off Proyecto Arco 57 - Etapa de definición y evaluación de alternativas de implementación",
     "description": "Enrique Taracena solicita a David y Carva complementar el estudio de mercado para Arco 57 utilizando Claude y revisarlo la semana del 20 de julio.\nObjeto: Complementar análisis de mercado de Gran Consumo y Gasoducto Virtual.\nInterpretación: Seguimiento directivo de proyecto; requiere avance y revisión del análisis para la fecha estipulada.",
