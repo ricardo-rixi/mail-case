@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5206",
+    "title": "FW: Episodio 3 | Ciberseguridad Práctica en Entornos Industriales",
+    "description": "Fortinet envía a Ricardo Carmona el tercer episodio de su serie técnica sobre ciberseguridad práctica en entornos industriales.\nObjeto: Promover soluciones de ciberseguridad y acceso seguro para proveedores en redes OT.\nInterpretación: Correo informativo y promocional; no requiere ninguna acción operativa directa por parte del negocio.",
+    "source": "Correo: Fortinet",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T22:00:00.000Z",
+    "createdAt": "2026-07-10T22:01:00.000Z",
+    "updatedAt": "2026-07-10T22:01:00.000Z"
+  },
+  {
     "id": "email-5205",
     "title": "FW: Confirmación entrega de factura - Gas Natural",
     "description": "Susana Quintero (ENGIE) envía a Julio Cesar Rojas y equipo las facturas de consumo de gas natural correspondientes al mes de junio.\nObjeto: Entrega de facturas de consumo de gas de junio.\nInterpretación: Recepción de comprobantes fiscales operativos solicitados; requiere canalización a Finanzas para su registro y pago.",
