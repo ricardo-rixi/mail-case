@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5192",
+    "title": "FW: Kick-off Proyecto Arco 57 - Etapa de definición y evaluación de alternativas de implementación",
+    "description": "Enrique Taracena solicita a David y Carva complementar el estudio de mercado para Arco 57 utilizando Claude y revisarlo la semana del 20 de julio.\nObjeto: Complementar análisis de mercado de Gran Consumo y Gasoducto Virtual.\nInterpretación: Seguimiento directivo de proyecto; requiere avance y revisión del análisis para la fecha estipulada.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T16:24:00.000Z",
+    "createdAt": "2026-07-10T17:00:00.000Z",
+    "updatedAt": "2026-07-10T17:00:00.000Z"
+  },
+  {
+    "id": "email-5191",
+    "title": "FW: Solicitud de compra Segundo Periodo de servicio de comunicación NXT",
+    "description": "Alonso Samperio urge a David Resendiz enviar la Orden de Compra (OC) al proveedor NXT para evitar la suspensión del servicio de comunicación.\nObjeto: Agilizar envío de OC a proveedor para evitar cortes.\nInterpretación: Seguimiento administrativo y operativo urgente; Ricardo está en copia para conocimiento del riesgo de suspensión.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T16:13:00.000Z",
+    "createdAt": "2026-07-10T17:00:00.000Z",
+    "updatedAt": "2026-07-10T17:00:00.000Z"
+  },
+  {
+    "id": "email-5190",
+    "title": "FW: Solicitud de compra Segundo Periodo de servicio de comunicación NXT",
+    "description": "Ana Paola Hernandez comparte la Solicitud de Compra (SOC) 1026633 para el servicio de comunicación NXT de diversas estaciones (enero-junio 2026).\nObjeto: Compartir SOC generada a partir de la solicitud de Alonso Samperio.\nInterpretación: Trámite administrativo interno de compras; Ricardo está copiado para seguimiento.",
+    "source": "Correo: Ana Paola Hernandez de la Rosa",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T16:06:00.000Z",
+    "createdAt": "2026-07-10T17:00:00.000Z",
+    "updatedAt": "2026-07-10T17:00:00.000Z"
+  },
+  {
+    "id": "email-5189",
+    "title": "FW: Last chance! Take advantage of Emerson insights to stay ahead of the competition.",
+    "description": "Emerson envía a Ricardo un boletín promocional para suscribirse a sus actualizaciones y estudios de caso de la industria.\nObjeto: Promocionar suscripción a boletines de tecnología e industria.\nInterpretación: Correo comercial o publicitario automatizado; no requiere atención operativa.",
+    "source": "Correo: Emerson",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T16:01:00.000Z",
+    "createdAt": "2026-07-10T17:00:00.000Z",
+    "updatedAt": "2026-07-10T17:00:00.000Z"
+  },
+  {
     "id": "email-5188-1781100000000",
     "title": "FW: Relación volumétrica junio 2026",
     "description": "Alonso Samperio comparte los valores de la relación volumétrica de junio 2026 para diversas zonas.\nObjeto: Informar sobre el cierre de valores técnicos del mes anterior.\nInterpretación: Correo técnico informativo interno; no requiere acción, solo conocimiento de los valores.",
