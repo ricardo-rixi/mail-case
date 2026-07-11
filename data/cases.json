@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5209-1783731660239",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica (BALANCE DE ENERGIA ELECTRICA)",
+    "description": "Enrique Taracena solicita respuesta a Luis Carvajal y Héctor Ramírez sobre el sobrecosto de $211,000.00 en energía eléctrica durante mayo en nueve estaciones.\nObjeto: Reclamar atención y medidas correctivas ante el incremento de consumo eléctrico.\nInterpretación: Reclamo directivo operativo; Ricardo está copiado y debe estar al tanto para posibles requerimientos técnicos de justificación o corrección.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T00:00:41.000Z",
+    "createdAt": "2026-07-11T01:01:00.239Z",
+    "updatedAt": "2026-07-11T01:01:00.239Z"
+  },
+  {
     "id": "email-5207-1783728052176",
     "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
     "description": "Mariana Hernández comparte con Julio Rojas (y equipo) la relación de las órdenes de compra del consumo de gas de DIAVAZ.\nObjeto: Solicitar la revisión de las órdenes de compra y la carga de las facturas correspondientes.\nInterpretación: Solicitud administrativa interna de facturación; Ricardo se encuentra en copia para seguimiento y conocimiento.",
@@ -109,12 +122,12 @@
     "description": "Alonso Samperio envía a Ricardo Carmona y equipo el reporte de consumo de agua semanal en las EDS (29 de junio al 6 de julio).\nObjeto: Informe Semanal de Consumo de Agua (BALANCE DE AGUA).\nInterpretación: Reporte operativo periódico; requiere revisión de resultados y seguimiento de correcciones indicadas.",
     "source": "Correo: Alonso Samperio (Teamwork)",
     "owner": "Ricardo",
-    "status": "notsure",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-10T19:57:00.000Z",
     "createdAt": "2026-07-10T20:01:44.251Z",
-    "updatedAt": "2026-07-10T20:01:44.252Z"
+    "updatedAt": "2026-07-11T00:16:33.549Z"
   },
   {
     "id": "email-5200",
@@ -122,12 +135,12 @@
     "description": "Alonso Samperio comparte con Ricardo Carmona y equipo el reporte semanal de monitoreo de consumo eléctrico de las EDS (29 junio al 6 de julio).\nObjeto: Informe Semanal de Balance de Energía Eléctrica (BALANCE DE ENERGIA ELECTRICA).\nInterpretación: Reporte operativo de rutina; se debe analizar para control y eficiencia energética en las estaciones.",
     "source": "Correo: Alonso Samperio (Teamwork)",
     "owner": "Ricardo",
-    "status": "notsure",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-10T19:56:00.000Z",
     "createdAt": "2026-07-10T20:01:44.252Z",
-    "updatedAt": "2026-07-10T20:01:44.252Z"
+    "updatedAt": "2026-07-11T00:16:33.549Z"
   },
   {
     "id": "email-5199",
@@ -135,12 +148,12 @@
     "description": "Alonso Samperio notifica a Ricardo Carmona y equipo sobre el balance de gas semanal (29 de junio al 6 de julio), destacando desbalances en MAL y CEC.\nObjeto: Informe Semanal de Balance de Gas (BALANCE DE GAS).\nInterpretación: Reporte técnico operativo; requiere seguimiento con Engie u otros proveedores para la revisión de mediciones.",
     "source": "Correo: Alonso Samperio (Teamwork)",
     "owner": "Ricardo",
-    "status": "notsure",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-10T19:55:00.000Z",
     "createdAt": "2026-07-10T20:01:44.252Z",
-    "updatedAt": "2026-07-10T20:01:44.252Z"
+    "updatedAt": "2026-07-11T00:16:33.549Z"
   },
   {
     "id": "email-5198",
@@ -12823,12 +12836,12 @@
     "description": "Alonso Samperio comparte el reporte semanal del balance de gas (15 al 22 de junio), identificando desbalances como +2.37% en CEC.\nObjeto: Identificar desviaciones en el despacho de gas natural.\nInterpretación: Reporte operativo técnico; el equipo debe dar seguimiento con Engie sobre las correcciones de medición.",
     "source": "Correo: Alonso Samperio (Teamwork)",
     "owner": "Ricardo",
-    "status": "seguimiento",
+    "status": "archivado",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-03T22:53:00.000Z",
     "createdAt": "2026-07-04T21:01:15.446Z",
-    "updatedAt": "2026-07-04T21:01:15.446Z"
+    "updatedAt": "2026-07-11T00:16:33.549Z"
   },
   {
     "id": "5016",
