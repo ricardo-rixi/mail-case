@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5207-1783728052176",
+    "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
+    "description": "Mariana Hernández comparte con Julio Rojas (y equipo) la relación de las órdenes de compra del consumo de gas de DIAVAZ.\nObjeto: Solicitar la revisión de las órdenes de compra y la carga de las facturas correspondientes.\nInterpretación: Solicitud administrativa interna de facturación; Ricardo se encuentra en copia para seguimiento y conocimiento.",
+    "source": "Correo: Mariana Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T22:07:00.000Z",
+    "createdAt": "2026-07-11T00:00:52.175Z",
+    "updatedAt": "2026-07-11T00:00:52.175Z"
+  },
+  {
+    "id": "email-5208-1783728052177",
+    "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
+    "description": "Julio Rojas confirma a Mariana Hernández y al equipo que las facturas de DIAVAZ ya se encuentran registradas en el portal.\nObjeto: Notificar el cumplimiento de la carga de facturas para proceder con su gestión y pago.\nInterpretación: Confirmación de avance administrativo; no requiere acción operativa directa de Ricardo, solo seguimiento.",
+    "source": "Correo: Julio Cesar Rojas Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-10T22:19:00.000Z",
+    "createdAt": "2026-07-11T00:00:52.175Z",
+    "updatedAt": "2026-07-11T00:00:52.175Z"
+  },
+  {
     "id": "email-5206",
     "title": "FW: Episodio 3 | Ciberseguridad Práctica en Entornos Industriales",
     "description": "Fortinet envía a Ricardo Carmona el tercer episodio de su serie técnica sobre ciberseguridad práctica en entornos industriales.\nObjeto: Promover soluciones de ciberseguridad y acceso seguro para proveedores en redes OT.\nInterpretación: Correo informativo y promocional; no requiere ninguna acción operativa directa por parte del negocio.",
