@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5211",
+    "title": "FW: Autodesk Fusion Hub \"Team Natgas\" [Hub ID: natgas1] Inactivity Reminder",
+    "description": "Autodesk (noreply@autodesk.com) envía a Ricardo Carmona un aviso automático de inactividad del Fusion Hub 'Team Natgas'.\nObjeto: Notificar que el hub dejará de ser accesible a partir del 26 de julio de 2026 por falta de uso.\nInterpretación: Alerta de mantenimiento de cuenta corporativa; requiere ingresar al sistema si se desea conservar el acceso.",
+    "source": "Correo: Autodesk",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T17:53:11.000Z",
+    "createdAt": "2026-07-11T18:00:57.066Z",
+    "updatedAt": "2026-07-11T18:00:57.067Z"
+  },
+  {
     "id": "email-5210-202607111559",
     "title": "FW: PREPÁRATE PARA LAS NUEVAS VERIFICACIONES CON NUESTRA AUDITORÍA INTEGRAL¡",
     "description": "Besco (Karla Sánchez) envía a Ricardo Carmona una propuesta comercial para contratar una Auditoría Normativa Integral.\nObjeto: Ofrecer servicios preventivos para evitar sanciones de autoridades (SAT, ASEA, CRE, PROFECO).\nInterpretación: Correo promocional externo; no requiere acción operativa inmediata, quedando a discreción de Ricardo su revisión.",
