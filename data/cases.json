@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5212",
+    "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
+    "description": "Lesdy Garcia Castillo (Contabilidad) solicita al equipo registrar las facturas de DIAVAZ de la 1er quincena de junio antes de fin de mes.\nObjeto: Asegurar el registro de facturas para no afectar el cierre contable.\nInterpretación: Seguimiento administrativo y contable interno; Julio Rojas ya confirmó el registro. Ricardo está en copia para conocimiento.",
+    "source": "Correo: Lesdy Amidy Garcia Castillo",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T19:48:02.000Z",
+    "createdAt": "2026-07-11T20:00:43.637Z",
+    "updatedAt": "2026-07-11T20:00:43.638Z"
+  },
+  {
     "id": "email-5211",
     "title": "FW: Autodesk Fusion Hub \"Team Natgas\" [Hub ID: natgas1] Inactivity Reminder",
     "description": "Autodesk (noreply@autodesk.com) envía a Ricardo Carmona un aviso automático de inactividad del Fusion Hub 'Team Natgas'.\nObjeto: Notificar que el hub dejará de ser accesible a partir del 26 de julio de 2026 por falta de uso.\nInterpretación: Alerta de mantenimiento de cuenta corporativa; requiere ingresar al sistema si se desea conservar el acceso.",
