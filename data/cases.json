@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-3821",
+    "title": "Notificaciones para ti: 4 notificaciones nuevas",
+    "description": "Facebook notifica a Arjimiro (Ricardo) sobre 4 nuevas notificaciones en la plataforma.\nObjeto: Actualizaciones de amigos y actividad reciente.\nInterpretación: Alerta automática de red social; no requiere atención operativa del negocio.",
+    "source": "Correo: Facebook",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-07-05T03:45:00.000Z",
+    "createdAt": "2026-07-11T04:02:15.830Z",
+    "updatedAt": "2026-07-11T04:02:15.832Z"
+  },
+  {
+    "id": "email-3819",
+    "title": "Este es tu código de Canva: 411394",
+    "description": "Canva envía a Ricardo un código de autenticación (OTP) para inicio de sesión.\nObjeto: Proveer código temporal de acceso seguro a la cuenta.\nInterpretación: Correo transaccional de seguridad; descartar si el acceso ya se completó o no fue solicitado.",
+    "source": "Correo: Canva",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-07-02T04:58:00.000Z",
+    "createdAt": "2026-07-11T04:02:15.832Z",
+    "updatedAt": "2026-07-11T04:02:15.832Z"
+  },
+  {
     "id": "email-5209",
     "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica",
     "description": "Enrique Taracena solicita a Luis Carvajal y Héctor Ramírez una explicación sobre el sobrecosto de $211,000 en el consumo eléctrico de mayo en 9 estaciones.\nObjeto: Dar seguimiento al incremento significativo en costos operativos de electricidad.\nInterpretación: Requerimiento ejecutivo urgente sobre control de costos; Ricardo está en copia para su conocimiento.",
