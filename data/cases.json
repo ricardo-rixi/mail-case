@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5213",
+    "title": "2 años por solo 19,90 €",
+    "description": "La Vanguardia ofrece a Ricardo una suscripción promocional de dos años con acceso al contenido web y descuentos.\nObjeto: Oferta comercial de suscripción.\nInterpretación: Correo publicitario directo; no requiere atención y debe ser archivado.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-12T05:11:00.000Z",
+    "createdAt": "2026-07-12T20:00:48.340318Z",
+    "updatedAt": "2026-07-12T20:00:48.340397Z"
+  },
+  {
+    "id": "email-5212",
+    "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
+    "description": "Lesdy Garcia solicita al equipo que las facturas de la primera quincena de Diavaz queden registradas antes de fin de mes para el cierre, y Julio Rojas confirma que ya están en el portal.\nObjeto: Confirmación de registro de facturas.\nInterpretación: Seguimiento contable interno completado; Ricardo está copiado para conocimiento.",
+    "source": "Correo: Lesdy Amidy Garcia Castillo",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T19:48:00.000Z",
+    "createdAt": "2026-07-12T20:00:48.340421Z",
+    "updatedAt": "2026-07-12T20:00:48.340435Z"
+  },
+  {
+    "id": "email-5211",
+    "title": "FW: Autodesk Fusion Hub \"Team Natgas\" Inactivity Reminder",
+    "description": "Autodesk notifica a Ricardo que el hub 'Team Natgas' será inaccesible a partir del 26 de julio de 2026 por inactividad.\nObjeto: Alerta de inactividad de plataforma.\nInterpretación: Alerta de sistema; requiere iniciar sesión en Autodesk si se desea mantener activo el espacio.",
+    "source": "Correo: Autodesk",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T17:53:00.000Z",
+    "createdAt": "2026-07-12T20:00:48.340451Z",
+    "updatedAt": "2026-07-12T20:00:48.340465Z"
+  },
+  {
     "id": "email-5188-1783875680938",
     "title": "FW: Relación volumétrica junio 2026 ",
     "description": "Remitente Ricardo Andrés Carmona Marcano envía a Ricardo información relacionada con: FW: Relación volumétrica junio 2026 .\nObjeto: FW: Relación volumétrica junio 2026 \nInterpretación: Correo informativo o de seguimiento general que requiere clasificación y revisión.",
