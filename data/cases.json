@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5212-1781234567800",
+    "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
+    "description": "Julio Cesar Rojas reporta que las facturas de la 1er quincena de Diavaz ya están registradas en el portal. Lesdy Garcia solicita confirmar los registros.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T19:48:00.000Z",
+    "createdAt": "2026-07-12T02:05:00.000Z",
+    "updatedAt": "2026-07-12T02:05:00.000Z"
+  },
+  {
+    "id": "email-5211-1781234567801",
+    "title": "FW: Autodesk Fusion Hub \"Team Natgas\" [Hub ID: natgas1] Inactivity Reminder",
+    "description": "Autodesk notifica inactividad del hub Fusion \"Team Natgas\". El acceso se perderá a partir del 26 de julio de 2026 si no se toman medidas.",
+    "source": "Correo: Autodesk",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T17:53:00.000Z",
+    "createdAt": "2026-07-12T02:05:00.000Z",
+    "updatedAt": "2026-07-12T02:05:00.000Z"
+  },
+  {
+    "id": "email-5210-1781234567802",
+    "title": "FW: PREPÁRATE PARA LAS NUEVAS VERIFICACIONES CON NUESTRA AUDITORÍA INTEGRAL¡",
+    "description": "Grupo Besco Capacitación ofrece auditoría normativa especializada para preparar las Estaciones de Servicio contra verificaciones de ASEA/CRE.",
+    "source": "Correo: Grupo Besco Capacitación",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T15:59:00.000Z",
+    "createdAt": "2026-07-12T02:05:00.000Z",
+    "updatedAt": "2026-07-12T02:05:00.000Z"
+  },
+  {
+    "id": "email-5209-1781234567803",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica",
+    "description": "Enrique Taracena solicita respuesta urgente por un sobrecosto en energía eléctrica de ~$211,000 en el mes de mayo y pide acciones correctivas.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-11T00:00:00.000Z",
+    "createdAt": "2026-07-12T02:05:00.000Z",
+    "updatedAt": "2026-07-12T02:05:00.000Z"
+  },
+  {
     "id": "email-3817",
     "title": "Notificaciones para ti: 4 notificaciones nuevas",
     "description": "Facebook envía notificaciones de actividad social a Arjimiro Rixi (Ricardo).\nObjeto: Alerta automática de redes sociales.\nInterpretación: Notificación personal automatizada; sin relevancia operativa para el negocio.",
