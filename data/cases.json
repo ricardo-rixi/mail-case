@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5213",
+    "title": "2 años por solo 19,90 €",
+    "description": "La Vanguardia ofrece a Ricardo una suscripción promocional por 2 años a 19,90 €.\nObjeto: Promoción comercial de suscripción digital.\nInterpretación: Correo publicitario externo; no requiere acción operativa directa.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-12T05:11:00.000Z",
+    "createdAt": "2026-07-12T13:05:00.000Z",
+    "updatedAt": "2026-07-12T13:05:00.000Z"
+  },
+  {
     "id": "email-5212-1781234567800",
     "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
     "description": "Julio Cesar Rojas reporta que las facturas de la 1er quincena de Diavaz ya están registradas en el portal. Lesdy Garcia solicita confirmar los registros.",
