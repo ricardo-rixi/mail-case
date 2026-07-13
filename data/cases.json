@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5228-1783962420000",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica (BALANCE DE ENERGIA ELECTRICA)",
+    "description": "Héctor Fabio Ramírez responde a Luis Carvajal y Enrique Taracena detallando las revisiones técnicas en diversas EDS (Mty, León, CRR, SJR, JMC) para identificar la causa del sobrecosto eléctrico, incluyendo el hallazgo de una válvula bloqueada en JMC.\nObjeto: Informar avances sobre la investigación del sobreconsumo de energía.\nInterpretación: Seguimiento operativo interno ante una solicitud directiva; Ricardo está copiado para conocimiento del avance.",
+    "source": "Correo: Héctor Fabio Ramirez Muñoz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T17:07:00.000Z",
+    "createdAt": "2026-07-13T18:01:02.484095Z",
+    "updatedAt": "2026-07-13T18:01:02.484174Z"
+  },
+  {
+    "id": "email-5227-1783962180000",
+    "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
+    "description": "Sergio Landeros solicita apoyo a Alonso Samperio para revisar el tablero inteligente de la EDS JMC tras registrar diferencias negativas del -2.9% y -3.85% en las lecturas del 11 y 12 de julio.\nObjeto: Requerir validación por desbalance en medición de gas.\nInterpretación: Solicitud de soporte operativo para control de inventarios; Ricardo está en copia para su conocimiento.",
+    "source": "Correo: Sergio Alberto Landeros Guerrero",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T17:03:00.000Z",
+    "createdAt": "2026-07-13T18:01:02.484182Z",
+    "updatedAt": "2026-07-13T18:01:02.484185Z"
+  },
+  {
     "id": "email-5226-1783962072000",
     "title": "FW: 27909.Factura por autorizar",
     "description": "Cuentas Por Pagar envía una factura de PASE (recargas de peaje IDMX) por un total de $700.00 MXN para su revisión y autorización en el portal de proveedores.\nObjeto: Revisar y autorizar pago.\nInterpretación: Trámite administrativo rutinario en portal.",
