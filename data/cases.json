@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5230",
+    "title": "FW: Kick-off Proyecto Arco 57 - Etapa de definición y evaluación de alternativas de implementación",
+    "description": "Luis Carvajal comparte con el equipo directivo y operativo su análisis de volúmenes de venta para el proyecto Arco 57.\nObjeto: Entregar la estimación de volúmenes para los escenarios del proyecto.\nInterpretación: Avance operativo de proyecto estratégico; Ricardo está copiado para alinear la ingeniería.",
+    "source": "Correo: Luis Alberto Carvajal Quintero",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T18:58:00.000Z",
+    "createdAt": "2026-07-13T21:00:38.472Z",
+    "updatedAt": "2026-07-13T21:00:38.473Z"
+  },
+  {
+    "id": "email-5229",
+    "title": "FW: ¿Y si nunca fue falta de esfuerzo?",
+    "description": "Dani de Terapify envía un boletín informativo por el Día Internacional del TDAH.\nObjeto: Compartir contenido de concientización y promoción de servicios psicológicos.\nInterpretación: Boletín personal/informativo, sin relevancia operativa para Natgas.",
+    "source": "Correo: Dani de Terapify",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T18:09:00.000Z",
+    "createdAt": "2026-07-13T21:00:38.473Z",
+    "updatedAt": "2026-07-13T21:00:38.473Z"
+  },
+  {
     "id": "email-5235-1783934379000",
     "title": "FW: OC3048176 - TELEMETRIA EDS CEC",
     "description": "Diego Monti (AC-KIA) solicita a Ana Paola Hernández la generación de dos Entradas de Materiales (EM) para poder cargar y cobrar las facturas de telemetría de la estación CEC.\nObjeto: Regularizar facturación pendiente de telemetría.\nInterpretación: Trámite administrativo de facturación; Ricardo está en copia para seguimiento del servicio.",
