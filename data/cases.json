@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5304",
+    "title": "FW: NXTVIEW Factura (Ref 13965)",
+    "description": "Alonso Samperio consulta a David Reséndiz sobre posibles tareas pendientes por parte del equipo relacionadas con tres procesos del proveedor NXTVIEW.\nObjeto: Confirmar si existen acciones pendientes para avanzar con el trámite de la factura.\nInterpretación: Seguimiento administrativo interno para verificar el estado de los procesos y desbloquear el pago.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T21:27:00.000Z",
+    "createdAt": "2026-07-14T22:00:48.374Z",
+    "updatedAt": "2026-07-14T22:00:48.374Z"
+  },
+  {
+    "id": "email-5305",
+    "title": "FW: NXTVIEW Factura (Ref 13965)",
+    "description": "David Reséndiz responde a Alonso Samperio solicitando apoyo para generar la Entrada de Materiales (EM) correspondiente al servicio de NXTVIEW.\nObjeto: Solicitar la creación de la EM indispensable para registrar la factura en el portal y programar su pago.\nInterpretación: Requerimiento administrativo directo al equipo técnico para completar el ciclo de compras y permitir el pago al proveedor.",
+    "source": "Correo: David Resendiz Rojo",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T21:40:00.000Z",
+    "createdAt": "2026-07-14T22:00:48.374Z",
+    "updatedAt": "2026-07-14T22:00:48.374Z"
+  },
+  {
     "id": "email-5303",
     "title": "FW: NXTVIEW Factura (Ref 13965)",
     "description": "Valeria Yáñez solicita a Alonso y David la SOC y OC para poder procesar el pago de la factura de NXTVIEW.\nObjeto: Requerir documentación del proceso de compras (SOC/OC) previo al pago.\nInterpretación: Freno administrativo por parte de Finanzas; requiere que el equipo operativo complete el trámite de compras para avanzar.",
