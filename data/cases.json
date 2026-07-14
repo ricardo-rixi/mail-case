@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5288-1784048455338",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Comunicación Interna (Humand) invita a Ricardo y colaboradores a participar en las próximas reforestaciones en Querétaro registrándose con Juan Carlos Pineda.\nObjeto: Invitación a evento de voluntariado corporativo.\nInterpretación: Correo informativo de Recursos Humanos; no requiere acción operativa directa, registro opcional.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T16:22:00.000Z",
+    "createdAt": "2026-07-14T17:05:00.000Z",
+    "updatedAt": "2026-07-14T17:05:00.000Z"
+  },
+  {
+    "id": "email-5287-1784048455337",
+    "title": "FW: Nominación - Gascorp Natgas CRR",
+    "description": "Alonso Samperio entrega a Hannia Baca y equipo de Gascorp la nominación de consumo para el mes de agosto de 2026 en el formato requerido.\nObjeto: Entrega de estimación de nominaciones de gas para agosto.\nInterpretación: Trámite operativo y comercial completado por el equipo; Ricardo está en copia para conocimiento de los volúmenes solicitados.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T16:17:00.000Z",
+    "createdAt": "2026-07-14T17:05:00.000Z",
+    "updatedAt": "2026-07-14T17:05:00.000Z"
+  },
+  {
+    "id": "email-5286-1784048455336",
+    "title": "FW: Nominación - Gascorp Natgas CRR",
+    "description": "Hannia Baca de Gascorp se presenta ante Alonso y Ricardo como su nueva Scheduler y comparte el formato oficial para envío de estimaciones de consumo.\nObjeto: Presentación de Scheduler y entrega de formato para nominación mensual de gas.\nInterpretación: Coordinación operativa con la nueva comercializadora; requiere que el equipo adopte el nuevo formato de estimaciones.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T16:08:00.000Z",
+    "createdAt": "2026-07-14T17:05:00.000Z",
+    "updatedAt": "2026-07-14T17:05:00.000Z"
+  },
+  {
+    "id": "email-5285-1784048455335",
+    "title": "FW: Sitio incomunicado 109180255593_heroes_de_nacozari",
+    "description": "Héctor Hernández informa a Enrique Esquivel (Grupo NXT) que el equipo en Héroes de Nacozari estaba pasmado y se procedió a darle un reinicio desconectándolo.\nObjeto: Reportar ejecución de reinicio físico como acción correctiva en sitio.\nInterpretación: Avance en soporte técnico operativo; se debe esperar validación de comunicación tras el reinicio.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T16:00:00.000Z",
+    "createdAt": "2026-07-14T17:05:00.000Z",
+    "updatedAt": "2026-07-14T17:05:00.000Z"
+  },
+  {
     "id": "email-5284-1781445665882",
     "title": "FW: SEGUIMIENTO: Revisión de la medición Estación Natgas Malecón - BS20170805GNS",
     "description": "Abraham Benegasi confirma a Alonso Samperio la gestión con la Distribuidora para revisar la medición en Estación Natgas Malecón.\nObjeto: Dar seguimiento a la solicitud de inspección por desbalance de gas superior al -2%.\nInterpretación: Confirmación de trámite externo; el proveedor atenderá la solicitud, Ricardo está en copia para seguimiento.",
