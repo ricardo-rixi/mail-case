@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5258",
+    "title": "FW: Facturas consumo ENGIE JUNIO",
+    "description": "Lluvia Hernández confirma a Julio Rojas que la información de las facturas de consumo de Engie correspondientes al mes de junio ha sido cargada.\nObjeto: Confirmación de carga de facturas de gas.\nInterpretación: Avance administrativo y operativo; Ricardo es notificado para su conocimiento del estado de pago a proveedores.",
+    "source": "Correo: Lluvia Iridianne Hernández Molina",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T21:48:08.000Z",
+    "createdAt": "2026-07-14T04:01:12.585Z",
+    "updatedAt": "2026-07-14T04:01:12.585Z"
+  },
+  {
+    "id": "email-5257",
+    "title": "FW: Relación volumétrica junio 2026 ",
+    "description": "Lluvia Hernández confirma a Alonso Samperio que se cargaron exitosamente los valores de la relación volumétrica de junio de 2026 en el sistema.\nObjeto: Confirmación de carga de relación volumétrica mensual.\nInterpretación: Confirmación operativa interna sobre el registro de indicadores técnicos mensuales.",
+    "source": "Correo: Lluvia Iridianne Hernández Molina",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T21:47:42.000Z",
+    "createdAt": "2026-07-14T04:01:12.585Z",
+    "updatedAt": "2026-07-14T04:01:12.585Z"
+  },
+  {
+    "id": "email-5256",
+    "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
+    "description": "Lluvia Hernández confirma al equipo que se cargó la información de las facturas correspondientes a la primera quincena de junio para Diavaz.\nObjeto: Confirmación de carga de facturas de Diavaz.\nInterpretación: Confirmación administrativa interna; sirve de cierre para las solicitudes previas del equipo contable.",
+    "source": "Correo: Lluvia Iridianne Hernández Molina",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T20:38:07.000Z",
+    "createdAt": "2026-07-14T04:01:12.585Z",
+    "updatedAt": "2026-07-14T04:01:12.585Z"
+  },
+  {
+    "id": "email-5255",
+    "title": "FW: DIAVAZ - NATURGY JUNIO",
+    "description": "Lluvia Hernández confirma a Julio Rojas y equipo que se cargó la información de las facturas de consumo de Naturgy y Diavaz correspondientes a junio.\nObjeto: Confirmación de carga de facturas.\nInterpretación: Confirmación administrativa interna; no requiere acción adicional de Ricardo.",
+    "source": "Correo: Lluvia Iridianne Hernández Molina",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-13T20:22:11.000Z",
+    "createdAt": "2026-07-14T04:01:12.585Z",
+    "updatedAt": "2026-07-14T04:01:12.585Z"
+  },
+  {
     "id": "email-5238",
     "title": "FW: Visita Técnica - Palo Alto, Fijas con PEPSICO (horario por Definir)",
     "description": "José Enrique Taracena acepta la invitación a la Visita Técnica con PEPSICO programada para el miércoles 5 de agosto de 2026 vía Teams.\nObjeto: Confirmación de asistencia a reunión.\nInterpretación: Evento de agenda aceptado; Ricardo debe tener en cuenta la participación de Enrique.",
