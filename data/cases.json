@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5261",
+    "title": "FW: 💳 Richest kids in college football",
+    "description": "Bleacher Report envía a Ricardo su boletín deportivo con noticias de béisbol, NFL y los deportistas con mayores ganancias NIL en el fútbol americano colegial.\nObjeto: Compartir resumen de noticias y resultados deportivos.\nInterpretación: Boletín recreativo e informativo personal; no requiere atención operativa ni seguimiento de negocio.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T12:03:00.000Z",
+    "createdAt": "2026-07-14T13:01:00.000Z",
+    "updatedAt": "2026-07-14T13:01:00.000Z"
+  },
+  {
+    "id": "email-5260",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Michael Burnside de PepsiCo informa a Ricardo que espera tener noticias hoy sobre el NDA y propone una visita presencial a las instalaciones de Querétaro para el 5 de agosto.\nObjeto: Solicitar confirmación para visita a la estación y enviar actualización del NDA.\nInterpretación: Correo de gran relevancia comercial; requiere confirmación de la visita y mantener el seguimiento con el equipo para la firma del acuerdo.",
+    "source": "Correo: Michael Burnside (PepsiCo)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": "2026-08-05T00:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T09:12:00.000Z",
+    "createdAt": "2026-07-14T13:01:00.000Z",
+    "updatedAt": "2026-07-14T13:01:00.000Z"
+  },
+  {
+    "id": "email-5259",
+    "title": "Más tiempo, menos precio",
+    "description": "La Vanguardia envía a Ricardo una oferta para suscribirse a su medio por 19,90 € durante dos años, con acceso a beneficios del Club Vanguardia.\nObjeto: Promoción comercial de suscripción digital.\nInterpretación: Correo publicitario externo; sin relevancia operativa para el negocio, se puede archivar o descartar.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T08:03:00.000Z",
+    "createdAt": "2026-07-14T13:01:00.000Z",
+    "updatedAt": "2026-07-14T13:01:00.000Z"
+  },
+  {
     "id": "email-5258",
     "title": "FW: Facturas consumo ENGIE JUNIO",
     "description": "Lluvia Hernández confirma a Julio Rojas que la información de las facturas de consumo de Engie correspondientes al mes de junio ha sido cargada.\nObjeto: Confirmación de carga de facturas de gas.\nInterpretación: Avance administrativo y operativo; Ricardo es notificado para su conocimiento del estado de pago a proveedores.",
