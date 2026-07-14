@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5303",
+    "title": "FW: NXTVIEW Factura (Ref 13965)",
+    "description": "Valeria Yáñez solicita a Alonso y David la SOC y OC para poder procesar el pago de la factura de NXTVIEW.\nObjeto: Requerir documentación del proceso de compras (SOC/OC) previo al pago.\nInterpretación: Freno administrativo por parte de Finanzas; requiere que el equipo operativo complete el trámite de compras para avanzar.",
+    "source": "Correo: Valeria Yanez de la Barrera",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T20:02:13.000Z",
+    "createdAt": "2026-07-14T21:00:00.000Z",
+    "updatedAt": "2026-07-14T21:00:00.000Z"
+  },
+  {
     "id": "email-5302-1784059358229",
     "title": "FW: OC3049433 - SERVICIO DE COMUNICACIÓN CONSUMO ELECTRICO",
     "description": "El remitente comparte la orden de compra sobre el servicio de comunicación de consumo eléctrico.\nObjeto: Notificar la orden de compra para validación o seguimiento.\nInterpretación: Documento administrativo; Ricardo debe revisar o resguardar para el control de gastos.",
