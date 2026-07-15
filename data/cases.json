@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5263-1784047205",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Tuesday 14 Jul 2026)",
+    "description": "El sistema Teamwork envía a Ricardo Carmona el resumen automatizado de tareas pendientes y vencidas en proyectos activos como Colón MTY y Descompresión.\nObjeto: Proveer estatus diario sobre el avance de las actividades asignadas al usuario y a su equipo.\nInterpretación: Reporte informativo del sistema; el usuario debe revisarlo para dar seguimiento interno.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T14:00:05.000Z",
+    "createdAt": "2026-07-15T04:01:32.123Z",
+    "updatedAt": "2026-07-15T04:01:32.123Z"
+  },
+  {
+    "id": "email-5264-1784047348",
+    "title": "FW: Conflicto AMX en operaciones",
+    "description": "Daniela Arevalo (Gold Data) contacta a Ricardo Carmona advirtiendo sobre conflictos de interés con AMX y ofreciendo su infraestructura neutral de conectividad.\nObjeto: Promoción comercial de servicios de telecomunicaciones para operaciones de campo.\nInterpretación: Correo de ventas en frío; no requiere respuesta inmediata ni acción técnica urgente.",
+    "source": "Correo: Partnerships Gold Data",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T14:02:28.000Z",
+    "createdAt": "2026-07-15T04:01:32.122Z",
+    "updatedAt": "2026-07-15T04:01:32.123Z"
+  },
+  {
     "id": "email-5311-20260715",
     "title": "FW: Haz que tu próximo evento sea inolvidable en La Mariskeña",
     "description": "LA MARISKEÑA envía a Ricardo una promoción comercial detallando opciones y espacios para eventos corporativos o sociales.\nObjeto: Ofrecer servicios de banquetería y reserva de espacios en sus sucursales de León, Guanajuato.\nInterpretación: Correo publicitario masivo; no requiere atención ni acción operativa directa, se recomienda ignorar o archivar.",
