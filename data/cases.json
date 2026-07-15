@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5309",
+    "title": "FW: (COM - COMERCIALIZACIÓN) Re: Tarea: Requisitos Iniciales (SOLICITUD DE PERMISO)",
+    "description": "Sandra Castro informa en Teamwork que se ingresó a la CNE la respuesta a la prevención sobre el permiso de Comercialización, con resolución esperada el 13 de agosto.\nObjeto: Notificar el cumplimiento de los requerimientos técnicos de la CNE.\nInterpretación: Avance regulatorio clave completado; el permiso entra en fase final de revisión.",
+    "source": "Correo: Sandra Castro (Teamwork)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T00:03:00.000Z",
+    "createdAt": "2026-07-15T01:00:42.471Z",
+    "updatedAt": "2026-07-15T01:00:42.471Z"
+  },
+  {
+    "id": "email-5310",
+    "title": "FW: PepsiCo Mexico CNG - Risk Assessment",
+    "description": "Ayton Salas envía a Ricardo el documento de Análisis de Riesgos requerido por PepsiCo.\nObjeto: Entregar la evaluación de riesgos solicitada para avanzar con el proceso comercial.\nInterpretación: Cumplimiento del requisito documental de PepsiCo para habilitar la visita y continuar el desarrollo del proyecto de GNC móvil.",
+    "source": "Correo: Ayton Alberto Salas Pagan",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T00:55:00.000Z",
+    "createdAt": "2026-07-15T01:00:42.470Z",
+    "updatedAt": "2026-07-15T01:00:42.471Z"
+  },
+  {
     "id": "email-5267",
     "title": "FW: Notificación NATGAS - carta notificación de terminación",
     "description": "Aleida Martinez (ENGIE) confirma a Ricardo y equipo que la fecha de baja del servicio será el 31 de julio y la factura finiquito se emitirá en agosto.\nObjeto: Confirmación de terminación de contrato.\nInterpretación: Cierre formal de relación comercial por falta de competitividad tarifaria.",
