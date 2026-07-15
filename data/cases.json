@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5265-1781200000001",
+    "title": "FW: Account Reminder: Upcoming Balance Due - INV00102453",
+    "description": "Luisa Ayala (UpKeep Technology) recuerda a Ricardo y equipo sobre el próximo vencimiento de una factura.\nObjeto: Recordatorio de pago de la factura INV00102453 por $1,450.00 con vencimiento el 20 de julio de 2026.\nInterpretación: Notificación administrativa y de cobranza; requiere coordinar el pago con el área de finanzas.",
+    "source": "Correo: Billing Email-To-Case (UpKeep)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": "2026-07-20T23:59:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T14:05:01.000Z",
+    "createdAt": "2026-07-15T14:00:00.000Z",
+    "updatedAt": "2026-07-15T14:00:00.000Z"
+  },
+  {
+    "id": "email-5266-1781200000002",
+    "title": "FW: Horizons Live invitation - Why US Henry Hub natural gas prices are set to rise?",
+    "description": "Wood Mackenzie invita a Ricardo a su seminario web Horizons Live.\nObjeto: Discutir las razones por las que los precios del gas natural en EE. UU. (Henry Hub) subirán.\nInterpretación: Invitación a evento informativo/comercial; no requiere acción operativa, solo si el usuario desea asistir.",
+    "source": "Correo: Wood Mackenzie",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-14T14:33:04.000Z",
+    "createdAt": "2026-07-15T14:00:00.000Z",
+    "updatedAt": "2026-07-15T14:00:00.000Z"
+  },
+  {
+    "id": "email-5317-1781200000003",
+    "title": "FW: Cinco pasos que te permitirán crear agentes de datos listos para producción",
+    "description": "Google Cloud comparte con Ricardo una guía para desarrolladores sobre agentes de datos.\nObjeto: Ofrecer un framework de cinco pasos para pasar del concepto a la producción con agentes personalizados.\nInterpretación: Boletín informativo y promocional de herramientas de Google; no requiere acción operativa.",
+    "source": "Correo: Google Cloud",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T13:08:22.000Z",
+    "createdAt": "2026-07-15T14:00:00.000Z",
+    "updatedAt": "2026-07-15T14:00:00.000Z"
+  },
+  {
+    "id": "email-5318-1781200000004",
+    "title": "FW: Moderniza tus flujos de trabajo y potencia a tu equipo. ¡Acompáñanos en AU 2026!",
+    "description": "AU 2026 (Autodesk) invita a Ricardo a su conferencia Design & Make.\nObjeto: Promocionar la asistencia a la conferencia sobre innovación en flujos de trabajo con herramientas de Autodesk.\nInterpretación: Invitación comercial a evento; no requiere acción operativa inmediata.",
+    "source": "Correo: AU 2026: The Design & Make Conference",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T13:07:51.000Z",
+    "createdAt": "2026-07-15T14:00:00.000Z",
+    "updatedAt": "2026-07-15T14:00:00.000Z"
+  },
+  {
     "id": "email-5307-1784120460910",
     "title": "FW: Sandra Noemi  Castro Tostado le mencionó en su chat",
     "description": "Who: Ricardo Andrés Carmona Marcano <rcarmona@natgas.com.mx>\nWhat: FW: Sandra Noemi  Castro Tostado le mencionó en su chat\nWhom: Ricardo Carmona\nObject: Correo entrante.\nInterpretation: Pendiente de revisar.",
