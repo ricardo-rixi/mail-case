@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5333",
+    "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
+    "description": "Manuel Alejandro Gómez Velazquez solicita a Marlet Chavez y Valeria Yanez la creación de la OC y confirmación de flujo para pagar el anticipo del equipo PRU100.\nObjeto: Ejecutar la compra y el pago del equipo de descompresión para el proyecto VW.\nInterpretación: El equipo técnico y directivo ha dado el visto bueno, ahora se requiere acción de compras y finanzas.",
+    "source": "Correo: Manuel Alejandro Gómez Velazquez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T17:58:00.000Z",
+    "createdAt": "2026-07-15T18:00:00.000Z",
+    "updatedAt": "2026-07-15T18:00:00.000Z"
+  },
+  {
+    "id": "email-5332",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Michael Burnside de PepsiCo solicita a Lilian Gonzalez y Jose Carlos Alba que respondan a las inquietudes operativas de Ricardo Carmona y confirma el avance de la agenda de visita.\nObjeto: Coordinar respuestas operativas y confirmar la visita del 5 de agosto a las instalaciones.\nInterpretación: El cliente avanza con la solicitud de propuesta; requiere seguimiento para la visita y resolución de dudas técnicas.",
+    "source": "Correo: Michael Burnside",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": "2026-08-05T00:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T17:17:00.000Z",
+    "createdAt": "2026-07-15T18:00:00.000Z",
+    "updatedAt": "2026-07-15T18:00:00.000Z"
+  },
+  {
+    "id": "email-5331",
+    "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
+    "description": "Isaac Eli Reynoso Ortega informa a José Enrique Taracena sobre la instalación de un sistema de telemetría para extraer datos automáticos hacia el sistema Oasis.\nObjeto: Automatizar el registro de ventas del equipo PRU100 en la plataforma de facturación.\nInterpretación: Actualización técnica y de TI sobre el nuevo equipo de descompresión, sin acción inmediata requerida por Ricardo.",
+    "source": "Correo: Isaac Eli Reynoso Ortega",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T17:16:00.000Z",
+    "createdAt": "2026-07-15T18:00:00.000Z",
+    "updatedAt": "2026-07-15T18:00:00.000Z"
+  },
+  {
+    "id": "email-5330",
+    "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
+    "description": "José Enrique Taracena aprueba la solicitud de David Resendiz Rojo para la compra del equipo de descompresión PRU100 al proveedor Servicios Energéticos STAR.\nObjeto: Dar el Visto Bueno directivo para proceder con la adquisición del equipo por USD $70,847.61.\nInterpretación: Aprobación formal del gasto, desencadenando los pasos posteriores de contratación y pago.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T17:03:00.000Z",
+    "createdAt": "2026-07-15T18:00:00.000Z",
+    "updatedAt": "2026-07-15T18:00:00.000Z"
+  },
+  {
     "id": "email-5329",
     "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
     "description": "David Reséndiz solicita al Comité de Compras el Visto Bueno para adquirir el equipo de descompresión PRU100 para el proyecto VW (BIONATGAS).\nObjeto: Aprobar la compra por USD $70,847.61 a Servicios Energéticos STAR.\nInterpretación: Solicitud de aprobación de compra; Ricardo forma parte del comité y debe revisar/aprobar.",
