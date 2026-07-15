@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5336-1784145650762",
+    "title": "FW: C.V. Ingeniero Mecánico.",
+    "description": "Víctor M. Calderón Vázquez envía su C.V. a Ricardo Carmona para aplicar a una vacante de Ingeniero Mecánico.\nObjeto: Aplicación a vacante de empleo.\nInterpretación: Solicitud de empleo externa; requiere revisión del perfil para considerar en procesos de selección.",
+    "source": "Correo: Víctor M. Calderón Vázquez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T19:04:00.000Z",
+    "createdAt": "2026-07-15T20:00:50.762Z",
+    "updatedAt": "2026-07-15T20:00:50.763Z"
+  },
+  {
+    "id": "email-5335-1784145650764",
+    "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
+    "description": "Manuel Alejandro Gómez confirma a Enrique Taracena y equipo que revisará con contabilidad la devolución del dinero pagado por el equipo a Bionatgas.\nObjeto: Coordinar aspectos contables de la compra de equipo de descompresión.\nInterpretación: Seguimiento administrativo interno; requiere atención del área de finanzas.",
+    "source": "Correo: Manuel Alejandro Gómez Velazquez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T18:37:00.000Z",
+    "createdAt": "2026-07-15T20:00:50.763Z",
+    "updatedAt": "2026-07-15T20:00:50.763Z"
+  },
+  {
+    "id": "email-5334-1784145650765",
+    "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
+    "description": "José Enrique Taracena instruye a Alejandro Gómez cambiar la facturación de la descompresora PRS500 a Natgas en lugar de Bionatgas.\nObjeto: Ajuste en la facturación del pedido del equipo.\nInterpretación: Instrucción ejecutiva interna; requiere acción administrativa para modificar el destinatario de la factura.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T18:00:00.000Z",
+    "createdAt": "2026-07-15T20:00:50.763Z",
+    "updatedAt": "2026-07-15T20:00:50.763Z"
+  },
+  {
     "id": "email-5333",
     "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
     "description": "Manuel Alejandro Gómez Velazquez solicita a Marlet Chavez y Valeria Yanez la creación de la OC y confirmación de flujo para pagar el anticipo del equipo PRU100.\nObjeto: Ejecutar la compra y el pago del equipo de descompresión para el proyecto VW.\nInterpretación: El equipo técnico y directivo ha dado el visto bueno, ahora se requiere acción de compras y finanzas.",
