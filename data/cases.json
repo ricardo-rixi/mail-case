@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5364",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Humand notifica a los colaboradores de Natgas sobre el nuevo Agente Estudio AI de UBITS.\nObjeto: Informar sobre nueva herramienta de tutoría personalizada para el desarrollo profesional.\nInterpretación: Comunicado general corporativo; no requiere acción operativa inmediata, solo conocimiento.",
+    "source": "Correo: Comunicación Interna (Humand)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T20:26:00.000Z",
+    "createdAt": "2026-07-16T21:00:00.000Z",
+    "updatedAt": "2026-07-16T21:00:00.000Z"
+  },
+  {
+    "id": "email-5363",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Axel Domínguez de ENGIE envía a Valeria Yáñez, Alonso Samperio y Ricardo Carmona el cálculo de ajustes por el precio WAHA negativo de junio 2026.\nObjeto: Solicitar validación de los importes para proceder con la emisión de las notas de crédito a favor de las EDS.\nInterpretación: Trámite comercial y contable crítico; requiere revisión técnica y financiera interna para confirmar los montos al proveedor.",
+    "source": "Correo: Axel Oswaldo Domínguez Serrano (ENGIE)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T20:15:00.000Z",
+    "createdAt": "2026-07-16T21:00:00.000Z",
+    "updatedAt": "2026-07-16T21:00:00.000Z"
+  },
+  {
+    "id": "email-5362",
+    "title": "FW: Cotización de calibración y mantenimiento de medidores mecánicos CEC y TPL",
+    "description": "Grupo ISEA (Misael) comparte a Alonso Samperio y Ricardo la cotización para el mantenimiento y calibración de medidores de las estaciones CEC y TPL.\nObjeto: Proveer la propuesta económica solicitada para el servicio a equipos Pietro Fiorentini y Flow Meter Group.\nInterpretación: Avance en proceso de compras y mantenimiento; requiere revisión de la cotización para aprobar y generar la orden de compra.",
+    "source": "Correo: Grupo ISEA",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T20:11:00.000Z",
+    "createdAt": "2026-07-16T21:00:00.000Z",
+    "updatedAt": "2026-07-16T21:00:00.000Z"
+  },
+  {
     "id": "email-5361-1784234000000",
     "title": "FW: Gelsica Berenice Infante Jimenez ha mencionado a Grupo Multidisciplinario",
     "description": "Gelsica Berenice Infante Jimenez menciona a Grupo Multidisciplinario en Teams para informar sobre requerimientos de un proveedor.\nObjeto: Notificación automática de Teams sobre seguimiento a proveedor.\nInterpretación: Revisar el mensaje en el canal de Teams para atender la solicitud requerida.",
