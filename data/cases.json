@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5345-202607161400",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Thursday 16 Jul 2026)",
+    "description": "NATGAS QUERETARO SAPI DE CV Reports envía a Ricardo Carmona el informe automático diario de Teamwork.\nObjeto: Resumir tareas vencidas y pendientes en múltiples proyectos (Colón, Comercialización, Descompresión).\nInterpretación: Notificación automática del sistema de gestión de proyectos para revisión interna.",
+    "source": "Correo: NATGAS QUERETARO SAPI DE CV Reports",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T14:00:06.000Z",
+    "createdAt": "2026-07-16T14:00:00.000Z",
+    "updatedAt": "2026-07-16T14:00:00.000Z"
+  },
+  {
+    "id": "email-5344-202607161350",
+    "title": "FW: Programa: Liderazgo gerencial en mercados energéticos para nuevos modelos de negocio en bioenergía- Econova Valle",
+    "description": "Econova Valle envía a Ricardo Carmona una invitación al programa 'Liderazgo gerencial en mercados energéticos'.\nObjeto: Promocionar programa académico sobre bioenergía y mercados de energía en alianza con Universidad ICESI.\nInterpretación: Correo promocional/educativo; requiere revisión si se desea participar.",
+    "source": "Correo: Econova Valle Cámara de Comercio de Cali",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T13:50:11.000Z",
+    "createdAt": "2026-07-16T14:00:00.000Z",
+    "updatedAt": "2026-07-16T14:00:00.000Z"
+  },
+  {
     "id": "email-5343",
     "title": "FW: 🔮 This World Cup final was destiny",
     "description": "Bleacher Report envía un boletín de noticias y resultados deportivos, reenviado por Ricardo.\nObjeto: Compartir titulares y eventos deportivos destacados.\nInterpretación: Boletín recreativo y personal; irrelevante para la operación del negocio.",
