@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5343",
+    "title": "FW: 🔮 This World Cup final was destiny",
+    "description": "Bleacher Report envía un boletín de noticias y resultados deportivos, reenviado por Ricardo.\nObjeto: Compartir titulares y eventos deportivos destacados.\nInterpretación: Boletín recreativo y personal; irrelevante para la operación del negocio.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T12:03:00.000Z",
+    "createdAt": "2026-07-16T13:00:00.000Z",
+    "updatedAt": "2026-07-16T13:00:00.000Z"
+  },
+  {
+    "id": "email-5342",
+    "title": "De una idea a una comunidad de 1.000 empresas",
+    "description": "La Vanguardia invita a Ricardo a un workshop sobre inteligencia artificial aplicada a PYMEs impartido por Aleix Valls.\nObjeto: Promocionar un taller práctico y de networking sobre IA empresarial.\nInterpretación: Correo promocional y evento comercial; se puede archivar o ignorar si no hay interés en asistir.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T08:02:00.000Z",
+    "createdAt": "2026-07-16T13:00:00.000Z",
+    "updatedAt": "2026-07-16T13:00:00.000Z"
+  },
+  {
     "id": "email-5341",
     "title": "FW: Your Power BI digest: Top picks and favorites",
     "description": "Microsoft Power BI envía un resumen automático a Ricardo con los tableros internos más visitados (Balance de GAS, Ventas vs presupuesto).\nObjeto: Facilitar el acceso rápido a estadísticas y tendencias de la organización.\nInterpretación: Correo automatizado de la plataforma de Business Intelligence; no requiere seguimiento ni acción inmediata.",
