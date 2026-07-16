@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5341",
+    "title": "FW: Your Power BI digest: Top picks and favorites",
+    "description": "Microsoft Power BI envía un resumen automático a Ricardo con los tableros internos más visitados (Balance de GAS, Ventas vs presupuesto).\nObjeto: Facilitar el acceso rápido a estadísticas y tendencias de la organización.\nInterpretación: Correo automatizado de la plataforma de Business Intelligence; no requiere seguimiento ni acción inmediata.",
+    "source": "Correo: Microsoft Power BI",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T02:58:36.000Z",
+    "createdAt": "2026-07-16T04:00:00.000Z",
+    "updatedAt": "2026-07-16T04:00:00.000Z"
+  },
+  {
     "id": "email-5340",
     "title": "FW: CFDI de recibo electrónico de CARMONA MARCANO RICARDO ANDRES periodo 13 Quincenal 2026",
     "description": "Nómina envía a Ricardo su CFDI de recibo electrónico correspondiente a la quincena 13 de 2026.\nObjeto: Entrega de comprobante de nómina.\nInterpretación: Correo administrativo personal; resguardo documental sin acción operativa requerida.",
