@@ -15883,5 +15883,85 @@
     "receivedAt": "2025-09-11T16:24:00.000Z",
     "createdAt": "2026-07-07T04:01:41.712Z",
     "updatedAt": "2026-07-07T04:01:41.712Z"
+  },
+  {
+    "id": "email-3785",
+    "status": "notsure",
+    "description": "Facebook notifica a Ricardo sobre nuevas sugerencias de páginas.\nEs un aviso automático de la red social.",
+    "receivedAt": "2025-05-29 18:39-07:00",
+    "originalSubject": "Tienes 8 sugerencias de página nuevas, incluida Yeiyeisenpai.",
+    "from": "pageupdates@facebookmail.com"
+  },
+  {
+    "id": "email-3784",
+    "status": "notsure",
+    "description": "Google Play notifica a Ricardo sobre la cancelación o el fin próximo de su suscripción a Apple TV.\nEs un aviso automático de facturación/suscripciones.",
+    "receivedAt": "2025-05-28 21:05-07:00",
+    "originalSubject": "\r\nTu suscripción a Apple TV finalizará dentro de 2 días",
+    "from": "googleplay-noreply@google.com"
+  },
+  {
+    "id": "email-3783",
+    "status": "notsure",
+    "description": "El remitente (Canva) notifica a Ricardo sobre \"Diseña y publica sitios web únicos en minutos\".\nSe interpreta como un correo automatizado o de notificación general, sin requerir acción humana directa más allá de la revisión.",
+    "receivedAt": "2025-05-26 18:07+00:00",
+    "originalSubject": "Diseña y publica sitios web únicos en minutos",
+    "from": "marketing@engage.canva.com"
+  },
+  {
+    "id": "email-3782",
+    "status": "notsure",
+    "description": "Google Play notifica a Ricardo sobre la cancelación o el fin próximo de su suscripción a Apple TV.\nEs un aviso automático de facturación/suscripciones.",
+    "receivedAt": "2025-05-23 22:01-07:00",
+    "originalSubject": "Your Apple TV subscription will be canceled",
+    "from": "googleplay-noreply@google.com"
+  },
+  {
+    "id": "email-3781",
+    "status": "notsure",
+    "description": "Google Play envía a Ricardo el recibo de un pedido reciente.\nEs un comprobante de compra generado automáticamente.",
+    "receivedAt": "2025-05-23 21:05-07:00",
+    "originalSubject": "Recibo de tu pedido de Google Play del 23 may 2025",
+    "from": "googleplay-noreply@google.com"
+  },
+  {
+    "id": "email-3780",
+    "status": "notsure",
+    "description": "El remitente (Canva) notifica a Ricardo sobre \"Todos los formatos... ¿Y en un solo diseño? 🤯\".\nSe interpreta como un correo automatizado o de notificación general, sin requerir acción humana directa más allá de la revisión.",
+    "receivedAt": "2025-05-23 15:59+00:00",
+    "originalSubject": "Todos los formatos... ¿Y en un solo diseño? 🤯",
+    "from": "marketing@engage.canva.com"
+  },
+  {
+    "id": "email-3778",
+    "status": "notsure",
+    "description": "Google envía una alerta de seguridad a Ricardo relacionada con su cuenta.\nRequiere revisión para asegurar que no haya accesos no autorizados.",
+    "receivedAt": "2025-05-23 08:55+00:00",
+    "originalSubject": "Alerta de seguridad",
+    "from": "no-reply@accounts.google.com"
+  },
+  {
+    "id": "email-3777",
+    "status": "notsure",
+    "description": "Canva envía a Ricardo contenido de marketing o sugerencias sobre el uso de su plataforma.\nEs publicidad y no requiere acción.",
+    "receivedAt": "2025-05-23 08:54+00:00",
+    "originalSubject": "Your Canva code is 695820",
+    "from": "no-reply@account.canva.com"
+  },
+  {
+    "id": "email-3776",
+    "status": "notsure",
+    "description": "El remitente (Canva) notifica a Ricardo sobre \"¿Quieres editar con mayor precisión?\".\nSe interpreta como un correo automatizado o de notificación general, sin requerir acción humana directa más allá de la revisión.",
+    "receivedAt": "2025-05-23 04:38+00:00",
+    "originalSubject": "¿Quieres editar con mayor precisión?",
+    "from": "marketing@engage.canva.com"
+  },
+  {
+    "id": "email-3775",
+    "status": "notsure",
+    "description": "Matt de Intelex se dirige a Ricardo con el asunto \"your workers want in\".\nSe interpreta como un contacto comercial (marketing o ventas) promoviendo servicios para trabajadores.",
+    "receivedAt": "2025-05-22 08:20-06:00",
+    "originalSubject": "👷♀️ your workers want in",
+    "from": "matt@intelex.com"
   }
 ]
