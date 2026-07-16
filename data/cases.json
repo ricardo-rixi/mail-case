@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5340",
+    "title": "FW: CFDI de recibo electrónico de CARMONA MARCANO RICARDO ANDRES periodo 13 Quincenal 2026",
+    "description": "Nómina envía a Ricardo su CFDI de recibo electrónico correspondiente a la quincena 13 de 2026.\nObjeto: Entrega de comprobante de nómina.\nInterpretación: Correo administrativo personal; resguardo documental sin acción operativa requerida.",
+    "source": "Correo: recibos.nomina@appexcelencia.com",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T23:59:25.000Z",
+    "createdAt": "2026-07-16T00:00:43.176Z",
+    "updatedAt": "2026-07-16T00:00:43.176Z"
+  },
+  {
+    "id": "email-5339",
+    "title": "FW: PepsiCo Mexico CNG",
+    "description": "Lilian Gonzalez de PepsiCo comparte con el equipo y Ricardo los detalles de rutas, horarios de carga y unidades a GNC.\nObjeto: Proveer datos operativos para dimensionar el proyecto.\nInterpretación: Información técnica crucial recibida; Ricardo debe integrarla para avanzar con la oferta económica.",
+    "source": "Correo: Gonzalez, Lilian {PEP}",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-15T23:39:30.000Z",
+    "createdAt": "2026-07-16T00:00:43.176Z",
+    "updatedAt": "2026-07-16T00:00:43.176Z"
+  },
+  {
     "id": "email-5338",
     "title": "FW: Comunicación Interna publicó una novedad importante",
     "description": "Comunicación Interna (Humand) invita a Ricardo y al equipo de Natgas a unirse a la recolección de despensas para ALUCCA, A.C.\nObjeto: Solicitar donaciones de despensa y voluntarios para entrega antes del 20 de agosto.\nInterpretación: Correo informativo corporativo sobre voluntariado; acción de donación y registro opcional para Ricardo.",
