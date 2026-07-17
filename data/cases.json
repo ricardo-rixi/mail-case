@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5375",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Mariana Sanchez Mejia confirma a Alonso Samperio y Ricardo Carmona que los montos de ajuste compartidos por Engie son correctos.\nObjeto: Validar cálculo de notas de crédito por precio WAHA negativo.\nInterpretación: Confirmación financiera interna lista para proceder con la emisión.",
+    "source": "Correo: Mariana Sanchez Mejia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T15:32:04.000Z",
+    "createdAt": "2026-07-17T16:01:32.301Z",
+    "updatedAt": "2026-07-17T16:01:32.304Z"
+  },
+  {
+    "id": "email-5374",
+    "title": "FW: [Seminario] Migra a la velocidad de la IA: una guía para la evolución de la nube",
+    "description": "Google Cloud invita a Ricardo Carmona a un seminario web sobre cómo acelerar la migración a la nube con IA.\nObjeto: Promocionar herramientas de IA para modernización en la nube.\nInterpretación: Boletín publicitario y de marketing tecnológico; irrelevante para la operación.",
+    "source": "Correo: Google Cloud",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T15:04:09.000Z",
+    "createdAt": "2026-07-17T16:01:32.304Z",
+    "updatedAt": "2026-07-17T16:01:32.304Z"
+  },
+  {
+    "id": "email-5373",
+    "title": "FW: Conoce los Retos BioenergyTech y los terminos de referencia | Webinar Oficial de Convocatoria - Econova Valle",
+    "description": "Econova Valle invita a Ricardo Carmona al Webinar Oficial de Convocatoria Retos BioenergyTech.\nObjeto: Dar a conocer retos, términos de referencia y proceso de postulación.\nInterpretación: Evento informativo e invitación a convocatoria de innovación (Grupo Ecopetrol).",
+    "source": "Correo: Econova Valle Cámara de Comercio de Cali",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T14:15:45.000Z",
+    "createdAt": "2026-07-17T16:01:32.304Z",
+    "updatedAt": "2026-07-17T16:01:32.304Z"
+  },
+  {
     "id": "email-5369",
     "title": "FW: Too Busy to Build the 3D Model In-House for FS / FEED? We Handle It for You using PlantStream",
     "description": "Takuma Louis Umeda (PlantStream) ofrece servicios de modelado 3D impulsados por IA para ingeniería de plantas.\nObjeto: Promocionar la plataforma y servicios de diseño 3D PlantStream.\nInterpretación: Correo comercial de ventas (B2B); se puede archivar o ignorar si no hay interés actual.",
