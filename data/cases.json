@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5367",
+    "title": "FW: Isaac Eli Reynoso Ortega envió un mensaje",
+    "description": "Isaac Eli Reynoso Ortega notifica al equipo en el grupo de Teams \"Expedientes Federales\" que ha compartido el dictamen de diseño de la instalación de descompresión JAVIH.\nObjeto: Compartir documentación técnica clave para el proyecto de descompresión.\nInterpretación: Avance técnico en proyecto federal; requiere ingresar a Teams para descargar o revisar el documento.",
+    "source": "Correo: Isaac Eli Reynoso Ortega en Teams",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T23:38:00.000Z",
+    "createdAt": "2026-07-17T00:01:09.413Z",
+    "updatedAt": "2026-07-17T00:01:09.414Z"
+  },
+  {
+    "id": "email-5366",
+    "title": "FW: Tuxtla Gutiérrez desde $3,168 MXN, vuela hacia lo que más quieres✈️",
+    "description": "Aeroméxico Promociones envía una campaña promocional de vuelos nacionales e internacionales, incluyendo Tuxtla Gutiérrez y Buenos Aires.\nObjeto: Promocionar la venta de boletos de avión con facilidades de pago.\nInterpretación: Correo publicitario externo; no requiere ninguna acción y puede ser archivado.",
+    "source": "Correo: Aeroméxico Promociones",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-16T23:22:00.000Z",
+    "createdAt": "2026-07-17T00:01:09.414Z",
+    "updatedAt": "2026-07-17T00:01:09.414Z"
+  },
+  {
     "id": "email-5365",
     "title": "FW: Notas de Crédito - Waha negativo junio 2026",
     "description": "Alonso Samperio solicita a Mariana Sánchez validar los montos estimados de las notas de crédito compartidas por ENGIE.\nObjeto: Revisar ajustes financieros a favor por el precio WAHA negativo de junio 2026.\nInterpretación: Trámite financiero y de facturación que requiere confirmación interna.",
