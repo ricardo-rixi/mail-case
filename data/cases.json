@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5369",
+    "title": "FW: Too Busy to Build the 3D Model In-House for FS / FEED? We Handle It for You using PlantStream",
+    "description": "Takuma Louis Umeda (PlantStream) ofrece servicios de modelado 3D impulsados por IA para ingeniería de plantas.\nObjeto: Promocionar la plataforma y servicios de diseño 3D PlantStream.\nInterpretación: Correo comercial de ventas (B2B); se puede archivar o ignorar si no hay interés actual.",
+    "source": "Correo: Takuma Louis Umeda (PlantStream)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T04:17:00.000Z",
+    "createdAt": "2026-07-17T13:01:05.251Z",
+    "updatedAt": "2026-07-17T13:01:05.251Z"
+  },
+  {
+    "id": "email-5370",
+    "title": "La gran final del Mundial, el último capítulo del Brexit, las claves de la ley de violencia vicaria y mucho más…",
+    "description": "La Vanguardia envía su boletín informativo con noticias generales sobre política y sociedad.\nObjeto: Difundir noticias de actualidad y eventos deportivos.\nInterpretación: Boletín informativo de noticias, sin impacto en la operación del negocio.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T08:02:00.000Z",
+    "createdAt": "2026-07-17T13:01:05.251Z",
+    "updatedAt": "2026-07-17T13:01:05.251Z"
+  },
+  {
+    "id": "email-5371",
+    "title": "FW: ⚾️ $330M firesale is coming",
+    "description": "Bleacher Report envía un boletín de noticias deportivas, incluyendo béisbol y fútbol.\nObjeto: Compartir noticias y artículos deportivos.\nInterpretación: Boletín recreativo, irrelevante para la operación del negocio.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T12:03:00.000Z",
+    "createdAt": "2026-07-17T13:01:05.249Z",
+    "updatedAt": "2026-07-17T13:01:05.251Z"
+  },
+  {
     "id": "email-3764",
     "title": "Tu factura de Canva",
     "description": "Canva envía a Ricardo la factura de suscripción del equipo.\nObjeto: Proveer el comprobante de compra y facturación del servicio.\nInterpretación: Notificación administrativa automática; resguardo contable, no requiere acción directa.",
