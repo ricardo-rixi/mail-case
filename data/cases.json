@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5378",
+    "title": "FW: Informe de mercado de hoy: 17 de julio 📈",
+    "description": "Naturgy México envía a Ricardo su informe diario del mercado de gas natural.\nObjeto: Compartir actualización y tendencias de mercado.\nInterpretación: Boletín informativo; archivar o revisar si se requiere para decisiones comerciales.",
+    "source": "Correo: Naturgy México",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T16:47:00.000Z",
+    "createdAt": "2026-07-17T17:01:16.530Z",
+    "updatedAt": "2026-07-17T17:01:16.536Z"
+  },
+  {
+    "id": "email-5377",
+    "title": "FW: PREPÁRATE PARA LAS NUEVAS VERIFICACIONES CON NUESTRA AUDITORÍA INTEGRAL¡",
+    "description": "Grupo Besco ofrece a Ricardo servicios de auditoría normativa para estaciones de servicio.\nObjeto: Promoción comercial de servicios de auditoría.\nInterpretación: Correo publicitario en frío; se puede ignorar si no hay necesidad actual.",
+    "source": "Correo: Grupo Besco",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T16:15:00.000Z",
+    "createdAt": "2026-07-17T17:01:16.536Z",
+    "updatedAt": "2026-07-17T17:01:16.536Z"
+  },
+  {
+    "id": "email-5376",
+    "title": "FW: IMPLEMENTACIÓN DEL SISTEMA DE GESTIÓN DE MEDICIÓN",
+    "description": "Grupo Besco invita a un curso sobre la implementación del Sistema de Gestión de Medición.\nObjeto: Promoción de capacitación normativa.\nInterpretación: Correo promocional; archivar si no hay interés actual en tomar la capacitación.",
+    "source": "Correo: Grupo Besco",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T16:11:00.000Z",
+    "createdAt": "2026-07-17T17:01:16.536Z",
+    "updatedAt": "2026-07-17T17:01:16.536Z"
+  },
+  {
     "id": "email-5375",
     "title": "FW: Notas de Crédito - Waha negativo junio 2026",
     "description": "Mariana Sanchez Mejia confirma a Alonso Samperio y Ricardo Carmona que los montos de ajuste compartidos por Engie son correctos.\nObjeto: Validar cálculo de notas de crédito por precio WAHA negativo.\nInterpretación: Confirmación financiera interna lista para proceder con la emisión.",
