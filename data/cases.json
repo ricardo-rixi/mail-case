@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5435",
+    "title": "FW: ✌️ SEC's threatening to leave CFB",
+    "description": "Bleacher Report envía un boletín de noticias deportivas a Ricardo Carmona.\nObjeto: Compartir titulares y novedades recientes del ámbito deportivo (SEC, NFL, NBA).\nInterpretación: Correo informativo automatizado (newsletter); no requiere ninguna acción operativa o de negocio.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T12:02:46.000Z",
+    "createdAt": "2026-07-21T16:38:51.858Z",
+    "updatedAt": "2026-07-21T16:38:51.858Z"
+  },
+  {
+    "id": "email-5434",
+    "title": "FW: Notas de crédito mayo Natgas",
+    "description": "Erika Huerta (ENGIE) informa a Alonso Samperio y al equipo de Natgas sobre el proceso de compensación de las Notas de Crédito de mayo.\nObjeto: Instruir la suspensión temporal de pagos para compensar los saldos a favor derivados del ajuste del precio WAHA.\nInterpretación: Directriz financiera y administrativa de un proveedor clave; requiere que el área de finanzas detenga pagos y aplique la compensación correspondiente.",
+    "source": "Correo: Erika Nayelli Huerta Cano (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T02:45:29.000Z",
+    "createdAt": "2026-07-21T16:38:51.858Z",
+    "updatedAt": "2026-07-21T16:38:51.858Z"
+  },
+  {
     "id": "email-5380",
     "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro",
     "description": "Ricardo Rabell informa a Ricardo Carmona y Gascorp que el documento para el cambio de comercializadora ya fue enviado a firma.\nObjeto: Confirmar envío de documento de transacción (TC) para firma.\nInterpretación: Avance administrativo en el cambio de proveedor; en espera de la firma formal.",
