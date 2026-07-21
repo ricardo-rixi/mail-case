@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5444-1784653248864",
+    "title": "FW: NOSOTROS TE REGULARIZAMOS¡",
+    "description": "Grupo Besco ofrece a Ricardo servicios de asesoría para regularizar estaciones de servicio clausuradas o multadas.\nObjeto: Promoción comercial de consultoría legal y normativa.\nInterpretación: Correo promocional y publicitario; irrelevante para el estado actual de las estaciones, se puede archivar.",
+    "source": "Correo: Grupo Besco",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T16:42:00.000Z",
+    "createdAt": "2026-07-21T17:00:48.863Z",
+    "updatedAt": "2026-07-21T17:00:48.863Z"
+  },
+  {
+    "id": "email-5445-1784653248862",
+    "title": "FW: ESTRATEGIAS FISCALES PARA TU EMPRESA",
+    "description": "Grupo Besco envía a Ricardo un correo promocionando estrategias fiscales y contables.\nObjeto: Promoción de servicios fiscales y auditoría preventiva para estaciones de servicio.\nInterpretación: Correo publicitario comercial en frío; no requiere atención operativa ni respuesta.",
+    "source": "Correo: Grupo Besco",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T16:51:00.000Z",
+    "createdAt": "2026-07-21T17:00:48.862Z",
+    "updatedAt": "2026-07-21T17:00:48.863Z"
+  },
+  {
     "id": "email-5439-1784652023032",
     "title": "FW: Join me for the Venezuela investment showcase | London, 30 July",
     "description": "Correo recibido de Ricardo Andrés Carmona Marcano con asunto \"FW: Join me for the Venezuela investment showcase | London, 30 July\".\nObjeto: Revisión y seguimiento general.\nInterpretación: Mensaje para conocimiento o seguimiento, pendiente de clasificar detalladamente.",
