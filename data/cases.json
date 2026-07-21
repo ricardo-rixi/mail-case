@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5467",
+    "title": "FW: Confirmación CMD Natgas Corregidora",
+    "description": "Adrian Gonzalez (Gascorp) informa a Ricardo Carmona y Ricardo Rabell que Engie aceptó ajustar el CMD a 454 GJ/día para el resto del año.\nObjeto: Confirmar reducción de tarifa de distribución que generará ahorros.\nInterpretación: Negociación comercial exitosa; requiere firmar el Contrato de Distribución Simple en plataforma.",
+    "source": "Correo: Adrian Gonzalez (Gascorp)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T20:20:00.000Z",
+    "createdAt": "2026-07-21T21:00:44.134Z",
+    "updatedAt": "2026-07-21T21:00:44.135Z"
+  },
+  {
+    "id": "email-5466",
+    "title": "FW: New sign-in to your OpenAI account",
+    "description": "OpenAI notifica a Ricardo sobre un nuevo inicio de sesión en su cuenta desde San José Iturbide, MX.\nObjeto: Alerta de seguridad automatizada por inicio de sesión en ChatGPT Web.\nInterpretación: Notificación de seguridad; no requiere acción si el inicio de sesión es reconocido.",
+    "source": "Correo: OpenAI",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T20:04:00.000Z",
+    "createdAt": "2026-07-21T21:00:44.135Z",
+    "updatedAt": "2026-07-21T21:00:44.135Z"
+  },
+  {
+    "id": "email-5465",
+    "title": "FW: Tu código de un solo uso",
+    "description": "El Equipo de cuentas Microsoft envía a Ricardo su código de un solo uso para acceder a la cuenta.\nObjeto: Proveer PIN de seguridad (OTP) para inicio de sesión.\nInterpretación: Código de seguridad transaccional; a ingresar en la plataforma correspondiente.",
+    "source": "Correo: Equipo de cuentas Microsoft",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T20:03:00.000Z",
+    "createdAt": "2026-07-21T21:00:44.135Z",
+    "updatedAt": "2026-07-21T21:00:44.135Z"
+  },
+  {
     "id": "email-5455",
     "title": "FW: ARCHIVO TRABAJADO EN SESIÓN - AMGN - .00 - CALIDAD DE BIOCOMBUSTIBLES ",
     "description": "Ricardo Andrés Carmona Marcano comparte el archivo de trabajo de la sesión AMGN sobre calidad de biocombustibles.\nObjeto: Distribuir la documentación técnica y notas de la sesión para revisión del equipo.\nInterpretación: Información técnica de seguimiento; requiere lectura y posible implementación en los estándares de calidad.",
