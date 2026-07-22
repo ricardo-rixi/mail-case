@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5474",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Comunicación Interna anuncia a través de Humand a los ganadores de la Quiniela Mundialista Natgas.\nObjeto: Informar sobre los resultados y ganadores del concurso interno de la empresa.\nInterpretación: Comunicado recreativo corporativo; irrelevante para la operación del negocio, no requiere acción.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-22T00:18:00.000Z",
+    "createdAt": "2026-07-22T01:01:00.000Z",
+    "updatedAt": "2026-07-22T01:01:00.000Z"
+  },
+  {
+    "id": "email-5473",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Karen Santos de Cuentas por Pagar adjunta los comprobantes de pago a ENGIE y solicita que la emisión de las notas de crédito por el precio WAHA negativo cuadre con lo pagado.\nObjeto: Conciliar los pagos realizados con las notas de crédito pendientes de emisión por parte del proveedor.\nInterpretación: Seguimiento administrativo/financiero clave; requiere que el proveedor y el equipo interno validen los montos cruzados.",
+    "source": "Correo: Karen Santos (Cuentas por Pagar)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-21T23:59:00.000Z",
+    "createdAt": "2026-07-22T01:01:00.000Z",
+    "updatedAt": "2026-07-22T01:01:00.000Z"
+  },
+  {
     "id": "email-5472-fw-tu-empresa-toma-decisiones",
     "title": "¿Tu empresa toma decisiones con información... o con suposiciones?",
     "description": "Doribeth Cisneros (Tekiio) envía un correo prospectivo a Ricardo ofreciendo soluciones de visibilidad de datos e información en tiempo real.\nObjeto: Promover servicios para mejorar la toma de decisiones y centralizar información del negocio.\nInterpretación: Correo comercial de ventas en frío; no requiere acción operativa inmediata y puede descartarse o agendar si hay interés.",
