@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5487-1785500000000",
+    "title": "FW: Reunión – Presentación de propuesta EY | Estudio de Mercado y Demanda – A-57",
+    "description": "Valerio Manta envía una invitación a Ricardo y equipo para una reunión con EY.\nObjeto: Presentación de la propuesta técnica y económica del Estudio de Mercado y Demanda para el proyecto Arco 57.\nInterpretación: Evento de agenda (reunión en Teams) para evaluar la propuesta comercial de la firma; requiere asistencia de Ricardo.",
+    "source": "Correo: Valerio Manta",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-22T16:47:43.000Z",
+    "createdAt": "2026-07-22T17:00:00.000Z",
+    "updatedAt": "2026-07-22T17:00:00.000Z"
+  },
+  {
+    "id": "email-5486-1785500000001",
+    "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro",
+    "description": "Adrián González de Gascorp consulta a Ricardo Carmona y Ricardo Rabell si la Confirmación de Transacción (TC) será firmada el día de hoy.\nObjeto: Agilizar la firma pendiente por parte de Natgas para asegurar la capacidad de transporte en la estación Corregidora.\nInterpretación: Seguimiento comercial prioritario; requiere confirmación interna sobre el estatus de la firma del representante legal.",
+    "source": "Correo: Adrian Gonzalez (Gascorp)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-22T16:10:49.000Z",
+    "createdAt": "2026-07-22T17:00:00.000Z",
+    "updatedAt": "2026-07-22T17:00:00.000Z"
+  },
+  {
+    "id": "email-5485-1785500000002",
+    "title": "FW: Registro electrónico de jornada:",
+    "description": "Sol Ferreira de RekonPeople contacta a Ricardo ofreciendo un sistema de registro electrónico de jornada laboral.\nObjeto: Promocionar su software auditable para cumplir con las normativas mexicanas vigentes en 2027.\nInterpretación: Correo comercial y de ventas en frío; no requiere atención operativa ni seguimiento.",
+    "source": "Correo: Sol Ferreira (RekonPeople)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-22T16:02:11.000Z",
+    "createdAt": "2026-07-22T17:00:00.000Z",
+    "updatedAt": "2026-07-22T17:00:00.000Z"
+  },
+  {
     "id": "email-5484",
     "title": "FW: Análisis de proveedores Inspección Controles Volumétricos",
     "description": "Alicia Guadalupe Lugo Rubio convoca a una reunión por Teams para el 29 de julio sobre la evaluación de proveedores de inspección.\nObjeto: Compartir expectativas y requisitos para definir con qué proveedores trabajarán en controles volumétricos.\nInterpretación: Invitación a sesión de trabajo operativo; requiere revisar la documentación adjunta y asistir.",
