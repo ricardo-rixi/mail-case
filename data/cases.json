@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5425-1784685748427",
+    "title": "FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)",
+    "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: SOLICITUD Vo.Bo. COMPRA EQUIPO DESCOMPRESIÓN PRU100 – PROYECTO VW (BIONATGAS)\".\nObjeto: Notificación o solicitud recibida vía correo electrónico.\nInterpretación: Mensaje en bandeja de entrada pendiente de revisión detallada para determinar acciones operativas.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-20 22:49+00:00",
+    "createdAt": "2026-07-22T02:02:28.427Z",
+    "updatedAt": "2026-07-22T02:02:28.427Z"
+  },
+  {
+    "id": "email-5426-1784685747649",
+    "title": "FW: Comprobante Fiscal DG113622",
+    "description": "Ricardo Andrés Carmona Marcano envía el comprobante fiscal a Natgas.\nObjeto: Recepción de factura o comprobante fiscal.\nInterpretación: Documentación contable que requiere procesamiento por el área de finanzas.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-20 23:18+00:00",
+    "createdAt": "2026-07-22T02:02:27.649Z",
+    "updatedAt": "2026-07-22T02:02:27.649Z"
+  },
+  {
+    "id": "email-5427-1784685746918",
+    "title": "FW: Comprobante Fiscal DG113643",
+    "description": "Ricardo Andrés Carmona Marcano envía el comprobante fiscal a Natgas.\nObjeto: Recepción de factura o comprobante fiscal.\nInterpretación: Documentación contable que requiere procesamiento por el área de finanzas.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-20 23:20+00:00",
+    "createdAt": "2026-07-22T02:02:26.918Z",
+    "updatedAt": "2026-07-22T02:02:26.919Z"
+  },
+  {
     "id": "email-5408-1784685731190",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Monday 20 Jul 2026)",
     "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: Informe diario del proyecto para Ricardo Carmona (Monday 20 Jul 2026)\".\nObjeto: Notificación o solicitud recibida vía correo electrónico.\nInterpretación: Mensaje en bandeja de entrada pendiente de revisión detallada para determinar acciones operativas.",
