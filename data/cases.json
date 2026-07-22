@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5478-202607221400",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 22 Jul 2026)",
+    "description": "Teamwork envía a Ricardo el informe automatizado de actividades y tareas pendientes para el 22 de julio de 2026.\nObjeto: Resumen diario de proyectos como Descompresión, Comercialización y Colón MTY.\nInterpretación: Correo automatizado de sistema; requiere revisión interna para seguimiento de tareas.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-22T14:00:00.000Z",
+    "createdAt": "2026-07-22T14:00:00.000Z",
+    "updatedAt": "2026-07-22T14:00:00.000Z"
+  },
+  {
     "id": "email-5468",
     "title": "FW: ¿Tu empresa toma decisiones con información... o con suposiciones?",
     "description": "Remitente original reenviado.\nObjeto: ¿Tu empresa toma decisiones con información... o con suposiciones?\nInterpretación: Correo pendiente de clasificación.",
