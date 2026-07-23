@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5505",
+    "title": "FW: Facturas consumo ENGIE JUNIO",
+    "description": "Mariana Hernandez Rangel comparte la relación de órdenes de compra (OC) para las facturas de consumo de gas de junio (ENGIE, NATURGY, DIAVAZ).\nObjeto: Solicitar a Julio Cesar y el equipo la carga de facturas al portal con las OC correspondientes.\nInterpretación: Trámite administrativo contable; requiere que los responsables suban las facturas al portal para su pago.",
+    "source": "Correo: Mariana Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T00:08:00.000Z",
+    "createdAt": "2026-07-23T01:00:57.595Z",
+    "updatedAt": "2026-07-23T01:00:57.599Z"
+  },
+  {
+    "id": "email-5504",
+    "title": "FW: IBERDROLA: IC (Factura, Anexo PDF) Mayo 2026 NATGAS IC BE",
+    "description": "Julio Cesar Rojas Rangel informa que aún no se reciben las facturas de COX (Iberdrola) por el consumo de junio.\nObjeto: Solicitar a Ricardo Carmona y Alonso Samperio presionar al proveedor para la entrega oportuna de facturas.\nInterpretación: Acción comercial y administrativa requerida; Ricardo o Alonso deben gestionar con COX la entrega de las facturas de junio.",
+    "source": "Correo: Julio Cesar Rojas Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-22T23:07:00.000Z",
+    "createdAt": "2026-07-23T01:00:57.599Z",
+    "updatedAt": "2026-07-23T01:00:57.599Z"
+  },
+  {
     "id": "email-5503",
     "title": "FW: Notas de crédito mayo Natgas",
     "description": "Erika Huerta de ENGIE instruye a Alonso Samperio y al equipo detener los pagos actuales para compensar los saldos a favor.\nObjeto: Notificación sobre la compensación de Notas de Crédito derivadas del ajuste de precio WAHA.\nInterpretación: Directriz financiera crítica; requiere que el equipo de cuentas por pagar aplique la compensación correspondiente y detenga los pagos programados.",
