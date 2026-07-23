@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5525-1784847666584-1",
+    "title": "Lista de Interesados del documento Formatos F-PRO-DT-001 (A) al (F)",
+    "description": "Héctor Hernández Rangel envía a Alonso Samperio y Ricardo Carmona las versiones actualizadas de los formatos del Sistema de Gestión de Calidad (F-PRO-DT-001).\nObjeto: Compartir los documentos oficiales para su uso a partir de este momento.\nInterpretación: Notificación administrativa interna; requiere utilizar las nuevas versiones de los formatos indicados.",
+    "source": "Correo: Hector Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T22:41:22.000Z",
+    "createdAt": "2026-07-23T23:01:06.585Z",
+    "updatedAt": "2026-07-23T23:01:06.585Z"
+  },
+  {
+    "id": "email-5524-1784847666585-2",
+    "title": "NXTVIEW Recordatorio de pago - NATGAS QUERETARO",
+    "description": "David Rojas de Grupo NXT envía un recordatorio de pago a NATGAS QUERETARO por un saldo pendiente de MXN$ 147,275.84.\nObjeto: Solicitar el pago de la factura para evitar el bloqueo automático de las comunicaciones de los servicios.\nInterpretación: Notificación de cobranza urgente; requiere seguimiento expedito con finanzas o cuentas por pagar.",
+    "source": "Correo: David Damaso Rojas Tenorio",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T22:05:00.000Z",
+    "createdAt": "2026-07-23T23:01:06.585Z",
+    "updatedAt": "2026-07-23T23:01:06.585Z"
+  },
+  {
     "id": "email-5516-1784844045540",
     "title": "FW: ¿Recibiste una multa de la STPS?",
     "description": "EG Consultores y Administradores envía información promocional a Ricardo Carmona sobre asesoría jurídica ante multas de la STPS.\nObjeto: Promocionar servicios legales.\nInterpretación: Correo publicitario, archivar si no se requieren sus servicios.",
