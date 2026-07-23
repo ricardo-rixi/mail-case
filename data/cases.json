@@ -18999,5 +18999,83 @@
     "description": "Diavazgas (facturacion@diavazgas.com) envía a Ricardo y Cuentas por Pagar comprobantes fiscales digitales (CFDI) relacionados con NATGAS QUERETARO, generados automáticamente.",
     "status": "notsure",
     "receivedAt": "2026-07-17 18:12+00:00"
+  },
+  {
+    "id": "email-5517-1784836912601-1",
+    "title": "Ricardo, ¿pierden datos en campo?",
+    "description": "Alina Garate de AmigoCloud envía a Ricardo Carmona información sobre su plataforma de GIS móvil y recolección de datos offline.\nObjeto: Promocionar sus servicios tecnológicos de captura de datos en campo.\nInterpretación: Correo comercial y prospectivo; no requiere atención operativa inmediata.",
+    "source": "Correo: Alina Garate",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T17:23:27.000Z",
+    "createdAt": "2026-07-23T20:01:52.601Z",
+    "updatedAt": "2026-07-23T20:01:52.602Z"
+  },
+  {
+    "id": "email-5518-1784836912602-2",
+    "title": "SIGN; Seguimiento Dirección Técnica Q2",
+    "description": "Héctor Hernández Rangel solicita a Ricardo Carmona y Alonso Samperio los datos y resultados de los OKRs de la Dirección Técnica correspondientes al Q1 y Q2.\nObjeto: Recabar indicadores de desempeño (desviaciones en balance de gas, ahorro eléctrico, ahorros en calibraciones) para revisión interna.\nInterpretación: Requerimiento corporativo y directivo; exige a Ricardo preparar la información solicitada a la brevedad.",
+    "source": "Correo: Hector Hernandez Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T17:32:55.000Z",
+    "createdAt": "2026-07-23T20:01:52.602Z",
+    "updatedAt": "2026-07-23T20:01:52.602Z"
+  },
+  {
+    "id": "email-5519-1784836912602-3",
+    "title": "Receptáculos NGV1 Disponibles Para Entrega Inmediata",
+    "description": "Frank Cardona de WEH Fluid Tech contacta a Ricardo Carmona para ofrecer receptáculos TN1 NGV1 P36 en inventario para entrega inmediata.\nObjeto: Promocionar disponibilidad de equipos para proyectos de GNC/GNV y reducir tiempos de entrega.\nInterpretación: Oferta comercial de proveedor de refacciones; archivar a menos que se requieran suministros actuales.",
+    "source": "Correo: Frank Cardona",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T17:43:31.000Z",
+    "createdAt": "2026-07-23T20:01:52.602Z",
+    "updatedAt": "2026-07-23T20:01:52.602Z"
+  },
+  {
+    "id": "email-5520-1784836912602-4",
+    "title": "Parque Industrial Ferran Sur",
+    "description": "CBRE Guadalajara envía a Ricardo Carmona un boletín promocional sobre naves industriales en renta en la primera fase del Parque Industrial Ferran Sur.\nObjeto: Informar sobre desarrollo inmobiliario industrial y logístico.\nInterpretación: Correo publicitario de bienes raíces comerciales; no requiere acción ni seguimiento operativo.",
+    "source": "Correo: CBRE Guadalajara",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T17:59:51.000Z",
+    "createdAt": "2026-07-23T20:01:52.602Z",
+    "updatedAt": "2026-07-23T20:01:52.602Z"
+  },
+  {
+    "id": "email-5521-1784836912602-5",
+    "title": "IC (Factura, Anexo PDF) Junio 2026 NATGAS IC BE",
+    "description": "Facturas Clientes AOP (Grupo Cox) envía al equipo de Natgas las facturas electrónicas (CFDI) correspondientes al consumo eléctrico de junio 2026.\nObjeto: Entregar los comprobantes fiscales y solicitar confirmación de recepción y comprobantes de pago posteriores.\nInterpretación: Recepción de facturación mensual ordinaria; requiere seguimiento con finanzas para programación de pago.",
+    "source": "Correo: Facturas Clientes AOP (Grupo Cox)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T19:16:40.000Z",
+    "createdAt": "2026-07-23T20:01:52.602Z",
+    "updatedAt": "2026-07-23T20:01:52.602Z"
+  },
+  {
+    "id": "email-5522-1784836912602-6",
+    "title": "Notas de crédito mayo Natgas",
+    "description": "Erika Nayelli Huerta Cano (Engie) informa a Alonso Samperio y Ricardo Carmona sobre las notas de crédito pendientes por molécula con precios negativos (Waha).\nObjeto: Solicitar que se suspenda el pago de facturas recientes hasta efectuar la compensación de los saldos a favor.\nInterpretación: Notificación financiera crítica de proveedor estratégico; requiere confirmación y coordinación inmediata con finanzas.",
+    "source": "Correo: Erika Nayelli Huerta Cano (Engie)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T19:38:55.000Z",
+    "createdAt": "2026-07-23T20:01:52.602Z",
+    "updatedAt": "2026-07-23T20:01:52.602Z"
   }
 ]
