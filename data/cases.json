@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5516-1784844045540",
+    "title": "FW: ¿Recibiste una multa de la STPS?",
+    "description": "EG Consultores y Administradores envía información promocional a Ricardo Carmona sobre asesoría jurídica ante multas de la STPS.\nObjeto: Promocionar servicios legales.\nInterpretación: Correo publicitario, archivar si no se requieren sus servicios.",
+    "source": "Correo: EG CONSULTORES Y ADMINISTRADORES",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T17:02:10.000Z",
+    "createdAt": "2026-07-23T22:05:00.000Z",
+    "updatedAt": "2026-07-23T22:05:00.000Z"
+  },
+  {
+    "id": "email-5523-1784844045541",
+    "title": "FW: Revisión compresores FUG",
+    "description": "Alonso Samperio Gayosso envía una invitación de Teams a Ricardo Carmona y otros para revisar los compresores FUG.\nObjeto: Reunión técnica sobre compresores FUG programada para el 24 de julio a las 14:00.\nInterpretación: Invitación a evento; requiere que Ricardo participe o la tenga en cuenta en su agenda.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": "2026-07-24T20:00:00.000Z",
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T21:56:17.000Z",
+    "createdAt": "2026-07-23T22:05:00.000Z",
+    "updatedAt": "2026-07-23T22:05:00.000Z"
+  },
+  {
     "id": "b90a146c-ece2-4a12-a0d0-031486542654",
     "title": "FW: Receptáculos NGV1 Disponibles Para Entrega Inmediata",
     "description": "Ricardo Andrés Carmona Marcano reenvía información sobre disponibilidad de stock de receptáculos NGV1.\nObjeto: Notificar la entrega inmediata de componentes para estaciones/vehículos.\nInterpretación: Correo comercial o logístico, para evaluación de compra.",
