@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5548",
+    "title": "FW: Cambio de Comercializadora - Estación Corregidora Querétaro",
+    "description": "Ricardo Rabell envía a Adrián González (Gascorp) y Ricardo Carmona la Confirmación de Transacción (TC) con cambios propuestos para su revisión y firma.\nObjeto: Avanzar en el cierre del contrato de suministro con Gascorp para la estación Corregidora.\nInterpretación: Seguimiento legal y comercial; requiere validación de Gascorp para proceder con la firma final.",
+    "source": "Correo: Ricardo Rabell Velázquez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T16:52:48.000Z",
+    "createdAt": "2026-07-24T17:02:05.554Z",
+    "updatedAt": "2026-07-24T17:02:05.555Z"
+  },
+  {
+    "id": "email-5547",
+    "title": "FW: OC3048176 - TELEMETRIA EDS CEC",
+    "description": "Ana Paola Hernandez notifica a David Resendiz y al proveedor (Diego Monti) sobre el registro de entrada (EM 51930) del servicio de telemetría de julio y solicita subir la factura.\nObjeto: Gestionar la facturación mensual del servicio de telemetría en estación Ecatepec.\nInterpretación: Seguimiento administrativo de rutina; requiere que el proveedor cargue su factura para proceder al pago.",
+    "source": "Correo: Ana Paola Hernandez de la Rosa",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T16:13:34.000Z",
+    "createdAt": "2026-07-24T17:02:05.555Z",
+    "updatedAt": "2026-07-24T17:02:05.555Z"
+  },
+  {
+    "id": "email-5546",
+    "title": "FW: Notas de crédito mayo Natgas",
+    "description": "Valeria Yanez solicita a Alonso Samperio y Ricardo Carmona validar la información de Engie sobre compensación de notas de crédito.\nObjeto: Aclarar si se deben suspender los pagos a Engie debido al saldo a favor por precios Waha negativos.\nInterpretación: Revisión financiera crítica; requiere confirmación técnica y financiera urgente para evitar cortes de suministro o recargos.",
+    "source": "Correo: Valeria Yanez de la Barrera",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T16:07:18.000Z",
+    "createdAt": "2026-07-24T17:02:05.555Z",
+    "updatedAt": "2026-07-24T17:02:05.555Z"
+  },
+  {
+    "id": "email-5545",
+    "title": "FW: Your Access to Emerson Insights Ends Today",
+    "description": "Emerson envía a Ricardo Carmona un correo automático recordando suscribirse para mantener acceso a sus artículos e información técnica.\nObjeto: Promocionar la suscripción a boletines y reportes de la industria.\nInterpretación: Correo promocional automatizado; no requiere atención operativa ni seguimiento.",
+    "source": "Correo: Emerson",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T16:02:43.000Z",
+    "createdAt": "2026-07-24T17:02:05.555Z",
+    "updatedAt": "2026-07-24T17:02:05.555Z"
+  },
+  {
     "id": "email-5544-1784908020000",
     "title": "FW: 🚨 LEBRON CHOOSES NEXT TEAM",
     "description": "Bleacher Report envía a Ricardo un boletín informando que LeBron James jugará en los Philadelphia 76ers.\nObjeto: Boletín informativo deportivo (NBA).\nInterpretación: Newsletter de interés personal, sin relevancia operativa, archivar.",
