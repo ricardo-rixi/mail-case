@@ -19571,5 +19571,44 @@
     "receivedAt": "2026-07-24T13:32:22.000Z",
     "createdAt": "2026-07-24T14:00:38.756Z",
     "updatedAt": "2026-07-24T14:00:38.757Z"
+  },
+  {
+    "id": "email-5556",
+    "title": "FW: SEGUIMIENTO: Revisión de la medición Estación Natgas Malecón - BS20170805GNS",
+    "description": "Abraham Benegasi (Naturgy) confirma a Alonso Samperio y Ricardo Carmona las fechas para visitas técnicas por revisión de desbalance.\nObjeto: Revisar la medición de gas en la estación Malecón y programación de mantenimientos.\nInterpretación: Seguimiento operativo y de mantenimiento; requiere que el equipo confirme su acuerdo con las fechas propuestas.",
+    "source": "Correo: Abraham Benegasi Alarcon",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T19:15:00.000Z",
+    "createdAt": "2026-07-24T20:00:00.000Z",
+    "updatedAt": "2026-07-24T20:00:00.000Z"
+  },
+  {
+    "id": "email-5555",
+    "title": "FW: DIAVAZ 1er quincena julio",
+    "description": "Julio Cesar Rojas (Natgas) notifica al equipo de compras y operaciones que las facturas y órdenes de compra de DIAVAZ están registradas.\nObjeto: Confirmar la carga de facturación en el portal corporativo para la 1ra quincena de julio.\nInterpretación: Notificación administrativa interna sobre facturas de consumo; archivar para efectos contables.",
+    "source": "Correo: Julio Cesar Rojas Rangel",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T19:15:00.000Z",
+    "createdAt": "2026-07-24T20:00:00.000Z",
+    "updatedAt": "2026-07-24T20:00:00.000Z"
+  },
+  {
+    "id": "email-5554",
+    "title": "FW: [No te lo pierdas] Webinar OT: Protegiendo la cadena de suministro industrial",
+    "description": "Fortinet invita a Ricardo Carmona a un webinar especializado sobre protección y ciberseguridad en operaciones OT y cadenas de suministro.\nObjeto: Invitación a evento técnico virtual programado para el 28 de julio.\nInterpretación: Correo promocional y educativo de un tercero; archivar a menos que exista interés en participar.",
+    "source": "Correo: Fortinet",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T18:37:00.000Z",
+    "createdAt": "2026-07-24T20:00:00.000Z",
+    "updatedAt": "2026-07-24T20:00:00.000Z"
   }
 ]
