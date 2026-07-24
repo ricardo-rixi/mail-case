@@ -19194,5 +19194,44 @@
     "receivedAt": "2026-07-23T19:38:55.000Z",
     "createdAt": "2026-07-23T20:01:52.602Z",
     "updatedAt": "2026-07-23T20:01:52.602Z"
+  },
+  {
+    "id": "email-5526-1784858475371",
+    "title": "FW: Indicadores ESG actualizados a junio 2026",
+    "description": "Alonso Samperio Gayosso envía a Tania Mosqueda (con copia a Ricardo) los indicadores ESG actualizados a junio de 2026.\nObjeto: Compartir el reporte mensual que estaba pendiente por la llegada de las facturas de COX.\nInterpretación: Notificación interna y envío de reportes operativos; requiere archivo o revisión general.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T23:16:00.000Z",
+    "createdAt": "2026-07-24T02:01:15.371Z",
+    "updatedAt": "2026-07-24T02:01:15.371Z"
+  },
+  {
+    "id": "email-5527-17848584753711",
+    "title": "FW: Oferta comercial GPep",
+    "description": "David Domínguez envía a Ricardo Carmona la propuesta comercial de GPep con los ajustes acordados en la última reunión.\nObjeto: Entregar la propuesta corregida y notificar el inicio de la preparación de la presentación para la próxima visita.\nInterpretación: Seguimiento comercial interno; requiere revisión por parte de Ricardo para validar la propuesta.",
+    "source": "Correo: David Domínguez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T23:29:00.000Z",
+    "createdAt": "2026-07-24T02:01:15.371Z",
+    "updatedAt": "2026-07-24T02:01:15.371Z"
+  },
+  {
+    "id": "email-5528-17848584753712",
+    "title": "FW: Oferta comercial GP",
+    "description": "David Domínguez envía a Ricardo Carmona la oferta comercial correspondiente a GP.\nObjeto: Compartir el documento de la propuesta comercial para su conocimiento y revisión.\nInterpretación: Seguimiento comercial interno; requiere revisión del documento adjunto.",
+    "source": "Correo: David Domínguez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T23:29:15.000Z",
+    "createdAt": "2026-07-24T02:01:15.371Z",
+    "updatedAt": "2026-07-24T02:01:15.371Z"
   }
 ]
