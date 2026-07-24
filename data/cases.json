@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5528-1784865636166",
+    "title": "FW: Oferta comercial GP",
+    "description": "David Domínguez envía la oferta comercial para GP a Ricardo y Enrique Taracena.\nObjeto: Presentar propuesta comercial para evaluación interna.\nInterpretación: Documento de revisión comercial; requiere análisis antes de presentar al cliente.",
+    "source": "Correo: David Domínguez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T23:29:15.000Z",
+    "createdAt": "2026-07-24T04:00:36.166Z",
+    "updatedAt": "2026-07-24T04:00:36.168Z"
+  },
+  {
+    "id": "email-5527-1784865636168",
+    "title": "FW: Oferta comercial GPep",
+    "description": "David Domínguez hace llegar a Ricardo la propuesta de GPep con ajustes acordados y confirma que inicia la presentación para la visita.\nObjeto: Enviar propuesta ajustada para validación y seguimiento comercial.\nInterpretación: Revisión de propuesta comercial previo a reunión con cliente; requiere lectura y posible retroalimentación.",
+    "source": "Correo: David Domínguez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T23:29:08.000Z",
+    "createdAt": "2026-07-24T04:00:36.168Z",
+    "updatedAt": "2026-07-24T04:00:36.168Z"
+  },
+  {
+    "id": "email-5526-1784865636168",
+    "title": "FW: Indicadores ESG actualizados a junio 2026",
+    "description": "Alonso Samperio comparte con Tania Mosqueda los indicadores ESG actualizados a junio, señalando el retraso debido a facturas de COX.\nObjeto: Enviar reporte de indicadores ESG del mes de junio.\nInterpretación: Reporte administrativo y operativo completado; Ricardo en copia para conocimiento del avance.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-23T23:15:55.000Z",
+    "createdAt": "2026-07-24T04:00:36.168Z",
+    "updatedAt": "2026-07-24T04:00:36.168Z"
+  },
+  {
     "id": "email-5533-1784836912603",
     "title": "FW: Facturas consumo ENGIE JUNIO",
     "description": "Julio Cesar Rojas confirma al equipo operativo y administrativo que las facturas de consumo de Engie (mes de junio) ya se registraron exitosamente en el portal.\nObjeto: Notificar la conclusión de la carga de facturación de Engie.\nInterpretación: Seguimiento administrativo; Ricardo está enterado de que la carga de facturas se completó.",
