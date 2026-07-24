@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5537-1784865636000",
+    "title": "FW: 🔮 NFL over-under win predictions",
+    "description": "Bleacher Report envía a Ricardo Carmona sus pronósticos de victorias de la NFL y artículos sobre el GOAT de la NBA.\nObjeto: Boletín informativo deportivo.\nInterpretación: Newsletter de interés personal, sin relevancia para la operación de la empresa, se puede ignorar/archivar.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T12:02:00.000Z",
+    "createdAt": "2026-07-24T13:05:00.000Z",
+    "updatedAt": "2026-07-24T13:05:00.000Z"
+  },
+  {
+    "id": "email-5536-1784865636001",
+    "title": "La denuncia de Puigdemont ante Bruselas, Renfe abre sus trenes a perros de hasta 40 kilos, la nueva ley antitabaco y mucho más…",
+    "description": "La Vanguardia envía a Ricardo su boletín de noticias con artículos sobre política española, Renfe, eclipse y ley antitabaco.\nObjeto: Suscripción a noticias de La Vanguardia.\nInterpretación: Correo informativo personal/de noticias; no requiere acción operativa ni administrativa en la empresa.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T08:03:00.000Z",
+    "createdAt": "2026-07-24T13:05:00.000Z",
+    "updatedAt": "2026-07-24T13:05:00.000Z"
+  },
+  {
+    "id": "email-5535-1784865636002",
+    "title": "FW: Webinar: How AI bridges language and expertise gaps in plant engineering projects",
+    "description": "Hideaki Onuki de PlantStream invita a Ricardo Carmona a un webinar sobre cómo la IA ayuda a cerrar brechas de idioma y experiencia en proyectos de ingeniería de plantas.\nObjeto: Promocionar la herramienta KageMee (IA para ingeniería).\nInterpretación: Correo publicitario o promocional; no requiere atención operativa ni seguimiento directo, puede archivarse.",
+    "source": "Correo: Hideaki Onuki (PlantStream)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T05:23:00.000Z",
+    "createdAt": "2026-07-24T13:05:00.000Z",
+    "updatedAt": "2026-07-24T13:05:00.000Z"
+  },
+  {
+    "id": "email-5534-1784865636003",
+    "title": "FW: ¡Actualización normativa urgente!",
+    "description": "Grupo Besco notifica a Ricardo sobre el proceso de regularización de la ASEA (PRONAGAS) para instalaciones de gasolina y gas LP.\nObjeto: Informar sobre actualizaciones regulatorias y promover sus servicios de asesoría.\nInterpretación: Correo de publicidad comercial con información regulatoria (ASEA); archivar si no se requiere asesoría externa.",
+    "source": "Correo: Grupo Besco",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T04:10:00.000Z",
+    "createdAt": "2026-07-24T13:05:00.000Z",
+    "updatedAt": "2026-07-24T13:05:00.000Z"
+  },
+  {
     "id": "email-5528-1784865636166",
     "title": "FW: Oferta comercial GP",
     "description": "David Domínguez envía la oferta comercial para GP a Ricardo y Enrique Taracena.\nObjeto: Presentar propuesta comercial para evaluación interna.\nInterpretación: Documento de revisión comercial; requiere análisis antes de presentar al cliente.",
