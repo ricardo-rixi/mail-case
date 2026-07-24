@@ -19272,5 +19272,18 @@
     "receivedAt": "2026-07-23T23:29:15.000Z",
     "createdAt": "2026-07-24T02:01:15.371Z",
     "updatedAt": "2026-07-24T02:01:15.371Z"
+  },
+  {
+    "id": "email-5534",
+    "title": "FW: ¡Actualización normativa urgente!",
+    "description": "BESCO notifica a Ricardo y al equipo sobre la actualización normativa urgente de ASEA referente a la regularización de gaseras y gasolineras (PRONAGAS 2026-2030) que inicia en agosto.\nObjeto: Informar los plazos y procedimientos para consultar el esquema regulatorio aplicable en la plataforma de PRONAGAS.\nInterpretación: Notificación regulatoria urgente; requiere revisión para asegurar el cumplimiento ambiental y operativo de las estaciones ante ASEA.",
+    "source": "Correo: BESCO",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-24T04:10:00.000Z",
+    "createdAt": "2026-07-24T05:00:34.370Z",
+    "updatedAt": "2026-07-24T05:00:34.371Z"
   }
 ]
