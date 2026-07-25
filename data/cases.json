@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-3753",
+    "title": "⚠️ Tu almacenamiento de Gmail está lleno al 86 %",
+    "description": "Google notifica a Ricardo que el almacenamiento de su cuenta de Gmail ha alcanzado el 86% de capacidad.\nObjeto: Aviso automatizado sobre el límite de almacenamiento de 15 GB compartido con Drive y Fotos.\nInterpretación: Notificación administrativa personal; requiere liberar espacio o adquirir más capacidad pronto para evitar interrupciones.",
+    "source": "Correo: Google",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-04-10T21:53:00.000Z",
+    "createdAt": "2026-07-25T05:01:06.005292Z",
+    "updatedAt": "2026-07-25T05:01:06.005292Z"
+  },
+  {
+    "id": "email-3754",
+    "title": "Recorta imágenes para una mejor composición",
+    "description": "Canva envía un correo promocional a Ricardo con tips y herramientas para el recorte inteligente de fotos.\nObjeto: Promover el uso de la herramienta 'Recorte de fotos' y las funcionalidades de Canva.\nInterpretación: Boletín publicitario y tutorial; no requiere atención operativa ni seguimiento por parte del negocio.",
+    "source": "Correo: Canva",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2025-04-15T08:39:00.000Z",
+    "createdAt": "2026-07-25T05:01:06.005292Z",
+    "updatedAt": "2026-07-25T05:01:06.005292Z"
+  },
+  {
     "id": "email-5562",
     "title": "FW: RECOLECCIÓN EQUIPOS FILL POST (PNT Y ECATEPEC)",
     "description": "David Resendiz solicita a Luis Aguas (IMW) y Dessire Colina (E3) el envío urgente de facturas y Packing Lists de los equipos Fill Post.\nObjeto: Completar la documentación aduanal/logística para la recolección de los equipos programada para el 31 de julio.\nInterpretación: Seguimiento logístico de compras; requiere atención para evitar retrasos en el traslado de los equipos.",
