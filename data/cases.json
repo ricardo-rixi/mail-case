@@ -1,5 +1,57 @@
 [
   {
+    "id": "5376",
+    "title": "FW: IMPLEMENTACIÓN DEL SISTEMA DE GESTIÓN DE MEDICIÓN",
+    "description": "Besco envía a Ricardo una invitación a un curso en línea sobre la Implementación del SGM.\nObjeto: Promocionar curso programado para el 1 de agosto.\nInterpretación: Publicidad de capacitación externa; archivar.",
+    "source": "Correo: Besco",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T16:11:00.000Z",
+    "createdAt": "2026-07-25T02:01:52.464Z",
+    "updatedAt": "2026-07-25T02:01:52.464Z"
+  },
+  {
+    "id": "5377",
+    "title": "FW: PREPÁRATE PARA LAS NUEVAS VERIFICACIONES CON NUESTRA AUDITORÍA INTEGRAL¡",
+    "description": "Besco envía a Ricardo un correo comercial ofreciendo su servicio de Auditoría Normativa Integral.\nObjeto: Promocionar preparación para verificaciones 2026 ante autoridades.\nInterpretación: Publicidad de proveedor externo; archivar a menos que se requiera contratar.",
+    "source": "Correo: Besco",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T16:15:00.000Z",
+    "createdAt": "2026-07-25T02:01:52.464Z",
+    "updatedAt": "2026-07-25T02:01:52.464Z"
+  },
+  {
+    "id": "5378",
+    "title": "FW: Informe de mercado de hoy: 17 de julio 📈",
+    "description": "Naturgy México envía a Ricardo Carmona el boletín diario con el informe de mercado.\nObjeto: Informar sobre el estatus del mercado de gas natural.\nInterpretación: Reporte automatizado del proveedor; archivar a menos que se requiera consultar datos puntuales.",
+    "source": "Correo: Naturgy México",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-17T16:47:00.000Z",
+    "createdAt": "2026-07-25T02:01:52.464Z",
+    "updatedAt": "2026-07-25T02:01:52.464Z"
+  },
+  {
+    "id": "5562",
+    "title": "FW: RECOLECCIÓN EQUIPOS FILL POST (PNT Y ECATEPEC)",
+    "description": "David Resendiz solicita a Luis Aguas de IMW la facturación y Packing List de los equipos Fill Post (Periférico Norte y Ecatepec).\nObjeto: Coordinar la documentación para la recolección logística programada para el 31 de julio.\nInterpretación: Seguimiento urgente de logística internacional; requiere que el proveedor comparta los documentos aduanales.",
+    "source": "Correo: David Resendiz Rojo",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-25T01:27:00.000Z",
+    "createdAt": "2026-07-25T02:01:52.463Z",
+    "updatedAt": "2026-07-25T02:01:52.464Z"
+  },
+  {
     "id": "email-5515",
     "title": "FW: NUESTRO CATÁLOGO DE CURSOS ",
     "description": "Grupo Besco Capacitación envía su catálogo de cursos en línea y presenciales diseñados para el gremio gasero.\nObjeto: Promocionar oferta de capacitación industrial y normativa.\nInterpretación: Correo publicitario de capacitación; no requiere acción operativa ni seguimiento.",
