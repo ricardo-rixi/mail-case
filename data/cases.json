@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5739",
+    "title": "FW: NXTVIEW Recordatorio de pago - NATGAS QUERETARO",
+    "description": "David Rojas de Grupo NXT envía un recordatorio de pago a NATGAS QUERETARO por un saldo pendiente de MXN$ 147,275.84.\nObjeto: Solicitar el pago de la factura para evitar el bloqueo automático de las comunicaciones de los servicios.\nInterpretación: Notificación de cobranza urgente; requiere seguimiento expedito con finanzas o cuentas por pagar.",
+    "source": "Correo: David Damaso Rojas Tenorio (Grupo NXT)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-01T15:14:00.000Z",
+    "createdAt": "2026-08-01T16:00:00.000Z",
+    "updatedAt": "2026-08-01T16:00:00.000Z"
+  },
+  {
     "id": "email-5733",
     "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Balance de Energía Eléctrica (BALANCE DE ENERGIA ELECTRICA)",
     "description": "Alonso Samperio envía al equipo NATGAS el Informe Semanal de Monitoreo de Consumo Eléctrico de las EDS.\nObjeto: Compartir el análisis de consumo eléctrico y acciones correctivas (20-27 julio).\nInterpretación: Reporte técnico operativo de rutina; requiere revisión para detectar posibles sobrecostos eléctricos.",
