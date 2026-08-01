@@ -20156,5 +20156,31 @@
     "receivedAt": "2026-07-24T18:37:00.000Z",
     "createdAt": "2026-07-24T20:00:00.000Z",
     "updatedAt": "2026-07-24T20:00:00.000Z"
+  },
+  {
+    "id": "email-5741",
+    "title": "FW: 🦁 Vive la Pasión de la Liga MX con Elegancia en La Mariskeña",
+    "description": "El restaurante La Mariskeña envía a Ricardo publicidad y promociones para ver el partido del Club León.\nObjeto: Oferta comercial y reservaciones en el restaurante.\nInterpretación: Correo publicitario promocional, irrelevante para la operación del negocio.",
+    "source": "Correo: LA MARISKEÑA",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-01T19:05:00.000Z",
+    "createdAt": "2026-08-01T20:01:25.009Z",
+    "updatedAt": "2026-08-01T20:01:25.011Z"
+  },
+  {
+    "id": "email-5740",
+    "title": "FW: Su comprobación ha sido aprobada",
+    "description": "El Portal de gastos Excelencia notifica a Ricardo que su comprobación de gastos AMEX de julio por $7,044.70 MXN fue aprobada por Jose Enrique Taracena.\nObjeto: Confirmar la autorización del reembolso de viáticos y consumos del mes.\nInterpretación: Notificación administrativa y financiera, pendiente de la transferencia de reembolso.",
+    "source": "Correo: Portal de gastos Excelencia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-01T17:32:00.000Z",
+    "createdAt": "2026-08-01T20:01:25.011Z",
+    "updatedAt": "2026-08-01T20:01:25.011Z"
   }
 ]
