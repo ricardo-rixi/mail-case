@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5719",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 31 Jul 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias de la plataforma.\nObjeto: Monitorear el avance y pendientes de las obras y trámites regulatorios.\nInterpretación: Notificación automática del sistema de gestión de proyectos; solo para conocimiento y seguimiento de tiempos.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-31T14:00:02.000Z",
+    "createdAt": "2026-08-02T02:01:08.333Z",
+    "updatedAt": "2026-08-02T02:01:08.333Z"
+  },
+  {
+    "id": "email-5720",
+    "title": "FW: DIFERENCIA EN COMPARATIVA DE LECTURAS ERM NACOZARI",
+    "description": "David Martinez notifica a Alonso Samperio sobre diferencias y picos fuera de rango en las lecturas de la ERM Nacozari.\nObjeto: Solicitar apoyo para la revisión técnica del tablero de medición.\nInterpretación: Alerta operativa y técnica; requiere revisión y seguimiento para descartar errores de medición.",
+    "source": "Correo: David Martinez Yañez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-31T15:18:17.000Z",
+    "createdAt": "2026-08-02T02:01:08.333Z",
+    "updatedAt": "2026-08-02T02:01:08.333Z"
+  },
+  {
+    "id": "email-5721",
+    "title": "FW: Descripción de Puesto - Coordinador Técnico",
+    "description": "Alonso Samperio solicita a Juan Carlos Pineda y Adriana Ávila la revisión y ajuste de sus recibos de nómina.\nObjeto: Reclamar la falta de actualización salarial pactada a $43,462 MXN a partir del 16 de julio.\nInterpretación: Trámite interno de recursos humanos y nómina; requiere dar seguimiento a la ejecución del incremento salarial.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-31T15:27:14.000Z",
+    "createdAt": "2026-08-02T02:01:08.333Z",
+    "updatedAt": "2026-08-02T02:01:08.333Z"
+  },
+  {
     "id": "email-5722",
     "title": "FW: Aluminio Verde - Adquisicion de aluminio",
     "description": "Olivia Macias de Aluminio Verde busca establecer relación comercial para la adquisición de más de 15 toneladas de aluminio.\nObjeto: Prospección comercial y búsqueda de proveeduría de aluminio.\nInterpretación: Correo de ventas equivocado o irrelevante para el giro principal; archivar.",
@@ -20273,45 +20312,6 @@
     "receivedAt": "2026-08-01T17:32:00.000Z",
     "createdAt": "2026-08-01T20:01:25.011Z",
     "updatedAt": "2026-08-01T20:01:25.011Z"
-  },
-  {
-    "id": "email-5721",
-    "title": "FW: Descripción de Puesto - Coordinador Técnico",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Descripción de Puesto - Coordinador Técnico.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-31 15:27+00:00",
-    "createdAt": "2026-08-02T01:01:05.406Z",
-    "updatedAt": "2026-08-02T01:01:05.410Z"
-  },
-  {
-    "id": "email-5720",
-    "title": "FW: DIFERENCIA EN COMPARATIVA DE LECTURAS ERM NACOZARI",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: DIFERENCIA EN COMPARATIVA DE LECTURAS ERM NACOZARI.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-31 15:18+00:00",
-    "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T01:01:05.410Z"
-  },
-  {
-    "id": "email-5719",
-    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 31 Jul 2026)",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Informe diario del proyecto para Ricardo Carmona (Friday 31 Jul 2026).\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-31 14:00+00:00",
-    "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T01:01:05.410Z"
   },
   {
     "id": "email-5718",
