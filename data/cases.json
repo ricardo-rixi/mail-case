@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5742",
+    "title": "FW: 🚨 TIGERS TRADING TARIK SKUBAL",
+    "description": "Bleacher Report envía a Ricardo un boletín con noticias de traspasos en la MLB.\nObjeto: Informar sobre actualizaciones deportivas.\nInterpretación: Boletín deportivo de interés personal; no requiere acción operativa.",
+    "source": "Correo: Bleacher Report PM",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-02T03:45:00.000Z",
+    "createdAt": "2026-08-02T04:00:00.000Z",
+    "updatedAt": "2026-08-02T04:00:00.000Z"
+  },
+  {
+    "id": "email-5741",
+    "title": "FW: 🦁 Vive la Pasión de la Liga MX con Elegancia en La Mariskeña",
+    "description": "La Mariskeña envía a Ricardo publicidad para ver el partido del Club León en sus sucursales.\nObjeto: Promocionar el consumo en el restaurante durante el fin de semana.\nInterpretación: Correo publicitario sin valor operativo; archivar.",
+    "source": "Correo: LA MARISKEÑA",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-01T19:01:00.000Z",
+    "createdAt": "2026-08-02T04:00:00.000Z",
+    "updatedAt": "2026-08-02T04:00:00.000Z"
+  },
+  {
+    "id": "email-5740",
+    "title": "FW: Su comprobación ha sido aprobada",
+    "description": "Portal de gastos Excelencia notifica a Ricardo que su comprobación de gastos de AMEX (julio) por $7,044.70 MXN fue aprobada por José Enrique Taracena.\nObjeto: Notificar la autorización final del reporte de viáticos.\nInterpretación: Notificación administrativa sobre el reembolso de gastos.",
+    "source": "Correo: Portal de gastos Excelencia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-01T17:32:00.000Z",
+    "createdAt": "2026-08-02T04:00:00.000Z",
+    "updatedAt": "2026-08-02T04:00:00.000Z"
+  },
+  {
     "id": "email-5719",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 31 Jul 2026)",
     "description": "Teamwork envía a Ricardo Carmona el reporte automatizado de tareas diarias de la plataforma.\nObjeto: Monitorear el avance y pendientes de las obras y trámites regulatorios.\nInterpretación: Notificación automática del sistema de gestión de proyectos; solo para conocimiento y seguimiento de tiempos.",
