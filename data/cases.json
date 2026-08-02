@@ -20368,132 +20368,132 @@
   {
     "id": "email-5717",
     "title": "FW: Tu Estado de Cuenta en línea",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Tu Estado de Cuenta en línea.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "American Express informa a Ricardo sobre la disponibilidad de su Estado de Cuenta de la tarjeta corporativa.\nObjeto: Notificar la fecha límite de pago (10 de agosto).\nInterpretación: Correo administrativo; requiere programación de pago o control de gastos.",
+    "source": "Correo: American Express",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-31 09:31+00:00",
     "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T01:01:05.410Z"
+    "updatedAt": "2026-08-02T14:01:57.926Z"
   },
   {
     "id": "email-5716",
     "title": "Los incendios que golpean España, las incógnitas del informe PISA, el nuevo mapa del alquiler en Catalunya y mucho más…",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: Los incendios que golpean España, las incógnitas del informe PISA, el nuevo mapa del alquiler en Catalunya y mucho más….\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "La Vanguardia envía a Ricardo su newsletter informativo con noticias destacadas y contenido del club de suscriptores.\nObjeto: Compartir artículos de actualidad y promociones.\nInterpretación: Boletín informativo; no requiere acción operativa directa.",
+    "source": "Correo: La Vanguardia",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-31 08:03+00:00",
     "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T01:01:05.410Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5715",
     "title": "FW: CFDI de recibo electrónico de CARMONA MARCANO RICARDO ANDRES periodo 14 Quincenal 2026",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: CFDI de recibo electrónico de CARMONA MARCANO RICARDO ANDRES periodo 14 Quincenal 2026.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "El sistema de nómina envía a Ricardo su CFDI y recibo electrónico de la quincena 14 de 2026.\nObjeto: Entregar el comprobante fiscal y recibo de pago salarial.\nInterpretación: Documentación administrativa personal; archivar para control.",
+    "source": "Correo: AppExcelencia / NATGAS",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 23:41+00:00",
     "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T01:01:05.410Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5714",
     "title": "FW: Instalación de carrete Natgas Lázaro Cárdenas",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Instalación de carrete Natgas Lázaro Cárdenas.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "Alonso Samperio solicita a Marcos Fernando (con copia al equipo) la creación de un Flyer para comunicar una actividad.\nObjeto: Solicitar diseño informativo para un paro de estación programado para el 21 de agosto.\nInterpretación: Tarea de coordinación operativa y de comunicación; seguimiento requerido.",
+    "source": "Correo: Alonso Samperio Gayosso",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 22:55+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5713",
     "title": "FW: Instalación de carrete Natgas Lázaro Cárdenas",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Instalación de carrete Natgas Lázaro Cárdenas.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "Alonso Samperio confirma a Carlos Rafael Ruiz y al equipo la fecha para la instalación del carrete en la estación.\nObjeto: Confirmar que el paro será el jueves 21 de agosto de 9:00 a 11:00 y pedir aviso a clientes.\nInterpretación: Aviso operativo importante para la programación de trabajos y notificación a clientes.",
+    "source": "Correo: Alonso Samperio Gayosso",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 22:15+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5712",
     "title": "FW: Informe de mercado de hoy: 30 de julio 📈",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Informe de mercado de hoy: 30 de julio 📈.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "Naturgy México comparte con Ricardo el informe de mercado de gas natural correspondiente al 30 de julio.\nObjeto: Enviar resumen de indicadores y reporte de mercado actualizado.\nInterpretación: Boletín informativo operativo y comercial; útil para el monitoreo de mercado.",
+    "source": "Correo: Naturgy México",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 21:59+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5711",
     "title": "FW: New: Lower GPT-5.6 pricing and Fast mode for Sol",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: New: Lower GPT-5.6 pricing and Fast mode for Sol.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "OpenAI notifica a Ricardo sobre las nuevas reducciones de precios para GPT-5.6 y el modo rápido para el modelo Sol.\nObjeto: Informar sobre actualizaciones de productos y ajustes de tarifas en los servicios de API.\nInterpretación: Boletín informativo de proveedor tecnológico; no requiere acción inmediata.",
+    "source": "Correo: OpenAI",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 21:50+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5710",
     "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "Adrian Gonzalez de Gascorp comparte con Maria Jose Arcos y Ricardo una propuesta de texto para fianzas.\nObjeto: Enviar propuesta de redacción correspondiente al contrato firmado entre las empresas.\nInterpretación: Seguimiento legal y comercial; requiere revisión y eventual validación por parte del equipo.",
+    "source": "Correo: Adrian Gonzalez (Gascorp)",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 21:28+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5709",
     "title": "FW: Instalación de carrete Natgas Lázaro Cárdenas",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Instalación de carrete Natgas Lázaro Cárdenas.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "Norma Rodríguez de ENGIE confirma a Alonso Samperio y Ricardo su acuerdo con la fecha propuesta para la actividad de retiro.\nObjeto: Validar que el paro de estación se realice el jueves 21 de agosto de 9 a 11 am.\nInterpretación: Confirmación operativa interinstitucional; luz verde para la ejecución de los trabajos programados.",
+    "source": "Correo: Norma Rodríguez (ENGIE)",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 21:27+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5708",
     "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Oficio Información complementaria SEMARNAT - Biometano.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
+    "description": "Marcela Jasso de Proambisa envía a los equipos de VW y Natgas una tabla comentada en la reunión reciente.\nObjeto: Compartir la información complementaria para SEMARNAT sobre el proyecto de Biometano.\nInterpretación: Seguimiento regulatorio y de proyecto; requiere revisión para la gestión de trámites ambientales.",
+    "source": "Correo: Marcela Jasso (Proambisa)",
     "owner": "Ricardo",
     "status": "notsure",
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 20:45+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
+    "updatedAt": "2026-08-02T14:01:57.927Z"
   },
   {
     "id": "email-5707",
