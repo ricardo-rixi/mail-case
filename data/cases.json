@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5746",
+    "title": "FW: NXTVIEW Recordatorio de pago - NATGAS QUERETARO",
+    "description": "Alonso Samperio solicita a Grupo NXT confirmar si ya cargaron la factura por $147,275.84 MXN en el portal de pagos.\nObjeto: Dar seguimiento al recordatorio de cobro para evitar el bloqueo del servicio.\nInterpretación: Gestión administrativa de cobranza en curso; Ricardo se encuentra en copia para conocimiento.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-03T16:10:44.000Z",
+    "createdAt": "2026-08-03T17:06:28.885Z",
+    "updatedAt": "2026-08-03T17:06:28.888Z"
+  },
+  {
     "id": "email-5744",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Monday 03 Aug 2026)",
     "description": "Teamwork envía el informe diario de tareas y proyectos, incluyendo proyectos como Colón MTY y Descompresión.\nObjeto: Notificar el avance, tareas vencidas y tareas próximas.\nInterpretación: Reporte automatizado del sistema de gestión de proyectos; revisar seguimiento interno.",
