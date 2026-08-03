@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5744",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Monday 03 Aug 2026)",
+    "description": "Teamwork envía el informe diario de tareas y proyectos, incluyendo proyectos como Colón MTY y Descompresión.\nObjeto: Notificar el avance, tareas vencidas y tareas próximas.\nInterpretación: Reporte automatizado del sistema de gestión de proyectos; revisar seguimiento interno.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-03T14:00:00.000Z",
+    "createdAt": "2026-08-03T16:00:57.031137Z",
+    "updatedAt": "2026-08-03T16:00:57.031140Z"
+  },
+  {
+    "id": "email-5745",
+    "title": "FW: [Ya disponible] ¿Sus datos están listos para la IA agéntica?",
+    "description": "Amazon Web Services (AWS) envía un correo promocional con una guía sobre madurez de datos e IA agéntica.\nObjeto: Promover soluciones de AWS y la descarga de un eBook.\nInterpretación: Correo publicitario e informativo; no requiere acción operativa directa.",
+    "source": "Correo: Amazon Web Services",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-03T15:21:00.000Z",
+    "createdAt": "2026-08-03T16:00:57.030343Z",
+    "updatedAt": "2026-08-03T16:00:57.031127Z"
+  },
+  {
     "id": "email-5743",
     "title": "FW: 📊 Ranking best QBs in the NFL",
     "description": "Bleacher Report envía a Ricardo un boletín deportivo sobre clasificaciones de mariscales de campo en la NFL y noticias de la MLB.\nObjeto: Compartir noticias y clasificaciones deportivas.\nInterpretación: Boletín informativo de interés personal, sin relevancia operativa, archivar.",
