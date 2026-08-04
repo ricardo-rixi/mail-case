@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5798",
+    "title": "FW: Revisión Propuesta Pepsico",
+    "description": "José Enrique Taracena Sanz rechaza la invitación de la reunión y solicita reprogramarla a las 6:00 pm.\nObjeto: Reprogramar reunión de revisión de propuesta.\nInterpretación: Coordinación de agenda; requiere actualizar el calendario a la nueva hora solicitada.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T21:56:00.000Z",
+    "createdAt": "2026-08-04T22:01:07.177Z",
+    "updatedAt": "2026-08-04T22:01:07.177Z"
+  },
+  {
+    "id": "email-5797",
+    "title": "FW: Nat Gas, agiliza tus firmas con JAAK Cobre",
+    "description": "JAAK envía a Ricardo Carmona publicidad sobre paquetes de firmas electrónicas (paquete Cobre).\nObjeto: Promocionar servicios de firma electrónica.\nInterpretación: Correo publicitario y comercial; archivar sin relevancia para la operación.",
+    "source": "Correo: JAAK",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T21:26:00.000Z",
+    "createdAt": "2026-08-04T22:01:07.177Z",
+    "updatedAt": "2026-08-04T22:01:07.177Z"
+  },
+  {
+    "id": "email-5796",
+    "title": "FW: Contactos para resolutivo biometano",
+    "description": "Rosa Martha Manjarrez Trejo comparte a VW y equipo (Ricardo copiado) formatos, guías y el capítulo de vinculación normativa adaptado a biometano.\nObjeto: Entregar documentos de apoyo normativo para el trámite federal y ofrecer asesoría técnica.\nInterpretación: Seguimiento regulatorio crítico de proyecto; archivar información de referencia.",
+    "source": "Correo: Rosa Martha Manjarrez Trejo",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T20:36:00.000Z",
+    "createdAt": "2026-08-04T22:01:07.177Z",
+    "updatedAt": "2026-08-04T22:01:07.177Z"
+  },
+  {
+    "id": "email-5795",
+    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción NATGAS QUERETARO 2026-2027 (2).docx",
+    "description": "Adrian Gonzalez (Gascorp) notifica a Maria Jose Arcos y Ricardo Carmona que el draft de la fianza está en revisión.\nObjeto: Acusar recibo del borrador de fianza y confirmar revisión en proceso.\nInterpretación: Seguimiento legal y comercial; en espera de los comentarios de Gascorp.",
+    "source": "Correo: Adrian Gonzalez (Gascorp)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T20:03:00.000Z",
+    "createdAt": "2026-08-04T22:01:07.177Z",
+    "updatedAt": "2026-08-04T22:01:07.177Z"
+  },
+  {
     "id": "email-5794",
     "title": "FW: Revisión Propuesta Pepsico",
     "description": "Raúl Alberto Espejel Lozoya confirma a Ricardo Carmona su asistencia a la reunión \"Revisión Propuesta Pepsico\".\nObjeto: Confirmación de reunión en el calendario.\nInterpretación: Notificación automática de agenda; no requiere acción adicional por parte del usuario.",
