@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5799",
+    "title": "🦺 Your best defense against project disputes",
+    "description": "John de TeamGantt envía a Ricardo un boletín con recomendaciones sobre cómo prevenir disputas en proyectos mediante transparencia y documentación.\nObjeto: Promover las buenas prácticas y el uso de su plataforma de gestión de proyectos.\nInterpretación: Correo informativo y promocional; no requiere ninguna acción operativa directa y puede archivarse.",
+    "source": "Correo: John @ TeamGantt",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T22:04:00.000Z",
+    "createdAt": "2026-08-04T23:00:54.167Z",
+    "updatedAt": "2026-08-04T23:00:54.167Z"
+  },
+  {
+    "id": "email-5800",
+    "title": "FW: Informe de mercado de hoy: 04 de agosto 📈",
+    "description": "Naturgy México envía a Ricardo Carmona el informe de mercado de gas natural correspondiente al 04 de agosto.\nObjeto: Compartir el reporte actualizado del mercado para su descarga y consulta.\nInterpretación: Correo informativo comercial; útil para el monitoreo de indicadores de mercado y precios.",
+    "source": "Correo: Naturgy México",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T22:13:00.000Z",
+    "createdAt": "2026-08-04T23:00:54.167Z",
+    "updatedAt": "2026-08-04T23:00:54.167Z"
+  },
+  {
+    "id": "email-5801",
+    "title": "FW: Notas de Crédito - Waha negativo abril 2026",
+    "description": "Josue Meza Jimenez (Natgas) comparte con Erika Huerta (Engie) y equipo el fundamento legal para la emisión de un complemento de pago por compensación.\nObjeto: Justificar la aplicación de notas de crédito por el índice Waha negativo de abril 2026.\nInterpretación: Seguimiento administrativo y contable con proveedor estratégico; requiere archivo y consideración en procesos de pago.",
+    "source": "Correo: Josue Meza Jimenez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T22:49:00.000Z",
+    "createdAt": "2026-08-04T23:00:54.167Z",
+    "updatedAt": "2026-08-04T23:00:54.167Z"
+  },
+  {
     "id": "email-5798",
     "title": "FW: Revisión Propuesta Pepsico",
     "description": "José Enrique Taracena Sanz rechaza la invitación de la reunión y solicita reprogramarla a las 6:00 pm.\nObjeto: Reprogramar reunión de revisión de propuesta.\nInterpretación: Coordinación de agenda; requiere actualizar el calendario a la nueva hora solicitada.",
