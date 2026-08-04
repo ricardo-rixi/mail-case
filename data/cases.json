@@ -2,6 +2,19 @@
   {
     "id": "email-5769",
     "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
+    "description": "Alejandra Cruz Saldaña notifica a múltiples equipos internos y de VW el progreso del trámite ambiental (oficio de SEMARNAT) para el proyecto Biometano.\nObjeto: Discutir en reunión de Teams la información complementaria a ingresar a la autoridad.\nInterpretación: Notificación de trámite crítico que requiere alineación exclusiva a través del equipo principal del proyecto de Volkswagen.",
+    "source": "Correo: Alejandra Cruz Saldaña",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T00:35:00.000Z",
+    "createdAt": "2026-08-04T02:00:00.000Z",
+    "updatedAt": "2026-08-04T02:00:00.000Z"
+  },
+  {
+    "id": "email-5769",
+    "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
     "description": "Hugo Sanchez (VW) solicita a David Moreno participar en la reunión ya que la información presentada previamente no fue suficiente para SEMARNAT.\nObjeto: Requerir la participación de David Moreno en la junta aclaratoria.\nInterpretación: Intercambio técnico de seguimiento para el proyecto Biometano VW; prepararse para la reunión.",
     "source": "Correo: Sanchez Cabrera, Hugo (VW)",
     "owner": "Ricardo",
