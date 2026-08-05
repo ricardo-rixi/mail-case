@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5802",
+    "title": "FW: Revisión Propuesta Pepsico",
+    "description": "José Enrique Taracena Sanz acepta la invitación a la reunión \"Revisión Propuesta Pepsico\" reprogramada para las 6:00 PM.\nObjeto: Confirmar su asistencia a la reunión de Teams.\nInterpretación: Confirmación automática de calendario; no requiere acción operativa.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T23:07:00.000Z",
+    "createdAt": "2026-08-05T01:01:04.276Z",
+    "updatedAt": "2026-08-05T01:01:04.276Z"
+  },
+  {
+    "id": "email-5803",
+    "title": "FW: Revisión Propuesta Pepsico",
+    "description": "David Domínguez confirma su asistencia a la reunión \"Revisión Propuesta Pepsico\" reprogramada para las 6:00 PM.\nObjeto: Aceptar la invitación a la reunión en Microsoft Teams.\nInterpretación: Confirmación automática de calendario; no requiere acción operativa.",
+    "source": "Correo: David Domínguez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T00:00:00.000Z",
+    "createdAt": "2026-08-05T01:01:04.276Z",
+    "updatedAt": "2026-08-05T01:01:04.276Z"
+  },
+  {
+    "id": "email-5804",
+    "title": "FW: Reaction Daily Digest - Tuesday, August 4, 2026",
+    "description": "Microsoft Outlook envía un resumen diario de reacciones, indicando que Mariana Sanchez Mejia reaccionó a un mensaje de Ricardo sobre spreads de Engie.\nObjeto: Notificar la actividad reciente en correos.\nInterpretación: Notificación automática de sistema; no requiere acción adicional.",
+    "source": "Correo: Microsoft Outlook",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T00:47:00.000Z",
+    "createdAt": "2026-08-05T01:01:04.275Z",
+    "updatedAt": "2026-08-05T01:01:04.276Z"
+  },
+  {
     "id": "email-5799",
     "title": "🦺 Your best defense against project disputes",
     "description": "John de TeamGantt envía a Ricardo un boletín con recomendaciones sobre cómo prevenir disputas en proyectos mediante transparencia y documentación.\nObjeto: Promover las buenas prácticas y el uso de su plataforma de gestión de proyectos.\nInterpretación: Correo informativo y promocional; no requiere ninguna acción operativa directa y puede archivarse.",
