@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5814",
+    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción NATGAS QUERETARO 2026-2027 (2).docx",
+    "description": "Notificación de firma electrónica completada en DocuSign.\nObjeto: Confirmación de Transacción NATGAS QUERETARO 2026-2027.\nInterpretación: Documento administrativo finalizado; archivar para registros contractuales.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T15:36:00.000Z",
+    "createdAt": "2026-08-05T16:00:36.498Z",
+    "updatedAt": "2026-08-05T16:00:36.520Z"
+  },
+  {
+    "id": "email-5813",
+    "title": "FW: 🔥 Unidades seminuevas con hasta 30% de descuento",
+    "description": "Publicidad de unidades seminuevas con descuentos del 30%.\nObjeto: Venta y promoción de vehículos.\nInterpretación: Correo promocional automotriz; probablemente archivar o eliminar.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T15:20:00.000Z",
+    "createdAt": "2026-08-05T16:00:36.520Z",
+    "updatedAt": "2026-08-05T16:00:36.520Z"
+  },
+  {
+    "id": "email-5812",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Aviso de la plataforma de comunicación interna sobre una nueva publicación o novedad en la empresa.\nObjeto: Notificar actualizaciones del boletín interno.\nInterpretación: Comunicación general de recursos humanos o empresa; leer o archivar.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T15:11:00.000Z",
+    "createdAt": "2026-08-05T16:00:36.520Z",
+    "updatedAt": "2026-08-05T16:00:36.520Z"
+  },
+  {
+    "id": "email-5811",
+    "title": "FW: Your heavy-duty training discount is about to expire",
+    "description": "Aviso sobre la expiración próxima de un descuento para capacitaciones o entrenamiento.\nObjeto: Promoción de cursos y entrenamientos.\nInterpretación: Correo promocional y de marketing; archivar si no hay interés en la capacitación.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T14:32:00.000Z",
+    "createdAt": "2026-08-05T16:00:36.520Z",
+    "updatedAt": "2026-08-05T16:00:36.520Z"
+  },
+  {
     "id": "email-5810",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 05 Aug 2026)",
     "description": "Teamwork envía a Ricardo Carmona el informe diario automatizado de avance de proyectos y tareas. Objeto: Notificar el estado de las asignaciones en NATGAS QUERETARO SAPI DE CV. Interpretación: Reporte informativo del sistema de gestión; archivar o revisar para control de seguimiento.",
