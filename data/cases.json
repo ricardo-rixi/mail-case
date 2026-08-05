@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5807",
+    "title": "FW: Account Past Due Summary",
+    "description": "Solicitud/Reporte de Ricardo Andrés Carmona Marcano a Ricardo.\nObjeto: FW: Account Past Due Summary\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05 10:02+00:00",
+    "createdAt": "2026-08-05T13:00:00.000Z",
+    "updatedAt": "2026-08-05T13:00:00.000Z"
+  },
+  {
+    "id": "email-5808",
+    "title": "FW: ☕️ New anonymous QB tea",
+    "description": "Solicitud/Reporte de Ricardo Andrés Carmona Marcano a Ricardo.\nObjeto: FW: ☕️ New anonymous QB tea\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05 12:06+00:00",
+    "createdAt": "2026-08-05T13:00:00.000Z",
+    "updatedAt": "2026-08-05T13:00:00.000Z"
+  },
+  {
     "id": "email-5806",
     "title": "FW: Comprobante Fiscal DG114188",
     "description": "Diavazgas envía comprobante fiscal (CFDI) a Ricardo y al equipo de Natgas Queretaro.\nObjeto: Notificar emisión de comprobante.\nInterpretación: Documento contable/administrativo automatizado.",
