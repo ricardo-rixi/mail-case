@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5791",
+    "title": "FW: 👀 Tenemos una sorpresa para tu Web App",
+    "description": "Numaris envía a Ricardo Carmona un boletín informativo anunciando el rediseño completo de su plataforma de gestión de flotas, disponible a partir del 5 de agosto.\nObjeto: Notificar la actualización de la plataforma 'Nueva Vista' que incluye nuevos módulos operativos.\nInterpretación: Boletín informativo sobre herramientas tecnológicas; no requiere acción operativa inmediata.",
+    "source": "Correo: Numaris",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T18:02:00.000Z",
+    "createdAt": "2026-08-05T02:02:00.000Z",
+    "updatedAt": "2026-08-05T02:02:00.000Z"
+  },
+  {
     "id": "email-5802",
     "title": "FW: Revisión Propuesta Pepsico",
     "description": "José Enrique Taracena Sanz acepta la invitación a la reunión \"Revisión Propuesta Pepsico\" reprogramada para las 6:00 PM.\nObjeto: Confirmar su asistencia a la reunión de Teams.\nInterpretación: Confirmación automática de calendario; no requiere acción operativa.",
