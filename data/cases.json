@@ -23666,5 +23666,70 @@
     "receivedAt": "2026-08-05 20:27+00:00",
     "createdAt": "2026-08-05T22:00:48.665Z",
     "updatedAt": "2026-08-05T22:00:48.665Z"
+  },
+  {
+    "id": "email-5824",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico notifica a Ricardo las variaciones de los índices mensuales (HSCH) para la estación en San Juan del Río.\nObjeto: Transparencia sobre costos de energía y variaciones de mercado.\nInterpretación: Documento informativo comercial y financiero; archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T20:27:07.000Z",
+    "createdAt": "2026-08-05T23:01:23.549Z",
+    "updatedAt": "2026-08-05T23:01:23.549Z"
+  },
+  {
+    "id": "email-5825",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico notifica a Ricardo las variaciones de los índices mensuales (HSCH) para la estación en Santiago de Querétaro.\nObjeto: Transparencia sobre costos de energía y variaciones de mercado.\nInterpretación: Documento informativo comercial y financiero; archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T20:27:12.000Z",
+    "createdAt": "2026-08-05T23:01:23.549Z",
+    "updatedAt": "2026-08-05T23:01:23.549Z"
+  },
+  {
+    "id": "email-5826",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico notifica a Ricardo las variaciones de los índices mensuales (HSCH) para la estación en Querétaro.\nObjeto: Transparencia sobre costos de energía y variaciones de mercado.\nInterpretación: Documento informativo comercial y financiero; archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T20:27:14.000Z",
+    "createdAt": "2026-08-05T23:01:23.549Z",
+    "updatedAt": "2026-08-05T23:01:23.549Z"
+  },
+  {
+    "id": "email-5827",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico notifica a Ricardo las variaciones de los índices mensuales (HSCH) para otra estación en Santiago de Querétaro.\nObjeto: Transparencia sobre costos de energía y variaciones de mercado.\nInterpretación: Documento informativo comercial y financiero; archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T20:27:16.000Z",
+    "createdAt": "2026-08-05T23:01:23.549Z",
+    "updatedAt": "2026-08-05T23:01:23.549Z"
+  },
+  {
+    "id": "email-5828",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico notifica a Ricardo las variaciones de los índices mensuales (HSCH) para la estación en Guadalajara.\nObjeto: Transparencia sobre costos de energía y variaciones de mercado.\nInterpretación: Documento informativo comercial y financiero; archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T20:27:09.000Z",
+    "createdAt": "2026-08-05T23:01:23.549Z",
+    "updatedAt": "2026-08-05T23:01:23.549Z"
   }
 ]
