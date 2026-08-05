@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5810",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 05 Aug 2026)",
+    "description": "Teamwork envía a Ricardo Carmona el informe diario automatizado de avance de proyectos y tareas. Objeto: Notificar el estado de las asignaciones en NATGAS QUERETARO SAPI DE CV. Interpretación: Reporte informativo del sistema de gestión; archivar o revisar para control de seguimiento.",
+    "source": "Correo: NATGAS QUERETARO SAPI DE CV Reports",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T14:00:00.000Z",
+    "createdAt": "2026-08-05T14:01:03.294Z",
+    "updatedAt": "2026-08-05T14:01:03.294Z"
+  },
+  {
+    "id": "email-5809",
+    "title": "FW: Hoja de ruta para la innovación en bases de datos: la base para tu futuro con IA de agentes",
+    "description": "Google Cloud envía a Ricardo Carmona una invitación a un seminario web sobre estrategias de bases de datos para IA. Objeto: Promocionar soluciones tecnológicas y capacitación en la nube. Interpretación: Correo informativo y promocional; no requiere ninguna acción operativa directa y puede archivarse.",
+    "source": "Correo: Google Cloud",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T13:21:00.000Z",
+    "createdAt": "2026-08-05T14:01:03.294Z",
+    "updatedAt": "2026-08-05T14:01:03.294Z"
+  },
+  {
     "id": "email-5807",
     "title": "FW: Account Past Due Summary",
     "description": "Solicitud/Reporte de Ricardo Andrés Carmona Marcano a Ricardo.\nObjeto: FW: Account Past Due Summary\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
