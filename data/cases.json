@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5773",
+    "title": "FW: ⚾️ Post-deadline power rankings",
+    "description": "Bleacher Report envía a Ricardo Andrés Carmona Marcano su newsletter deportivo con actualizaciones de MLB y NFL.\nObjeto: Compartir noticias, rankings y artículos deportivos de actualidad.\nInterpretación: Boletín informativo y promocional; no requiere ninguna acción operativa.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T12:17:00.000Z",
+    "createdAt": "2026-08-05T20:01:27.102Z",
+    "updatedAt": "2026-08-05T20:01:27.103Z"
+  },
+  {
+    "id": "email-5772",
+    "title": "In case you missed it: Download the Powering Africa Summit 2026 Post-Show Report",
+    "description": "Powering Africa Summit envía a Ricardo el reporte posterior al evento celebrado en marzo de 2026.\nObjeto: Proveer el informe sobre discusiones de infraestructura energética, minerales críticos e inversiones.\nInterpretación: Boletín informativo de evento del sector; archivar, no requiere seguimiento directo.",
+    "source": "Correo: Powering Africa Summit",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T09:05:00.000Z",
+    "createdAt": "2026-08-05T20:01:27.103Z",
+    "updatedAt": "2026-08-05T20:01:27.103Z"
+  },
+  {
+    "id": "email-5771",
+    "title": "La mejor oferta para suscribirte",
+    "description": "La Vanguardia notifica a Ricardo sobre una promoción de suscripción digital por dos años.\nObjeto: Ofrecer una tarifa especial para acceder a los contenidos del periódico.\nInterpretación: Correo comercial y publicitario automatizado; irrelevante para el negocio, archivar.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T08:03:00.000Z",
+    "createdAt": "2026-08-05T20:01:27.103Z",
+    "updatedAt": "2026-08-05T20:01:27.103Z"
+  },
+  {
+    "id": "email-5770",
+    "title": "FW: El auténtico Zarandeado de Bahía de Banderas ya está aquí.",
+    "description": "La Mariskeña (reenviado por Ricardo Andrés Carmona Marcano) envía información sobre su nuevo platillo al correo de Ricardo.\nObjeto: Promocionar el menú de Pescado Zarandeado e invitar a realizar reservaciones.\nInterpretación: Correo publicitario de restaurante; sin relevancia operativa para el negocio.",
+    "source": "Correo: LA MARISKEÑA",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-04T06:59:00.000Z",
+    "createdAt": "2026-08-05T20:01:27.103Z",
+    "updatedAt": "2026-08-05T20:01:27.103Z"
+  },
+  {
     "id": "email-5823",
     "title": "FW: Comprobante Fiscal DG114399",
     "description": "Diavazgas envía de manera automatizada a Ricardo y al equipo de Natgas el comprobante fiscal DG114399.\nObjeto: Entrega de factura electrónica (CFDI) correspondiente a servicios o suministros.\nInterpretación: Documento administrativo y contable automatizado; requiere canalización a Cuentas por Pagar.",
