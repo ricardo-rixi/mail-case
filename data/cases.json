@@ -23952,5 +23952,57 @@
     "receivedAt": "2026-08-05T20:27:09.000Z",
     "createdAt": "2026-08-05T23:01:23.549Z",
     "updatedAt": "2026-08-05T23:01:23.549Z"
+  },
+  {
+    "id": "email-5844",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Thursday 06 Aug 2026)",
+    "description": "Teamwork envía a Ricardo el informe diario automatizado de tareas abiertas, cerradas y vencidas de los proyectos en NATGAS QUERETARO SAPI DE CV.\nObjeto: Actualizar el estado de proyectos como Descompresión y Comercialización.\nInterpretación: Correo de sistema automático; requiere revisión rápida por el equipo para el seguimiento de actividades.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T14:00:04.000Z",
+    "createdAt": "2026-08-06T14:02:37.898Z",
+    "updatedAt": "2026-08-06T14:02:37.899Z"
+  },
+  {
+    "id": "email-5843",
+    "title": "FW: PRESENTACION BBOX PAN AMERICANO",
+    "description": "Juan Daniel Carreño de Servicio Pan Americano contacta a NATGAS para presentar \"Brink's Box\", una solución para acreditación diaria de efectivo.\nObjeto: Solicitar una reunión para mostrar sus productos y servicios de administración de valores.\nInterpretación: Oferta comercial externa; evaluar si existe interés corporativo para agendar la cita o descartar.",
+    "source": "Correo: Juan Daniel Carreño González",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T13:48:03.000Z",
+    "createdAt": "2026-08-06T14:02:37.899Z",
+    "updatedAt": "2026-08-06T14:02:37.899Z"
+  },
+  {
+    "id": "email-5836",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico (LATMX-Notificacion Operativa) envía a Ricardo el reporte del Índice Bidweek (HSCH) y Tipo de Cambio para la estación Monterrey-Nuevo León.\nObjeto: Compartir las variaciones de los índices mensuales de mercado para transparencia en costos de energía.\nInterpretación: Documento informativo comercial y financiero; requiere archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T14:38:27.000Z",
+    "createdAt": "2026-08-06T14:02:37.899Z",
+    "updatedAt": "2026-08-06T14:02:37.899Z"
+  },
+  {
+    "id": "email-5835",
+    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
+    "description": "ENGIE Mexico (LATMX-Notificacion Operativa) envía a Ricardo el reporte del Índice Bidweek (HSCH) y Tipo de Cambio para la estación Zapopan-Jalisco.\nObjeto: Compartir las variaciones de los índices mensuales de mercado para transparencia en costos de energía.\nInterpretación: Documento informativo comercial y financiero; requiere archivar para conciliaciones.",
+    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-05T14:38:21.000Z",
+    "createdAt": "2026-08-06T14:02:37.899Z",
+    "updatedAt": "2026-08-06T14:02:37.899Z"
   }
 ]
