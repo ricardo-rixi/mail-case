@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5842",
+    "title": "FW: 📋 NFL's top 1,000 players, ranked",
+    "description": "Bleacher Report envía su boletín deportivo (reenviado por Ricardo Andrés Carmona Marcano) con noticias y rankings de la NFL y MLB.\nObjeto: Boletín informativo deportivo y promocional.\nInterpretación: Suscripción a contenido de entretenimiento; archivar sin acción requerida.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T12:08:00.000Z",
+    "createdAt": "2026-08-06T13:01:13.313Z",
+    "updatedAt": "2026-08-06T13:01:13.314Z"
+  },
+  {
+    "id": "email-5841",
+    "title": "FW: Your Power BI digest: Top picks and favorites",
+    "description": "Microsoft Power BI envía un resumen automatizado (reenviado por Ricardo Andrés) sobre cambios recientes en los reportes más visitados de la organización (Balance de gas, Ventas vs presupuesto, etc).\nObjeto: Resumen de actividad de Power BI.\nInterpretación: Notificación automática del sistema para mantenerse actualizado; revisar reportes de ser necesario o archivar.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T05:38:00.000Z",
+    "createdAt": "2026-08-06T13:01:13.314Z",
+    "updatedAt": "2026-08-06T13:01:13.314Z"
+  },
+  {
     "id": "email-5840",
     "title": "FW: CONSUMO CFE JULIO",
     "description": "Andrea Bautista comparte con el equipo los recibos de consumo eléctrico de CFE del mes de julio. Queda pendiente el envío del XML de EDS SJR.\nObjeto: Compartir recibos de CFE.\nInterpretación: Documentos administrativos recibidos, pendientes de revisión y archivo.",
