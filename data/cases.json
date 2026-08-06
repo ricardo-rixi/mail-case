@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5870",
+    "title": "FW: AVISO: Comunicado Mantenimientos próximos mantenimientos programados - GRUPO NATGAS",
+    "description": "Abraham Benegasi (Naturgy) comparte con Alonso Samperio y Ricardo Carmona la programación de próximos mantenimientos sin interrupción de suministro.\nObjeto: Notificar fechas de mantenimiento en estaciones.\nInterpretación: Aviso operativo técnico; archivar para conocimiento del equipo.",
+    "source": "Correo: Abraham Benegasi (Naturgy)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T21:25:00.000Z",
+    "createdAt": "2026-08-06T22:00:48.750Z",
+    "updatedAt": "2026-08-06T22:00:48.750Z"
+  },
+  {
+    "id": "email-5869",
+    "title": "FW: Tu código de un solo uso",
+    "description": "Microsoft envía un código de seguridad de un solo uso para el acceso a la cuenta de Ricardo.\nObjeto: Entregar código OTP para autenticación.\nInterpretación: Correo automatizado de seguridad; archivar.",
+    "source": "Correo: Equipo de cuentas Microsoft",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T21:12:00.000Z",
+    "createdAt": "2026-08-06T22:00:48.750Z",
+    "updatedAt": "2026-08-06T22:00:48.750Z"
+  },
+  {
+    "id": "email-5868",
+    "title": "FW: SEGUIMIENTO: Recepción de Facturas Naturgy - GRUPO NATGAS",
+    "description": "Abraham Benegasi (Naturgy) informa a Alonso Samperio que enviará un instructivo para que los usuarios se den de alta en la oficina virtual y consulten las facturas.\nObjeto: Dar seguimiento a la recepción de facturas de Naturgy mediante alta en portal.\nInterpretación: Comunicación administrativa de proveedor; archivar y esperar instructivo.",
+    "source": "Correo: Abraham Benegasi (Naturgy)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T20:26:00.000Z",
+    "createdAt": "2026-08-06T22:00:48.750Z",
+    "updatedAt": "2026-08-06T22:00:48.750Z"
+  },
+  {
     "id": "email-5859",
     "title": "FW: Cromatografía Querétaro julio 2026",
     "description": "Eduardo Aguilar (ENGIE) comparte con Alonso Samperio y el equipo la cromatografía (calidad del gas) correspondiente al mes de julio.\nObjeto: Entregar reporte mensual de calidad de gas.\nInterpretación: Documentación técnica operativa; archivar para registros de calidad y conciliaciones.",
