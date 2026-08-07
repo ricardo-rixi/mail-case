@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5879",
+    "title": "FW: 🫥 What happened to Cal Raleigh?",
+    "description": "Ricardo Andrés Carmona Marcano reenvía a Ricardo el boletín deportivo de Bleacher Report.\nObjeto: Noticias deportivas enfocadas en béisbol (Cal Raleigh) y fútbol americano.\nInterpretación: Boletín informativo y promocional; no requiere acción operativa directa.",
+    "source": "Correo: undefined",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-07 12:12+00:00",
+    "createdAt": "2026-08-07T13:00:43.098Z",
+    "updatedAt": "2026-08-07T13:00:43.100Z"
+  },
+  {
+    "id": "email-5878",
+    "title": "FW: Ads Share of Voice with By Frequency Playlists 📢",
+    "description": "Ricardo Andrés Carmona Marcano reenvía a Ricardo el boletín de OnSign.\nObjeto: Actualizaciones de la plataforma OnSign (Ads Share of Voice, nueva interfaz de programación).\nInterpretación: Boletín informativo de proveedor tecnológico; archivar, no requiere acción inmediata.",
+    "source": "Correo: undefined",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-07 12:03+00:00",
+    "createdAt": "2026-08-07T13:00:43.100Z",
+    "updatedAt": "2026-08-07T13:00:43.100Z"
+  },
+  {
+    "id": "email-5877",
+    "title": "Una semana después de Ceuta, claves para disfrutar el eclipse solar, la amenaza mundial de 'El Niño' y mucho más…",
+    "description": "La Vanguardia envía a Ricardo su boletín de noticias y una promoción de suscripción.\nObjeto: Resumen de artículos (Ceuta, eclipse solar, El Niño) y oferta del club.\nInterpretación: Boletín de noticias; no requiere acción operativa directa.",
+    "source": "Correo: undefined",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-07 08:03+00:00",
+    "createdAt": "2026-08-07T13:00:43.100Z",
+    "updatedAt": "2026-08-07T13:00:43.100Z"
+  },
+  {
     "id": "email-5876",
     "title": "FW: Informe de mercado de hoy: 06 de agosto 📈",
     "description": "Naturgy México envía a Ricardo Carmona el informe de mercado de gas natural correspondiente al 06 de agosto de 2026.\nObjeto: Compartir el reporte diario de mercado.\nInterpretación: Boletín informativo comercial; archivar para fines de seguimiento del mercado.",
@@ -182,84 +221,6 @@
     "updatedAt": "2026-08-07T02:01:35.618Z"
   },
   {
-    "id": "email-5876",
-    "title": "FW: Informe de mercado de hoy: 06 de agosto 📈",
-    "description": "Naturgy México envía a Ricardo Carmona el informe de mercado de gas natural del 6 de agosto.\nObjeto: Compartir reporte de mercado.\nInterpretación: Correo informativo comercial periódico; útil para monitorear precios.",
-    "source": "Correo: Naturgy México",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T23:47:00.000Z",
-    "createdAt": "2026-08-07T01:01:01.795Z",
-    "updatedAt": "2026-08-07T01:01:01.795Z"
-  },
-  {
-    "id": "email-5875",
-    "title": "FW: Recepción de Facturas Diavaz",
-    "description": "Nurit Samaniego (Diavaz) confirma a Noel Delgado y equipo Natgas que se agregaron los correos solicitados.\nObjeto: Confirmar actualización de contactos de facturación.\nInterpretación: Cierre de trámite administrativo con proveedor; archivar.",
-    "source": "Correo: Nurit Samaniego (Diavaz)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T23:31:00.000Z",
-    "createdAt": "2026-08-07T01:01:01.795Z",
-    "updatedAt": "2026-08-07T01:01:01.795Z"
-  },
-  {
-    "id": "email-5874",
-    "title": "FW: Recepción de Facturas Diavaz",
-    "description": "Noel Delgado (Diavaz) instruye internamente a sus compañeros de facturación agregar los correos solicitados por Natgas.\nObjeto: Actualizar destinatarios de facturación.\nInterpretación: Trámite administrativo en proceso; no requiere acción de Ricardo.",
-    "source": "Correo: Noel Delgado (Diavaz)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T23:29:00.000Z",
-    "createdAt": "2026-08-07T01:01:01.795Z",
-    "updatedAt": "2026-08-07T01:01:01.795Z"
-  },
-  {
-    "id": "email-5873",
-    "title": "FW: ¡Les damos la más cordial bienvenida a GasCorp Natural Energy, NATGAS QUERÉTARO!",
-    "description": "Gustavo Monroy (GasCorp) da la bienvenida a Natgas como cliente y presenta al equipo de soporte y contactos.\nObjeto: Establecer canales de comunicación formales.\nInterpretación: Presentación comercial y administrativa crítica; guardar datos de contacto.",
-    "source": "Correo: Gustavo Monroy (GasCorp)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T22:51:00.000Z",
-    "createdAt": "2026-08-07T01:01:01.795Z",
-    "updatedAt": "2026-08-07T01:01:01.795Z"
-  },
-  {
-    "id": "email-5872",
-    "title": "FW: Cromatografía Mexicana de Gas julio 2026",
-    "description": "Alberto Reyes (Diavaz) envía a Alonso Samperio y equipo la cromatografía de julio para Apodaca y Universidad.\nObjeto: Entregar reportes de calidad de gas.\nInterpretación: Documentación técnica operativa recibida; archivar para registros y conciliaciones.",
-    "source": "Correo: Alberto Reyes (Diavaz)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T22:16:00.000Z",
-    "createdAt": "2026-08-07T01:01:01.795Z",
-    "updatedAt": "2026-08-07T01:01:01.795Z"
-  },
-  {
-    "id": "email-5871",
-    "title": "FW: Comunicación Interna publicó una novedad importante",
-    "description": "Humand notifica a Ricardo que Natgas fue reconocida como TOP Companies para Mujeres 2026.\nObjeto: Informar logro corporativo.\nInterpretación: Boletín interno informativo; archivar o leer para conocimiento corporativo.",
-    "source": "Correo: Humand (Comunicación Interna)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T22:04:00.000Z",
-    "createdAt": "2026-08-07T01:01:01.795Z",
-    "updatedAt": "2026-08-07T01:01:01.795Z"
-  },
-  {
     "id": "email-5849",
     "title": "FW: Cromatografía México julio 2026",
     "description": "Nuevo correo de Ricardo Andrés Carmona Marcano a Ricardo Carmona.\nObjeto: FW: Cromatografía México julio 2026.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
@@ -390,45 +351,6 @@
     "updatedAt": "2026-08-06T23:01:58.119Z"
   },
   {
-    "id": "email-5870",
-    "title": "FW: AVISO: Comunicado Mantenimientos próximos mantenimientos programados - GRUPO NATGAS",
-    "description": "Abraham Benegasi (Naturgy) comparte con Alonso Samperio y Ricardo Carmona la programación de próximos mantenimientos sin interrupción de suministro.\nObjeto: Notificar fechas de mantenimiento en estaciones.\nInterpretación: Aviso operativo técnico; archivar para conocimiento del equipo.",
-    "source": "Correo: Abraham Benegasi (Naturgy)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T21:25:00.000Z",
-    "createdAt": "2026-08-06T22:00:48.750Z",
-    "updatedAt": "2026-08-06T22:00:48.750Z"
-  },
-  {
-    "id": "email-5869",
-    "title": "FW: Tu código de un solo uso",
-    "description": "Microsoft envía un código de seguridad de un solo uso para el acceso a la cuenta de Ricardo.\nObjeto: Entregar código OTP para autenticación.\nInterpretación: Correo automatizado de seguridad; archivar.",
-    "source": "Correo: Equipo de cuentas Microsoft",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T21:12:00.000Z",
-    "createdAt": "2026-08-06T22:00:48.750Z",
-    "updatedAt": "2026-08-06T22:00:48.750Z"
-  },
-  {
-    "id": "email-5868",
-    "title": "FW: SEGUIMIENTO: Recepción de Facturas Naturgy - GRUPO NATGAS",
-    "description": "Abraham Benegasi (Naturgy) informa a Alonso Samperio que enviará un instructivo para que los usuarios se den de alta en la oficina virtual y consulten las facturas.\nObjeto: Dar seguimiento a la recepción de facturas de Naturgy mediante alta en portal.\nInterpretación: Comunicación administrativa de proveedor; archivar y esperar instructivo.",
-    "source": "Correo: Abraham Benegasi (Naturgy)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T20:26:00.000Z",
-    "createdAt": "2026-08-06T22:00:48.750Z",
-    "updatedAt": "2026-08-06T22:00:48.750Z"
-  },
-  {
     "id": "email-5859",
     "title": "FW: Cromatografía Querétaro julio 2026",
     "description": "Eduardo Aguilar (ENGIE) comparte con Alonso Samperio y el equipo la cromatografía (calidad del gas) correspondiente al mes de julio.\nObjeto: Entregar reporte mensual de calidad de gas.\nInterpretación: Documentación técnica operativa; archivar para registros de calidad y conciliaciones.",
@@ -533,19 +455,6 @@
     "updatedAt": "2026-08-06T20:02:55.490Z"
   },
   {
-    "id": "email-5867",
-    "title": "FW: VERIFICACION DSP 2 Y 4 OCA",
-    "description": "Alonso Samperio instruye a José Maximiliano Alvarado para corregir los informes de verificación (OCA, CEMEX, MAL) usando la versión más reciente del formato.\nObjeto: Señalar errores en certificados (Factor Medidor) y solicitar retrabajo.\nInterpretación: Seguimiento operativo y de calidad; requiere monitoreo hasta recibir las versiones corregidas.",
-    "source": "Correo: Alonso Samperio Gayosso",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T20:01:03.000Z",
-    "createdAt": "2026-08-06T20:02:55.490Z",
-    "updatedAt": "2026-08-06T20:02:55.490Z"
-  },
-  {
     "id": "email-5842",
     "title": "FW: 📋 NFL's top 1,000 players, ranked",
     "description": "Bleacher Report envía su boletín deportivo (reenviado por Ricardo Andrés Carmona Marcano) con noticias y rankings de la NFL y MLB.\nObjeto: Boletín informativo deportivo y promocional.\nInterpretación: Suscripción a contenido de entretenimiento; archivar sin acción requerida.",
@@ -637,58 +546,6 @@
     "updatedAt": "2026-08-06T05:01:35.546Z"
   },
   {
-    "id": "email-5840",
-    "title": "FW: CONSUMO CFE JULIO",
-    "description": "Andrea Bautista comparte los recibos de consumo eléctrico (CFE) de julio para diversas estaciones.\nObjeto: Entregar la facturación eléctrica mensual para revisión y registro.\nInterpretación: Documentos operativos y administrativos; canalizar para análisis y pago.",
-    "source": "Correo: Andrea Bautista Mercado",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06T00:29:42.000Z",
-    "createdAt": "2026-08-06T01:00:00.000Z",
-    "updatedAt": "2026-08-06T01:00:00.000Z"
-  },
-  {
-    "id": "email-5839",
-    "title": "FW: PRESUPUESTO 2027 PLAN DE TRABAJO",
-    "description": "Mariana Sanchez invita a una reunión en Teams el 14 de agosto para discutir el plan de trabajo del Presupuesto 2027.\nObjeto: Agendar revisión del plan de trabajo presupuestal.\nInterpretación: Coordinación administrativa; confirmar asistencia y preparar información.",
-    "source": "Correo: Mariana Sanchez Mejia",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": "2026-08-14T12:00:00.000Z",
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T23:47:28.000Z",
-    "createdAt": "2026-08-06T01:00:00.000Z",
-    "updatedAt": "2026-08-06T01:00:00.000Z"
-  },
-  {
-    "id": "email-5838",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "ENGIE Mexico notifica los índices Bidweek y tipo de cambio aplicables a Natgasmex.\nObjeto: Informar las variaciones de índices de mercado mensuales aplicables al contrato.\nInterpretación: Información comercial y financiera crítica; registrar para cálculo de costos.",
-    "source": "Correo: ENGIE Mexico",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T21:52:00.000Z",
-    "createdAt": "2026-08-06T01:00:00.000Z",
-    "updatedAt": "2026-08-06T01:00:00.000Z"
-  },
-  {
-    "id": "email-5837",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "ENGIE Mexico notifica los índices Bidweek y tipo de cambio aplicables a los contratos.\nObjeto: Informar las variaciones de índices de mercado.\nInterpretación: Información comercial y financiera; archivar o revisar para control de costos.",
-    "source": "Correo: ENGIE Mexico",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T20:40:00.000Z",
-    "createdAt": "2026-08-06T01:00:00.000Z",
-    "updatedAt": "2026-08-06T01:00:00.000Z"
-  },
-  {
     "id": "email-5836",
     "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
     "description": "ENGIE Mexico notifica los índices Bidweek y tipo de cambio aplicables a los contratos.\nObjeto: Informar las variaciones de índices de mercado.\nInterpretación: Información comercial y financiera; archivar o revisar para control de costos.",
@@ -724,19 +581,6 @@
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-08-05T20:37:00.000Z",
-    "createdAt": "2026-08-06T01:00:00.000Z",
-    "updatedAt": "2026-08-06T01:00:00.000Z"
-  },
-  {
-    "id": "email-5833",
-    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
-    "description": "Maria Luisa Torrijos confirma el cronograma para los levantamientos en las estaciones Natgas LYL y FUG para el día lunes.\nObjeto: Coordinar las visitas técnicas para el cambio de suministrador eléctrico en Nuevo León.\nInterpretación: Trámite operativo en curso; asegurar acceso y acompañamiento técnico en los horarios acordados.",
-    "source": "Correo: María Luisa Torrijos Herrerias",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T20:34:00.000Z",
     "createdAt": "2026-08-06T01:00:00.000Z",
     "updatedAt": "2026-08-06T01:00:00.000Z"
   },
@@ -1027,58 +871,6 @@
     "updatedAt": "2026-08-05T17:01:57.778Z"
   },
   {
-    "id": "email-5814",
-    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción NATGAS QUERETARO 2026-2027 (2).docx",
-    "description": "Notificación de firma electrónica completada en DocuSign.\nObjeto: Confirmación de Transacción NATGAS QUERETARO 2026-2027.\nInterpretación: Documento administrativo finalizado; archivar para registros contractuales.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T15:36:00.000Z",
-    "createdAt": "2026-08-05T16:00:36.498Z",
-    "updatedAt": "2026-08-05T16:00:36.520Z"
-  },
-  {
-    "id": "email-5813",
-    "title": "FW: 🔥 Unidades seminuevas con hasta 30% de descuento",
-    "description": "Publicidad de unidades seminuevas con descuentos del 30%.\nObjeto: Venta y promoción de vehículos.\nInterpretación: Correo promocional automotriz; probablemente archivar o eliminar.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T15:20:00.000Z",
-    "createdAt": "2026-08-05T16:00:36.520Z",
-    "updatedAt": "2026-08-05T16:00:36.520Z"
-  },
-  {
-    "id": "email-5812",
-    "title": "FW: Comunicación Interna publicó una novedad importante",
-    "description": "Aviso de la plataforma de comunicación interna sobre una nueva publicación o novedad en la empresa.\nObjeto: Notificar actualizaciones del boletín interno.\nInterpretación: Comunicación general de recursos humanos o empresa; leer o archivar.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T15:11:00.000Z",
-    "createdAt": "2026-08-05T16:00:36.520Z",
-    "updatedAt": "2026-08-05T16:00:36.520Z"
-  },
-  {
-    "id": "email-5811",
-    "title": "FW: Your heavy-duty training discount is about to expire",
-    "description": "Aviso sobre la expiración próxima de un descuento para capacitaciones o entrenamiento.\nObjeto: Promoción de cursos y entrenamientos.\nInterpretación: Correo promocional y de marketing; archivar si no hay interés en la capacitación.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T14:32:00.000Z",
-    "createdAt": "2026-08-05T16:00:36.520Z",
-    "updatedAt": "2026-08-05T16:00:36.520Z"
-  },
-  {
     "id": "email-5810",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Wednesday 05 Aug 2026)",
     "description": "Teamwork envía a Ricardo Carmona el informe diario automatizado de avance de proyectos y tareas. Objeto: Notificar el estado de las asignaciones en NATGAS QUERETARO SAPI DE CV. Interpretación: Reporte informativo del sistema de gestión; archivar o revisar para control de seguimiento.",
@@ -1326,19 +1118,6 @@
     "updatedAt": "2026-08-04T20:01:28.270Z"
   },
   {
-    "id": "email-5792",
-    "title": "FW: 🎲La suerte está de tu lado🎰",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: 🎲La suerte está de tu lado🎰\".\nObjeto: Revisar el contenido para determinar acciones necesarias.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T18:26:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
-  },
-  {
     "id": "email-5791",
     "title": "FW: 👀 Tenemos una sorpresa para tu Web App",
     "description": "Numaris envía a Ricardo Carmona un boletín informativo anunciando el rediseño completo de su plataforma de gestión de flotas, disponible a partir del 5 de agosto.\nObjeto: Notificar la actualización de la plataforma 'Nueva Vista' que incluye nuevos módulos operativos.\nInterpretación: Boletín informativo sobre herramientas tecnológicas; no requiere acción operativa inmediata.",
@@ -1350,32 +1129,6 @@
     "receivedAt": "2026-08-04T18:02:00.000Z",
     "createdAt": "2026-08-05T02:02:00.000Z",
     "updatedAt": "2026-08-05T02:02:00.000Z"
-  },
-  {
-    "id": "email-5791",
-    "title": "FW: 👀 Tenemos una sorpresa para tu Web App",
-    "description": "Un proveedor tecnológico envía a Ricardo Carmona publicidad automatizada relacionada con mejoras o sorpresas para aplicaciones web.\nObjeto: Promoción de servicios o características digitales.\nInterpretación: Correo publicitario o informativo; archivar a menos que se requieran acciones técnicas en el portal.",
-    "source": "Correo: Publicidad / Proveedor",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T18:02:00.000Z",
-    "createdAt": "2026-08-04T20:01:28.270Z",
-    "updatedAt": "2026-08-04T20:01:28.270Z"
-  },
-  {
-    "id": "email-5791",
-    "title": "FW: 👀 Tenemos una sorpresa para tu Web App",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: 👀 Tenemos una sorpresa para tu Web App\".\nObjeto: Revisar el contenido para determinar acciones necesarias.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T18:02:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
   },
   {
     "id": "email-5790",
@@ -1391,19 +1144,6 @@
     "updatedAt": "2026-08-04T20:01:28.270Z"
   },
   {
-    "id": "email-5790",
-    "title": "FW: Revisión Detalles de Notas de Crédito - Engie Natgas ",
-    "description": "Manuel Alejandro Gómez Velazquez envía un correo a Ricardo sobre \"Revisión Detalles de Notas de Crédito - Engie Natgas\".\nObjeto: Coordinar detalles financieros o reunión sobre notas de crédito.\nInterpretación: Posible requerimiento de seguimiento financiero o asistencia a reunión con Engie.",
-    "source": "Correo: Manuel Alejandro Gómez Velazquez",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T17:37:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
-  },
-  {
     "id": "email-5789",
     "title": "FW: Meeting Forward Notification: Revisión Detalles de Notas de Crédito - Engie Natgas",
     "description": "Josue Meza Jimenez notifica a Ricardo Carmona que la invitación a la reunión sobre notas de crédito fue reenviada a participantes adicionales.\nObjeto: Informar la inclusión de nuevos destinatarios en la sesión de Teams.\nInterpretación: Notificación administrativa sobre el alcance de la reunión; útil para el control de asistencia.",
@@ -1415,19 +1155,6 @@
     "receivedAt": "2026-08-04T17:32:00.000Z",
     "createdAt": "2026-08-04T20:01:28.270Z",
     "updatedAt": "2026-08-04T20:01:28.270Z"
-  },
-  {
-    "id": "email-5789",
-    "title": "FW: Meeting Forward Notification: Revisión Detalles de Notas de Crédito - Engie Natgas ",
-    "description": "Josue Meza Jimenez envía un correo a Ricardo sobre \"Revisión Detalles de Notas de Crédito - Engie Natgas\".\nObjeto: Coordinar detalles financieros o reunión sobre notas de crédito.\nInterpretación: Posible requerimiento de seguimiento financiero o asistencia a reunión con Engie.",
-    "source": "Correo: Josue Meza Jimenez",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T17:32:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
   },
   {
     "id": "email-5788",
@@ -1443,19 +1170,6 @@
     "updatedAt": "2026-08-04T20:01:28.270Z"
   },
   {
-    "id": "email-5788",
-    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx",
-    "description": "Ricardo Andrés Carmona Marcano reenvía a Ricardo la confirmación de transacción por Docusign (NATGAS QUERETARO 2026-2027).\nObjeto: Confirmar la firma y completado del documento.\nInterpretación: Finalización de trámite legal/comercial, guardar acuse.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T17:09:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
-  },
-  {
     "id": "email-5787",
     "title": "FW: ESTAS LISTO PARA LA INSPECCIÓN, SUPERVISIÓN Y ORDENAMIENTO DE PRONAGAS?",
     "description": "Grupo Besco Capacitación envía a Ricardo Carmona publicidad sobre sus servicios de Auditoría Normativa Integral y actualización regulatoria.\nObjeto: Promocionar consultoría para prevenir multas ante autoridades como ASEA y PRONAGAS.\nInterpretación: Correo comercial y prospectivo de un proveedor; archivar a menos que la estación requiera el servicio.",
@@ -1467,19 +1181,6 @@
     "receivedAt": "2026-08-04T16:21:00.000Z",
     "createdAt": "2026-08-04T20:01:28.270Z",
     "updatedAt": "2026-08-04T20:01:28.270Z"
-  },
-  {
-    "id": "email-5787",
-    "title": "FW: ESTAS LISTO PARA LA INSPECCIÓN, SUPERVISIÓN Y ORDENAMIENTO DE PRONAGAS? ",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: ESTAS LISTO PARA LA INSPECCIÓN, SUPERVISIÓN Y ORDENAMIENTO DE PRONAGAS? \".\nObjeto: Revisar el contenido para determinar acciones necesarias.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T16:21:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
   },
   {
     "id": "email-5786",
@@ -1495,19 +1196,6 @@
     "updatedAt": "2026-08-04T20:01:28.270Z"
   },
   {
-    "id": "email-5786",
-    "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: Oficio Información complementaria SEMARNAT - Biometano\".\nObjeto: Revisar el contenido para determinar acciones necesarias.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T16:14:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
-  },
-  {
     "id": "email-5785",
     "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
     "description": "Hugo Sanchez Cabrera (VW) solicita formalmente a Ricardo Carmona el DTI de la unidad de descompresión en Autocad o Microstation.\nObjeto: Requerir el diagrama técnico para anexarlo a la instalación completa exigida por la SEMARNAT.\nInterpretación: Solicitud técnica indispensable para el trámite ambiental del proyecto Biometano; Ricardo debe proveer o gestionar el envío del archivo.",
@@ -1519,32 +1207,6 @@
     "receivedAt": "2026-08-04T16:11:00.000Z",
     "createdAt": "2026-08-04T20:01:28.270Z",
     "updatedAt": "2026-08-04T20:01:28.270Z"
-  },
-  {
-    "id": "email-5785",
-    "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: Oficio Información complementaria SEMARNAT - Biometano\".\nObjeto: Revisar el contenido para determinar acciones necesarias.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T16:11:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
-  },
-  {
-    "id": "email-5784",
-    "title": "FW: IBM Power despierta en Guadalajara",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo a Ricardo con el asunto \"FW: IBM Power despierta en Guadalajara\".\nObjeto: Revisar el contenido para determinar acciones necesarias.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T16:08:00.000Z",
-    "createdAt": "2026-08-04T19:00:40.324Z",
-    "updatedAt": "2026-08-04T19:00:40.324Z"
   },
   {
     "id": "email-5783",
@@ -1651,149 +1313,6 @@
     "updatedAt": "2026-08-04T16:01:06.085Z"
   },
   {
-    "id": "email-5775",
-    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Tuesday 04 Aug 2026)",
-    "description": "Teamwork envía el informe diario de tareas y proyectos a Ricardo.\nObjeto: Notificar el avance y tareas pendientes para el 4 de agosto.\nInterpretación: Reporte automatizado del sistema de gestión; archivar o revisar para seguimiento interno.",
-    "source": "Correo: Teamwork / Ricardo",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T14:00:00.000Z",
-    "createdAt": "2026-08-04T14:01:22.486482Z",
-    "updatedAt": "2026-08-04T14:01:22.486482Z"
-  },
-  {
-    "id": "email-5774",
-    "title": "FW: One Delegate Pass. Every Opportunity Across Africa's Energy Sector.",
-    "description": "Organización del evento envía información sobre pases para la cumbre energética de África.\nObjeto: Promocionar la asistencia y acceso a eventos del sector energético.\nInterpretación: Correo promocional sobre eventos internacionales; no requiere acción operativa directa.",
-    "source": "Correo: EnergyNet",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T12:39:00.000Z",
-    "createdAt": "2026-08-04T14:01:22.486482Z",
-    "updatedAt": "2026-08-04T14:01:22.486482Z"
-  },
-  {
-    "id": "email-5774",
-    "title": "FW: One Delegate Pass. Every Opportunity Across Africa's Energy Sector.",
-    "description": "Ricardo Andrés Carmona Marcano reenvía un boletín sobre el sector energético en África.\nObjeto: Promocionar pases para delegados en un evento del sector.\nInterpretación: Correo informativo o promocional; no requiere acción operativa inmediata.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T12:39:00.000Z",
-    "createdAt": "2026-08-04T13:01:28.785Z",
-    "updatedAt": "2026-08-04T13:01:28.785Z"
-  },
-  {
-    "id": "email-5773",
-    "title": "FW: ⚾️ Post-deadline power rankings",
-    "description": "Bleacher Report envía a Ricardo un boletín con clasificaciones deportivas posteriores a la fecha límite de traspasos.\nObjeto: Compartir noticias de béisbol y actualizaciones de equipos.\nInterpretación: Boletín deportivo de interés personal; archivar sin relevancia para la operación.",
-    "source": "Correo: Bleacher Report",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T12:17:00.000Z",
-    "createdAt": "2026-08-04T14:01:22.486482Z",
-    "updatedAt": "2026-08-04T14:01:22.486482Z"
-  },
-  {
-    "id": "email-5773",
-    "title": "FW: ⚾️ Post-deadline power rankings",
-    "description": "Ricardo Andrés Carmona Marcano reenvía un boletín sobre clasificaciones de la MLB post-fecha límite.\nObjeto: Compartir noticias de béisbol.\nInterpretación: Correo de interés personal/deportivo; irrelevante para la operación del negocio.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T12:17:00.000Z",
-    "createdAt": "2026-08-04T13:01:28.785Z",
-    "updatedAt": "2026-08-04T13:01:28.785Z"
-  },
-  {
-    "id": "email-5772",
-    "title": "In case you missed it: Download the Powering Africa Summit 2026 Post-Show Report",
-    "description": "Powering Africa Summit envía a Ricardo el reporte posterior al evento 2026.\nObjeto: Compartir estadísticas, conclusiones y reportes del evento recién concluido.\nInterpretación: Material informativo externo del sector energético; archivar para lectura opcional.",
-    "source": "Correo: Powering Africa Summit",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T09:05:00.000Z",
-    "createdAt": "2026-08-04T14:01:22.486482Z",
-    "updatedAt": "2026-08-04T14:01:22.486482Z"
-  },
-  {
-    "id": "email-5772",
-    "title": "In case you missed it: Download the Powering Africa Summit 2026 Post-Show Report",
-    "description": "Powering Africa Summit envía a Ricardo el reporte post-evento de la cumbre de 2026.\nObjeto: Compartir los resultados y memorias del evento.\nInterpretación: Correo informativo/newsletter; archivar, no requiere acción directa.",
-    "source": "Correo: Powering Africa Summit",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T03:05:00.000-06:00",
-    "createdAt": "2026-08-04T13:01:28.785Z",
-    "updatedAt": "2026-08-04T13:01:28.785Z"
-  },
-  {
-    "id": "email-5771",
-    "title": "La mejor oferta para suscribirte",
-    "description": "La Vanguardia ofrece promociones de suscripción digital al medio de comunicación.\nObjeto: Venta y promoción de suscripciones a noticias.\nInterpretación: Correo publicitario personal; archivar sin acción.",
-    "source": "Correo: La Vanguardia",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T08:03:00.000Z",
-    "createdAt": "2026-08-04T14:01:22.486482Z",
-    "updatedAt": "2026-08-04T14:01:22.486482Z"
-  },
-  {
-    "id": "email-5771",
-    "title": "La mejor oferta para suscribirte",
-    "description": "La Vanguardia envía a Ricardo una oferta de suscripción.\nObjeto: Promocionar la contratación del servicio de noticias.\nInterpretación: Correo publicitario de medio de comunicación; no requiere respuesta ni acción operativa.",
-    "source": "Correo: La Vanguardia",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T08:03:00.000Z",
-    "createdAt": "2026-08-04T13:01:28.785Z",
-    "updatedAt": "2026-08-04T13:01:28.785Z"
-  },
-  {
-    "id": "email-5770",
-    "title": "FW: El auténtico Zarandeado de Bahía de Banderas ya está aquí.",
-    "description": "La Mariskeña envía a Ricardo publicidad de su menú y sucursales.\nObjeto: Promocionar consumo en sus restaurantes de mariscos.\nInterpretación: Correo publicitario sin valor operativo; archivar.",
-    "source": "Correo: Restaurante",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T06:59:00.000Z",
-    "createdAt": "2026-08-04T14:01:22.486482Z",
-    "updatedAt": "2026-08-04T14:01:22.486482Z"
-  },
-  {
-    "id": "email-5770",
-    "title": "FW: El auténtico Zarandeado de Bahía de Banderas ya está aquí.",
-    "description": "Ricardo Andrés Carmona Marcano reenvía una promoción de un restaurante (Zarandeado).\nObjeto: Oferta comercial o publicitaria culinaria.\nInterpretación: Correo publicitario promocional, irrelevante para la operación del negocio.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T06:59:00.000Z",
-    "createdAt": "2026-08-04T13:01:28.785Z",
-    "updatedAt": "2026-08-04T13:01:28.785Z"
-  },
-  {
     "id": "email-5769",
     "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
     "description": "Alejandra Cruz Saldaña notifica a múltiples equipos internos y de VW el progreso del trámite ambiental (oficio de SEMARNAT) para el proyecto Biometano.\nObjeto: Discutir en reunión de Teams la información complementaria a ingresar a la autoridad.\nInterpretación: Notificación de trámite crítico que requiere alineación exclusiva a través del equipo principal del proyecto de Volkswagen.",
@@ -1805,19 +1324,6 @@
     "receivedAt": "2026-08-04T00:35:00.000Z",
     "createdAt": "2026-08-04T02:00:00.000Z",
     "updatedAt": "2026-08-04T02:00:00.000Z"
-  },
-  {
-    "id": "email-5769",
-    "title": "FW: Oficio Información complementaria SEMARNAT - Biometano",
-    "description": "Hugo Sanchez (VW) solicita a David Moreno participar en la reunión ya que la información presentada previamente no fue suficiente para SEMARNAT.\nObjeto: Requerir la participación de David Moreno en la junta aclaratoria.\nInterpretación: Intercambio técnico de seguimiento para el proyecto Biometano VW; prepararse para la reunión.",
-    "source": "Correo: Sanchez Cabrera, Hugo (VW)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-04T00:35:00.000Z",
-    "createdAt": "2026-08-04T01:01:20.012Z",
-    "updatedAt": "2026-08-04T01:01:20.014Z"
   },
   {
     "id": "email-5768",
@@ -2639,19 +2145,6 @@
     "updatedAt": "2026-07-25T04:00:00.000Z"
   },
   {
-    "id": "email-5562",
-    "title": "FW: RECOLECCIÓN EQUIPOS FILL POST (PNT Y ECATEPEC)",
-    "description": "David Resendiz solicita de forma urgente a IMW y E3 las facturas y Packing Lists de los equipos Fill Post.\nObjeto: Coordinar con el agente logístico (TIBA) la recolección de los equipos programada para el 31 de julio.\nInterpretación: Seguimiento logístico importante; Ricardo copiado para conocimiento o escalamiento de retrasos.",
-    "source": "Correo: David Resendiz Rojo",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": "2026-07-31T00:00:00.000Z",
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-25T01:27:00.000Z",
-    "createdAt": "2026-07-25T02:03:02.384Z",
-    "updatedAt": "2026-07-25T02:03:02.384Z"
-  },
-  {
     "id": "5562",
     "title": "FW: RECOLECCIÓN EQUIPOS FILL POST (PNT Y ECATEPEC)",
     "description": "David Resendiz solicita a Luis Aguas de IMW la facturación y Packing List de los equipos Fill Post (Periférico Norte y Ecatepec).\nObjeto: Coordinar la documentación para la recolección logística programada para el 31 de julio.\nInterpretación: Seguimiento urgente de logística internacional; requiere que el proveedor comparta los documentos aduanales.",
@@ -2678,32 +2171,6 @@
     "updatedAt": "2026-07-25T04:00:00.000Z"
   },
   {
-    "id": "email-5561",
-    "title": "FW: Venta de activo fijo",
-    "description": "El equipo de contabilidad (Lesdy García y Alejandro Gómez) solicita a Ricardo la justificación operativa para la transferencia de un equipo PRS500 de Bionatgas a Natgas.\nObjeto: Sustentar ante las autoridades fiscales y asesores externos la venta interna del activo sin margen de ganancia.\nInterpretación: Trámite interno crítico que requiere que Ricardo documente y explique el cambio de decisión operativa.",
-    "source": "Correo: Manuel Alejandro Gómez Velazquez",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T22:27:00.000Z",
-    "createdAt": "2026-07-25T02:03:02.384Z",
-    "updatedAt": "2026-07-25T02:03:02.384Z"
-  },
-  {
-    "id": "email-5561",
-    "title": "FW: Venta de activo fijo",
-    "description": "Manuel Alejandro Gómez Velazquez solicita a Ricardo una explicación detallada del cambio operativo en la maquinaria (equipo PRS500) para justificar la venta de activo fijo entre Bionatgas y Natgas.\nObjeto: Proveer soporte operativo para tratamiento fiscal.\nInterpretación: Requerimiento administrativo y fiscal interno; requiere respuesta de Ricardo detallando los motivos del cambio.",
-    "source": "Correo: Manuel Alejandro Gómez Velazquez",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T22:27:00.000Z",
-    "createdAt": "2026-07-24T23:00:00.000Z",
-    "updatedAt": "2026-07-24T23:00:00.000Z"
-  },
-  {
     "id": "email-5560",
     "title": "FW: Puerto Escondido desde $2,314 MXN, arena, risas y momentos inolvidables",
     "description": "Aeroméxico Promociones envía a Ricardo una oferta de vuelos a Puerto Escondido.\nObjeto: Promocionar tarifas de viaje y opciones de pago a meses sin intereses.\nInterpretación: Correo publicitario comercial; irrelevante para la operación del negocio, debe ser archivado.",
@@ -2717,32 +2184,6 @@
     "updatedAt": "2026-07-25T04:00:00.000Z"
   },
   {
-    "id": "email-5560",
-    "title": "FW: Puerto Escondido desde ,314 MXN, arena, risas y momentos inolvidables",
-    "description": "Aeroméxico Promociones envía a Ricardo una oferta para viajar a Puerto Escondido.\nObjeto: Promocionar venta de vuelos y descuentos con tarjeta.\nInterpretación: Correo publicitario de viajes; archivar sin acción operativa.",
-    "source": "Correo: Aeroméxico Promociones",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T22:25:00.000Z",
-    "createdAt": "2026-07-25T02:03:02.384Z",
-    "updatedAt": "2026-07-25T02:03:02.384Z"
-  },
-  {
-    "id": "email-5560",
-    "title": "FW: Puerto Escondido desde $2,314 MXN, arena, risas y momentos inolvidables",
-    "description": "Aeroméxico Promociones envía ofertas de vuelos a Ricardo hacia Puerto Escondido y otros destinos.\nObjeto: Promocionar tarifas y destinos turísticos.\nInterpretación: Publicidad personal comercial; no requiere atención operativa ni seguimiento.",
-    "source": "Correo: Aeroméxico Promociones",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T22:25:00.000Z",
-    "createdAt": "2026-07-24T23:00:00.000Z",
-    "updatedAt": "2026-07-24T23:00:00.000Z"
-  },
-  {
     "id": "email-5559",
     "title": "🦺 The scheduling conflict you didn’t see",
     "description": "John de TeamGantt envía un boletín a Ricardo sobre conflictos de programación de recursos.\nObjeto: Promover mejores prácticas para evitar sobreasignación de personal o equipos en proyectos.\nInterpretación: Newsletter educativo y promocional; no requiere ninguna acción operativa directa.",
@@ -2754,32 +2195,6 @@
     "receivedAt": "2026-07-24T21:48:00.000Z",
     "createdAt": "2026-07-25T04:00:00.000Z",
     "updatedAt": "2026-07-25T04:00:00.000Z"
-  },
-  {
-    "id": "email-5559",
-    "title": "🦺 The scheduling conflict you didn’t see",
-    "description": "John de TeamGantt envía un boletín sobre prevención de conflictos en la programación de proyectos.\nObjeto: Promocionar consejos de gestión de proyectos y el uso de TeamGantt.\nInterpretación: Boletín comercial e informativo; no requiere acción operativa directa.",
-    "source": "Correo: John @ TeamGantt",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T21:48:00.000Z",
-    "createdAt": "2026-07-25T02:03:02.384Z",
-    "updatedAt": "2026-07-25T02:03:02.384Z"
-  },
-  {
-    "id": "email-5559",
-    "title": "🦺 The scheduling conflict you didn’t see",
-    "description": "John de TeamGantt envía un boletín informativo sobre conflictos de programación en proyectos.\nObjeto: Recomendar el uso de herramientas para balancear cargas de trabajo.\nInterpretación: Newsletter comercial y educativo; no requiere acción operativa directa.",
-    "source": "Correo: John @ TeamGantt",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T21:48:00.000Z",
-    "createdAt": "2026-07-24T22:01:03.081610Z",
-    "updatedAt": "2026-07-24T22:01:03.082028Z"
   },
   {
     "id": "email-5558-2",
@@ -2819,32 +2234,6 @@
     "receivedAt": "2026-07-24T20:29:00.000Z",
     "createdAt": "2026-07-25T04:00:00.000Z",
     "updatedAt": "2026-07-25T04:00:00.000Z"
-  },
-  {
-    "id": "email-5557",
-    "title": "FW: IC (Factura, Anexo PDF) Junio 2026 NATGAS IC BE",
-    "description": "Julio Cesar Rojas comparte con el equipo de contabilidad y grupo Cox que las facturas de consumo eléctrico ya fueron registradas y solicita confirmación de su carga en el portal.\nObjeto: Coordinar el registro de facturas eléctricas antes de los cierres (28 de julio).\nInterpretación: Seguimiento administrativo para garantizar el pago de facturas de consumo; Ricardo está en copia para conocimiento.",
-    "source": "Correo: Julio Cesar Rojas Rangel",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T20:29:00.000Z",
-    "createdAt": "2026-07-25T02:03:07.936Z",
-    "updatedAt": "2026-07-25T02:03:07.936Z"
-  },
-  {
-    "id": "email-5557",
-    "title": "FW: IC (Factura, Anexo PDF) Junio 2026 NATGAS IC BE",
-    "description": "Julio Cesar Rojas y Grupo Cox envían facturas del consumo eléctrico de junio 2026.\nObjeto: Confirmar recepción de facturas para coordinar su registro y pago oportuno.\nInterpretación: Trámite administrativo y contable recurrente; requiere validación y envío a cuentas por pagar.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano / Grupo Cox",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T20:29:00.000Z",
-    "createdAt": "2026-07-24T22:01:03.082044Z",
-    "updatedAt": "2026-07-24T22:01:03.082047Z"
   },
   {
     "id": "email-5556",
@@ -2897,19 +2286,6 @@
     "receivedAt": "2026-07-24T17:48:00.000Z",
     "createdAt": "2026-07-25T04:00:00.000Z",
     "updatedAt": "2026-07-25T04:00:00.000Z"
-  },
-  {
-    "id": "email-5553",
-    "title": "FW: DIFERENCIA EN COMPARATIVA DE LECTURAS ERM NACOZARI",
-    "description": "David Martínez reporta diferencias positivas constantes fuera de rango en la medición de ERM Nacozari.\nObjeto: Notificar la desviación volumétrica para revisión técnica continua.\nInterpretación: Alerta técnica y operativa; requiere seguimiento en campo para evitar desbalances.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano / David Martinez",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T17:48:00.000Z",
-    "createdAt": "2026-07-24T22:01:03.082051Z",
-    "updatedAt": "2026-07-24T22:01:03.082054Z"
   },
   {
     "id": "email-5552-53cb9014-161e-4c85-897f-ba19b4e48187",
@@ -5434,19 +4810,6 @@
     "updatedAt": "2026-07-16T22:00:00.000Z"
   },
   {
-    "id": "email-5364",
-    "title": "FW: Comunicación Interna publicó una novedad importante",
-    "description": "Humand notifica a los colaboradores de Natgas sobre el nuevo Agente Estudio AI de UBITS.\nObjeto: Informar sobre nueva herramienta de tutoría personalizada para el desarrollo profesional.\nInterpretación: Comunicado general corporativo; no requiere acción operativa inmediata, solo conocimiento.",
-    "source": "Correo: Comunicación Interna (Humand)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-16T20:26:00.000Z",
-    "createdAt": "2026-07-16T21:00:00.000Z",
-    "updatedAt": "2026-07-16T21:00:00.000Z"
-  },
-  {
     "id": "email-5363-20260716",
     "title": "FW: Notas de Crédito - Waha negativo junio 2026",
     "description": "Axel Domínguez (Engie) envía cálculos de ajustes por el precio WAHA negativo correspondiente a consumos de junio 2026.\nObjeto: Solicita confirmación para emitir las notas de crédito para varias estaciones.\nInterpretación: Asunto financiero y comercial relevante; requiere validación interna (Mariana) para aceptar la emisión.",
@@ -5473,19 +4836,6 @@
     "updatedAt": "2026-07-16T22:00:00.000Z"
   },
   {
-    "id": "email-5363",
-    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
-    "description": "Axel Domínguez de ENGIE envía a Valeria Yáñez, Alonso Samperio y Ricardo Carmona el cálculo de ajustes por el precio WAHA negativo de junio 2026.\nObjeto: Solicitar validación de los importes para proceder con la emisión de las notas de crédito a favor de las EDS.\nInterpretación: Trámite comercial y contable crítico; requiere revisión técnica y financiera interna para confirmar los montos al proveedor.",
-    "source": "Correo: Axel Oswaldo Domínguez Serrano (ENGIE)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-16T20:15:00.000Z",
-    "createdAt": "2026-07-16T21:00:00.000Z",
-    "updatedAt": "2026-07-16T21:00:00.000Z"
-  },
-  {
     "id": "email-5362-20260716",
     "title": "FW: Cotización de calibración y mantenimiento de medidores mecánicos CEC y TPL",
     "description": "Grupo ISEA comparte la cotización solicitada por Alonso Samperio para el mantenimiento y calibración de medidores.\nObjeto: Propuesta comercial para servicios en EDS CEC y TPL.\nInterpretación: Trámite operativo/comercial para aprobar mantenimiento.",
@@ -5510,19 +4860,6 @@
     "receivedAt": "2026-07-16T20:11:00.000Z",
     "createdAt": "2026-07-16T22:00:00.000Z",
     "updatedAt": "2026-07-16T22:00:00.000Z"
-  },
-  {
-    "id": "email-5362",
-    "title": "FW: Cotización de calibración y mantenimiento de medidores mecánicos CEC y TPL",
-    "description": "Grupo ISEA (Misael) comparte a Alonso Samperio y Ricardo la cotización para el mantenimiento y calibración de medidores de las estaciones CEC y TPL.\nObjeto: Proveer la propuesta económica solicitada para el servicio a equipos Pietro Fiorentini y Flow Meter Group.\nInterpretación: Avance en proceso de compras y mantenimiento; requiere revisión de la cotización para aprobar y generar la orden de compra.",
-    "source": "Correo: Grupo ISEA",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-16T20:11:00.000Z",
-    "createdAt": "2026-07-16T21:00:00.000Z",
-    "updatedAt": "2026-07-16T21:00:00.000Z"
   },
   {
     "id": "email-5361-20260716",
@@ -5811,19 +5148,6 @@
     "updatedAt": "2026-07-16T18:02:00.000Z"
   },
   {
-    "id": "email-5349",
-    "title": "FW: Diferencia en comparativa de lecturas de ERM EDS PONIENTE",
-    "description": "Ricardo Andrés Carmona Marcano comparte un reporte sobre diferencias en comparativa de lecturas de ERM EDS Poniente.\nObjeto: Reporte de desbalance de lecturas en EDS Poniente.\nInterpretación: Notificación técnica sobre el monitoreo de estación.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-16T16:41:00.000Z",
-    "createdAt": "2026-07-16T17:00:53.976Z",
-    "updatedAt": "2026-07-16T17:00:53.976Z"
-  },
-  {
     "id": "email-5348",
     "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
     "description": "Sergio Alberto Landeros Guerrero informa a Alonso Samperio sobre diferencias negativas persistentes (-4.7%) en las lecturas de la EDS JMC.\nObjeto: Pedir revisión del tablero inteligente para determinar si el desbalance volumétrico requiere intervención del proveedor.\nInterpretación: Reporte operativo de mantenimiento y medición; requiere análisis por parte de la coordinación técnica para descartar fallas.",
@@ -5835,19 +5159,6 @@
     "receivedAt": "2026-07-16T16:13:00.000Z",
     "createdAt": "2026-07-16T18:02:00.000Z",
     "updatedAt": "2026-07-16T18:02:00.000Z"
-  },
-  {
-    "id": "email-5348",
-    "title": "FW: DIFERENCIA EN LECTURAS DE ERM EDS JMC",
-    "description": "Ricardo Andrés Carmona Marcano comparte un reporte sobre diferencia en lecturas de la ERM EDS JMC.\nObjeto: Reporte de desbalance en lecturas de la EDS JMC.\nInterpretación: Notificación técnica sobre el monitoreo de estación.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-16T16:13:00.000Z",
-    "createdAt": "2026-07-16T17:00:53.976Z",
-    "updatedAt": "2026-07-16T17:00:53.976Z"
   },
   {
     "id": "email-5347-1",
@@ -7761,19 +7072,6 @@
     "updatedAt": "2026-07-12T20:00:48.340397Z"
   },
   {
-    "id": "email-5213",
-    "title": "2 años por solo 19,90 €",
-    "description": "La Vanguardia ofrece a Ricardo una suscripción promocional por 2 años a 19,90 €.\nObjeto: Promoción comercial de suscripción digital.\nInterpretación: Correo publicitario externo; no requiere acción operativa directa.",
-    "source": "Correo: La Vanguardia",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-12T05:11:00.000Z",
-    "createdAt": "2026-07-12T13:05:00.000Z",
-    "updatedAt": "2026-07-12T13:05:00.000Z"
-  },
-  {
     "id": "email-5212",
     "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
     "description": "Lesdy Garcia Castillo (Contabilidad) solicita al equipo registrar las facturas de DIAVAZ de la 1er quincena de junio antes de fin de mes.\nObjeto: Asegurar el registro de facturas para no afectar el cierre contable.\nInterpretación: Seguimiento administrativo y contable interno; Julio Rojas ya confirmó el registro. Ricardo está en copia para conocimiento.",
@@ -7785,19 +7083,6 @@
     "receivedAt": "2026-07-11T19:48:02.000Z",
     "createdAt": "2026-07-11T20:00:43.637Z",
     "updatedAt": "2026-07-11T20:00:43.638Z"
-  },
-  {
-    "id": "email-5212",
-    "title": "FW: SOC GAS DIAVAZ 1er quincena JUNIO",
-    "description": "Lesdy Garcia solicita al equipo que las facturas de la primera quincena de Diavaz queden registradas antes de fin de mes para el cierre, y Julio Rojas confirma que ya están en el portal.\nObjeto: Confirmación de registro de facturas.\nInterpretación: Seguimiento contable interno completado; Ricardo está copiado para conocimiento.",
-    "source": "Correo: Lesdy Amidy Garcia Castillo",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-11T19:48:00.000Z",
-    "createdAt": "2026-07-12T20:00:48.340421Z",
-    "updatedAt": "2026-07-12T20:00:48.340435Z"
   },
   {
     "id": "email-5212-1781234567800",
@@ -7837,19 +7122,6 @@
     "receivedAt": "2026-07-11T17:53:11.000Z",
     "createdAt": "2026-07-11T18:00:57.066Z",
     "updatedAt": "2026-07-11T18:00:57.067Z"
-  },
-  {
-    "id": "email-5211",
-    "title": "FW: Autodesk Fusion Hub \"Team Natgas\" Inactivity Reminder",
-    "description": "Autodesk notifica a Ricardo que el hub 'Team Natgas' será inaccesible a partir del 26 de julio de 2026 por inactividad.\nObjeto: Alerta de inactividad de plataforma.\nInterpretación: Alerta de sistema; requiere iniciar sesión en Autodesk si se desea mantener activo el espacio.",
-    "source": "Correo: Autodesk",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-11T17:53:00.000Z",
-    "createdAt": "2026-07-12T20:00:48.340451Z",
-    "updatedAt": "2026-07-12T20:00:48.340465Z"
   },
   {
     "id": "email-5211-1781234567801",
@@ -8372,19 +7644,6 @@
     "updatedAt": "2026-07-10T17:00:00.000Z"
   },
   {
-    "id": "email-5206",
-    "title": "FW: Episodio 3 | Ciberseguridad Práctica en Entornos Industriales",
-    "description": "Fortinet invita a Ricardo Carmona a ver el tercer episodio de su serie técnica sobre ciberseguridad industrial.\nObjeto: Promoción de material educativo y soluciones de seguridad para entornos OT.\nInterpretación: Newsletter comercial e informativo; no requiere acción operativa.",
-    "source": "Correo: Fortinet",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-10T16:00:19.000Z",
-    "createdAt": "2026-07-11T02:01:17.281Z",
-    "updatedAt": "2026-07-11T02:01:17.281Z"
-  },
-  {
     "id": "email-5188-1783875680938",
     "title": "FW: Relación volumétrica junio 2026 ",
     "description": "Remitente Ricardo Andrés Carmona Marcano envía a Ricardo información relacionada con: FW: Relación volumétrica junio 2026 .\nObjeto: FW: Relación volumétrica junio 2026 \nInterpretación: Correo informativo o de seguimiento general que requiere clasificación y revisión.",
@@ -8437,32 +7696,6 @@
     "updatedAt": "2026-07-10T16:00:00.000Z"
   },
   {
-    "id": "email-5205",
-    "title": "FW: Confirmación entrega de factura - Gas Natural",
-    "description": "Susana Quintero (ENGIE) envía al equipo de Natgas las facturas de consumo de gas natural correspondientes al mes de junio.\nObjeto: Entrega de comprobantes de facturación para las estaciones de servicio.\nInterpretación: Recepción rutinaria de facturación para procesamiento y pago.",
-    "source": "Correo: Susana Quintero (ENGIE)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-10T14:47:58.000Z",
-    "createdAt": "2026-07-11T02:01:17.281Z",
-    "updatedAt": "2026-07-11T02:01:17.281Z"
-  },
-  {
-    "id": "email-5204",
-    "title": "FW: Notas de crédito mayo Natgas",
-    "description": "Alonso Samperio solicita a Erika Huerta (ENGIE) los montos de las notas de crédito de mayo para su validación y emisión.\nObjeto: Requerir información financiera para proceder con las notas de crédito.\nInterpretación: Seguimiento administrativo/financiero de rutina; Ricardo está en copia para conocimiento.",
-    "source": "Correo: Alonso Samperio Gayosso",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-10T14:31:59.000Z",
-    "createdAt": "2026-07-11T02:01:17.281Z",
-    "updatedAt": "2026-07-11T02:01:17.281Z"
-  },
-  {
     "id": "email-5185-1781100000000",
     "title": "FW: La Magia del Servicio al Cliente | Formación presencial para empresas",
     "description": "Modelo Disney (La Magia del Aprendizaje) envía información comercial sobre capacitaciones en cultura de servicio al cliente.\nObjeto: Promocionar formación empresarial presencial inspirada en Disney.\nInterpretación: Correo publicitario externo; no requiere acción a menos que Ricardo tenga interés en la capacitación.",
@@ -8476,32 +7709,6 @@
     "updatedAt": "2026-07-10T16:00:00.000Z"
   },
   {
-    "id": "email-5202",
-    "title": "FW: Seguniento Natgas Pepsico",
-    "description": "Michael Burnside (PepsiCo) envía a Ricardo Carmona y equipo una invitación de reunión por Teams para dar seguimiento al proyecto.\nObjeto: Agendar reunión de seguimiento para el lunes 13 de julio a las 9:00 AM.\nInterpretación: Invitación a evento de agenda para coordinación de proyecto.",
-    "source": "Correo: Michael Burnside (PepsiCo)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": "2026-07-13T09:00:00.000Z",
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-10T14:18:16.000Z",
-    "createdAt": "2026-07-11T02:01:17.281Z",
-    "updatedAt": "2026-07-11T02:01:17.281Z"
-  },
-  {
-    "id": "email-5203",
-    "title": "FW: Seguniento Natgas Pepsico",
-    "description": "Michael Burnside (PepsiCo) envía a Ricardo Carmona y equipo una invitación de reunión por Teams para dar seguimiento al proyecto.\nObjeto: Agendar reunión de seguimiento para el lunes 13 de julio a la 1:30 PM.\nInterpretación: Invitación a evento de agenda para coordinación de proyecto.",
-    "source": "Correo: Michael Burnside (PepsiCo)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": "2026-07-13T13:30:00.000Z",
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-10T14:16:32.000Z",
-    "createdAt": "2026-07-11T02:01:17.281Z",
-    "updatedAt": "2026-07-11T02:01:17.281Z"
-  },
-  {
     "id": "email-5184-1781100000000",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 10 Jul 2026)",
     "description": "Teamwork envía el informe diario automático a Ricardo con el estatus de tareas de diversos proyectos y trámites de descompresión.\nObjeto: Presentar el resumen de actividades vencidas y pendientes.\nInterpretación: Correo informativo del sistema de proyectos; solo para revisión y control interno.",
@@ -8513,32 +7720,6 @@
     "receivedAt": "2026-07-10T14:00:00.000Z",
     "createdAt": "2026-07-10T16:00:00.000Z",
     "updatedAt": "2026-07-10T16:00:00.000Z"
-  },
-  {
-    "id": "email-5201",
-    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Consumo de Agua",
-    "description": "Alonso Samperio comparte con el equipo el reporte de monitoreo de consumo de agua correspondiente a la semana del 29 de junio al 6 de julio.\nObjeto: Presentar el informe semanal de consumo hídrico en las estaciones.\nInterpretación: Correo de reporte operativo periódico; requiere revisión de desviaciones.",
-    "source": "Correo: Alonso Samperio (Teamwork)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-10T13:56:53.000Z",
-    "createdAt": "2026-07-11T02:01:17.281Z",
-    "updatedAt": "2026-07-11T02:01:17.281Z"
-  },
-  {
-    "id": "email-5200",
-    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Balance de Energía Eléctrica",
-    "description": "Alonso Samperio comparte con el equipo el reporte de monitoreo de consumo eléctrico correspondiente a la semana del 29 de junio al 6 de julio.\nObjeto: Presentar el informe semanal de consumo de energía en las estaciones.\nInterpretación: Correo de reporte operativo periódico; requiere análisis para optimización.",
-    "source": "Correo: Alonso Samperio (Teamwork)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-10T13:56:03.000Z",
-    "createdAt": "2026-07-11T02:01:17.281Z",
-    "updatedAt": "2026-07-11T02:01:17.281Z"
   },
   {
     "id": "email-5183",
@@ -10309,19 +9490,6 @@
     "updatedAt": "2026-07-08T21:11:50.180Z"
   },
   {
-    "id": "email-5090",
-    "title": "FW: Comentarios para Respuesta a Trámite Permiso Comercialización",
-    "description": "Sandra Castro (Asuntos Regulatorios) confirma a Ricardo la revisión y actualización de las cartas para el trámite del Permiso de Comercialización (añadiendo nota aclaratoria sobre volúmenes).\nObjeto: Avanzar en la gestión y cumplimiento del trámite regulatorio ante la autoridad.\nInterpretación: Confirmación de ajuste documental interno; el trámite sigue su curso.",
-    "source": "Correo: Sandra Noemi Castro Tostado",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-07T20:19:00.000Z",
-    "createdAt": "2026-07-07T21:01:05.089Z",
-    "updatedAt": "2026-07-07T21:01:05.089Z"
-  },
-  {
     "id": "email-5089-1781000000008",
     "title": "FW: CV Ingeniería, Construcción y Servicios Integrales OIL &GAS",
     "description": "Recepción de currículum empresarial o presentación de servicios del contratista 'Ingeniería, Construcción y Servicios Integrales OIL &GAS'.\nObjeto: Propuesta comercial para el desarrollo de proyectos u obra mecánica.\nInterpretación: Correo de presentación de proveedores; resguardar en cartera de contratistas para futuras licitaciones.",
@@ -10345,19 +9513,6 @@
     "unansweredDays": 0,
     "receivedAt": "2026-07-07T19:32:00.000Z",
     "createdAt": "2026-07-08T02:02:13.646Z",
-    "updatedAt": "2026-07-08T21:11:50.180Z"
-  },
-  {
-    "id": "email-5089",
-    "title": "FW: CV Ingeniería, Construcción y Servicios Integrales OIL &GAS",
-    "description": "Isaac Eli Reynoso Ortega comparte con Rosa Martha Manjarrez y Valerio Manta el CV corporativo de ICSI Oil & Gas, un posible nuevo contratista para interconexiones CENAGAS, y confirma visita a Arco 57.\nObjeto: Evaluar alternativas técnicas y operativas con un nuevo proveedor.\nInterpretación: Seguimiento comercial y técnico de posibles proveedores; requiere validación técnica.",
-    "source": "Correo: Isaac Eli Reynoso Ortega",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-07T19:32:00.000Z",
-    "createdAt": "2026-07-07T21:01:05.089Z",
     "updatedAt": "2026-07-08T21:11:50.180Z"
   },
   {
@@ -10397,19 +9552,6 @@
     "unansweredDays": 0,
     "receivedAt": "2026-07-07T19:29:00.000Z",
     "createdAt": "2026-07-08T02:02:13.646Z",
-    "updatedAt": "2026-07-08T21:11:50.180Z"
-  },
-  {
-    "id": "email-5088",
-    "title": "FW: Cromatografía Querétaro junio 2026",
-    "description": "Alonso Samperio solicita a Eduardo Aguilar (Engie) la cromatografía correspondiente al mes de junio para la zona de Querétaro.\nObjeto: Obtener los reportes de calidad de gas del mes anterior para su archivo y control.\nInterpretación: Solicitud técnica de rutina en la cual Ricardo se encuentra copiado.",
-    "source": "Correo: Alonso Samperio Gayosso",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-07T19:29:00.000Z",
-    "createdAt": "2026-07-07T21:01:05.089Z",
     "updatedAt": "2026-07-08T21:11:50.180Z"
   },
   {
@@ -11243,19 +10385,6 @@
     "receivedAt": "2026-07-05T05:12:00.000Z",
     "createdAt": "2026-07-05T13:05:00.000Z",
     "updatedAt": "2026-07-05T13:05:00.000Z"
-  },
-  {
-    "id": "5026",
-    "title": "¡Último día! Suscríbete 1 año por 9,90€",
-    "description": "La Vanguardia envía una oferta promocional de último día para suscribirse 1 año por 9,90€.\nObjeto: Promoción de suscripción a medio de noticias.\nInterpretación: Correo publicitario directo; archivar, no requiere atención operativa.",
-    "source": "Correo: La Vanguardia",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-05T05:12:00.000Z",
-    "createdAt": "2026-07-05T21:00:35.194Z",
-    "updatedAt": "2026-07-05T21:00:35.196Z"
   },
   {
     "id": "email-5025-202607040005",
@@ -19784,19 +18913,6 @@
     "updatedAt": "2026-07-05T16:00:00.000Z"
   },
   {
-    "id": "email-3897",
-    "title": "Te recomendamos Contenido Mágico: Texto a Video",
-    "description": "Canva envía a Ricardo recomendaciones y novedades sobre sus herramientas de diseño.\nObjeto: Promocionar nuevas funcionalidades.\nInterpretación: Correo publicitario o newsletter automático; no requiere ninguna acción operativa.",
-    "source": "Correo: Canva",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-23T16:18:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.391Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
-  },
-  {
     "id": "email-3896",
     "title": "🍷 Cada viernes, un brindis: llega la newsletter de vinos",
     "description": "La Vanguardia envía a Ricardo una newsletter semanal sobre vinos.\nObjeto: Promoción de contenido editorial del Club Vanguardia.\nInterpretación: Boletín informativo de estilo de vida; irrelevante para la operación del negocio, archivar.",
@@ -19808,19 +18924,6 @@
     "receivedAt": "2025-10-23T13:51:00.000Z",
     "createdAt": "2026-07-05T16:00:00.000Z",
     "updatedAt": "2026-07-05T16:00:00.000Z"
-  },
-  {
-    "id": "email-3896",
-    "title": "🍷 Cada viernes, un brindis: llega la newsletter de vinos",
-    "description": "La Vanguardia envía a Ricardo boletines o promociones de suscripción.\nObjeto: Oferta comercial o newsletter informativo.\nInterpretación: Correo publicitario y comercial; no requiere atención y debe ser archivado.",
-    "source": "Correo: La Vanguardia",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-23T13:51:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
   },
   {
     "id": "email-3895",
@@ -19836,19 +18939,6 @@
     "updatedAt": "2026-07-05T16:00:00.000Z"
   },
   {
-    "id": "email-3895",
-    "title": "⏳ Oferta limitada: 1 año de La Vanguardia por 12€",
-    "description": "La Vanguardia envía a Ricardo boletines o promociones de suscripción.\nObjeto: Oferta comercial o newsletter informativo.\nInterpretación: Correo publicitario y comercial; no requiere atención y debe ser archivado.",
-    "source": "Correo: La Vanguardia",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-23T08:03:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
-  },
-  {
     "id": "email-3894",
     "title": "✅ Ricardo, termina de configurar tu dispositivo HEY2-W09 con Google",
     "description": "Google recuerda a Ricardo completar la configuración de su dispositivo HEY2-W09.\nObjeto: Alentar la vinculación completa de la cuenta en un nuevo dispositivo.\nInterpretación: Recordatorio personal automatizado; no afecta la operación del negocio y puede archivarse.",
@@ -19860,19 +18950,6 @@
     "receivedAt": "2025-10-23T00:20:00.000Z",
     "createdAt": "2026-07-05T16:00:00.000Z",
     "updatedAt": "2026-07-05T16:00:00.000Z"
-  },
-  {
-    "id": "email-3894",
-    "title": "✅ Ricardo, termina de configurar tu dispositivo HEY2-W09 con Google",
-    "description": "Google sugiere a Ricardo terminar la configuración de su dispositivo HEY2-W09.\nObjeto: Completar configuración de cuenta.\nInterpretación: Recordatorio automatizado; no requiere atención inmediata.",
-    "source": "Correo: Google",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-23T00:20:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
   },
   {
     "id": "email-3893",
@@ -19888,19 +18965,6 @@
     "updatedAt": "2026-07-05T16:00:00.000Z"
   },
   {
-    "id": "email-3893",
-    "title": "Alerta de seguridad",
-    "description": "Google envía a Ricardo una alerta de seguridad sobre su cuenta.\nObjeto: Notificar actividad o accesos recientes.\nInterpretación: Alerta de seguridad automatizada; requiere revisión rápida del origen del inicio de sesión.",
-    "source": "Correo: Google",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-23T00:19:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-08T21:11:50.180Z"
-  },
-  {
     "id": "email-3892",
     "title": "Pronto la imaginación saldrá a escena 🎉 #CanvaWorldTour",
     "description": "Canva World Tour envía a Ricardo un aviso sobre su próximo evento.\nObjeto: Promocionar conferencias y nuevos lanzamientos de la plataforma.\nInterpretación: Correo informativo y promocional; no requiere atención operativa.",
@@ -19914,19 +18978,6 @@
     "updatedAt": "2026-07-05T16:00:00.000Z"
   },
   {
-    "id": "email-3892",
-    "title": "Pronto la imaginación saldrá a escena 🎉 #CanvaWorldTour",
-    "description": "Canva envía a Ricardo recomendaciones y novedades sobre sus herramientas de diseño.\nObjeto: Promocionar nuevas funcionalidades.\nInterpretación: Correo publicitario o newsletter automático; no requiere ninguna acción operativa.",
-    "source": "Correo: Canva World Tour",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-21T15:12:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
-  },
-  {
     "id": "email-3891",
     "title": "Ricardo, ¿quieres probar algo nuevo?",
     "description": "Canva envía recomendaciones y sugerencias de uso a Ricardo.\nObjeto: Fomentar el uso continuo de plantillas en la herramienta de diseño.\nInterpretación: Boletín promocional de marketing; archivar, no requiere seguimiento.",
@@ -19938,19 +18989,6 @@
     "receivedAt": "2025-10-19T18:29:00.000Z",
     "createdAt": "2026-07-05T16:00:00.000Z",
     "updatedAt": "2026-07-05T16:00:00.000Z"
-  },
-  {
-    "id": "email-3891",
-    "title": "Ricardo, ¿quieres probar algo nuevo?",
-    "description": "Canva envía a Ricardo recomendaciones y novedades sobre sus herramientas de diseño.\nObjeto: Promocionar nuevas funcionalidades.\nInterpretación: Correo publicitario o newsletter automático; no requiere ninguna acción operativa.",
-    "source": "Correo: Canva",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-19T18:29:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
   },
   {
     "id": "email-3890",
@@ -19979,32 +19017,6 @@
     "updatedAt": "2026-07-05T16:00:00.000Z"
   },
   {
-    "id": "email-3890",
-    "title": "Pago confirmado del pedido 04673-9187071 de Canva",
-    "description": "EBANX/Canva notifica a Ricardo sobre el cobro y facturación de su suscripción.\nObjeto: Confirmar el pago de servicios.\nInterpretación: Notificación administrativa y financiera automática; archivar para control de gastos.",
-    "source": "Correo: EBANX/Canva",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-18T04:15:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
-  },
-  {
-    "id": "email-3889",
-    "title": "Tu factura de Canva",
-    "description": "EBANX/Canva notifica a Ricardo sobre el cobro y facturación de su suscripción.\nObjeto: Confirmar el pago de servicios.\nInterpretación: Notificación administrativa y financiera automática; archivar para control de gastos.",
-    "source": "Correo: Canva",
-    "owner": "Ricardo",
-    "status": "archivado",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-18T04:15:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-05T04:01:08.393Z"
-  },
-  {
     "id": "email-3888",
     "title": "⚠️ Tu almacenamiento de Gmail está lleno al 86 %",
     "description": "Google alerta a Ricardo que el espacio de almacenamiento de su cuenta está llegando al límite (86%).\nObjeto: Notificar el riesgo de saturación e invitar a liberar espacio.\nInterpretación: Alerta de infraestructura digital personal; requiere acción preventiva a mediano plazo.",
@@ -20016,19 +19028,6 @@
     "receivedAt": "2025-10-17T18:36:00.000Z",
     "createdAt": "2026-07-05T16:00:00.000Z",
     "updatedAt": "2026-07-05T16:00:00.000Z"
-  },
-  {
-    "id": "email-3888",
-    "title": "⚠️ Tu almacenamiento de Gmail está lleno al 86 %",
-    "description": "Google alerta a Ricardo que el almacenamiento de su cuenta está lleno al 86%.\nObjeto: Aviso de límite de capacidad.\nInterpretación: Alerta técnica; requiere que Ricardo libere espacio próximamente.",
-    "source": "Correo: Google",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2025-10-17T18:36:00.000Z",
-    "createdAt": "2026-07-05T04:01:08.393Z",
-    "updatedAt": "2026-07-08T21:11:50.180Z"
   },
   {
     "id": "email-3887",
@@ -20657,110 +19656,6 @@
     "updatedAt": "2026-05-30T01:00:00.000Z"
   },
   {
-    "id": "email-5741",
-    "title": "FW: 🦁 Vive la Pasión de la Liga MX con Elegancia en La Mariskeña",
-    "description": "El restaurante La Mariskeña envía a Ricardo publicidad y promociones para ver el partido del Club León.\nObjeto: Oferta comercial y reservaciones en el restaurante.\nInterpretación: Correo publicitario promocional, irrelevante para la operación del negocio.",
-    "source": "Correo: LA MARISKEÑA",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-01T19:05:00.000Z",
-    "createdAt": "2026-08-01T20:01:25.009Z",
-    "updatedAt": "2026-08-01T20:01:25.011Z"
-  },
-  {
-    "id": "email-5740",
-    "title": "FW: Su comprobación ha sido aprobada",
-    "description": "El Portal de gastos Excelencia notifica a Ricardo que su comprobación de gastos AMEX de julio por $7,044.70 MXN fue aprobada por Jose Enrique Taracena.\nObjeto: Confirmar la autorización del reembolso de viáticos y consumos del mes.\nInterpretación: Notificación administrativa y financiera, pendiente de la transferencia de reembolso.",
-    "source": "Correo: Portal de gastos Excelencia",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-01T17:32:00.000Z",
-    "createdAt": "2026-08-01T20:01:25.011Z",
-    "updatedAt": "2026-08-01T20:01:25.011Z"
-  },
-  {
-    "id": "email-5718",
-    "title": "FW: ♨ The SEC is getting roasted",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: ♨ The SEC is getting roasted.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-31 12:03+00:00",
-    "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T01:01:05.410Z"
-  },
-  {
-    "id": "email-5717",
-    "title": "FW: Tu Estado de Cuenta en línea",
-    "description": "American Express informa a Ricardo sobre la disponibilidad de su Estado de Cuenta de la tarjeta corporativa.\nObjeto: Notificar la fecha límite de pago (10 de agosto).\nInterpretación: Correo administrativo; requiere programación de pago o control de gastos.",
-    "source": "Correo: American Express",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-31 09:31+00:00",
-    "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T14:01:57.926Z"
-  },
-  {
-    "id": "email-5716",
-    "title": "Los incendios que golpean España, las incógnitas del informe PISA, el nuevo mapa del alquiler en Catalunya y mucho más…",
-    "description": "La Vanguardia envía a Ricardo su newsletter informativo con noticias destacadas y contenido del club de suscriptores.\nObjeto: Compartir artículos de actualidad y promociones.\nInterpretación: Boletín informativo; no requiere acción operativa directa.",
-    "source": "Correo: La Vanguardia",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-31 08:03+00:00",
-    "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T14:01:57.927Z"
-  },
-  {
-    "id": "email-5715",
-    "title": "FW: CFDI de recibo electrónico de CARMONA MARCANO RICARDO ANDRES periodo 14 Quincenal 2026",
-    "description": "El sistema de nómina envía a Ricardo su CFDI y recibo electrónico de la quincena 14 de 2026.\nObjeto: Entregar el comprobante fiscal y recibo de pago salarial.\nInterpretación: Documentación administrativa personal; archivar para control.",
-    "source": "Correo: AppExcelencia / NATGAS",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 23:41+00:00",
-    "createdAt": "2026-08-02T01:01:05.410Z",
-    "updatedAt": "2026-08-02T14:01:57.927Z"
-  },
-  {
-    "id": "email-5714",
-    "title": "FW: Instalación de carrete Natgas Lázaro Cárdenas",
-    "description": "Alonso Samperio solicita a Marcos Fernando (con copia al equipo) la creación de un Flyer para comunicar una actividad.\nObjeto: Solicitar diseño informativo para un paro de estación programado para el 21 de agosto.\nInterpretación: Tarea de coordinación operativa y de comunicación; seguimiento requerido.",
-    "source": "Correo: Alonso Samperio Gayosso",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 22:55+00:00",
-    "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T14:01:57.927Z"
-  },
-  {
-    "id": "email-5713",
-    "title": "FW: Instalación de carrete Natgas Lázaro Cárdenas",
-    "description": "Alonso Samperio confirma a Carlos Rafael Ruiz y al equipo la fecha para la instalación del carrete en la estación.\nObjeto: Confirmar que el paro será el jueves 21 de agosto de 9:00 a 11:00 y pedir aviso a clientes.\nInterpretación: Aviso operativo importante para la programación de trabajos y notificación a clientes.",
-    "source": "Correo: Alonso Samperio Gayosso",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 22:15+00:00",
-    "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T14:01:57.927Z"
-  },
-  {
     "id": "email-5712",
     "title": "FW: Informe de mercado de hoy: 30 de julio 📈",
     "description": "Naturgy México comparte con Ricardo el informe de mercado de gas natural correspondiente al 30 de julio.\nObjeto: Enviar resumen de indicadores y reporte de mercado actualizado.\nInterpretación: Boletín informativo operativo y comercial; útil para el monitoreo de mercado.",
@@ -20835,32 +19730,6 @@
     "dueDate": null,
     "unansweredDays": 0,
     "receivedAt": "2026-07-30 19:41+00:00",
-    "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
-  },
-  {
-    "id": "email-5706",
-    "title": "FW: Analisis ruta Critica",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Analisis ruta Critica.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 18:52+00:00",
-    "createdAt": "2026-08-02T01:01:05.412Z",
-    "updatedAt": "2026-08-02T01:01:05.412Z"
-  },
-  {
-    "id": "email-5705",
-    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 18:50+00:00",
     "createdAt": "2026-08-02T01:01:05.412Z",
     "updatedAt": "2026-08-02T01:01:05.412Z"
   },
@@ -20993,58 +19862,6 @@
     "receivedAt": "2026-07-30 15:46+00:00",
     "createdAt": "2026-08-02T01:01:07.216Z",
     "updatedAt": "2026-08-02T01:01:07.216Z"
-  },
-  {
-    "id": "email-5694",
-    "title": "FW: Notas de crédito mayo Natgas",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Notas de crédito mayo Natgas.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 15:41+00:00",
-    "createdAt": "2026-08-02T01:01:07.216Z",
-    "updatedAt": "2026-08-02T01:01:07.216Z"
-  },
-  {
-    "id": "email-5693",
-    "title": "FW: Notas de crédito mayo Natgas",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Notas de crédito mayo Natgas.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 15:40+00:00",
-    "createdAt": "2026-08-02T01:01:07.216Z",
-    "updatedAt": "2026-08-02T01:01:07.216Z"
-  },
-  {
-    "id": "email-5692",
-    "title": "FW: Notificación de actualización de tarifa convencional",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Notificación de actualización de tarifa convencional.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 15:40+00:00",
-    "createdAt": "2026-08-02T01:01:07.217Z",
-    "updatedAt": "2026-08-02T01:01:07.217Z"
-  },
-  {
-    "id": "email-5691",
-    "title": "FW: Notificación de actualización de tarifa convencional",
-    "description": "El remitente (undefined) envía a Ricardo un correo o reenvío.\nObjeto: FW: Notificación de actualización de tarifa convencional.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: undefined",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-30 15:39+00:00",
-    "createdAt": "2026-08-02T01:01:07.217Z",
-    "updatedAt": "2026-08-02T01:01:07.217Z"
   },
   {
     "id": "email-5690",
@@ -22319,19 +21136,6 @@
     "receivedAt": "2026-07-27 17:53+00:00",
     "createdAt": "2026-08-03T02:01:54.492Z",
     "updatedAt": "2026-08-03T02:01:54.492Z"
-  },
-  {
-    "id": "email-5556",
-    "title": "FW: SEGUIMIENTO: Revisión de la medición Estación Natgas Malecón - BS20170805GNS",
-    "description": "Abraham Benegasi (Naturgy) confirma a Alonso Samperio y Ricardo Carmona las fechas para visitas técnicas por revisión de desbalance.\nObjeto: Revisar la medición de gas en la estación Malecón y programación de mantenimientos.\nInterpretación: Seguimiento operativo y de mantenimiento; requiere que el equipo confirme su acuerdo con las fechas propuestas.",
-    "source": "Correo: Abraham Benegasi Alarcon",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-07-24T19:15:00.000Z",
-    "createdAt": "2026-07-24T20:00:00.000Z",
-    "updatedAt": "2026-07-24T20:00:00.000Z"
   },
   {
     "id": "email-5555",
@@ -24305,110 +23109,6 @@
     "updatedAt": "2026-07-25T05:01:06.005292Z"
   },
   {
-    "id": "email-5838",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 21:52+00:00",
-    "createdAt": "2026-08-05T22:00:48.660Z",
-    "updatedAt": "2026-08-05T22:00:48.660Z"
-  },
-  {
-    "id": "email-5837",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 20:40+00:00",
-    "createdAt": "2026-08-05T22:00:48.661Z",
-    "updatedAt": "2026-08-05T22:00:48.661Z"
-  },
-  {
-    "id": "email-5836",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 20:38+00:00",
-    "createdAt": "2026-08-05T22:00:48.661Z",
-    "updatedAt": "2026-08-05T22:00:48.661Z"
-  },
-  {
-    "id": "email-5835",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 20:38+00:00",
-    "createdAt": "2026-08-05T22:00:48.661Z",
-    "updatedAt": "2026-08-05T22:00:48.661Z"
-  },
-  {
-    "id": "email-5834",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 20:37+00:00",
-    "createdAt": "2026-08-05T22:00:48.661Z",
-    "updatedAt": "2026-08-05T22:00:48.661Z"
-  },
-  {
-    "id": "email-5833",
-    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Estatus cambio de suministrador calificado en Nuevo León\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 20:34+00:00",
-    "createdAt": "2026-08-05T22:00:48.661Z",
-    "updatedAt": "2026-08-05T22:00:48.661Z"
-  },
-  {
-    "id": "email-5832",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 20:27+00:00",
-    "createdAt": "2026-08-05T22:00:48.661Z",
-    "updatedAt": "2026-08-05T22:00:48.661Z"
-  },
-  {
-    "id": "email-5831",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05 20:27+00:00",
-    "createdAt": "2026-08-05T22:00:48.664Z",
-    "updatedAt": "2026-08-05T22:00:48.664Z"
-  },
-  {
     "id": "email-5830",
     "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
     "description": "Nuevo correo de Ricardo Andrés Carmona Marcano con el asunto \"FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente\".\nRequiere revisión para determinar acción operativa.",
@@ -24524,161 +23224,5 @@
     "receivedAt": "2026-08-06T13:48:03.000Z",
     "createdAt": "2026-08-06T14:02:37.899Z",
     "updatedAt": "2026-08-06T14:02:37.899Z"
-  },
-  {
-    "id": "email-5836",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "ENGIE Mexico (LATMX-Notificacion Operativa) envía a Ricardo el reporte del Índice Bidweek (HSCH) y Tipo de Cambio para la estación Monterrey-Nuevo León.\nObjeto: Compartir las variaciones de los índices mensuales de mercado para transparencia en costos de energía.\nInterpretación: Documento informativo comercial y financiero; requiere archivar para conciliaciones.",
-    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T14:38:27.000Z",
-    "createdAt": "2026-08-06T14:02:37.899Z",
-    "updatedAt": "2026-08-06T14:02:37.899Z"
-  },
-  {
-    "id": "email-5835",
-    "title": "FW: Índice Bidweek (HSCH) y Tipo de Cambio para Cliente",
-    "description": "ENGIE Mexico (LATMX-Notificacion Operativa) envía a Ricardo el reporte del Índice Bidweek (HSCH) y Tipo de Cambio para la estación Zapopan-Jalisco.\nObjeto: Compartir las variaciones de los índices mensuales de mercado para transparencia en costos de energía.\nInterpretación: Documento informativo comercial y financiero; requiere archivar para conciliaciones.",
-    "source": "Correo: LATMX-Notificacion Operativa (ENGIE Mexico)",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-05T14:38:21.000Z",
-    "createdAt": "2026-08-06T14:02:37.899Z",
-    "updatedAt": "2026-08-06T14:02:37.899Z"
-  },
-  {
-    "id": "email-5858",
-    "title": "FW: OC3047755 / 3047756 - IMW COLOMBIA -SURTIDOR TIPO FILL POST",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: OC3047755 / 3047756 - IMW COLOMBIA -SURTIDOR TIPO FILL POST.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 18:04+00:00",
-    "createdAt": "2026-08-06T19:01:03.088Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5857",
-    "title": "FW: ESTAS LISTO PARA LA INSPECCIÓN, SUPERVISIÓN Y ORDENAMIENTO DE PRONAGAS?",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: ESTAS LISTO PARA LA INSPECCIÓN, SUPERVISIÓN Y ORDENAMIENTO DE PRONAGAS?.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 17:28+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5856",
-    "title": "FW: IBM Power despierta en Guadalajara",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: IBM Power despierta en Guadalajara.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:51+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5855",
-    "title": "FW: Cromatografía Mexicana de Gas julio 2026",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: Cromatografía Mexicana de Gas julio 2026.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:34+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5854",
-    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:33+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5853",
-    "title": "FW: Cromatografía Jalisco julio 2026",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: Cromatografía Jalisco julio 2026.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:33+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5852",
-    "title": "FW: Cromatografía Querétaro julio 2026",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: Cromatografía Querétaro julio 2026.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:32+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5851",
-    "title": "FW: PRESUPUESTO 2027",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: PRESUPUESTO 2027.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:31+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5850",
-    "title": "FW: Cromatografía Naturgy julio 2026",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: Cromatografía Naturgy julio 2026.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:31+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
-  },
-  {
-    "id": "email-5849",
-    "title": "FW: Cromatografía México julio 2026",
-    "description": "Ricardo Andrés Carmona Marcano envía un correo o reenvío a Ricardo.\nObjeto: FW: Cromatografía México julio 2026.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
-    "source": "Correo: Ricardo Andrés Carmona Marcano",
-    "owner": "Ricardo",
-    "status": "notsure",
-    "dueDate": null,
-    "unansweredDays": 0,
-    "receivedAt": "2026-08-06 16:30+00:00",
-    "createdAt": "2026-08-06T19:01:03.095Z",
-    "updatedAt": "2026-08-06T19:01:03.095Z"
   }
 ]
