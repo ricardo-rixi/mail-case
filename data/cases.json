@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5848",
+    "title": "FW: Estatus cambio de suministrador calificado en Nuevo León",
+    "description": "Alonso Samperio confirma a Grupo Cox y al equipo interno los horarios de las visitas técnicas en las estaciones de Nuevo León para el día lunes.\nObjeto: Coordinar levantamientos para el cambio de suministrador eléctrico.\nInterpretación: Confirmación operativa completada; los encargados de sitio deben atender las visitas.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T15:54:00.000Z",
+    "createdAt": "2026-08-07T02:01:35.618Z",
+    "updatedAt": "2026-08-07T02:01:35.618Z"
+  },
+  {
+    "id": "email-5847",
+    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx",
+    "description": "Maria Jose Arcos notifica a Gascorp y a Ricardo que la afianzadora cometió un error al emitir el previo de la fianza en dólares por restricciones de ley.\nObjeto: Solicitar a Gascorp autorización para emitir la fianza en pesos o validar si aplican a excepciones.\nInterpretación: Trámite legal y comercial detenido; requiere acuerdo entre Legal y el proveedor.",
+    "source": "Correo: Maria Jose Arcos Hernandez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T15:53:00.000Z",
+    "createdAt": "2026-08-07T02:01:35.618Z",
+    "updatedAt": "2026-08-07T02:01:35.618Z"
+  },
+  {
+    "id": "email-5846",
+    "title": "FW: [Data and AI roadmap] Obtenga ayuda para elegir su próxima capacidad",
+    "description": "Amazon Web Services envía a Ricardo publicidad sobre una guía para pasar de los datos a la IA autónoma.\nObjeto: Promocionar eBook y soluciones tecnológicas en la nube.\nInterpretación: Correo publicitario o newsletter de AWS; archivar, no requiere acción directa.",
+    "source": "Correo: Amazon Web Services",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T15:14:00.000Z",
+    "createdAt": "2026-08-07T02:01:35.618Z",
+    "updatedAt": "2026-08-07T02:01:35.618Z"
+  },
+  {
+    "id": "email-5845",
+    "title": "FW: INFORMACION AR BIOMETANO",
+    "description": "David Moreno (VW) indica a Ricardo Carmona que no puede descargar el archivo adjunto (enlace de Drive) con los planos de detalle mecánico.\nObjeto: Solicitar el reenvío de la documentación de tubería de biometano por otro medio.\nInterpretación: Seguimiento técnico urgente; Ricardo debe facilitar el acceso o reenviar los archivos.",
+    "source": "Correo: David Moreno (VW)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-06T14:44:00.000Z",
+    "createdAt": "2026-08-07T02:01:35.618Z",
+    "updatedAt": "2026-08-07T02:01:35.618Z"
+  },
+  {
     "id": "email-5876",
     "title": "FW: Informe de mercado de hoy: 06 de agosto 📈",
     "description": "Naturgy México envía a Ricardo Carmona el informe de mercado de gas natural del 6 de agosto.\nObjeto: Compartir reporte de mercado.\nInterpretación: Correo informativo comercial periódico; útil para monitorear precios.",
