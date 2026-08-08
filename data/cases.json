@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-5902",
+    "title": "FW: Su factura de Naturgy ya está disponible - Descargue aquí📥",
+    "description": "Naturgy envía a Ricardo Carmona la notificación de disponibilidad de la factura de gas natural (BS20160701GNS) por $858,027.15.\nObjeto: Entregar la factura para pago.\nInterpretación: Documento contable automatizado; se debe canalizar a cuentas por pagar.",
+    "source": "Correo: Naturgy Servicios",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-08 02:49+00:00",
+    "createdAt": "2026-08-08T04:00:00.000Z",
+    "updatedAt": "2026-08-08T04:00:00.000Z"
+  },
+  {
     "id": "email-5901",
     "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Consumo de Agua (BALANCE DE AGUA)",
     "description": "Alonso Samperio comparte el Informe Semanal de Consumo de Agua de las EDS (27 jul - 3 ago) en Teamwork.\nObjeto: Presentar análisis del consumo de agua y acciones correctivas.\nInterpretación: Reporte operativo de rutina.",
