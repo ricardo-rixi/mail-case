@@ -23580,5 +23580,18 @@
     "description": "Asunto: FW: Notificación de actualización de tarifa convencional. Remitente: Ricardo Andrés Carmona Marcano. Solicitud de revisión y seguimiento de los detalles proporcionados en el correo. Por favor, verificar los archivos o información adjunta y proceder según corresponda.",
     "status": "notsure",
     "receivedAt": "2026-07-30 15:40+00:00"
+  },
+  {
+    "id": "email-5691",
+    "title": "FW: Notificación de actualización de tarifa convencional",
+    "description": "José Enrique Taracena Sanz (Natgas) solicita a Ricardo Carmona investigar el monto del incremento en la actualización de la tarifa convencional notificada por ENGIE Mexico para Natgas Querétaro.\nObjeto: Revisión anual de tarifas con actualización del cargo por capacidad desde junio de 2026.\nInterpretación: Solicitud operativa y financiera que requiere análisis del impacto del ajuste tarifario.",
+    "source": "Correo",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-30T15:39:00Z",
+    "createdAt": "2026-08-08T02:01:02.273Z",
+    "updatedAt": "2026-08-08T02:01:02.274Z"
   }
 ]
