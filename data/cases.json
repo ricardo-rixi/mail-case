@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5589",
+    "title": "FW: Instalación de carrete Natgas Lázaro Cárdenas",
+    "description": "Norma Rodríguez (ENGIE) confirma opciones de fecha (19-22 de agosto) para la libranza e instalación del carrete en la estación Lázaro Cárdenas, y solicita fotografías técnicas del medidor de flujo.\nObjeto: Coordinar fecha de libranza y requerimientos técnicos.\nInterpretación: Gestión operativa y técnica; requiere enviar las fotografías y confirmar la fecha final.",
+    "source": "Correo: Norma Elidé Rodríguez Duque",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-27T17:26:00.000Z",
+    "createdAt": "2026-08-08T18:04:10.283Z",
+    "updatedAt": "2026-08-08T18:04:10.284Z"
+  },
+  {
+    "id": "email-5590",
+    "title": "FW: Oferta comercial GPep",
+    "description": "David Domínguez confirma ajustes a la propuesta comercial para GPep, incluyendo la modificación de la TIR a 5 años (como Cemex) y estableciendo un volumen mínimo (take or pay), e inicia a trabajar en la presentación para la visita.\nObjeto: Ajustar y enviar propuesta comercial para GPep.\nInterpretación: Seguimiento de oportunidad de negocio B2B; requiere revisión final previa a la visita con el cliente.",
+    "source": "Correo: David Domínguez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-27T17:44:00.000Z",
+    "createdAt": "2026-08-08T18:04:10.284Z",
+    "updatedAt": "2026-08-08T18:04:10.284Z"
+  },
+  {
+    "id": "email-5591",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Semanal de Balance de Energía Eléctrica",
+    "description": "Héctor Fabio Ramírez Muñoz reporta correcciones en la programación de los surtidores de FUG para aprovechar la cascada, y menciona la necesidad de escalar con Canadá mejoras en los PLCs. Además, informa sobre errores en tableros inteligentes que afectaron informes de ABA y 108.\nObjeto: Reportar hallazgos y acciones técnicas sobre el balance de energía eléctrica.\nInterpretación: Seguimiento operativo y técnico de las estaciones; requiere seguimiento en reparaciones de PLCs y tableros.",
+    "source": "Correo: Héctor Fabio Ramirez Muñoz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-27T17:50:00.000Z",
+    "createdAt": "2026-08-08T18:04:10.284Z",
+    "updatedAt": "2026-08-08T18:04:10.284Z"
+  },
+  {
     "id": "3e3e2fbb-f0fe-40c0-930f-ad01d9205e1a",
     "title": "FW: ✨ Descubre nuevas posibilidades con Galaxy AI ✨",
     "description": "Samsung envía un boletín promocional sobre equipos educativos y soluciones para PyMES con descuentos exclusivos.",
