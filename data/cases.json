@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5903",
+    "title": "FW: ✨ Descubre nuevas posibilidades con Galaxy AI ✨",
+    "description": "Samsung (KnoxPortal) envía a Ricardo Carmona información promocional sobre Galaxy AI y dispositivos educativos.\nObjeto: Ofrecer descuentos en tablets y pantallas para el sector educativo o empresarial.\nInterpretación: Correo de marketing automatizado; archivar o descartar.",
+    "source": "Correo: KnoxPortal",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-08 04:21+00:00",
+    "createdAt": "2026-08-08T05:02:58.123Z",
+    "updatedAt": "2026-08-08T05:02:58.123Z"
+  },
+  {
+    "id": "email-5592",
+    "title": "FW: Calibración de tanques y sondas",
+    "description": "Juan Garza de Gasoline envía a Ricardo Carmona información sobre sus servicios de calibración de tanques y sondas electrónicas.\nObjeto: Promocionar soluciones de cumplimiento normativo (NOM-005-ASEA) y calibración para estaciones de servicio.\nInterpretación: Correo comercial de un posible proveedor; archivar a menos que se requieran estos servicios actualmente.",
+    "source": "Correo: Juan Garza - Gasoline",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-07-27 17:52+00:00",
+    "createdAt": "2026-08-08T05:02:58.123Z",
+    "updatedAt": "2026-08-08T05:02:58.123Z"
+  },
+  {
     "id": "email-5902",
     "title": "FW: Su factura de Naturgy ya está disponible - Descargue aquí📥",
     "description": "Naturgy envía a Ricardo Carmona la notificación de disponibilidad de la factura de gas natural (BS20160701GNS) por $858,027.15.\nObjeto: Entregar la factura para pago.\nInterpretación: Documento contable automatizado; se debe canalizar a cuentas por pagar.",
