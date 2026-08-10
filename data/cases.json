@@ -28623,5 +28623,18 @@
     "receivedAt": "2026-08-10 12:02+00:00",
     "createdAt": "2026-08-10T14:02:52.534Z",
     "updatedAt": "2026-08-10T14:02:52.534Z"
+  },
+  {
+    "id": "email-5922",
+    "title": "FW: ANEXO -1",
+    "description": "Coya Reséndiz (BESCO) contacta a Ricardo Carmona ofreciendo asesoría para el correcto cumplimiento del ANEXO -1 y evitar verificaciones o multas.\nObjeto: Promocionar servicios de consultoría normativa para evitar sanciones.\nInterpretación: Correo comercial de consultoría externa; archivar o evaluar según necesidad operativa actual.",
+    "source": "Correo: BESCO",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-10 20:33+00:00",
+    "createdAt": "2026-08-10T22:01:05.251Z",
+    "updatedAt": "2026-08-10T22:01:05.252Z"
   }
 ]
