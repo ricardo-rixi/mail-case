@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-5908",
+    "title": "FW: Una Tarjeta fácil de obtener y beneficiarte",
+    "description": "Aeroméxico Promociones envía a Ricardo una oferta para obtener una tarjeta de crédito con beneficios y recompensas.\nObjeto: Promocionar un producto financiero.\nInterpretación: Correo publicitario y comercial; archivar o descartar.",
+    "source": "Correo: Aeroméxico Promociones",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-10T12:06:14Z",
+    "createdAt": "2026-08-10T14:01:12.837Z",
+    "updatedAt": "2026-08-10T14:01:12.838Z"
+  },
+  {
+    "id": "email-5906",
+    "title": "FW: Clean Energy Under Pressure",
+    "description": "EnergyNews envía a Ricardo un boletín informativo sobre tendencias y noticias de transición energética a nivel global.\nObjeto: Compartir noticias de la industria, proyectos de hidrógeno verde y eventos.\nInterpretación: Boletín informativo; archivar o leer para mantenerse actualizado en el sector.",
+    "source": "Correo: EnergyNews",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-10T05:42:11Z",
+    "createdAt": "2026-08-10T14:01:12.838Z",
+    "updatedAt": "2026-08-10T14:01:12.838Z"
+  },
+  {
     "id": "email-5905",
     "title": "Ricardo, 2 años por solo 19,90 €",
     "description": "La Vanguardia envía a Ricardo una oferta promocional de suscripción por 2 años.\nObjeto: Promoción de suscripción al medio.\nInterpretación: Correo comercial publicitario; archivar directamente.",
