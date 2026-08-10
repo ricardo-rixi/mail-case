@@ -28389,5 +28389,44 @@
     "description": "Ricardo Andrés Carmona Marcano sent an email regarding: FW: Unlock Executive GLP Mastery. Action required is currently undetermined pending review.",
     "subject": "FW: Unlock Executive GLP Mastery",
     "sender": "Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "email-5910",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Monday 10 Aug 2026)",
+    "description": "Teamwork envía el informe diario automatizado del proyecto NATGAS QUERETARO SAPI DE CV.\nObjeto: Resumen diario de actividades y pendientes.\nInterpretación: Correo de sistema automático; requiere revisión rápida de tareas por parte del usuario.",
+    "source": "Correo: Teamwork",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-10 14:00+00:00",
+    "createdAt": "2026-08-10T14:02:52.533Z",
+    "updatedAt": "2026-08-10T14:02:52.534Z"
+  },
+  {
+    "id": "email-5909",
+    "title": "FW: Descarga la guía para obtener el plan centrado en los datos y diseñar el futuro de tu organización.",
+    "description": "Google Cloud envía un correo automatizado promocional sobre IA y arquitectura de datos.\nObjeto: Descarga de guía de arquitectura orientada a la IA.\nInterpretación: Boletín comercial; archivar a menos que sea de interés.",
+    "source": "Correo: Google Cloud",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-10 13:47+00:00",
+    "createdAt": "2026-08-10T14:02:52.534Z",
+    "updatedAt": "2026-08-10T14:02:52.534Z"
+  },
+  {
+    "id": "email-5907",
+    "title": "FW: 👂 Intel on every QB battle",
+    "description": "Bleacher Report envía noticias deportivas y resúmenes (NFL/fútbol americano).\nObjeto: Actualizaciones deportivas.\nInterpretación: Boletín deportivo automatizado; sin relevancia operativa para el negocio, archivar.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-10 12:02+00:00",
+    "createdAt": "2026-08-10T14:02:52.534Z",
+    "updatedAt": "2026-08-10T14:02:52.534Z"
   }
 ]
