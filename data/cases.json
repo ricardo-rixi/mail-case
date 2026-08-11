@@ -29065,5 +29065,70 @@
     "receivedAt": "2026-08-11 17:24+00:00",
     "createdAt": "2026-08-11T18:02:05.234Z",
     "updatedAt": "2026-08-11T18:02:05.234Z"
+  },
+  {
+    "id": "email-5953",
+    "title": "FW: Relación volumétrica julio 2026",
+    "description": "Alonso Samperio Gayosso envía a Ricardo y otros colaboradores de Natgas los valores de la relación volumétrica de gas natural correspondientes a julio de 2026.\nObjeto: Compartir la tabla de valores reales y teóricos por zona.\nInterpretación: Reporte técnico mensual de rutina; archivar y revisar para los procesos operativos y de facturación.",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11 20:37+00:00",
+    "createdAt": "2026-08-11T22:01:34.291Z",
+    "updatedAt": "2026-08-11T22:01:34.291Z"
+  },
+  {
+    "id": "email-5952",
+    "title": "FW: Mantenimiento Correctivo - Ricardo",
+    "description": "Soporte Caliza envía a Ricardo el reporte del mantenimiento correctivo ejecutado el 30 de julio de 2026 en su sistema fotovoltaico.\nObjeto: Informar sobre falla en el inversor y solicitud de garantía.\nInterpretación: Notificación de seguimiento a incidente técnico; requiere dar seguimiento a la reprogramación de la visita.",
+    "source": "Correo: Soporte Caliza",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11 19:49+00:00",
+    "createdAt": "2026-08-11T22:01:34.291Z",
+    "updatedAt": "2026-08-11T22:01:34.291Z"
+  },
+  {
+    "id": "email-5951",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "description": "Humand notifica a Ricardo sobre una publicación de Comunicación Interna para fomentar la solidaridad con Colombia ante recientes terremotos.\nObjeto: Compartir opciones de donación para apoyar a las comunidades afectadas.\nInterpretación: Boletín corporativo interno de responsabilidad social; archivar.",
+    "source": "Correo: Humand",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11 18:40+00:00",
+    "createdAt": "2026-08-11T22:01:34.291Z",
+    "updatedAt": "2026-08-11T22:01:34.291Z"
+  },
+  {
+    "id": "email-5950",
+    "title": "FW: Duda sobre vacantes TI - Natgas",
+    "description": "Cruz Angelina Perez Rodriguez (CRH Talento en IT) contacta a Ricardo ofreciendo servicios de reclutamiento especializado en perfiles TI.\nObjeto: Seguimiento comercial para ofrecer candidatos validados.\nInterpretación: Prospección B2B y oferta de servicios; evaluar necesidad o ignorar si no aplica.",
+    "source": "Correo: Cruz Angelina Perez Rodriguez",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11 18:17+00:00",
+    "createdAt": "2026-08-11T22:01:34.291Z",
+    "updatedAt": "2026-08-11T22:01:34.291Z"
+  },
+  {
+    "id": "email-5949",
+    "title": "FW: 🌵Houston, allá vamos⭐",
+    "description": "Viva Aerobus envía a Ricardo ofertas y promociones para vuelos hacia destinos en Estados Unidos, resaltando Houston.\nObjeto: Publicitar tarifas reducidas, paquetes y opciones de pago a meses sin intereses.\nInterpretación: Correo comercial y publicitario automatizado; descartar o archivar.",
+    "source": "Correo: Viva",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11 18:03+00:00",
+    "createdAt": "2026-08-11T22:01:34.291Z",
+    "updatedAt": "2026-08-11T22:01:34.291Z"
   }
 ]
