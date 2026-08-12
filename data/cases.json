@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-5958",
+    "title": "FW: Comprobante Fiscal OO00037904",
+    "description": "Manuel Alejandro Gómez Velazquez reenvía a Ricardo y equipo un Comprobante Fiscal Digital (factura OO00037904) de GDF SUEZ MEXICO COMERCIALIZADORA.\nObjeto: Recepción de factura electrónica con PDF y XML.\nInterpretación: Documento contable y administrativo; requiere procesamiento o envío a finanzas para su gestión.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11T23:30:00.000Z",
+    "createdAt": "2026-08-12T02:05:00.000Z",
+    "updatedAt": "2026-08-12T02:05:00.000Z"
+  },
+  {
+    "id": "email-5957",
+    "title": "FW: Comprobante Fiscal OO00037903",
+    "description": "Manuel Alejandro Gómez Velazquez reenvía a Ricardo y equipo un Comprobante Fiscal Digital (factura OO00037903) de GDF SUEZ MEXICO COMERCIALIZADORA.\nObjeto: Recepción de factura electrónica con PDF y XML.\nInterpretación: Documento contable y administrativo; requiere procesamiento o envío a finanzas para su gestión.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11T23:30:00.000Z",
+    "createdAt": "2026-08-12T02:05:00.000Z",
+    "updatedAt": "2026-08-12T02:05:00.000Z"
+  },
+  {
+    "id": "email-5956",
+    "title": "FW: Comprobante Fiscal OO00037902",
+    "description": "Manuel Alejandro Gómez Velazquez reenvía a Ricardo y equipo un Comprobante Fiscal Digital (factura OO00037902) de GDF SUEZ MEXICO COMERCIALIZADORA.\nObjeto: Recepción de factura electrónica con PDF y XML.\nInterpretación: Documento contable y administrativo; requiere procesamiento o envío a finanzas para su gestión.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11T23:30:00.000Z",
+    "createdAt": "2026-08-12T02:05:00.000Z",
+    "updatedAt": "2026-08-12T02:05:00.000Z"
+  },
+  {
+    "id": "email-5955",
+    "title": "FW: Comprobante Fiscal OO00037901",
+    "description": "Manuel Alejandro Gómez Velazquez reenvía a Ricardo y equipo un Comprobante Fiscal Digital (factura OO00037901) de GDF SUEZ MEXICO COMERCIALIZADORA.\nObjeto: Recepción de factura electrónica con PDF y XML.\nInterpretación: Documento contable y administrativo; requiere procesamiento o envío a finanzas para su gestión.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-11T23:30:00.000Z",
+    "createdAt": "2026-08-12T02:05:00.000Z",
+    "updatedAt": "2026-08-12T02:05:00.000Z"
+  },
+  {
     "id": "email-5954",
     "title": "FW: Registro electrónico de jornada:",
     "description": "Remitente: Ricardo Andrés Carmona Marcano.\nObjeto: FW: Registro electrónico de jornada:.\nInterpretación: Mensaje recibido pendiente de revisión detallada, se requiere clasificación para determinar la acción a seguir.",
