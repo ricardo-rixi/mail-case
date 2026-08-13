@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-6004",
+    "title": "Informe diario del proyecto para Ricardo Carmona (Thursday 13 Aug 2026)",
+    "description": "Teamwork.com envía a Ricardo el reporte diario de tareas del proyecto de NATGAS QUERETARO SAPI DE CV.\nObjeto: Resumen automático de tareas pendientes y proyectos para el 13 de agosto.\nInterpretación: Reporte operativo interno de seguimiento de proyectos; requiere revisión de las tareas listadas.",
+    "source": "Correo: NATGAS QUERETARO SAPI DE CV Reports <reports@eu.teamwork.com>",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-13 14:00+00:00",
+    "createdAt": "2026-08-13T14:01:19.304Z",
+    "updatedAt": "2026-08-13T14:01:19.305Z"
+  },
+  {
     "id": "email-5998",
     "title": "FW: Your Power BI digest: Top picks and favorites",
     "description": "Microsoft Power BI envía a Ricardo el resumen mensual de reportes y tableros más visitados.\nObjeto: Your Power BI digest: Top picks and favorites.\nInterpretación: Correo informativo automatizado con reportes operativos; no requiere acción directa.",
