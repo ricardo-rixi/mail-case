@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-5966",
+    "title": "FW: NATGAS//Revisión y definición del esquema de facturación",
+    "description": "Adrian Peñafiel (Grupo NXT) contacta a Ricardo Carmona y Alonso Samperio para revisar y homologar el esquema de facturación de los servicios prestados.\nObjeto: Solicitar una reunión para definir la periodicidad y requisitos administrativos de facturación.\nInterpretación: Seguimiento administrativo y comercial; requiere agendar la sesión para documentar el proceso de cobro.",
+    "source": "Correo: Adrian Peñafiel (Grupo NXT)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-12 15:03+00:00",
+    "createdAt": "2026-08-15T14:01:55.669Z",
+    "updatedAt": "2026-08-15T14:01:55.669Z"
+  },
+  {
+    "id": "email-5965",
+    "title": "FW: Cromatografía Querétaro julio 2026",
+    "description": "Hernán Zacarías (ENGIE) comparte con Alonso Samperio y Ricardo Carmona el reporte de cromatografía y calidad del gas de Querétaro correspondiente a julio 2026.\nObjeto: Entregar la información mensual de calidad de gas solicitada previamente.\nInterpretación: Recepción de datos técnicos operativos rutinarios; archivar para registros de calidad.",
+    "source": "Correo: Hernan Rooy Zacarias González (ENGIE)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-12 14:42+00:00",
+    "createdAt": "2026-08-15T14:01:55.669Z",
+    "updatedAt": "2026-08-15T14:01:55.669Z"
+  },
+  {
+    "id": "email-5964",
+    "title": "FW: Calibración de tanques y sondas",
+    "description": "Juan Garza (Gasoline) envía a Ricardo Carmona información promocional sobre servicios de calibración de tanques, sondas y pruebas Pentest.\nObjeto: Ofrecer servicios para el cumplimiento de la normatividad de ASEA y anexos del SAT.\nInterpretación: Correo comercial de presentación de proveedor; archivar a menos que exista necesidad operativa actual.",
+    "source": "Correo: Juan Garza (Gasoline)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-12 14:16+00:00",
+    "createdAt": "2026-08-15T14:01:55.669Z",
+    "updatedAt": "2026-08-15T14:01:55.669Z"
+  },
+  {
     "id": "email-6066",
     "title": "FW: PILA MP 0.75K Genset 4 (16/Ago 08:00am a 04:00pm)",
     "description": "Marcos Fernando Ríos Ferrer (Natgas) notifica al equipo de Mantenimiento y operaciones la reprogramación del mantenimiento preventivo del Genset 4 en EDS PILA por falta de OC y refacciones.\nObjeto: Informar sobre la cancelación de la actividad del 16 de agosto y su tentativa reprogramación para el 30 de agosto.\nInterpretación: Notificación operativa interna; requiere seguimiento logístico para la llegada de las refacciones.",
