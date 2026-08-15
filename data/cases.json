@@ -1,5 +1,18 @@
 [
   {
+    "id": "email-6069",
+    "title": "🦺 The leadership skill that prevents mistakes",
+    "description": "John (TeamGantt) comparte un boletín sobre liderazgo y gestión de proyectos.\nObjeto: Promocionar buenas prácticas de liderazgo y el uso de la plataforma TeamGantt.\nInterpretación: Boletín informativo y promocional; no requiere acción operativa, se puede archivar.",
+    "source": "Correo: John @ TeamGantt",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-15 21:54+00:00",
+    "createdAt": "2026-08-15T22:00:47.073Z",
+    "updatedAt": "2026-08-15T22:00:47.074Z"
+  },
+  {
     "id": "email-6068",
     "title": "FW: Reaction Daily Digest - Saturday, August 15, 2026",
     "description": "Microsoft Outlook envía el resumen diario de reacciones ('Reaction Daily Digest').\nObjeto: Informar a Ricardo Andrés Carmona Marcano que Javier Mascota Domínguez reaccionó a su mensaje sobre el balance de gas por EDS.\nInterpretación: Notificación automática del sistema de correo; no requiere acción técnica ni operativa adicional.",
