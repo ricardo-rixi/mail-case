@@ -31028,5 +31028,75 @@
     "status": "notsure",
     "receivedAt": "2026-07-29T14:00:00Z",
     "description": "Teamwork sent the daily automated project report for Wednesday, July 29, 2026, outlining pending tasks such as equipment documentation for the Colón MTY project."
+  },
+  {
+    "id": "6092",
+    "title": "NATGAS IQ — Balance de Gas por EDS: permisos de archivo",
+    "description": "Luis Andrés Pi Velasco solicita a Alonso Samperio Gayosso corregir los permisos o adjuntar una copia del archivo 'Cromatografia.xlsx'. Se requiere para validar el balance de gas.",
+    "status": "notsure",
+    "receivedAt": "2026-08-17T21:35:00Z"
+  },
+  {
+    "id": "6091",
+    "title": "IC (Factura, Anexo PDF) Julio 2026 NATGAS IC BE",
+    "description": "Karen Pamela Santos Robles reenvía a Carlos Geovani Nicasio Miranda las facturas correspondientes al consumo de julio 2026. Es un correo de seguimiento de Cuentas por Pagar.",
+    "status": "notsure",
+    "receivedAt": "2026-08-17T21:32:00Z"
+  },
+  {
+    "id": "6090",
+    "title": "IC (Factura, Anexo PDF) Julio 2026 NATGAS IC BE",
+    "description": "Facturas Clientes AOP envía las facturas por consumo de julio 2026 a Alonso Samperio, Ricardo Carmona y otros involucrados. Correo transaccional de facturación.",
+    "status": "notsure",
+    "receivedAt": "2026-08-17T21:08:00Z"
+  },
+  {
+    "id": "6089",
+    "title": "NATGAS IQ — Balance de Gas por EDS: aclaración de densidades",
+    "description": "Alonso Samperio Gayosso comparte con Luis Andrés Pi Velasco una tabla para relacionar densidades por estación y adjunta el archivo 'Cromatografia.xlsx'. Resuelve dudas sobre la densidad aplicable.",
+    "status": "notsure",
+    "receivedAt": "2026-08-17T20:46:00Z"
+  },
+  {
+    "id": "6088",
+    "title": "Instalación de carrete Natgas Lázaro Cárdenas",
+    "description": "Alonso Samperio Gayosso comparte con Carlos Rafael Ruiz Carrasco un flyer de aviso para clientes. El aviso notifica sobre los trabajos de instalación de un carrete en la EDS Lázaro Cárdenas.",
+    "status": "notsure",
+    "receivedAt": "2026-08-17T20:23:00Z"
+  },
+  {
+    "id": "6087",
+    "title": "NATGAS IQ — Balance de Gas por EDS: solicitud de ubicación de dato",
+    "description": "Luis Andrés Pi Velasco solicita a Alonso Samperio Gayosso la ubicación formal del dato de densidad de las EDS de DIAVAZ. Pide también confirmación sobre estaciones CEMEX y CISA.",
+    "status": "notsure",
+    "receivedAt": "2026-08-17T19:49:00Z"
+  },
+  {
+    "id": "5646",
+    "title": "Promoción Microsoft 365 Copilot",
+    "description": "Microsoft envía correo promocional a Ricardo Carmona sobre las novedades y ventajas de usar Microsoft 365 Copilot. Correo de carácter informativo/publicitario.",
+    "status": "notsure",
+    "receivedAt": "2026-07-29T13:55:00Z"
+  },
+  {
+    "id": "5645",
+    "title": "Promoción Google Cloud IA",
+    "description": "Google Cloud envía correo promocional a Ricardo Carmona sobre cómo llevar agentes de IA de prueba piloto a producción. Correo informativo comercial.",
+    "status": "notsure",
+    "receivedAt": "2026-07-29T13:11:00Z"
+  },
+  {
+    "id": "5644",
+    "title": "Promoción Aeroméxico",
+    "description": "Aeroméxico Promociones envía correo publicitario a Ricardo Carmona ofreciendo nuevas rutas y destinos de viaje. Correo comercial.",
+    "status": "notsure",
+    "receivedAt": "2026-07-29T12:12:00Z"
+  },
+  {
+    "id": "5643",
+    "title": "Boletín Bleacher Report",
+    "description": "Bleacher Report envía boletín informativo deportivo a Ricardo Carmona sobre noticias recientes de fútbol americano colegial (CFB). Correo tipo newsletter.",
+    "status": "notsure",
+    "receivedAt": "2026-07-29T12:03:00Z"
   }
 ]
