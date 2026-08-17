@@ -1,5 +1,57 @@
 [
   {
+    "id": "email-6073",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Monday 17 Aug 2026)",
+    "description": "Teamwork.com envía a Ricardo el reporte diario de tareas del proyecto de NATGAS QUERETARO SAPI DE CV.\nObjeto: Resumen automático de tareas pendientes y eventos para el 17 de agosto.\nInterpretación: Reporte operativo interno de seguimiento de proyectos; requiere revisión de las tareas de descompresión listadas.",
+    "source": "Correo: Teamwork.com",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-17T14:00:03.000Z",
+    "createdAt": "2026-08-17T14:01:18.257623+00:00",
+    "updatedAt": "2026-08-17T14:01:18.257725+00:00"
+  },
+  {
+    "id": "email-6072",
+    "title": "FW: Cree productos de IA con mayor rapidez en AWS",
+    "description": "Amazon Web Services envía un boletín a Ricardo promoviendo soluciones y herramientas de Inteligencia Artificial para startups.\nObjeto: Promocionar Amazon Bedrock y herramientas para escalar infraestructura en la nube.\nInterpretación: Boletín comercial tecnológico externo; no requiere acción operativa directa, se puede archivar.",
+    "source": "Correo: Amazon Web Services",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-17T12:32:24.000Z",
+    "createdAt": "2026-08-17T14:01:18.257732+00:00",
+    "updatedAt": "2026-08-17T14:01:18.257735+00:00"
+  },
+  {
+    "id": "email-6071",
+    "title": "FW: 🗯️ Rookie QB overreaction is HERE",
+    "description": "Bleacher Report envía a Ricardo su boletín diario con noticias deportivas y titulares recientes de la NFL y otras ligas.\nObjeto: Compartir el resumen deportivo, noticias de jugadores y encuestas de entretenimiento.\nInterpretación: Boletín de entretenimiento automatizado; sin impacto operativo ni estratégico, archivar.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-17T12:05:00.000Z",
+    "createdAt": "2026-08-17T14:01:18.257739+00:00",
+    "updatedAt": "2026-08-17T14:01:18.257742+00:00"
+  },
+  {
+    "id": "email-6070",
+    "title": "FW: Horizons: Electric shock: how electric vehicles could hit the accelerator",
+    "description": "Wood Mackenzie comparte con Ricardo la edición de febrero 2026 del reporte Horizons sobre el mercado de vehículos eléctricos y sus impactos energéticos.\nObjeto: Promocionar el estudio y una invitación al webinar relacionado para el 2 de septiembre.\nInterpretación: Boletín informativo de análisis sectorial; evaluar registro al webinar si existe interés o de lo contrario archivar.",
+    "source": "Correo: Wood Mackenzie",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-17T08:13:07.000Z",
+    "createdAt": "2026-08-17T14:01:18.257753+00:00",
+    "updatedAt": "2026-08-17T14:01:18.257758+00:00"
+  },
+  {
     "id": "email-6069",
     "title": "🦺 The leadership skill that prevents mistakes",
     "description": "John (TeamGantt) comparte un boletín sobre liderazgo y gestión de proyectos.\nObjeto: Promocionar buenas prácticas de liderazgo y el uso de la plataforma TeamGantt.\nInterpretación: Boletín informativo y promocional; no requiere acción operativa, se puede archivar.",
