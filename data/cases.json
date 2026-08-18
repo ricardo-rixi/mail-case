@@ -1,5 +1,75 @@
 [
   {
+    "id": "email-6121",
+    "title": "FW: Crecer no debería significar trabajar el doble",
+    "description": "Elba Doribeth Cisneros de Grupo Tekiio contacta a Ricardo Carmona para ofrecer servicios tecnológicos de automatización de procesos empresariales. Objeto: Prospección comercial para soluciones de gestión. Interpretación: Correo publicitario externo, no requiere acción operativa inmediata.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 21:53+00:00"
+  },
+  {
+    "id": "email-6120",
+    "title": "FW: Información Análisis De Riesgos / Estaciones Móviles Natgas.",
+    "description": "Fabio Giovanny Ardila Castro confirma a Michael Burnside de PepsiCo la recepción de sus solicitudes sobre análisis de riesgo de biometano y estaciones móviles. Objeto: Confirmar recepción e informar que se trabajará en la información requerida. Interpretación: Seguimiento comercial y técnico de proyecto estratégico con cliente.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 21:49+00:00"
+  },
+  {
+    "id": "email-6119",
+    "title": "FW: ¡Llegó lo que estabas esperando!😱",
+    "description": "Viva Aerobus envía a Ricardo Carmona un boletín promocional con ofertas de vuelos desde $69 MXN. Objeto: Promoción de viajes y tarifas para septiembre-octubre 2026. Interpretación: Correo publicitario automatizado, sin relevancia operativa para el negocio.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 21:02+00:00"
+  },
+  {
+    "id": "email-6118",
+    "title": "FW: NATGAS IQ — Balance de Gas por EDS: primera versión en línea",
+    "description": "Luis Andrés Pi Velasco detalla a Alonso Samperio y Ricardo Carmona los hallazgos en la validación de densidades y errores de captura en el balance de gas. Objeto: Aclarar desviaciones y solicitar confirmaciones finales de Operaciones. Interpretación: Seguimiento técnico prioritario, requiere revisión y validación de los ajustes mencionados.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 20:21+00:00"
+  },
+  {
+    "id": "email-6117",
+    "title": "FW: Información Análisis De Riesgos / Estaciones Móviles Natgas.",
+    "description": "Michael Burnside Santos (PepsiCo) solicita al equipo de Natgas el análisis de riesgo para biometano y una propuesta comercial actualizada para estaciones móviles. Objeto: Requerir business case y costos de operación para GNV y biometano. Interpretación: Requerimiento directo de cliente clave que demanda preparación de propuesta técnico-comercial.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 20:17+00:00"
+  },
+  {
+    "id": "email-6116",
+    "title": "FW: Control de Información Documentada",
+    "description": "aDhOC System (Calidad.com.mx) envía información a Ricardo Carmona sobre su solución de software para el control de información documentada ISO. Objeto: Promoción de sistema de gestión documental. Interpretación: Correo comercial externo, no requiere atención ni seguimiento.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 19:39+00:00"
+  },
+  {
+    "id": "email-6115",
+    "title": "FW: ¿Qué impacto tendría una variación del precio del Gas Natural en su presupuesto de 2027?",
+    "description": "Ara Wendy Plascencia López de DIAVAZ contacta a Ricardo Carmona y Cuentas Por Pagar para informar sobre posibles variaciones de precios del gas natural. Objeto: Ofrecer información sobre proyecciones presupuestales para 2027. Interpretación: Notificación comercial de proveedor estratégico, requiere posible análisis financiero.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 19:35+00:00"
+  },
+  {
+    "id": "email-6114",
+    "title": "FW: Mariana Sanchez Mejia envió un mensaje",
+    "description": "Mariana Sanchez Mejia notifica automáticamente vía Teams a Ricardo Carmona con un mensaje de agradecimiento. Objeto: Notificación de la plataforma de Microsoft Teams sobre actividad en el chat. Interpretación: Alerta automatizada del sistema, no requiere acción en bandeja de entrada.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 19:24+00:00"
+  },
+  {
+    "id": "email-6113",
+    "title": "FW: PREPÁRATE PARA LAS NUEVAS VERIFICACIONES CON NUESTRA AUDITORÍA INTEGRAL¡",
+    "description": "Grupo Besco Capacitación ofrece a Ricardo Carmona servicios de auditoría normativa integral para evitar sanciones en estaciones de servicio. Objeto: Publicidad de servicios de verificación y cumplimiento regulatorio. Interpretación: Oferta comercial externa, mantener en archivo salvo requerimiento actual.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 19:15+00:00"
+  },
+  {
+    "id": "email-6112",
+    "title": "FW: Solicitud Información Ojo caliente Aguascalientes.",
+    "description": "Fabio Giovanny Ardila Castro solicita a Ricardo Carmona y Alonso Samperio la cromatografía reciente de la EDS Ojo Caliente. Objeto: Atender requerimiento de control y auditoría interna del cliente SIT Aguascalientes. Interpretación: Solicitud operativa de calidad, requiere que el equipo recopile y envíe los datos técnicos.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 19:11+00:00"
+  },
+  {
     "id": "email-6101",
     "title": "FW: NGI vs. the Other Index Provider: What the 2025 Data Shows",
     "description": "Natural Gas Intelligence (NGI) sends a promotional newsletter to Ricardo Andrés Carmona Marcano. The object is to present their 2025 data comparing their daily price indexes against a competitor. Interpretation: Informational commercial newsletter; no operational action is required.",
