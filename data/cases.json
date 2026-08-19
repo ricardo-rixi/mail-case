@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-6122",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Recibido de Ricardo Andrés Carmona Marcano. Asunto: FW: Notas de Crédito - Waha negativo junio 2026.\nInterpretación: Pendiente de revisar detalles y definir acción. Requiere validación por el equipo.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-18 22:03+00:00",
+    "createdAt": "2026-08-19T02:03:04.625Z",
+    "updatedAt": "2026-08-19T02:03:04.625Z"
+  },
+  {
+    "id": "email-6123",
+    "title": "FW: NATGAS IQ — Balance de Gas por EDS: primera versión en línea",
+    "description": "Recibido de Ricardo Andrés Carmona Marcano. Asunto: FW: NATGAS IQ — Balance de Gas por EDS: primera versión en línea.\nInterpretación: Pendiente de revisar detalles y definir acción. Requiere validación por el equipo.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-18 22:05+00:00",
+    "createdAt": "2026-08-19T02:03:04.625Z",
+    "updatedAt": "2026-08-19T02:03:04.625Z"
+  },
+  {
+    "id": "email-6124",
+    "title": "FW: Solicitud Información Ojo caliente Aguascalientes.",
+    "description": "Recibido de Ricardo Andrés Carmona Marcano. Asunto: FW: Solicitud Información Ojo caliente Aguascalientes..\nInterpretación: Pendiente de revisar detalles y definir acción. Requiere validación por el equipo.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-18 22:10+00:00",
+    "createdAt": "2026-08-19T02:03:04.625Z",
+    "updatedAt": "2026-08-19T02:03:04.625Z"
+  },
+  {
     "id": "email-6134",
     "title": "FW: Comprobante Fiscal DP3D22380",
     "description": "Facturación Diavazgas envía automáticamente el comprobante fiscal DP3D22380 a Ricardo y Cuentas por Pagar.\nObjeto: Recepción de factura electrónica (XML y PDF) para NATGAS QUERETARO.\nInterpretación: Documento fiscal de rutina; requiere coordinación con Finanzas para su registro y programación de pago.",
