@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-6164",
+    "title": "FW: Revisión Técnica de Oficio SEMARNAT - Biometano",
+    "description": "Hugo Sanchez (VW) programa una reunión por Teams para revisar el Oficio de SEMARNAT sobre el proyecto de biometano, previamente enviado por Alejandra Cruz.\nObjeto: Coordinar estrategia y respuestas ante requerimiento de SEMARNAT.\nInterpretación: Gestión regulatoria crítica y técnica; requiere revisión previa del documento y asistencia a la reunión agendada.",
+    "source": "Correo: Hugo Sanchez Cabrera (VW)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-19 23:22+00:00",
+    "createdAt": "2026-08-20T02:01:00.000Z",
+    "updatedAt": "2026-08-20T02:01:00.000Z"
+  },
+  {
+    "id": "email-6163",
+    "title": "FW: ✈️Tu próximo viaje tiene hasta 30% OFF + 15% adicional",
+    "description": "Fiesta Americana Travelty envía un boletín promocional con descuentos para viajes.\nObjeto: Publicidad de turismo y hospedaje.\nInterpretación: Correo promocional y comercial externo; archivar ya que no tiene relevancia operativa.",
+    "source": "Correo: Fiesta Americana Travelty",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-19 23:11+00:00",
+    "createdAt": "2026-08-20T02:01:00.000Z",
+    "updatedAt": "2026-08-20T02:01:00.000Z"
+  },
+  {
+    "id": "email-6162",
+    "title": "FW: Controla tu Cash Flow / Liquidez",
+    "description": "Asfixia Financiera envía una invitación a un curso o webinar sobre indicadores financieros (EBIT, EBITDA, Cash Flow).\nObjeto: Promoción de capacitación financiera.\nInterpretación: Correo promocional y educativo externo; archivar a menos que haya interés personal.",
+    "source": "Correo: Asfixia financiera",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-19 22:54+00:00",
+    "createdAt": "2026-08-20T02:01:00.000Z",
+    "updatedAt": "2026-08-20T02:01:00.000Z"
+  },
+  {
     "id": "email-6165",
     "title": "FW: Acceso a plataforma de medición remota Engie",
     "description": "Alonso Samperio de Natgas contacta a Lucero García de Engie para dar seguimiento a los requisitos de acceso a la nueva plataforma de medición remota.\nObjeto: Completar la creación de usuarios para monitoreo en tiempo real de la Regional Jalisco.\nInterpretación: Gestión técnica-administrativa en proceso; se espera la confirmación de requisitos por parte de Engie.",
