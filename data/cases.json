@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-6176",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Thursday 20 Aug 2026)",
+    "description": "Teamwork.com envía el reporte diario automático de seguimiento de tareas de NATGAS QUERETARO SAPI DE CV.\nObjeto: Resumen de tareas pendientes para el 20 de agosto.\nInterpretación: Reporte operativo interno; requiere revisión para seguimiento del trabajo asignado.",
+    "source": "Correo: Teamwork.com",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-20 14:00+00:00",
+    "createdAt": "2026-08-20T14:02:00.000Z",
+    "updatedAt": "2026-08-20T14:02:00.000Z"
+  },
+  {
+    "id": "email-6175",
+    "title": "FW: 🫥 What's wrong with Paul Skenes?",
+    "description": "Bleacher Report envía su boletín deportivo automatizado, destacando noticias de la MLB y otros deportes.\nObjeto: Resumen de noticias deportivas y de entretenimiento.\nInterpretación: Boletín de entretenimiento sin impacto operativo; archivar.",
+    "source": "Correo: Bleacher Report",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-20 12:04+00:00",
+    "createdAt": "2026-08-20T14:02:00.000Z",
+    "updatedAt": "2026-08-20T14:02:00.000Z"
+  },
+  {
     "id": "email-6164",
     "title": "FW: Revisión Técnica de Oficio SEMARNAT - Biometano",
     "description": "Hugo Sanchez (VW) programa una reunión por Teams para revisar el Oficio de SEMARNAT sobre el proyecto de biometano, previamente enviado por Alejandra Cruz.\nObjeto: Coordinar estrategia y respuestas ante requerimiento de SEMARNAT.\nInterpretación: Gestión regulatoria crítica y técnica; requiere revisión previa del documento y asistencia a la reunión agendada.",
