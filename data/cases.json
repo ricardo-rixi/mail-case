@@ -1,5 +1,71 @@
 [
   {
+    "id": "email-6211",
+    "title": "FW: 🚨 Promociones de agosto | Hasta 15% de descuento",
+    "description": "Kuatro envía a Ricardo un boletín promocional con descuentos de hasta 15% en la renta de unidades Movilx® durante agosto.\nObjeto: Promoción comercial de alquiler de unidades modulares.\nInterpretación: Correo publicitario externo; archivar a menos que haya requerimiento de oficinas móviles.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 15:18+00:00",
+    "source": "Correo: Kuatro",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T18:02:22.920Z",
+    "updatedAt": "2026-08-21T18:02:22.920Z"
+  },
+  {
+    "id": "email-6210",
+    "title": "FW: CONTESTACIÓN AL ANEXO -1",
+    "description": "Grupo Besco Capacitación envía instrucciones detalladas y una plantilla a Ricardo para la contestación del Anexo -1 de la CNE.\nObjeto: Ofrecer asesoría sobre el cumplimiento normativo del Tablero Electrónico de la OPE.\nInterpretación: Correo promocional y de consultoría externa; archivar si el área regulatoria ya domina este reporte.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 14:49+00:00",
+    "source": "Correo: Grupo Besco Capacitación",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T18:02:22.920Z",
+    "updatedAt": "2026-08-21T18:02:22.920Z"
+  },
+  {
+    "id": "email-6209",
+    "title": "FW: cupo limitado NUEVAS REGULACIONES PARA LAS ESTACIONES DE SERVICIO / QUERETÁRO 29 DE AGOSTO",
+    "description": "Grupo Besco promueve a Ricardo un seminario presencial en Querétaro sobre nuevas regulaciones para estaciones de servicio ante CNE, ASEA, SAT y PROFECO.\nObjeto: Invitación comercial a evento de capacitación el 29 de agosto.\nInterpretación: Oferta de capacitación externa; archivar a menos que haya interés en certificar personal.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 14:49+00:00",
+    "source": "Correo: Grupo Besco Capacitación",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T18:02:22.920Z",
+    "updatedAt": "2026-08-21T18:02:22.920Z"
+  },
+  {
+    "id": "email-6208",
+    "title": "FW: Evalúe su madurez en ciberseguridad",
+    "description": "Eric Gomez de AppGate contacta a Ricardo para hacer seguimiento sobre estrategias de ciberseguridad y acceso moderno ZTNA.\nObjeto: Promover un diagnóstico de madurez en ciberseguridad y buscar agendar una reunión comercial.\nInterpretación: Prospección comercial B2B en TI; canalizar con el área de Sistemas si existe interés, de lo contrario archivar.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 14:43+00:00",
+    "source": "Correo: Eric Gomez (AppGate)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T18:02:22.920Z",
+    "updatedAt": "2026-08-21T18:02:22.920Z"
+  },
+  {
+    "id": "email-6207",
+    "title": "FW: Boletín de noticias | Cómo México llegó a reciclar el 64% de su PET",
+    "description": "Lead Center By Plastico.com envía a Ricardo un boletín de noticias de la industria del plástico que incluye artículos sobre reciclaje de PET y bioplásticos en México.\nObjeto: Compartir noticias e invitar a webinars de la industria.\nInterpretación: Newsletter informativo externo; archivar para lectura general.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 14:31+00:00",
+    "source": "Correo: Lead Center By Plastico.com",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T18:02:22.920Z",
+    "updatedAt": "2026-08-21T18:02:22.920Z"
+  },
+  {
+    "id": "email-6206",
+    "title": "FW: Tu sesión informativa más reciente sobre la hoja de ruta de productos de IA",
+    "description": "Google Cloud invita a Ricardo a una sesión informativa sobre la hoja de ruta de productos de Gemini Enterprise para 2026.\nObjeto: Promover webinars sobre agentes de IA empresariales y experiencia del cliente.\nInterpretación: Boletín comercial y tecnológico; archivar si no se requiere asistir.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 14:07+00:00",
+    "source": "Correo: Google Cloud",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T18:02:22.920Z",
+    "updatedAt": "2026-08-21T18:02:22.920Z"
+  },
+  {
     "id": "email-6221",
     "title": "FW: Notas de Crédito - Waha negativo junio 2026",
     "description": "Ricardo Andrés Carmona comparte seguimiento sobre las notas de crédito de ENGIE por ajustes de precio WAHA. Requiere validación de finanzas y operaciones sobre montos remanentes.",
