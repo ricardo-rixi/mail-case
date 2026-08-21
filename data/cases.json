@@ -1,5 +1,95 @@
 [
   {
+    "id": "email-6221",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Ricardo Andrés Carmona comparte seguimiento sobre las notas de crédito de ENGIE por ajustes de precio WAHA. Requiere validación de finanzas y operaciones sobre montos remanentes.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 17:55+00:00",
+    "source": "Correo: Valeria Yanez / Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6220",
+    "title": "FW: FACTURAS DIAVAZ - ENGIE JULIO",
+    "description": "Andrea Bautista comparte facturas de consumo del mes de julio de ENGIE y DIAVAZ. Cuentas por pagar debe revisar y procesar los comprobantes.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 17:45+00:00",
+    "source": "Correo: Andrea Bautista / Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6219",
+    "title": "FW: Empleados difíciles: conoce cómo dirigirlos al Exito",
+    "description": "Correo promocional reenviado sobre un curso en línea para manejo de conflictos laborales y comportamiento inaceptable. Boletín informativo de capacitación.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 17:44+00:00",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6218",
+    "title": "FW: El futuro de los negocios se vive en ANDICOM 2026. ¡Postúlate ahora para vivirlo juntos!",
+    "description": "Boletín promocional de Lead Center By Plastico.com sobre el evento ANDICOM 2026. Correo publicitario, no requiere acción operativa.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 17:44+00:00",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6217",
+    "title": "FW: observaciones de documentación CRM:0555085",
+    "description": "Ricardo Puga comparte los documentos corregidos y expediente en respuesta a las observaciones de CENAGAS para el proyecto de interconexión ARCO 57. Requiere seguimiento urgente.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 17:33+00:00",
+    "source": "Correo: Ricardo Puga / Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6216",
+    "title": "Invitación de un remitente desconocido: Reunión VPM / Natgas  mar 25 de ago de 2026 12pm - 12:30pm (GMT-6) (rcarmona.natgas@gmail.com)",
+    "description": "Everardo de la Fuente envía invitación a reunión por Google Meet titulada 'Inicio de compresión VPM-Natgas' para el 25 de agosto. Requiere atención de la agenda.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 17:28+00:00",
+    "source": "Correo: Everardo de la Fuente",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6215",
+    "title": "FW: Invitación: Reunión VPM / Natgas  mar 25 ago 2026 12pm - 12:30pm (GMT-6) (rcarmona@natgas.com.mx)",
+    "description": "Reenvío de invitación de Everardo de la Fuente a junta 'Inicio de compresión VPM-Natgas'. Evento programado para el 25 de agosto en Google Meet.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 17:28+00:00",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6214",
+    "title": "FW: Cómo cumplir con el SIRCE y los formatos DC",
+    "description": "Boletín promocional de ATOMIC TRAINING acerca de un curso sobre el cumplimiento normativo STPS, SIRCE y formatos DC. Correo informativo.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 16:43+00:00",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6213",
+    "title": "FW: AMGN - INVITACIÓN A FORO DE CONTROLES VOLUMÉTRICOS2026 - C. U. UNAM CDMX",
+    "description": "Alonso Samperio solicita viáticos tras registrarse al Foro de la AMGN sobre controles volumétricos, a petición de Ricardo. Requiere aprobación y trámite administrativo.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 16:42+00:00",
+    "source": "Correo: Alonso Samperio / Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
+    "id": "email-6212",
+    "title": "FW: Transforma clientes en fans",
+    "description": "Boletín promocional de Evento Disney (Nextgen formadores de talento) sobre cursos de atención al cliente y experiencia de marca. Correo publicitario.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 16:08+00:00",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo"
+  },
+  {
     "id": "email-6205",
     "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 21 Aug 2026)",
     "description": "Teamwork.com envía el reporte diario automático de seguimiento de tareas de NATGAS QUERETARO SAPI DE CV.\nObjeto: Resumen de tareas pendientes para el 21 de agosto.\nInterpretación: Reporte operativo interno; requiere revisión para seguimiento del trabajo asignado.",
