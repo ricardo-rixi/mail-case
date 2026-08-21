@@ -1,5 +1,71 @@
 [
   {
+    "id": "email-6227",
+    "title": "FW: FIANZAS NATGAS-ENGIE",
+    "description": "Lucero García (ENGIE) comparte a Maria Jose Arcos la tabla con las cuentas contrato de las instalaciones (Natgas Querétaro) para la revisión de fianzas.\nObjeto: Proveer datos administrativos para el proceso de renovación de fianzas.\nInterpretación: Gestión administrativa y financiera en curso; requiere validación interna con los montos.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 19:15+00:00",
+    "source": "Correo: Lucero García (ENGIE)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:03:17.329Z",
+    "updatedAt": "2026-08-21T22:03:17.332Z"
+  },
+  {
+    "id": "email-6226",
+    "title": "FW: Revisión de la medición Estación Natgas Malecón BS20170805GNS",
+    "description": "Alonso Samperio solicita a Abraham Benegasi (Naturgy) programar una visita en conjunto para revisar equipos de medición en la EDS Natgas Malecón debido a un desbalance superior al -2%.\nObjeto: Revisar y corregir fallas de medición en campo.\nInterpretación: Tarea operativa prioritaria; requiere seguimiento para evitar pérdidas financieras por desbalance.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 19:13+00:00",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:03:17.332Z",
+    "updatedAt": "2026-08-21T22:03:17.332Z"
+  },
+  {
+    "id": "email-6225",
+    "title": "FW: Visita Biometano",
+    "description": "Alma Alarcon (PepsiCo) propone a Ricardo tener una sesión en línea la próxima semana para conocer el proceso, alcance y capacidad del proyecto Biometano antes de la visita.\nObjeto: Agendar reunión virtual de alineación comercial y técnica.\nInterpretación: Avance clave en proyecto con cliente estratégico; requiere confirmar disponibilidad y agendar la sesión.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 19:04+00:00",
+    "source": "Correo: Alma Alarcon (PepsiCo)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:03:17.332Z",
+    "updatedAt": "2026-08-21T22:03:17.332Z"
+  },
+  {
+    "id": "email-6224",
+    "title": "FW: El futuro de los negocios se vive en ANDICOM 2026. ¡Postúlate ahora para vivirlo juntos!",
+    "description": "Lead Center By Plastico.com envía un boletín promocional sobre el evento ANDICOM 2026.\nObjeto: Promocionar la asistencia a un evento de negocios.\nInterpretación: Correo publicitario externo; archivar a menos que haya interés en participar.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 18:40+00:00",
+    "source": "Correo: Lead Center By Plastico.com",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:03:17.332Z",
+    "updatedAt": "2026-08-21T22:03:17.332Z"
+  },
+  {
+    "id": "email-6223",
+    "title": "FW: AMGN - INVITACIÓN A FORO DE CONTROLES VOLUMÉTRICOS2026 - C. U. UNAM CDMX",
+    "description": "Alonso Samperio aclara a Ricardo que el Foro de la AMGN sobre controles volumétricos es el jueves 3 de septiembre, y detalla su itinerario de viaje a la CDMX.\nObjeto: Confirmar logística y fechas para el evento de capacitación/normatividad.\nInterpretación: Coordinación administrativa y de viáticos; Ricardo ya ha dado el visto bueno.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 18:24+00:00",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:03:17.332Z",
+    "updatedAt": "2026-08-21T22:03:17.332Z"
+  },
+  {
+    "id": "email-6222",
+    "title": "FW: ¿TU EMPRESA CUMPLE… O SOLO ESTÁ PREPARADA PARA UNA INSPECCIÓN?",
+    "description": "EG Consultores y Administradores envía un correo publicitario sobre preparación para inspecciones normativas.\nObjeto: Ofrecer servicios de consultoría y regularización de expedientes.\nInterpretación: Correo comercial externo; archivar a menos que se requiera apoyo para auditorías inminentes.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 18:04+00:00",
+    "source": "Correo: EG Consultores y Administradores",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:03:17.332Z",
+    "updatedAt": "2026-08-21T22:03:17.332Z"
+  },
+  {
     "id": "email-6228",
     "title": "FW: observaciones de documentación CRM:0555085",
     "description": "Rosa Martha solicita a Ricardo Puga y Ricardo Carmona preparar la información y respuesta a las observaciones de CENAGAS para el proyecto Arco 57.\nObjeto: Solventar requerimientos documentales urgentes para la interconexión.\nInterpretación: Tarea regulatoria crítica y urgente; requiere acción inmediata de coordinación interna.",
