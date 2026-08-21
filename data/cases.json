@@ -1,5 +1,115 @@
 [
   {
+    "id": "email-6228",
+    "title": "FW: observaciones de documentación CRM:0555085",
+    "description": "Rosa Martha solicita a Ricardo Puga y Ricardo Carmona preparar la información y respuesta a las observaciones de CENAGAS para el proyecto Arco 57.\nObjeto: Solventar requerimientos documentales urgentes para la interconexión.\nInterpretación: Tarea regulatoria crítica y urgente; requiere acción inmediata de coordinación interna.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 19:17+00:00",
+    "source": "Correo: Rosa Martha Manjarrez Trejo",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6229",
+    "title": "FW: FIANZAS NATGAS-ENGIE",
+    "description": "Maria Jose Arcos reenvía a Alonso Samperio la respuesta de Lucero García (ENGIE) con los montos y cuentas contrato de las fianzas.\nObjeto: Solicitar a Alonso la validación técnica y financiera de los montos propuestos por ENGIE.\nInterpretación: Gestión administrativa en curso; requiere validación interna para avanzar con la renovación de fianzas.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 19:20+00:00",
+    "source": "Correo: Maria Jose Arcos Hernandez",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6230",
+    "title": "FW: ✨Hasta 30% OFF + 15% adicional para hacer realidad tu próximo viaje",
+    "description": "Fiesta Americana Travelty envía a Ricardo un boletín promocional con descuentos para reservaciones de hotel.\nObjeto: Promocionar ofertas de hospedaje turístico.\nInterpretación: Correo promocional externo; archivar al no tener relevancia operativa.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 19:31+00:00",
+    "source": "Correo: Fiesta Americana Travelty",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6231",
+    "title": "FW: FIANZAS NATGAS-ENGIE",
+    "description": "Alonso Samperio responde a Lucero García observando que el cálculo de montos de fianzas consideró 13 meses y montos subtotales en lugar de totales.\nObjeto: Solicitar a ENGIE la corrección y homologación del cálculo de fianzas a 12 meses.\nInterpretación: Tarea de control financiero/operativo; revisión ejecutada y enviada al proveedor para corrección.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 20:05+00:00",
+    "source": "Correo: Alonso Samperio Gayosso",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6232",
+    "title": "FW: FIANZAS NATGAS-ENGIE",
+    "description": "Lucero García (ENGIE) confirma a Alonso Samperio que realizará nuevamente el cálculo de fianzas aplicando los criterios solicitados (12 meses y totales).\nObjeto: Acusar recibo de las observaciones y comprometerse a enviar los montos corregidos.\nInterpretación: Gestión administrativa encaminada; a la espera de la nueva propuesta del proveedor.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 20:22+00:00",
+    "source": "Correo: Lucero García (ENGIE)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6233",
+    "title": "FW: ¿Problemas con tus vendedores? Lee esto antes de exigirles más",
+    "description": "Enrique Mezquita de Enfoque en Ventas invita a Ricardo a un Live gratuito sobre gestión y rendimiento de equipos comerciales.\nObjeto: Ofrecer una sesión de consultoría comercial y captar leads.\nInterpretación: Publicidad B2B externa; archivar si no se requiere consultoría en el área de ventas.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 20:41+00:00",
+    "source": "Correo: Enrique Mezquita (Enfoque en Ventas)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6234",
+    "title": "FW: Informe de mercado de hoy: 21 de agosto 📈",
+    "description": "Naturgy México envía su informe diario y resumen del mercado de gas natural.\nObjeto: Compartir indicadores y análisis del sector energético correspondientes al 21 de agosto.\nInterpretación: Boletín informativo comercial; archivar o revisar para monitoreo general del mercado.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 21:18+00:00",
+    "source": "Correo: Naturgy México",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6235",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Gas (BALANCE DE GAS)",
+    "description": "Alonso Samperio notifica a través de Teamwork el reporte mensual de Balance de Gas de julio 2026, detallando incidencias y acciones correctivas.\nObjeto: Presentar resultados operativos y de desbalance de las Estaciones de Servicio.\nInterpretación: Reporte operativo interno; requiere revisión general para estar al tanto de las desviaciones mensuales.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 21:42+00:00",
+    "source": "Correo: Alonso Samperio (Teamwork)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6236",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica (BALANCE DE ENERGIA ELECTRICA)",
+    "description": "Alonso Samperio notifica a través de Teamwork el reporte mensual de Monitoreo de Consumo Eléctrico de julio 2026.\nObjeto: Presentar indicadores de eficiencia energética y consumo eléctrico de las EDS.\nInterpretación: Reporte operativo interno; revisar para control del gasto energético y eficiencia operativa.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 21:43+00:00",
+    "source": "Correo: Alonso Samperio (Teamwork)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
+    "id": "email-6237",
+    "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Consumo de Agua (BALANCE DE AGUA)",
+    "description": "Alonso Samperio notifica a través de Teamwork el reporte mensual del Consumo de Agua de las EDS de julio 2026.\nObjeto: Compartir el comportamiento, análisis y acciones correctivas del consumo hídrico de las estaciones.\nInterpretación: Reporte operativo interno; revisar para asegurar la sostenibilidad y control de gastos en las estaciones.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 21:44+00:00",
+    "source": "Correo: Alonso Samperio (Teamwork)",
+    "owner": "Ricardo",
+    "createdAt": "2026-08-21T22:00:00.000Z",
+    "updatedAt": "2026-08-21T22:00:00.000Z"
+  },
+  {
     "id": "email-6211",
     "title": "FW: 🚨 Promociones de agosto | Hasta 15% de descuento",
     "description": "Kuatro envía a Ricardo un boletín promocional con descuentos de hasta 15% en la renta de unidades Movilx® durante agosto.\nObjeto: Promoción comercial de alquiler de unidades modulares.\nInterpretación: Correo publicitario externo; archivar a menos que haya requerimiento de oficinas móviles.",
