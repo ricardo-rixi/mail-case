@@ -1,5 +1,75 @@
 [
   {
+    "id": "email-6249",
+    "title": "FW: La diferencia entre llamar y vender",
+    "description": "Ventas de Alto Impacto (Interboost360) envía a Ricardo Carmona una promoción para un curso de ventas telefónicas. El objeto es invitar a la inscripción del programa en línea. Interpretación: Correo promocional y comercial; no requiere acción operativa inmediata.",
+    "status": "notsure",
+    "receivedAt": "2026-08-22 16:03+00:00"
+  },
+  {
+    "id": "email-6203",
+    "title": "FW: 🤬 *Everyone* hates new CFB ruling",
+    "description": "Bleacher Report envía a Ricardo su boletín informativo matutino con noticias deportivas, destacando la nueva normativa del CFB. El objeto es mantener informado al suscriptor sobre temas deportivos actuales. Interpretación: Boletín informativo (newsletter); no requiere seguimiento de negocio.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 12:02+00:00"
+  },
+  {
+    "id": "email-6202",
+    "title": "Granada y el riesgo sísmico en Andalucía, las claves del fichaje de Rodri, el riesgo del calor extremo y mucho más…",
+    "description": "La Vanguardia envía a Ricardo Carmona su resumen de noticias y artículos destacados de la jornada. El objeto es compartir información periodística y de actualidad. Interpretación: Boletín de noticias (newsletter) automatizado; archivar o leer sin requerir acción corporativa.",
+    "status": "notsure",
+    "receivedAt": "2026-08-21 08:03+00:00"
+  },
+  {
+    "id": "email-6187",
+    "title": "FW: Pruebas FAT Fill Posts",
+    "description": "Jaime Alarcon Jimeno de Promotora Energetica E3 comparte con Ricardo Carmona el enlace con la documentación de las pruebas FAT de los Fill Posts PNT-CEC. El objeto es atender la solicitud de calidad técnica de Natgas. Interpretación: Entrega de documentación técnica de proveedores; requiere revisión por parte del equipo de ingeniería.",
+    "status": "notsure",
+    "receivedAt": "2026-08-20 18:01+00:00"
+  },
+  {
+    "id": "email-6133",
+    "title": "FW: Comprobante Fiscal DU3D14143",
+    "description": "DIAVAZ GAS envía de forma automática el comprobante fiscal (CFDI XML y PDF) con folio DU3D14143 a Natgas Querétaro. El objeto es entregar la facturación correspondiente a los consumos o servicios. Interpretación: Recepción de factura de proveedor; requiere ser procesada por Cuentas por Pagar.",
+    "status": "notsure",
+    "receivedAt": "2026-08-19 01:46+00:00"
+  },
+  {
+    "id": "email-6132",
+    "title": "FW: Comprobante Fiscal DU3D14142",
+    "description": "DIAVAZ GAS envía de forma automática el comprobante fiscal (CFDI XML y PDF) con folio DU3D14142 a Natgas Querétaro. El objeto es entregar la facturación correspondiente a consumos o servicios. Interpretación: Recepción de factura de proveedor; requiere ser enviada y procesada por Cuentas por Pagar.",
+    "status": "notsure",
+    "receivedAt": "2026-08-19 01:46+00:00"
+  },
+  {
+    "id": "email-6131",
+    "title": "FW: Comprobante Fiscal DP3D22381",
+    "description": "DIAVAZ GAS envía de forma automática el comprobante fiscal (CFDI XML y PDF) con folio DP3D22381 a Natgas Querétaro. El objeto es entregar la facturación para su registro. Interpretación: Recepción de factura de proveedor; requiere ser procesada por el equipo de Cuentas por Pagar.",
+    "status": "notsure",
+    "receivedAt": "2026-08-19 01:46+00:00"
+  },
+  {
+    "id": "email-6126",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Erika Nayelli Huerta Cano de ENGIE envía al equipo de Natgas los saldos a favor derivados de las Notas de Crédito por el ajuste WAHA de abril a junio de 2026. El objeto es solicitar el visto bueno para la emisión de las notas de crédito y su compensación. Interpretación: Notificación financiera crítica; requiere revisión y validación por Finanzas y Operaciones.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 22:16+00:00"
+  },
+  {
+    "id": "email-6124",
+    "title": "FW: Solicitud Información Ojo caliente Aguascalientes.",
+    "description": "Alonso Samperio Gayosso responde a Fabio Giovanny Ardila Castro compartiendo la cromatografía (calidad del gas) de la estación Ojo Caliente. El objeto es atender la petición del cliente SIT Aguascalientes para control y auditoría interna. Interpretación: Solicitud de información técnica completada internamente; monitorear si surgen dudas adicionales.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 22:10+00:00"
+  },
+  {
+    "id": "email-6123",
+    "title": "FW: NATGAS IQ — Balance de Gas por EDS: primera versión en línea",
+    "description": "Luis Andrés Pi Velasco y Alonso Samperio discuten y aclaran asignaciones de densidad de gas por estación (CEMEX, CISA, etc.) para el tablero NATGAS IQ. El objeto es cuadrar los cálculos del balance mensual de gas y su validación en el sistema. Interpretación: Revisión operativa y de sistemas de información; requiere seguimiento de los puntos pendientes señalados en el correo.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 22:05+00:00"
+  },
+  {
     "id": "email-6238",
     "title": "FW: (_A.BAL Balance de Gas, Energía y Agua) Re: Tarea: Informe Mensual de Balance de Energia Electrica (BALANCE DE ENERGIA ELECTRICA)",
     "description": "Notificación inicial sobre actualizaciones del reporte mensual de energía eléctrica en Teamwork.\nObjeto: Informar sobre captura de datos o cierre del balance.\nInterpretación: Control administrativo; agrupar con las notificaciones similares para revisión.",
