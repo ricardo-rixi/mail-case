@@ -1,5 +1,33 @@
 [
   {
+    "id": "email-6250",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Erika Huerta de ENGIE informa sobre saldos pendientes a cubrir tras las notas de crédito por el precio WAHA negativo.\nObjeto: Revisión y pago de saldos.\nInterpretación: Correo de cobranza que requiere validación financiera de los montos por el equipo.",
+    "status": "notsure",
+    "receivedAt": "2026-08-22 18:44+00:00"
+  },
+  {
+    "id": "email-6122",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "description": "Erika Huerta de ENGIE envía los cálculos correspondientes a los ajustes por el precio WAHA.\nObjeto: Notificar la emisión de notas de crédito.\nInterpretación: Correo financiero administrativo requiriendo autorización para proceder con la emisión.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 22:03+00:00"
+  },
+  {
+    "id": "email-6111",
+    "title": "FW: TE MULTARON ó CLAUSURARON TU ESTACIÓN ??",
+    "description": "BESCO envía publicidad ofreciendo asesoría para la regularización de estaciones ante clausuras y nuevas normativas.\nObjeto: Promoción de servicios de consultoría regulatoria.\nInterpretación: Oferta comercial externa; archivar si no se requiere el servicio.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 19:06+00:00"
+  },
+  {
+    "id": "email-6110",
+    "title": "FW: ANEXO -1",
+    "description": "BESCO envía un boletín promoviendo asesoría para cumplir correctamente con el Anexo-1 y evitar clausuras.\nObjeto: Promoción de consultoría para cumplimiento normativo.\nInterpretación: Oferta comercial externa; archivar si no se requiere el servicio.",
+    "status": "notsure",
+    "receivedAt": "2026-08-18 19:05+00:00"
+  },
+  {
     "id": "email-6249",
     "title": "FW: La diferencia entre llamar y vender",
     "description": "Ventas de Alto Impacto (Interboost360) envía a Ricardo Carmona una promoción para un curso de ventas telefónicas. El objeto es invitar a la inscripción del programa en línea. Interpretación: Correo promocional y comercial; no requiere acción operativa inmediata.",
