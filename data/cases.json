@@ -33732,5 +33732,35 @@
     "description": "Bleacher Report envía boletín informativo deportivo a Ricardo Carmona sobre noticias recientes de fútbol americano colegial (CFB). Correo tipo newsletter.",
     "status": "notsure",
     "receivedAt": "2026-07-29T12:03:00Z"
+  },
+  {
+    "id": "case-6275",
+    "status": "notsure",
+    "receivedAt": "2026-08-24 20:01+00:00",
+    "description": "CENAGAS y Rosa Martha Manjarrez intercambian correos sobre observaciones de documentación para el proyecto de interconexión ARCO 57. Se adjuntan mapas, carta compromiso y formato KYC/CTC actualizados."
+  },
+  {
+    "id": "case-6277",
+    "status": "notsure",
+    "receivedAt": "2026-08-24 20:21+00:00",
+    "description": "David Resendiz Rojo notifica a Ernesto Sanchez García sobre un retraso por parte de Emerson en la entrega de medidores tipo Coriolis para proyectos PNT y CEC, postergando la entrega a septiembre/octubre."
+  },
+  {
+    "id": "case-6278",
+    "status": "notsure",
+    "receivedAt": "2026-08-24 20:56+00:00",
+    "description": "Jaime Alarcon Jimeno envía a Ricardo Carmona la documentación de pruebas FAT de los últimos dos Fill Posts adquiridos, respondiendo a una solicitud de validación de estándares de calidad."
+  },
+  {
+    "id": "case-6279",
+    "status": "notsure",
+    "receivedAt": "2026-08-24 21:23+00:00",
+    "description": "Sergio Alberto Landeros Guerrero solicita apoyo a Alonso Samperio Gayosso para revisar discrepancias en las lecturas del tablero inteligente de la ERM en la EDS JMC, derivadas de fallas recientes."
+  },
+  {
+    "id": "case-6280",
+    "status": "notsure",
+    "receivedAt": "2026-08-24 22:32+00:00",
+    "description": "Correo promocional sobre un taller para elaborar perfiles y descripciones de puestos por competencias avalado por la STPS. Remitido por Marketing Oficial MX."
   }
 ]
