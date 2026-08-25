@@ -1,5 +1,19 @@
 [
   {
+    "id": "email-6300",
+    "emailId": "6300",
+    "title": "FW: Modelos presupuestales: Base cero vs. Incrementa",
+    "description": "Interboost360 envía a Ricardo Carmona una invitación a un curso sobre control presupuestal.\nObjeto: Promoción de taller en línea sobre finanzas.\nInterpretación: Correo publicitario y comercial; archivar a menos que haya interés por parte del área de finanzas.",
+    "source": "Correo: Cierre de Inscripciones (Interboost360)",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-25 19:01+00:00",
+    "createdAt": "2026-08-25T19:02:47.024Z",
+    "updatedAt": "2026-08-25T19:02:47.025Z"
+  },
+  {
     "id": "email-6290",
     "emailId": "6290",
     "title": "FW: First Speakers Confirmed for Americas Gas & LNG Summit 2026",
