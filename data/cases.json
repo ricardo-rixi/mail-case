@@ -1,5 +1,19 @@
 [
   {
+    "id": "email-6281",
+    "emailId": "6281",
+    "title": "Actualizaciones de nuestros términos de uso",
+    "description": "Microsoft informa a Ricardo sobre las actualizaciones al Contrato de servicios que entrarán en vigor el 30 de septiembre de 2026.\nObjeto: Notificar cambios en términos y condiciones de uso.\nInterpretación: Notificación administrativa externa; archivar.",
+    "source": "Correo: Microsoft",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-25 01:48+00:00",
+    "createdAt": "2026-08-25T03:02:07.356Z",
+    "updatedAt": "2026-08-25T03:02:07.357Z"
+  },
+  {
     "id": "email-6280",
     "emailId": "6280",
     "title": "FW: Deja de contratar por intuición",
