@@ -33866,5 +33866,37 @@
     "status": "notsure",
     "receivedAt": "2026-08-25 01:48+00:00",
     "description": "Microsoft notifica a los usuarios (Ricardo) sobre las próximas actualizaciones en su Contrato de Servicios, efectivas el 30 de septiembre de 2026. El objeto es informar con transparencia los cambios legales de sus productos. Interpretación: Correo corporativo y legal automatizado; no requiere acción operativa inmediata."
+  },
+  {
+    "id": "case-6282",
+    "status": "notsure",
+    "receivedAt": "2026-08-25 12:05+00:00",
+    "description": "Bleacher Report envía a Ricardo Carmona su boletín deportivo matutino con noticias de la NFL, béisbol y otros deportes.\nObjeto: Actualización diaria de titulares deportivos y contenido de entretenimiento.\nInterpretación: Boletín informativo de ocio y deportes; no tiene relevancia operativa para el negocio y puede ser archivado.",
+    "title": "FW: ↩️ Lane Kiffin's new CFB loophole",
+    "source": "Correo: Bleacher Report"
+  },
+  {
+    "id": "case-6283",
+    "status": "notsure",
+    "receivedAt": "2026-08-25 14:00+00:00",
+    "description": "Teamwork envía a Ricardo Carmona el informe diario automatizado de tareas y actividades pendientes en los proyectos de NATGAS QUERETARO.\nObjeto: Resumir el estado de avance en proyectos como Construcción de Gantt, Descompresión y Comercialización.\nInterpretación: Correo automático del sistema de gestión de proyectos; requiere revisión interna para el seguimiento de los compromisos operativos.",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Tuesday 25 Aug 2026)",
+    "source": "Correo: Teamwork"
+  },
+  {
+    "id": "case-6284",
+    "status": "notsure",
+    "receivedAt": "2026-08-25 14:28+00:00",
+    "description": "AFVi envía a Ricardo Carmona información sobre cursos de capacitación para técnicos de flotas en tecnologías de combustibles alternativos.\nObjeto: Promocionar soluciones de entrenamiento práctico para mejorar la seguridad y el mantenimiento de flotas de tránsito.\nInterpretación: Correo comercial y promocional de proveedor de capacitación; archivar a menos que se requiera entrenar al personal técnico.",
+    "title": "FW: Keep your transit techs ready for what's next",
+    "source": "Correo: AFVi"
+  },
+  {
+    "id": "case-6285",
+    "status": "notsure",
+    "receivedAt": "2026-08-25 14:49+00:00",
+    "description": "Alonso Samperio Gayosso (NATGAS) comparte una carpeta de SharePoint denominada \"CROMATOGRAFÍA\" con Ricardo Carmona y Carlos Fernando Gonzalez.\nObjeto: Otorgar acceso a los documentos operativos de la carpeta compartida.\nInterpretación: Notificación automatizada de acceso a archivos; requiere guardar el enlace para futuras consultas operativas.",
+    "title": "FW: Alonso Samperio Gayosso ha compartido la carpeta \"CROMATOGRAFÍA\" contigo",
+    "source": "Correo: Alonso Samperio Gayosso"
   }
 ]
