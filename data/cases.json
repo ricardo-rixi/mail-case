@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-6308",
+    "title": "FW: PROGRAMACIÓN SEGUIMIENTO: Revisión de la medición Estación Natgas Malecón",
+    "description": "Abraham Benegasi (Naturgy) confirma a Alonso Samperio la programación para revisar la medición en la estación Malecón debido a desbalances reportados (> -2%).\nObjeto: Visita técnica en campo con equipos patrón del distribuidor.\nInterpretación: Actividad operativa programada; requiere seguimiento de los resultados de calibración de presión y temperatura en sitio.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-25T21:37:00.000Z",
+    "createdAt": "2026-08-25T23:01:23.773Z",
+    "updatedAt": "2026-08-25T23:01:23.773Z"
+  },
+  {
+    "id": "email-6309",
+    "title": "FW: FORMATO DE COMMISSIONING EME3-5",
+    "description": "Carlos Hernández responde a Julian Garcia (E3 Mantenimiento) señalando una confusión sobre la firma del formato de commissioning de la EME3-5, involucrando a la Dirección Técnica.\nObjeto: Cierre administrativo y firma del formato de trabajos terminados en mayo de 2026.\nInterpretación: Gestión administrativa y técnica pendiente; requiere clarificar la solicitud de los trabajos para proceder con las firmas correspondientes.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-25T22:39:00.000Z",
+    "createdAt": "2026-08-25T23:01:23.773Z",
+    "updatedAt": "2026-08-25T23:01:23.773Z"
+  },
+  {
+    "id": "email-6310",
+    "title": "FW: FIANZAS NATGAS-ENGIE",
+    "description": "Maria Jose Arcos solicita a Lucero Garcia (ENGIE) la carta actualizada de fianzas, tras la validación técnica de montos de facturación por parte de Alonso Samperio.\nObjeto: Renovación y ajuste de garantías financieras comerciales con ENGIE.\nInterpretación: Seguimiento comercial y financiero; requiere coordinación activa para evitar incumplimientos en los plazos de las fianzas.",
+    "source": "Correo: Ricardo Andrés Carmona Marcano",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-08-25T22:53:00.000Z",
+    "createdAt": "2026-08-25T23:01:23.772Z",
+    "updatedAt": "2026-08-25T23:01:23.773Z"
+  },
+  {
     "id": "email-6300",
     "emailId": "6300",
     "title": "FW: Modelos presupuestales: Base cero vs. Incrementa",
