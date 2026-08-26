@@ -1,5 +1,85 @@
 [
   {
+    "id": "case-6338",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 19:04+00:00",
+    "description": "Ricardo Carmona reenvía un correo promocional sobre un curso de viáticos y gastos de viaje. El objeto es ofrecer un seminario sobre optimización de reembolsos. Correo publicitario que no requiere acción operativa directa.",
+    "title": "FW: Requisitos para acreditar el IVA",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "case-6339",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 19:21+00:00",
+    "description": "Ricardo Carmona reenvía una promoción sobre el curso de deducibilidad de viáticos ante el SAT. El objeto es invitar a una capacitación en línea. Correo de marketing sin relevancia operativa.",
+    "title": "FW: SAT y Viáticos: Lo que sí te van a revisar",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "case-6340",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 19:49+00:00",
+    "description": "Jaime Alarcon de Energetica E3 informa a Ricardo Carmona sobre el estatus de las Pruebas FAT de los Fill Posts. El objeto es notificar que pronto enviarán el documento de prueba de presión y video. Requiere seguimiento técnico.",
+    "title": "FW: Pruebas FAT Fill Posts",
+    "source": "Correo: Jaime Alarcon Jimeno"
+  },
+  {
+    "id": "case-6341",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 21:59+00:00",
+    "description": "John de TeamGantt envía un boletín informativo a Ricardo. El objeto es proporcionar consejos sobre planificación y ejecución exitosa de proyectos. Boletín de marketing, no requiere atención operativa.",
+    "title": "🦺 The difference between busy and successful",
+    "source": "Correo: John @ TeamGantt"
+  },
+  {
+    "id": "case-6342",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 22:18+00:00",
+    "description": "Alonso Samperio notifica a Hannia Baca (Gascorp) sobre la nominación de gas para septiembre 2026 en la estación Corregidora. El objeto es enviar la previsión operativa de volúmenes. Ricardo está en copia, no requiere acción.",
+    "title": "FW: Nominación - Gascorp Natgas CRR",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "case-6343",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 22:19+00:00",
+    "description": "Maria Jose Arcos comparte con Daniela Garibay y Adrian Gonzalez de Gascorp la fianza emitida. El objeto es entregar la garantía correspondiente a la confirmación de transacción 2026-2027. Trámite administrativo completado; no requiere acción de Ricardo.",
+    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "case-6344",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 22:30+00:00",
+    "description": "Ricardo Carmona reenvía un correo promocional sobre un programa ejecutivo acerca del rol estratégico del contralor. El objeto es promocionar una capacitación. Correo de marketing que no requiere seguimiento operativo.",
+    "title": "FW: Reinicia tu perfil de Contralor - Contraloría",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "case-6345",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 22:46+00:00",
+    "description": "Adrian Gonzalez de Gascorp confirma a Maria Jose Arcos la recepción de la fianza emitida. El objeto es validar que recibieron la garantía de la confirmación de transacción. Confirmación administrativa sin acción requerida por parte de Ricardo.",
+    "title": "FW: Completado: Complete con Docusign: Confirmacion de Transacción   NATGAS QUERETARO 2026-2027 (2).docx",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "case-6346",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 22:52+00:00",
+    "description": "Ricardo Carmona reenvía un boletín informativo de BHR Polanco sobre estrategias de deducción fiscal. El objeto es ofrecer servicios de asesoría contable. Correo promocional que no requiere atención operativa.",
+    "title": "FW: 🔵 Plan México 2026: deducciones de hasta 91%",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
+    "id": "case-6347",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 22:53+00:00",
+    "description": "Alonso Samperio envía a Adrián Cisneros (Diavaz) las nominaciones de gas para Universidad y Laredo. El objeto es coordinar los volúmenes operativos de suministro semanal. Tarea operativa resuelta sin acción requerida para Ricardo.",
+    "title": "FW: Nominaciones Natgas del 31 de agosto al 6 de septiembre de 2026",
+    "source": "Correo: Ricardo Andrés Carmona Marcano"
+  },
+  {
     "id": "email-6337",
     "title": "FW: Un CFDI puede abrir un problema que no esperabas",
     "description": "Blindaje Fiscal (Interboost360) envía a Ricardo Carmona publicidad sobre el curso CFDI sin Errores.\nObjeto: Promocionar capacitación en línea sobre reformas fiscales 2026.\nInterpretación: Correo comercial externo; archivar a menos que haya interés.",
