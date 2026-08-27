@@ -35070,5 +35070,85 @@
     "status": "notsure",
     "receivedAt": "2026-08-27 01:22+00:00",
     "description": "Microsoft Teams notifica automáticamente que Fernando Francisco Saldaña Noriega envió el mensaje \"PROPUESTA 2\" en el chat grupal de Expedientes Federales. El objeto es alertar sobre nueva actividad en plataforma colaborativa. Interpretación: Alerta del sistema; requiere revisar la propuesta directamente en Teams."
+  },
+  {
+    "id": "case-6370",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T15:28:24Z",
+    "description": "SEMINARIO GASOLINERO envía a Ricardo Carmona publicidad sobre un seminario de regulaciones para estaciones de servicio 2026. El objeto es promocionar una capacitación sobre ASEA, CRE, SAT, entre otros. Interpretación: Correo promocional y comercial; no requiere acción operativa inmediata.",
+    "title": "FW: ULTIMOS 10 LUGARES 30% DE DESCUENTO¡ NUEVAS REGULACIONES PARA LAS ESTACIONES DE SERVICIO / QUERETÁRO 29 DE AGOSTO",
+    "source": "Correo: SEMINARIO GASOLINERO"
+  },
+  {
+    "id": "case-6371",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T15:31:12Z",
+    "description": "Kuatro envía a Ricardo Carmona su boletín mensual de promociones de agosto. El objeto es publicitar rentas de espacios modulares con descuento. Interpretación: Boletín comercial externo; archivar sin acción.",
+    "title": "FW: ⏳ Últimos días para aprovechar estas promociones ⭐",
+    "source": "Correo: Kuatro"
+  },
+  {
+    "id": "case-6372",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T15:45:26Z",
+    "description": "Karen Pamela Santos Robles solicita a Engie (Erika Huerta) la emisión de notas de crédito pendientes. El objeto es compartir comprobantes de pago de los remanentes del ajuste de precio Waha para liberar las notas de crédito de Natgas. Interpretación: Seguimiento administrativo y de cuentas por pagar; requiere esperar la confirmación y emisión por parte del proveedor.",
+    "title": "FW: Notas de Crédito - Waha negativo junio 2026",
+    "source": "Correo: Karen Pamela Santos Robles"
+  },
+  {
+    "id": "case-6373",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T16:17:47Z",
+    "description": "Alejandro Ramos de PepsiCo envía una convocatoria de Microsoft Teams a Ricardo Carmona y otros colaboradores. El objeto es agendar la reunión para la visita técnica del proyecto de Biometano. Interpretación: Evento operativo confirmado; se debe agendar y asistir a la sesión.",
+    "title": "FW: Biometano Flota",
+    "source": "Correo: Alejandro Ramos (PepsiCo)"
+  },
+  {
+    "id": "case-6374",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T16:42:49Z",
+    "description": "Naturgy México envía a Ricardo Carmona el reporte diario del mercado de gas natural. El objeto es compartir el resumen de indicadores comerciales del 27 de agosto. Interpretación: Boletín informativo recurrente del sector; no requiere atención operativa.",
+    "title": "FW: Informe de mercado de hoy: 27 de agosto 📈",
+    "source": "Correo: Naturgy México"
+  },
+  {
+    "id": "case-6375",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T16:44:10Z",
+    "description": "Aumente su conversión telefónica envía publicidad sobre ventas a Ricardo Carmona. El objeto es ofertar un curso en línea de alto rendimiento comercial. Interpretación: Correo promocional y externo; archivar sin realizar acción.",
+    "title": "FW: La diferencia entre llamar y vender",
+    "source": "Correo: Aumente su conversión telefónica"
+  },
+  {
+    "id": "case-6376",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T17:01:05Z",
+    "description": "Dani de Terapify envía a Ricardo Carmona una notificación personal de su plataforma. El objeto es compartir un nuevo episodio de podcast sobre psicología y saturación sensorial. Interpretación: Correo personal o promocional sin relevancia para el negocio; no requiere acción.",
+    "title": "FW: ¿Por qué me enoja todo si “yo no era así”?",
+    "source": "Correo: Dani de Terapify"
+  },
+  {
+    "id": "case-6377",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T17:06:00Z",
+    "description": "Tecnología del Plástico envía a Ricardo Carmona su boletín industrial de agosto. El objeto es promover noticias, eventos y webinars del sector de plásticos. Interpretación: Boletín de noticias externo; archivar sin seguimiento operativo.",
+    "title": "FW: Colombiaplast 2026 reunirá nuevamente a la cadena de valor de las industrias del plástico",
+    "source": "Correo: Tecnología del Plástico"
+  },
+  {
+    "id": "case-6378",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T18:02:26Z",
+    "description": "Silvana Cusati de CIMC ENRIC AMERICAS responde a Ricardo Carmona la duda técnica sobre seguridad en contenedores. El objeto es confirmar que el disco de ruptura libera la presión del gas en caso de incendio externo. Interpretación: Seguimiento técnico de adquisiciones de equipo; respuesta aclaratoria completada.",
+    "title": "FW: [IMPORTANTE] Pregunta sencilla de seguridad CONTENEDORES 40ft",
+    "source": "Correo: Silvana Cusati (CIMC ENRIC)"
+  },
+  {
+    "id": "case-6379",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T18:34:37Z",
+    "description": "Estados Financieros NIF's (ATOMIC TRAINING) envía publicidad a Ricardo Carmona. El objeto es promocionar un curso y taller sobre la implementación integral de las Normas de Información Financiera. Interpretación: Boletín promocional de capacitación externa; archivar sin necesidad de acción.",
+    "title": "FW: Evite Sanciones: Taller Completo sobre Implementación de NIF",
+    "source": "Correo: Estados Financieros - NIF´s"
   }
 ]
