@@ -34879,5 +34879,53 @@
     "receivedAt": "2026-08-26 19:04+00:00",
     "source": "Correo: Ricardo Andrés Carmona Marcano",
     "description": "Viáticos y Gastos de Viaje envía a Ricardo Carmona información sobre un seminario en línea titulado 'Requisitos para acreditar el IVA'. El objeto es promocionar una capacitación sobre deducción de viáticos programada para el 17 de septiembre. Interpretación: Correo promocional y de capacitación; no requiere acción operativa inmediata."
+  },
+  {
+    "id": "case-6348",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 23:14+00:00",
+    "description": "Manuel Andrade (Proambisa) envía a Ricardo y equipo VW el HazOp en excel y plano del MAT para revisión de elementos de seguridad (Proyecto Biometano VW). El objeto es avanzar con la validación de riesgos operativos. Interpretación: Seguimiento técnico interinstitucional; requiere revisión y comentarios por parte del equipo técnico."
+  },
+  {
+    "id": "case-6349",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 23:16+00:00",
+    "description": "Alonso Samperio Gayosso envía a Juan Carlos Pineda (cc Ricardo) los Indicadores ESG actualizados a julio de 2026. El objeto es compartir el estatus mensual de desempeño ambiental, social y gobernanza. Interpretación: Reporte operativo interno; requiere archivo o revisión general."
+  },
+  {
+    "id": "case-6350",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 23:16+00:00",
+    "description": "Valerio Manta aclara a Ricardo que el documento recibido es solo un certificado de paro de emergencia y no la prueba de funcionamiento FAT de los Fill Posts. El objeto es solicitar la evidencia correcta. Interpretación: Seguimiento técnico interno; pendiente recibir y revisar el resto de la documentación del proveedor."
+  },
+  {
+    "id": "case-6351",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 23:27+00:00",
+    "description": "Valerio Manta confirma de enterado (\"ok\") a Ricardo respecto al estatus de la recepción de certificados y pruebas FAT pendientes de los Fill Posts. El objeto es alinear las expectativas sobre la entrega de documentos faltantes. Interpretación: Seguimiento técnico interno completado temporalmente hasta recibir la información restante."
+  },
+  {
+    "id": "case-6352",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 23:28+00:00",
+    "description": "Microsoft Outlook envía a Ricardo un resumen diario automático de reacciones (Reaction Daily Digest). El objeto es notificar interacciones recientes en mensajes institucionales. Interpretación: Correo automatizado del sistema; archivar sin acción."
+  },
+  {
+    "id": "case-6353",
+    "status": "notsure",
+    "receivedAt": "2026-08-26 23:34+00:00",
+    "description": "Formas Digitales envía un correo promocional con ofertas del mes. El objeto es ofrecer servicios o productos de diseño e impresión comercial. Interpretación: Correo publicitario externo; no requiere seguimiento ni acción operativa."
+  },
+  {
+    "id": "case-6354",
+    "status": "notsure",
+    "receivedAt": "2026-08-27 00:19+00:00",
+    "description": "Aeroméxico Promociones envía a Ricardo una oferta publicitaria de vuelos a Panamá y otros destinos. El objeto es promover tarifas reducidas y uso de puntos. Interpretación: Boletín comercial; archivar ya que no tiene relevancia operativa."
+  },
+  {
+    "id": "case-6355",
+    "status": "notsure",
+    "receivedAt": "2026-08-27 01:22+00:00",
+    "description": "Microsoft Teams notifica automáticamente que Fernando Francisco Saldaña Noriega envió el mensaje \"PROPUESTA 2\" en el chat grupal de Expedientes Federales. El objeto es alertar sobre nueva actividad en plataforma colaborativa. Interpretación: Alerta del sistema; requiere revisar la propuesta directamente en Teams."
   }
 ]
