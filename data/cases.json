@@ -1,5 +1,85 @@
 [
   {
+    "id": "case-6384",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T19:25:00Z",
+    "description": "Ara Plascencia (DIAVAZ) comparte el Análisis de Exposición al Precio del Gas Natural. Objeto: Documento informativo comercial. Interpretación: Reporte financiero/comercial para revisión.",
+    "title": "FW: Análisis de Exposición al Precio del Gas Natural",
+    "source": "Correo: Ara Wendy Plascencia López (DIAVAZ)"
+  },
+  {
+    "id": "case-6385",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T19:35:00Z",
+    "description": "Jaime Alarcon (Energetica E3) comparte documentos de fábrica (certificado de parada de emergencia) y avisa que mañana enviarán la prueba de presión y video. Objeto: Pruebas FAT de los Fill Posts. Interpretación: Seguimiento técnico de adquisición de equipos.",
+    "title": "FW: Pruebas FAT Fill Posts",
+    "source": "Correo: Jaime Alarcon Jimeno"
+  },
+  {
+    "id": "case-6386",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T19:41:00Z",
+    "description": "AMGN envía el primer borrador de la matriz de temas prioritarios para la industria de Biogás/Biometano para el Plan Integral de Gas Natural. Objeto: Solicita revisión y ajustes antes del 1 de septiembre. Interpretación: Acción regulatoria e institucional; requiere revisión.",
+    "title": "FW: Temas prioritarios - Sector Biogás/Biometano",
+    "source": "Correo: AMGN"
+  },
+  {
+    "id": "case-6387",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T19:46:00Z",
+    "description": "EG CONSULTORES Y ADMINISTRADORES envía correo publicitario sobre la gestión de riesgos de cumplimiento normativo. Objeto: Promoción de servicios de consultoría. Interpretación: Correo comercial externo; archivar sin acción.",
+    "title": "FW: DIRECTOR: EL INCUMPLIMIENTO NORMATIVO TAMBIÉN ES UN RIESGO DE NEGOCIO",
+    "source": "Correo: EG CONSULTORES Y ADMINISTRADORES"
+  },
+  {
+    "id": "case-6388",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T19:55:00Z",
+    "description": "Manuel Alejandro Gómez (Natgas) solicita aclaración a ENGIE sobre una discrepancia en la dirección de entrega y una nota de crédito no registrada. Objeto: Aclaración de saldos y cuentas. Interpretación: Trámite administrativo/financiero; Ricardo está en copia para conocimiento.",
+    "title": "FW: Confirmación de saldo-Natgas Querétaro, S.A.P.I. De C.V.",
+    "source": "Correo: Manuel Alejandro Gómez Velazquez"
+  },
+  {
+    "id": "case-6389",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T20:02:00Z",
+    "description": "Manuel Andrade (Proambisa) envía 15 escenarios de riesgo a modelar para cumplir con requerimientos de SEMARNAT (Biometano). Objeto: Avance en modelación de riesgos sin incluir salvaguardas (HazOp). Interpretación: Seguimiento regulatorio y técnico; requiere revisión del equipo.",
+    "title": "FW: Escenarios de Riesgo.",
+    "source": "Correo: andradejm@proambisa.com.mx"
+  },
+  {
+    "id": "case-6390",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T20:10:00Z",
+    "description": "Humand envía notificación de comunicación interna sobre el lanzamiento del Ticket Digital en Natgas. Objeto: Novedad operativa para clientes. Interpretación: Boletín interno informativo; no requiere acción directa.",
+    "title": "FW: Comunicación Interna publicó una novedad importante",
+    "source": "Correo: Humand"
+  },
+  {
+    "id": "case-6391",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T20:25:00Z",
+    "description": "Manuel Andrade (Proambisa) solicita a Guillermo Chaim (Brimex Energy) el dato de temperatura de compresión del biometano en el MAT para finalizar el cálculo de fugas. Objeto: Solicitud de información técnica. Interpretación: Intercambio técnico; Ricardo en copia para seguimiento.",
+    "title": "FW: Humedad biometano",
+    "source": "Correo: andradejm@proambisa.com.mx"
+  },
+  {
+    "id": "case-6392",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T21:42:00Z",
+    "description": "Rosa Martha Manjarrez pide a Gelsica Berenice Infante dar prioridad al envío del HazOp (.opha) a VW para desahogar un requerimiento. Objeto: Agilizar trámite de apertura este año. Interpretación: Seguimiento interno crítico; requiere acción del equipo regulatorio/técnico.",
+    "title": "FW: Acerca del HazOp en formato .opha (Kenexis) y especificaciones del Maniful del MAT.",
+    "source": "Correo: Rosa Martha Manjarrez Trejo"
+  },
+  {
+    "id": "case-6393",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T22:00:00Z",
+    "description": "Gelsica Berenice Infante responde a Rosa Martha y Ricardo solicitando que le compartan el archivo del HazOp. Objeto: Seguimiento a la petición de dar prioridad al requerimiento de VW. Interpretación: Coordinación interna; alguien debe facilitarle el archivo.",
+    "title": "FW: Acerca del HazOp en formato .opha (Kenexis) y especificaciones del Maniful del MAT.",
+    "source": "Correo: Gelsica Berenice Infante Jimenez"
+  },
+  {
     "id": "email-6367",
     "title": "FW: Webinar: El poder de los datos conectados en manufactura.",
     "description": "Autodesk invita a Ricardo Carmona a un webinar sobre el uso de datos en manufactura.\nObjeto: Promoción de evento virtual tecnológico.\nInterpretación: Correo comercial B2B; archivar a menos que haya interés en la industria 4.0.",
