@@ -1,5 +1,77 @@
 [
   {
+    "id": "case-6402",
+    "status": "notsure",
+    "receivedAt": "2026-08-28T14:37:00Z",
+    "description": "Eduardo Bernal (COX) responde a Alonso Samperio (CC Ricardo) confirmando una capacidad instalada de 1,232MW en renovables y adjunta el Factor de Emisión Eléctrico 2025. Objeto: Proveer el porcentaje de energía limpia solicitado. Interpretación: Respuesta oficial recibida útil para reporte del Comité ESG.",
+    "title": "FW: Porcentaje de generación de energía limpia COX",
+    "source": "Correo: Eduardo Bernal Lara"
+  },
+  {
+    "id": "case-6401",
+    "status": "notsure",
+    "receivedAt": "2026-08-28T14:13:00Z",
+    "description": "Alonso Samperio solicita a Eduardo Bernal (COX) un documento oficial con el porcentaje de generación de energía limpia de la compañía en México (CC Ricardo). Objeto: Requerir información oficial sobre generación renovable. Interpretación: Solicitud de información preliminar para métricas ESG.",
+    "title": "FW: Porcentaje de generación de energía limpia COX",
+    "source": "Correo: Alonso Samperio Gayosso"
+  },
+  {
+    "id": "case-6400",
+    "status": "notsure",
+    "receivedAt": "2026-08-28T14:00:00Z",
+    "description": "Teamwork envía a Ricardo el resumen diario de tareas pendientes, incluyendo proyectos de Descompresión CKR, JAV y Comercialización. Objeto: Notificar pendientes operativos del día 28 de agosto. Interpretación: Reporte automático del sistema; requiere revisión para organizar la agenda y prioridades.",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Friday 28 Aug 2026)",
+    "source": "Correo: NATGAS QUERETARO SAPI DE CV Reports"
+  },
+  {
+    "id": "case-6399",
+    "status": "notsure",
+    "receivedAt": "2026-08-28T05:46:00Z",
+    "description": "Silvana Cusati (CIMC ENRIC) envía a Ricardo la ficha técnica y los planos detallando la ubicación del disco de ruptura en contenedores de 40ft. Objeto: Proveer información técnica de seguridad solicitada para un estudio de riesgos. Interpretación: Cierre de requerimiento técnico; se debe canalizar la información al responsable del estudio.",
+    "title": "FW: [IMPORTANTE] Pregunta sencilla de seguridad CONTENEDORES 40ft",
+    "source": "Correo: CusatiAlejaSilvana"
+  },
+  {
+    "id": "case-6398",
+    "status": "notsure",
+    "receivedAt": "2026-08-28T01:43:00Z",
+    "description": "Naturgy envía automáticamente a Alonso Samperio un parte de trabajo digital (173177) de la aplicación Medición Industrial. Objeto: Notificar la conclusión o registro de un trabajo de medición. Interpretación: Reporte automatizado de carácter operativo; archivar como respaldo documental.",
+    "title": "FW: Medición industrial - Parte de trabajo173177",
+    "source": "Correo: Naturgy"
+  },
+  {
+    "id": "case-6397",
+    "status": "notsure",
+    "receivedAt": "2026-08-28T01:38:00Z",
+    "description": "Alonso Samperio aclara a Juan Carlos Pineda (CC Ricardo) que los datos ESG están disponibles entre el 18-23 de cada mes y acepta agendar una reunión sobre el tema COX. Objeto: Coordinar fechas de entrega de indicadores ESG y revisión de consumo eléctrico. Interpretación: Coordinación administrativa interna.",
+    "title": "FW: Indicadores ESG - Julio 2026",
+    "source": "Correo: Alonso Samperio Gayosso"
+  },
+  {
+    "id": "case-6396",
+    "status": "notsure",
+    "receivedAt": "2026-08-28T00:51:00Z",
+    "description": "Andrea Bautista Mercado comparte con el equipo (incluyendo a Ricardo) las SOC del consumo de gas del cliente DIAVAZ de la primera quincena de agosto. Objeto: Reportar consumos quincenales de facturación en estaciones LYL y UNI. Interpretación: Reporte de monitoreo para control operativo y administrativo.",
+    "title": "FW: SOC DIAVAZ 1RA QUINCENA AGOSTO",
+    "source": "Correo: Andrea Bautista Mercado"
+  },
+  {
+    "id": "case-6395",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T23:29:00Z",
+    "description": "Elia Godinez (ENGIE Mexico) envía a Ricardo las cartas de factibilidad de suministro actualizadas para las estaciones El Marqués y Obrera. Objeto: Entregar documentación actualizada requerida para un trámite ante la CRE. Interpretación: Hito documental alcanzado; resguardar para su uso en la gestión regulatoria.",
+    "title": "FW: Factibilidad de Suministro (El Marqués y Obrera) - Actualización Fechas",
+    "source": "Correo: elia.godinez@engie.com"
+  },
+  {
+    "id": "case-6394",
+    "status": "notsure",
+    "receivedAt": "2026-08-27T23:12:00Z",
+    "description": "Jaime Alarcon (Energetica E3) aclara a Ricardo que sí se realizaron las pruebas funcionales en fábrica para los Fill Posts y adjunta los videos demostrativos. Objeto: Confirmar las pruebas FAT antes del envío de los equipos. Interpretación: Seguimiento técnico aclaratorio; revisar los videos y validar con el equipo de ingeniería.",
+    "title": "FW: Pruebas FAT Fill Posts",
+    "source": "Correo: Jaime Alarcon Jimeno"
+  },
+  {
     "id": "case-6393",
     "status": "notsure",
     "receivedAt": "2026-08-27T22:00:00Z",
