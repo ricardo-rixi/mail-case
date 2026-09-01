@@ -1,5 +1,75 @@
 [
   {
+    "id": "email-6475",
+    "title": "FW: Informe diario del proyecto para Ricardo Carmona (Tuesday 01 Sep 2026)",
+    "description": "Teamwork envía a Ricardo el informe diario automatizado del proyecto NATGAS QUERETARO SAPI DE CV.\nObjeto: Resumen diario de actividades y tareas programadas.\nInterpretación: Notificación automática del sistema; solo para seguimiento.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 08:00+00:00"
+  },
+  {
+    "id": "email-6474",
+    "title": "FW: Come test eM Client 11 BETA!",
+    "description": "eM Client envía a Ricardo un correo promocional invitando a probar eM Client 11 BETA.\nObjeto: Presentación de nuevas funciones del cliente de correo.\nInterpretación: Boletín promocional de software; archivar a menos que haya interés.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 13:28+00:00"
+  },
+  {
+    "id": "email-6473",
+    "title": "FW: Se desactivó Encontrar en Ricardo phone",
+    "description": "Find My (Apple) notifica a Ricardo que la función Encontrar se desactivó en su iPhone.\nObjeto: Alerta de seguridad sobre desactivación de localización.\nInterpretación: Notificación de seguridad personal automatizada; archivar.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 07:07+00:00"
+  },
+  {
+    "id": "email-6472",
+    "title": "FW: Invitación 2da. Edición pep+ Innovation Hub",
+    "description": "Alejandro Ramos de PepsiCo solicita a Ricardo un avance o draft de su presentación para el evento pep+ Innovation Hub.\nObjeto: Preparativos para la 2da. Edición del evento el 23 de septiembre.\nInterpretación: Solicitud operativa urgente; requiere que Ricardo comparta el draft de la presentación.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 04:00+00:00"
+  },
+  {
+    "id": "email-6471",
+    "title": "FW: Temas prioritarios - GNV, GNC y GNL",
+    "description": "La AMGN solicita al Comité de GNV, GNC y GNL revisar el borrador de la matriz de temas prioritarios del Plan Integral de Gas Natural.\nObjeto: Colaboración sectorial y retroalimentación sobre temas prioritarios.\nInterpretación: Solicitud institucional externa; requiere revisión y aportación al documento adjunto.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 01:47+00:00"
+  },
+  {
+    "id": "email-6470",
+    "title": "FW: Comprobante Fiscal BB96144",
+    "description": "GDF SUEZ MEXICO COMERCIALIZADORA notifica a NATGAS QUERETARO el envío del Comprobante Fiscal BB96144.\nObjeto: Entrega de factura electrónica (XML y PDF).\nInterpretación: Documento contable de rutina; requiere registro o envío a finanzas.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 00:24+00:00"
+  },
+  {
+    "id": "email-6469",
+    "title": "FW: SESIÓN KAM INFORMATIVA - NATGAS",
+    "description": "Abraham Benegasi Alarcon de Naturgy invita al equipo de Natgas a una breve SESIÓN KAM INFORMATIVA.\nObjeto: Reunión virtual programada para el 2 de septiembre vía Teams.\nInterpretación: Invitación a evento; requiere que Ricardo asista a la sesión programada.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 00:13+00:00"
+  },
+  {
+    "id": "email-6468",
+    "title": "FW: Tablero FUG columnas compresor 4",
+    "description": "Alonso Samperio notifica a Humberto Rivera y Gonzalo Cabrera (con copia a Ricardo) sobre actualizaciones en el Tablero Inteligente FUG.\nObjeto: Adición de columnas para información del compresor #4.\nInterpretación: Notificación operativa interna; archivar o revisar para control.",
+    "status": "notsure",
+    "receivedAt": "2026-09-01 00:10+00:00"
+  },
+  {
+    "id": "email-6467",
+    "title": "FW: INSTRUCTIVO ALTA OFICINA VIRTUAL - GRUPO NATGAS",
+    "description": "Abraham Benegasi de Naturgy comparte al equipo Natgas el instructivo para registro en la nueva oficina virtual.\nObjeto: Alta de usuarios para consulta y descarga de facturación y consumos.\nInterpretación: Trámite administrativo con proveedor; requiere ejecutar el registro en la plataforma.",
+    "status": "notsure",
+    "receivedAt": "2026-08-31 23:17+00:00"
+  },
+  {
+    "id": "email-6466",
+    "title": "FW: Taller para el Auxiliar Contable",
+    "description": "Guardian financiero envía a Ricardo una invitación a un Taller para el Auxiliar Contable.\nObjeto: Promoción de evento educativo sobre CFDI y contabilidad.\nInterpretación: Boletín promocional de capacitación; archivar a menos que sea de interés.",
+    "status": "notsure",
+    "receivedAt": "2026-08-31 21:51+00:00"
+  },
+  {
     "id": "email-6447",
     "title": "FW: CFDI de recibo electrónico de CARMONA MARCANO RICARDO ANDRES periodo 16 Quincenal 2026",
     "description": "App Excelencia envía a Ricardo el recibo electrónico de nómina del periodo 16.\nObjeto: Envío de CFDI salarial.\nInterpretación: Notificación administrativa de RRHH; archivar como comprobante.",
