@@ -36915,5 +36915,18 @@
     "receivedAt": "2026-09-01T19:07:00Z",
     "description": "Maria Jose Arcos is asking Ricardo if the $23M bond obligation with Engie for Tlanepantla was signed, as she needs to consider this cost for the 2027 budget. She never received the signed contract or bond request.",
     "status": "notsure"
+  },
+  {
+    "id": "email-6476",
+    "title": "FW: Acción requerida: por favor valida una solicitud de viaje",
+    "description": "El Portal de gastos Excelencia notifica a Ricardo Carmona que tiene una solicitud de viaje pendiente de aprobación para Alonso Samperio (Folio: EVA-16281) para un evento en la UNAM.\nObjeto: Aprobar o rechazar la solicitud de anticipo de viáticos.\nInterpretación: Solicitud administrativa que requiere validación y acción directa por parte de Ricardo.",
+    "source": "Correo: Portal de gastos Excelencia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-01T15:06:00.000Z",
+    "createdAt": "2026-09-01T23:01:53.501Z",
+    "updatedAt": "2026-09-01T23:01:53.503Z"
   }
 ]
