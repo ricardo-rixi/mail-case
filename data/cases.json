@@ -36873,5 +36873,47 @@
     "unansweredDays": 0,
     "createdAt": "2026-05-28T18:00:00.000Z",
     "updatedAt": "2026-05-30T01:00:00.000Z"
+  },
+  {
+    "id": "6493",
+    "receivedAt": "2026-09-01T22:51:00Z",
+    "description": "Angelina Perez from CRH Talento IT is asking Ricardo if Natgas has any upcoming IT vacancies or hiring plans for this quarter. This is a follow-up email offering IT recruitment and staffing services.",
+    "status": "notsure"
+  },
+  {
+    "id": "6492",
+    "receivedAt": "2026-09-01T22:19:00Z",
+    "description": "Maria Jose Arcos Hernandez is asking Ricardo and Alonso if there are plans to sign gas supply contracts for several listed projects in 2027. She requests the estimated bond amount to include it in the 2027 budget.",
+    "status": "notsure"
+  },
+  {
+    "id": "6491",
+    "receivedAt": "2026-09-01T22:07:00Z",
+    "description": "Neyda Yudith Gonzalez Silva is forwarding SOC 1027245 for pipeline detection at EDS A57 to David Resendiz, asking for his support with the purchase order (OC). Ricardo is copied for visibility.",
+    "status": "notsure"
+  },
+  {
+    "id": "6490",
+    "receivedAt": "2026-09-01T21:48:00Z",
+    "description": "Jose Manuel Andrade from Proambisa sent Ricardo and others the risk modeling files and risk scenarios for the Biomethane project. This is part of the preparation for an upcoming SEMARNAT review.",
+    "status": "notsure"
+  },
+  {
+    "id": "6489",
+    "receivedAt": "2026-09-01T19:26:00Z",
+    "description": "Jaime Alarcon from E3 Mantenimiento is requesting support from Ricardo and Alonso with a merchandise entry (OC 3046790) and invoice uploading before the portal closes. This follows a signed commissioning format for EME3-5.",
+    "status": "notsure"
+  },
+  {
+    "id": "6488",
+    "receivedAt": "2026-09-01T19:12:00Z",
+    "description": "Alonso Samperio is requesting support from Ana Paola Hernandez to generate a SOC for pipeline detection at Arco 57, attaching the format and quotation. Ricardo is copied for visibility.",
+    "status": "notsure"
+  },
+  {
+    "id": "6487",
+    "receivedAt": "2026-09-01T19:07:00Z",
+    "description": "Maria Jose Arcos is asking Ricardo if the $23M bond obligation with Engie for Tlanepantla was signed, as she needs to consider this cost for the 2027 budget. She never received the signed contract or bond request.",
+    "status": "notsure"
   }
 ]
