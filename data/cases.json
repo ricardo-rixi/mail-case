@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-6550-1788472848891",
+    "title": "FW: Your secure link to Claude.ai is here | 2026-09-03 15:24:29",
+    "description": "Anthropic envía a Ricardo un enlace seguro (magic link) para iniciar sesión en la plataforma Claude.ai.\nObjeto: Facilitar el acceso autenticado a la herramienta de inteligencia artificial.\nInterpretación: Correo transaccional de seguridad; de uso personal e inmediato, no requiere seguimiento.",
+    "source": "Correo: Anthropic",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-03T21:24:00.000Z",
+    "createdAt": "2026-09-03T22:00:48.891Z",
+    "updatedAt": "2026-09-03T22:00:48.891Z"
+  },
+  {
+    "id": "email-6551-1788472848892",
+    "title": "FW: Postulacion",
+    "description": "German Certad (biólogo marino) envía su CV postulándose a la vacante de Jefe de Producción en Bahía de Kino o Supervisor en Huatabampo.\nObjeto: Postulación laboral para la planta procesadora.\nInterpretación: Candidato de reclutamiento; requiere derivación a RRHH o evaluación técnica.",
+    "source": "Correo: German Certad",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-03T21:36:00.000Z",
+    "createdAt": "2026-09-03T22:00:48.891Z",
+    "updatedAt": "2026-09-03T22:00:48.891Z"
+  },
+  {
+    "id": "email-6552-1788472848893",
+    "title": "FW: Your secure link to Claude.ai is here | 2026-09-03 15:36:26",
+    "description": "Anthropic envía a Ricardo un enlace seguro (magic link) para iniciar sesión en la plataforma Claude.ai.\nObjeto: Facilitar el acceso autenticado a la herramienta de inteligencia artificial.\nInterpretación: Correo transaccional de seguridad; de uso personal e inmediato, no requiere seguimiento.",
+    "source": "Correo: Anthropic",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-03T21:38:00.000Z",
+    "createdAt": "2026-09-03T22:00:48.891Z",
+    "updatedAt": "2026-09-03T22:00:48.891Z"
+  },
+  {
     "id": "email-6548-1788462305723",
     "title": "FW: Notas de Crédito - Waha negativo abril 2026 (6548)",
     "description": "Karen Pamela Santos coordina con Erika Huerta horario de reunión a las 4:30.\nObjeto: Revisar las notas de crédito de abril.\nInterpretación: Coordinación interna de agenda administrativa; seguimiento financiero.",
