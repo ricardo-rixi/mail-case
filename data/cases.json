@@ -1,5 +1,31 @@
 [
   {
+    "id": "email-6881",
+    "title": "FW: 🇲🇽 Orgullosamente mexicanos",
+    "description": "De: Kuatro\nObjeto: FW: 🇲🇽 Orgullosamente mexicanos\nInterpretación: Correo promocional por el Día de la Independencia de México.",
+    "source": "Correo: Kuatro",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-16 17:18+00:00",
+    "createdAt": "2026-09-16T22:00:44.726Z",
+    "updatedAt": "2026-09-16T22:00:44.731Z"
+  },
+  {
+    "id": "email-6870",
+    "title": "FW: Sandra Noemi  Castro Tostado envió un mensaje",
+    "description": "De: Sandra Noemi Castro Tostado (Teams)\nObjeto: FW: Sandra Noemi  Castro Tostado envió un mensaje\nInterpretación: Mensaje de Teams sobre los programas actualizados de CEC (EXP y COMP).",
+    "source": "Correo: Sandra Noemi Castro Tostado",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-15 22:25+00:00",
+    "createdAt": "2026-09-16T22:00:44.731Z",
+    "updatedAt": "2026-09-16T22:00:44.731Z"
+  },
+  {
     "id": "email-6871",
     "title": "FW: 🎄 Arma tu Navidad en USA",
     "description": "De: Ricardo Andrés Carmona Marcano\nObjeto: FW: 🎄 Arma tu Navidad en USA\nInterpretación: Correo nuevo, revisar para seguimiento o archivado.",
