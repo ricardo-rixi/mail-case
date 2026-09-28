@@ -43311,5 +43311,57 @@
     "receivedAt": "2026-09-28T17:01:21.036Z",
     "createdAt": "2026-09-28T17:01:21.036Z",
     "updatedAt": "2026-09-28T17:01:21.036Z"
+  },
+  {
+    "id": "email-7137",
+    "title": "FW: One on one Ricardo C.",
+    "description": "José Enrique Taracena Sanz propone reagendar la reunión One on one a las 10:00 am en lugar de las 11:30 am.\nObjeto: Coordinar horario de reunión.\nInterpretación: Solicitud de cambio de agenda interna; Ricardo debe confirmar disponibilidad.",
+    "source": "Correo: José Enrique Taracena Sanz",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-28T21:30:00.000Z",
+    "createdAt": "2026-09-28T22:00:00.000Z",
+    "updatedAt": "2026-09-28T22:00:00.000Z"
+  },
+  {
+    "id": "email-7136",
+    "title": "FW: Ricardo Carmona among The 10 Most Innovative Tech Minds Powering Business Growth in 2026",
+    "description": "Saraya Adams de CIO Views Magazine invita a Ricardo a participar en una edición especial de la revista por una tarifa de USD 1500.\nObjeto: Promocionar perfil profesional en revista (publirreportaje).\nInterpretación: Correo promocional comercial; se recomienda archivar o declinar.",
+    "source": "Correo: Saraya Adams",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-28T20:15:00.000Z",
+    "createdAt": "2026-09-28T22:00:00.000Z",
+    "updatedAt": "2026-09-28T22:00:00.000Z"
+  },
+  {
+    "id": "email-7135",
+    "title": "FW: Transferencia de Activos Natgas - Iberdrola",
+    "description": "Omar Isaac Gutiérrez de Grupo Cox comparte el oficio de respuesta de CENACE sobre la transferencia de activos.\nObjeto: Proveer la documentación requerida para el trámite de transferencia de activos.\nInterpretación: Seguimiento administrativo/técnico clave; requiere lectura del oficio para los siguientes pasos.",
+    "source": "Correo: Omar Isaac Gutiérrez Corral",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-28T20:13:00.000Z",
+    "createdAt": "2026-09-28T22:00:00.000Z",
+    "updatedAt": "2026-09-28T22:00:00.000Z"
+  },
+  {
+    "id": "email-7133",
+    "title": "FW: Consulta Tarifa CompraVenta Gas - Estación de Servicio Juriquilla y Ecatepec",
+    "description": "Erika Huerta de ENGIE envía la información sobre las tarifas de compraventa de gas de Juriquilla y Ecatepec, y un archivo adjunto.\nObjeto: Aclarar dudas sobre el desglose de tarifas y diferencias en el spread de la molécula.\nInterpretación: Resolución operativa a la consulta de Ricardo; requiere revisión para verificar la facturación.",
+    "source": "Correo: Erika Huerta",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-09-28T19:26:00.000Z",
+    "createdAt": "2026-09-28T22:00:00.000Z",
+    "updatedAt": "2026-09-28T22:00:00.000Z"
   }
 ]
