@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-7243",
+    "title": "TeamGantt 3.0 is here 🎉",
+    "description": "Who: John from TeamGantt\nWhat: Anuncio de la nueva versión de TeamGantt (3.0).\nWhom: Usuarios de TeamGantt\nObject: Informar sobre mejoras y nuevas funcionalidades de la plataforma.\nInterpretation: Boletín técnico/comercial externo; archivar.",
+    "source": "Correo: John from TeamGantt",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-10-08 03:45+00:00",
+    "createdAt": "2026-10-08T17:00:42.157Z",
+    "updatedAt": "2026-10-08T17:00:42.157Z"
+  },
+  {
+    "id": "email-7244",
+    "title": "Ricardo, aún estás a tiempo: suscríbete por 0,99 €",
+    "description": "Who: La Vanguardia\nWhat: Promoción de suscripción al diario por 0,99 €.\nWhom: Ricardo\nObject: Oferta comercial de último minuto.\nInterpretation: Correo publicitario externo; archivar.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-10-08 08:03+00:00",
+    "createdAt": "2026-10-08T17:00:42.156Z",
+    "updatedAt": "2026-10-08T17:00:42.156Z"
+  },
+  {
+    "id": "email-7245",
+    "title": "As regional power trading grows, where is the investment opportunity?",
+    "description": "Who: Zimbabwe-Zambia Energy Projects Summit\nWhat: Boletín de tendencias de inversión y energía en África.\nWhom: Suscriptores / Ricardo\nObject: Promocionar eventos y oportunidades del sector.\nInterpretation: Boletín informativo internacional externo; archivar o ignorar.",
+    "source": "Correo: Zimbabwe-Zambia Energy Projects Summit",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-10-08 05:03-06:00",
+    "createdAt": "2026-10-08T17:00:42.154Z",
+    "updatedAt": "2026-10-08T17:00:42.156Z"
+  },
+  {
     "id": "email-7242",
     "title": "Actualizaciones de los términos de uso y las políticas de Viki",
     "description": "Who: Rakuten Viki\nWhat: Actualizaciones de los términos de uso y políticas\nWhom: Usuarios\nObject: Informar sobre cambios legales en la plataforma.\nInterpretation: Notificación administrativa personal y externa; archivar.",
