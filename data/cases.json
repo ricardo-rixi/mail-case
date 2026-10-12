@@ -1,5 +1,44 @@
 [
   {
+    "id": "email-7249",
+    "title": "Has compartido algunos datos de tu cuenta de Google con PayPal",
+    "description": "Who: Google\nWhat: Notificación de seguridad sobre datos compartidos con PayPal.\nWhom: Ricardo\nObject: Alerta de vinculación de cuenta.\nInterpretation: Notificación automática de seguridad; archivar.",
+    "source": "Correo: Google",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-10-12 12:30-07:00",
+    "createdAt": "2026-10-12T22:00:58.406Z",
+    "updatedAt": "2026-10-12T22:00:58.414Z"
+  },
+  {
+    "id": "email-7248",
+    "title": "Is Transmission Holding Back Southern Africa’s Power Market?",
+    "description": "Who: Zimbabwe-Zambia Energy Projects Summit\nWhat: Boletín sobre el mercado eléctrico en el sur de África.\nWhom: Ricardo\nObject: Newsletter de industria energética.\nInterpretation: Correo informativo externo; archivar.",
+    "source": "Correo: Zimbabwe-Zambia Energy Projects Summit",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-10-11 05:07-06:00",
+    "createdAt": "2026-10-12T22:00:58.414Z",
+    "updatedAt": "2026-10-12T22:00:58.414Z"
+  },
+  {
+    "id": "email-7247",
+    "title": "¡ÚLTIMO DÍA! Suscríbete por 0,99 €",
+    "description": "Who: La Vanguardia\nWhat: Promoción de suscripción al diario.\nWhom: Ricardo\nObject: Oferta comercial.\nInterpretation: Correo publicitario externo; archivar.",
+    "source": "Correo: La Vanguardia",
+    "owner": "Ricardo",
+    "status": "notsure",
+    "dueDate": null,
+    "unansweredDays": 0,
+    "receivedAt": "2026-10-11 05:04+00:00",
+    "createdAt": "2026-10-12T22:00:58.414Z",
+    "updatedAt": "2026-10-12T22:00:58.414Z"
+  },
+  {
     "id": "email-7246",
     "title": "Las fechas que marcarán las elecciones, cómo acceder a la ayuda de 50.000 euros para vivienda, el futuro después de Trump y mucho más...",
     "description": "Who: La Vanguardia\nWhat: Boletín de noticias y promociones.\nWhom: Ricardo\nObject: Newsletter general y suscripciones.\nInterpretation: Correo publicitario/informativo externo; archivar.",
